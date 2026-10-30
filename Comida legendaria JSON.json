@@ -2550,6 +2550,150 @@
         "name": "ataque 1 bruja8",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "assets/nivel 3/Gemini_Generated_Image_e2ejge2ejge2ejge.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/nivel 3/Gemini_Generated_Image_e2ejge2ejge2ejge.jpg",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/nivel 3/fondo_nivel_3_continuacion.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/nivel 3/fondo_nivel_3_continuacion.jpg",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/nivel 3/Gemini_Generated_Image_8ifa9l8ifa9l8ifa.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/nivel 3/Gemini_Generated_Image_8ifa9l8ifa9l8ifa.jpg",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/nivel 3/Gemini_Generated_Image_8ifa9l8ifa9l8ifa (1).jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/nivel 3/Gemini_Generated_Image_8ifa9l8ifa9l8ifa (1).jpg",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/nivel 3/Gemini_Generated_Image_kptalrkptalrkpta (1).jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/nivel 3/Gemini_Generated_Image_kptalrkptalrkpta (1).jpg",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/flotando bola7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "flotando bola7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/flotando bola8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "flotando bola8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/flotando bola9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "flotando bola9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/flotando bola10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "flotando bola10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/flotando bola11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "flotando bola11",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/flotando bola12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "flotando bola12",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/colision a personaje.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colision a personaje",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/colision a personaje2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colision a personaje2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/colision a personaje3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colision a personaje3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/colision a personaje4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colision a personaje4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/colision a personaje5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colision a personaje5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/colision a personaje6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colision a personaje6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -18178,7 +18322,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.5583425095309171,
+        "zoomFactor": 1.6652100870933366,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -18188,48 +18332,17 @@
       "instances": [
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 268,
           "keepRatio": true,
           "layer": "",
           "name": "fondo_nivel3",
           "persistentUuid": "f707d432-12b0-4ab5-a2c1-72596d767d5a",
-          "width": 0,
+          "width": 2229,
           "x": -2,
-          "y": 3,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "vieja_bruja",
-          "persistentUuid": "02283bab-9ff2-4641-90c7-012bdd384827",
-          "width": 0,
-          "x": 503,
-          "y": 80,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 358,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "vieja_bruja",
-          "persistentUuid": "5f5017b9-f331-43e1-9966-9b34c86a7930",
-          "width": 0,
-          "x": 599,
-          "y": 38,
-          "zOrder": 1,
+          "y": 5,
+          "zOrder": -2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -18245,7 +18358,7 @@
           "width": 0,
           "x": 951,
           "y": 129,
-          "zOrder": 1,
+          "zOrder": 18,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -18261,7 +18374,7 @@
           "width": 0,
           "x": 840,
           "y": 145,
-          "zOrder": 1,
+          "zOrder": 18,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -18277,7 +18390,7 @@
           "width": 0,
           "x": 1066,
           "y": 125,
-          "zOrder": 1,
+          "zOrder": 18,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -18293,7 +18406,7 @@
           "width": 0,
           "x": 1183,
           "y": 127,
-          "zOrder": 1,
+          "zOrder": 18,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -18326,7 +18439,7 @@
           "width": 0,
           "x": 37,
           "y": 143,
-          "zOrder": 4,
+          "zOrder": 17,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -18454,8 +18567,8 @@
           "name": "cajon",
           "persistentUuid": "750cec1a-90e3-48dc-8690-de3f137138a2",
           "width": 0,
-          "x": 1368,
-          "y": 187,
+          "x": 1378,
+          "y": 186,
           "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
@@ -18508,6 +18621,108 @@
           "x": 731,
           "y": 176,
           "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 256,
+          "keepRatio": true,
+          "layer": "",
+          "name": "fondo_Nivel_3_continuacion",
+          "persistentUuid": "4182b6ae-1b63-4dd1-aa1c-3cddbdf503cb",
+          "width": 1372,
+          "x": 1803,
+          "y": 5,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 46,
+          "keepRatio": true,
+          "layer": "",
+          "name": "piso",
+          "persistentUuid": "f8a9258b-8b32-4371-b26b-5df788de0cf1",
+          "width": 506,
+          "x": 2129,
+          "y": 229,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 46,
+          "keepRatio": true,
+          "layer": "",
+          "name": "piso",
+          "persistentUuid": "a17f3e0c-025f-4d06-a81f-ee9aed247678",
+          "width": 275,
+          "x": 2617,
+          "y": 230,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 259,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewSprite3",
+          "persistentUuid": "36c02d04-0e5c-4043-a007-20bb7f46a45d",
+          "width": 518,
+          "x": 3072,
+          "y": 2,
+          "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 46,
+          "keepRatio": true,
+          "layer": "",
+          "name": "piso",
+          "persistentUuid": "3ee342ae-4a8d-4086-8fae-608ce8a32ba7",
+          "width": 398,
+          "x": 3218,
+          "y": 234,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "571ce30b-b005-4b5a-8668-aaf056deb0ce",
+          "width": 331,
+          "x": 2890,
+          "y": 261,
+          "zOrder": 16,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -20117,7 +20332,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "flotando bola",
+                      "image": "flotando bola7",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -20133,27 +20348,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 19
+                            "x": 1,
+                            "y": 9
                           },
                           {
-                            "x": 57,
-                            "y": 19
+                            "x": 28,
+                            "y": 9
                           },
                           {
-                            "x": 57,
-                            "y": 53
+                            "x": 28,
+                            "y": 26
                           },
                           {
-                            "x": 2,
-                            "y": 53
+                            "x": 1,
+                            "y": 26
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "flotando bola2",
+                      "image": "flotando bola8",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -20169,27 +20384,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 19
+                            "x": 1,
+                            "y": 9
                           },
                           {
-                            "x": 57,
-                            "y": 19
+                            "x": 28,
+                            "y": 9
                           },
                           {
-                            "x": 57,
-                            "y": 53
+                            "x": 28,
+                            "y": 26
                           },
                           {
-                            "x": 2,
-                            "y": 53
+                            "x": 1,
+                            "y": 26
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "flotando bola3",
+                      "image": "flotando bola9",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -20205,27 +20420,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 19
+                            "x": 1,
+                            "y": 9
                           },
                           {
-                            "x": 57,
-                            "y": 19
+                            "x": 28,
+                            "y": 9
                           },
                           {
-                            "x": 57,
-                            "y": 53
+                            "x": 28,
+                            "y": 26
                           },
                           {
-                            "x": 2,
-                            "y": 53
+                            "x": 1,
+                            "y": 26
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "flotando bola4",
+                      "image": "flotando bola10",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -20241,27 +20456,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 19
+                            "x": 1,
+                            "y": 9
                           },
                           {
-                            "x": 57,
-                            "y": 19
+                            "x": 28,
+                            "y": 9
                           },
                           {
-                            "x": 57,
-                            "y": 53
+                            "x": 28,
+                            "y": 26
                           },
                           {
-                            "x": 2,
-                            "y": 53
+                            "x": 1,
+                            "y": 26
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "flotando bola5",
+                      "image": "flotando bola11",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -20277,27 +20492,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 19
+                            "x": 1,
+                            "y": 9
                           },
                           {
-                            "x": 57,
-                            "y": 19
+                            "x": 28,
+                            "y": 9
                           },
                           {
-                            "x": 57,
-                            "y": 53
+                            "x": 28,
+                            "y": 26
                           },
                           {
-                            "x": 2,
-                            "y": 53
+                            "x": 1,
+                            "y": 26
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "flotando bola6",
+                      "image": "flotando bola12",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -20313,20 +20528,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 19
+                            "x": 1,
+                            "y": 9
                           },
                           {
-                            "x": 57,
-                            "y": 19
+                            "x": 28,
+                            "y": 9
                           },
                           {
-                            "x": 57,
-                            "y": 53
+                            "x": 28,
+                            "y": 26
                           },
                           {
-                            "x": 2,
-                            "y": 53
+                            "x": 1,
+                            "y": 26
                           }
                         ]
                       ]
@@ -20346,7 +20561,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "colision personaje",
+                      "image": "colision a personaje",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -20362,27 +20577,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 19
+                            "x": 1,
+                            "y": 9
                           },
                           {
-                            "x": 57,
-                            "y": 19
+                            "x": 28,
+                            "y": 9
                           },
                           {
-                            "x": 57,
-                            "y": 53
+                            "x": 28,
+                            "y": 26
                           },
                           {
-                            "x": 2,
-                            "y": 53
+                            "x": 1,
+                            "y": 26
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "colision personaje2",
+                      "image": "colision a personaje2",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -20398,27 +20613,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 19
+                            "x": 1,
+                            "y": 9
                           },
                           {
-                            "x": 57,
-                            "y": 19
+                            "x": 28,
+                            "y": 9
                           },
                           {
-                            "x": 57,
-                            "y": 53
+                            "x": 28,
+                            "y": 26
                           },
                           {
-                            "x": 2,
-                            "y": 53
+                            "x": 1,
+                            "y": 26
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "colision personaje3",
+                      "image": "colision a personaje3",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -20434,27 +20649,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 19
+                            "x": 1,
+                            "y": 9
                           },
                           {
-                            "x": 57,
-                            "y": 19
+                            "x": 28,
+                            "y": 9
                           },
                           {
-                            "x": 57,
-                            "y": 53
+                            "x": 28,
+                            "y": 26
                           },
                           {
-                            "x": 2,
-                            "y": 53
+                            "x": 1,
+                            "y": 26
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "colision personaje4",
+                      "image": "colision a personaje4",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -20470,27 +20685,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 19
+                            "x": 1,
+                            "y": 9
                           },
                           {
-                            "x": 57,
-                            "y": 19
+                            "x": 28,
+                            "y": 9
                           },
                           {
-                            "x": 57,
-                            "y": 53
+                            "x": 28,
+                            "y": 26
                           },
                           {
-                            "x": 2,
-                            "y": 53
+                            "x": 1,
+                            "y": 26
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "colision personaje5",
+                      "image": "colision a personaje5",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -20506,27 +20721,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 19
+                            "x": 1,
+                            "y": 9
                           },
                           {
-                            "x": 57,
-                            "y": 19
+                            "x": 28,
+                            "y": 9
                           },
                           {
-                            "x": 57,
-                            "y": 53
+                            "x": 28,
+                            "y": 26
                           },
                           {
-                            "x": 2,
-                            "y": 53
+                            "x": 1,
+                            "y": 26
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "colision personaje6",
+                      "image": "colision a personaje6",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -20542,20 +20757,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 19
+                            "x": 1,
+                            "y": 9
                           },
                           {
-                            "x": 57,
-                            "y": 19
+                            "x": 28,
+                            "y": 9
                           },
                           {
-                            "x": 57,
-                            "y": 53
+                            "x": 28,
+                            "y": 26
                           },
                           {
-                            "x": 2,
-                            "y": 53
+                            "x": 1,
+                            "y": 26
                           }
                         ]
                       ]
@@ -20990,6 +21205,170 @@
               "Index": 0
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "fondo_Nivel_3_continuacion",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/nivel 3/fondo_nivel_3_continuacion.jpg",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 5856,
+                            "y": 0
+                          },
+                          {
+                            "x": 5856,
+                            "y": 704
+                          },
+                          {
+                            "x": 0,
+                            "y": 704
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite3",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/nivel 3/Gemini_Generated_Image_kptalrkptalrkpta (1).jpg",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 2752,
+                            "y": 0
+                          },
+                          {
+                            "x": 2752,
+                            "y": 1536
+                          },
+                          {
+                            "x": 0,
+                            "y": 1536
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "New3DModel",
+          "type": "Scene3D::Model3DObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "centerLocation": "CenteredOnZ",
+            "crossfadeDuration": 0.10000000149011612,
+            "depth": 100,
+            "height": 100,
+            "isCastingShadow": true,
+            "isReceivingShadow": true,
+            "keepAspectRatio": true,
+            "materialType": "StandardWithoutMetalness",
+            "modelResourceName": "",
+            "originLocation": "ModelOrigin",
+            "rotationX": 90,
+            "rotationY": 0,
+            "rotationZ": 90,
+            "width": 100,
+            "animations": []
+          }
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "NewTiledSprite",
+          "texture": "NewTiledSprite",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -20997,6 +21376,12 @@
         "children": [
           {
             "objectName": "fondo_nivel3"
+          },
+          {
+            "objectName": "fondo_Nivel_3_continuacion"
+          },
+          {
+            "objectName": "NewSprite3"
           },
           {
             "objectName": "NewSprite"
@@ -21017,6 +21402,9 @@
             "objectName": "White1BitPixelBar"
           },
           {
+            "objectName": "NewTiledSprite"
+          },
+          {
             "objectName": "NewGrass"
           },
           {
@@ -21027,6 +21415,9 @@
           },
           {
             "objectName": "BotonPixel"
+          },
+          {
+            "objectName": "New3DModel"
           }
         ]
       },
