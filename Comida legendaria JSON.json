@@ -959,7 +959,7 @@
       {
         "file": "GOLPE 1/sprite_0.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"GOLPE 1/sprite_0.png\",\"extension\":\".png\"}",
         "name": "GOLPE 1/sprite_0.png",
         "smoothed": false,
         "userAdded": false
@@ -967,7 +967,7 @@
       {
         "file": "GOLPE 1/sprite_1.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"GOLPE 1/sprite_1.png\",\"extension\":\".png\"}",
         "name": "GOLPE 1/sprite_1.png",
         "smoothed": false,
         "userAdded": false
@@ -975,7 +975,7 @@
       {
         "file": "GOLPE 1/sprite_2.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"GOLPE 1/sprite_2.png\",\"extension\":\".png\"}",
         "name": "GOLPE 1/sprite_2.png",
         "smoothed": false,
         "userAdded": false
@@ -983,7 +983,7 @@
       {
         "file": "GOLPE 1/sprite_3.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"GOLPE 1/sprite_3.png\",\"extension\":\".png\"}",
         "name": "GOLPE 1/sprite_3.png",
         "smoothed": false,
         "userAdded": false
@@ -991,7 +991,7 @@
       {
         "file": "GOLPE 1/sprite_4.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"GOLPE 1/sprite_4.png\",\"extension\":\".png\"}",
         "name": "GOLPE 1/sprite_4.png",
         "smoothed": false,
         "userAdded": false
@@ -3425,6 +3425,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -18191,22 +18192,6 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "vieja_bruja",
-          "persistentUuid": "8fa63637-aefb-4cb4-8420-7932dd4e5a67",
-          "width": 0,
-          "x": 200,
-          "y": 143,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
           "name": "fondo_nivel3",
           "persistentUuid": "f707d432-12b0-4ab5-a2c1-72596d767d5a",
           "width": 0,
@@ -18224,26 +18209,10 @@
           "keepRatio": true,
           "layer": "",
           "name": "vieja_bruja",
-          "persistentUuid": "185a385b-6923-417b-a33a-bf3cb3748fa8",
-          "width": 0,
-          "x": 317,
-          "y": 96,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "vieja_bruja",
           "persistentUuid": "02283bab-9ff2-4641-90c7-012bdd384827",
           "width": 0,
-          "x": 442,
-          "y": 76,
+          "x": 503,
+          "y": 80,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -18333,14 +18302,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 74,
+          "height": 41,
           "keepRatio": true,
           "layer": "",
           "name": "piso",
           "persistentUuid": "45ffa066-255c-41f0-be78-e4dd839df531",
-          "width": 1643,
-          "x": -18,
-          "y": 195,
+          "width": 739,
+          "x": -4,
+          "y": 230,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -18409,6 +18378,139 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 41,
+          "keepRatio": true,
+          "layer": "",
+          "name": "piso",
+          "persistentUuid": "b024bd90-ac05-4ce5-9993-bb9296d844a9",
+          "width": 739,
+          "x": 713,
+          "y": 230,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 41,
+          "keepRatio": true,
+          "layer": "",
+          "name": "piso",
+          "persistentUuid": "66d0f5d6-ea37-4509-a09e-d91e3f450091",
+          "width": 739,
+          "x": 1434,
+          "y": 229,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "cajon",
+          "persistentUuid": "680d87e5-0ae4-4480-9350-36f10c0a20f1",
+          "width": 0,
+          "x": 1119,
+          "y": 189,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "cajon",
+          "persistentUuid": "479e8d9b-49c7-4b44-9490-df76ec0dcc32",
+          "width": 0,
+          "x": 1282,
+          "y": 194,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "cajon",
+          "persistentUuid": "750cec1a-90e3-48dc-8690-de3f137138a2",
+          "width": 0,
+          "x": 1368,
+          "y": 187,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 167,
+          "keepRatio": true,
+          "layer": "",
+          "name": "auto",
+          "persistentUuid": "5b100a75-fdf7-4316-86a3-b0af25e07b0e",
+          "width": 167,
+          "x": 1700,
+          "y": 113,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 213,
+          "keepRatio": true,
+          "layer": "",
+          "name": "pared",
+          "persistentUuid": "41244c5e-44e4-4fdc-9656-2354f6724fd2",
+          "width": 213,
+          "x": 1842,
+          "y": 78,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 92,
+          "keepRatio": true,
+          "layer": "",
+          "name": "pared",
+          "persistentUuid": "c49105d8-39c2-4c48-bd39-d7121d21557f",
+          "width": 92,
+          "x": 731,
+          "y": 176,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -18457,20 +18559,20 @@
               "PercentDamageReduction": 0
             },
             {
-              "ignoreDefaultControls": true,
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
-              "acceleration": 1500,
+              "acceleration": 1000,
+              "deceleration": 1000,
+              "ignoreDefaultControls": true,
+              "maxSpeed": 200,
               "canGoDownFromJumpthru": true,
               "canGrabPlatforms": false,
               "canGrabWithoutMoving": true,
-              "deceleration": 1500,
               "gravity": 1000,
               "jumpSpeed": 600,
               "jumpSustainTime": 0.2,
               "ladderClimbingSpeed": 150,
               "maxFallingSpeed": 700,
-              "maxSpeed": 250,
               "slopeMaxAngle": 60,
               "useLegacyTrajectory": false,
               "useRepeatedJump": false,
@@ -21479,16 +21581,111 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M5GYR06DJX3NNZ9KE1MSJF4B",
+          "aiGeneratedEventId": "01M65FASCCWA1DN6ZABX0SY306",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
               "type": {
-                "value": "KeyFromTextJustPressed"
+                "value": "SceneJustBegins"
               },
               "parameters": [
-                "",
-                "\"h\""
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ResetObjectTimer"
+              },
+              "parameters": [
+                "Dylan",
+                "\"ataqueJ\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetObjectTimer"
+              },
+              "parameters": [
+                "Dylan",
+                "\"ataqueK\""
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M65FASCCWA1DN6ZABX0SY306",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Or"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "value": "KeyFromTextJustPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"k\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "KeyFromTextJustPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"k\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": {
+                "value": "Distance"
+              },
+              "parameters": [
+                "Dylan",
+                "vieja_bruja",
+                "90",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "vieja_bruja",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "CompareObjectTimer"
+              },
+              "parameters": [
+                "Dylan",
+                "\"ataqueK\"",
+                ">",
+                "0.9"
               ]
             }
           ],
@@ -21498,9 +21695,9 @@
                 "value": "Health::Health::Hit"
               },
               "parameters": [
-                "Dylan",
+                "vieja_bruja",
                 "Health",
-                "25",
+                "40",
                 "no",
                 "no",
                 ""
@@ -21512,37 +21709,36 @@
               },
               "parameters": [
                 "Dylan",
-                "\"Golpe\""
+                "\"ataqueK\""
               ]
-            }
-          ]
-        },
-        {
-          "aiGeneratedEventId": "01M5GYJFDQNT8SGWR74C4KFJ7S",
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
+            },
             {
               "type": {
-                "value": "KeyFromTextJustPressed"
-              },
-              "parameters": [
-                "",
-                "\"k\""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Health::Health::Hit"
+                "value": "ResetObjectTimer"
               },
               "parameters": [
                 "Dylan",
-                "Health",
-                "200",
-                "no",
-                "no",
-                ""
+                "\"ataqueJ\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetObjectTimer"
+              },
+              "parameters": [
+                "vieja_bruja",
+                "\"muerte\""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Dylan",
+                "Animation",
+                "=",
+                "\"Golpes\""
               ]
             }
           ]
@@ -22318,7 +22514,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M65C1DSF86J2PYA8RNV4ZMCY",
+          "aiGeneratedEventId": "01M65FC80S54ZP52WSYYFVXP8G",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -22349,13 +22545,12 @@
             },
             {
               "type": {
-                "value": "CollisionNP"
+                "value": "Distance"
               },
               "parameters": [
                 "Dylan",
                 "vieja_bruja",
-                "",
-                "",
+                "95",
                 ""
               ]
             },
@@ -22379,6 +22574,17 @@
                 "Dylan",
                 "Health",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "CompareObjectTimer"
+              },
+              "parameters": [
+                "Dylan",
+                "\"ataqueJ\"",
+                ">",
+                "0.4"
               ]
             }
           ],
@@ -22401,8 +22607,499 @@
                 "value": "ResetObjectTimer"
               },
               "parameters": [
+                "Dylan",
+                "\"ataqueJ\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetObjectTimer"
+              },
+              "parameters": [
                 "vieja_bruja",
                 "\"muerte\""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Dylan",
+                "Animation",
+                "=",
+                "\"Golpes\""
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M65F2P6DHC9EP93Z6DZT832M",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "vieja_bruja",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::IsOnFloor"
+              },
+              "parameters": [
+                "vieja_bruja",
+                "PlatformerObject"
+              ]
+            },
+            {
+              "type": {
+                "value": "PosY"
+              },
+              "parameters": [
+                "Dylan",
+                "<",
+                "vieja_bruja.Y() - 40"
+              ]
+            },
+            {
+              "type": {
+                "value": "Distance"
+              },
+              "parameters": [
+                "vieja_bruja",
+                "Dylan",
+                "260",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::SimulateJumpKey"
+              },
+              "parameters": [
+                "vieja_bruja",
+                "PlatformerObject"
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M65F2P6DHC9EP93Z6DZT832M",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "vieja_bruja",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::IsOnFloor"
+              },
+              "parameters": [
+                "vieja_bruja",
+                "PlatformerObject"
+              ]
+            },
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "vieja_bruja",
+                "pared",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::SimulateJumpKey"
+              },
+              "parameters": [
+                "vieja_bruja",
+                "PlatformerObject"
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M65F31SFWHW5HHNHZ9JYXG9C",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "vieja_bruja",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Or"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsJumping"
+                  },
+                  "parameters": [
+                    "vieja_bruja",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsFalling"
+                  },
+                  "parameters": [
+                    "vieja_bruja",
+                    "PlatformerObject"
+                  ]
+                }
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "vieja_bruja",
+                "Animation",
+                "=",
+                "\"jump bruja\""
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M65F3JJ6P1E3PCBWJAD9FCQN",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "vieja_bruja",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Distance"
+              },
+              "parameters": [
+                "vieja_bruja",
+                "Dylan",
+                "350",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Distance"
+              },
+              "parameters": [
+                "vieja_bruja",
+                "Dylan",
+                "140",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "CompareObjectTimer"
+              },
+              "parameters": [
+                "vieja_bruja",
+                "\"disparo\"",
+                ">",
+                "2.5"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "bola_del_ataque_2_de_bruja",
+                "vieja_bruja.CenterX()",
+                "vieja_bruja.CenterY()",
+                "\"\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetObjectTimer"
+              },
+              "parameters": [
+                "bola_del_ataque_2_de_bruja",
+                "\"vida\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetObjectTimer"
+              },
+              "parameters": [
+                "vieja_bruja",
+                "\"disparo\""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "vieja_bruja",
+                "Animation",
+                "=",
+                "\"ataque 1 bruja\""
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M65F3JJ6P1E3PCBWJAD9FCQN",
+          "type": "BuiltinCommonInstructions::ForEach",
+          "object": "bola_del_ataque_2_de_bruja",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "AddForceTowardObject"
+              },
+              "parameters": [
+                "bola_del_ataque_2_de_bruja",
+                "Dylan",
+                "120",
+                "0"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CompareObjectTimer"
+                  },
+                  "parameters": [
+                    "bola_del_ataque_2_de_bruja",
+                    "\"vida\"",
+                    ">",
+                    "3"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "bola_del_ataque_2_de_bruja",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M65F3JJ6P1E3PCBWJAD9FCQN",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "bola_del_ataque_2_de_bruja",
+                "Dylan",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Health::Health::Hit"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                "8",
+                "no",
+                "no",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetObjectTimer"
+              },
+              "parameters": [
+                "Dylan",
+                "\"Golpe\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "bola_del_ataque_2_de_bruja",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M65F45JSSEW8TB1X9QRKK8NF",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SceneJustBegins"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::ForEach",
+              "object": "vieja_bruja",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "vieja_bruja",
+                    "\"disparo\""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M65FB6N5609HFC2N7Z7DZ08X",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Or"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "value": "CompareObjectTimer"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "\"ataqueJ\"",
+                    "<",
+                    "0.3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CompareObjectTimer"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "\"ataqueK\"",
+                    "<",
+                    "0.35"
+                  ]
+                }
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Dylan",
+                "Animation",
+                "=",
+                "\"Golpes\""
               ]
             }
           ]
@@ -22884,10 +23581,10 @@
       ]
     },
     {
-      "description": "Bruja enemiga: contacto dana y J la dana",
-      "lastRunAt": 1793329268711,
-      "lastRunDurationMs": 932,
-      "lastRunFramesExecuted": 244,
+      "description": "Health bruja, J/K Dylan y bola",
+      "lastRunAt": 1793332726428,
+      "lastRunDurationMs": 895,
+      "lastRunFramesExecuted": 152,
       "lastRunStatus": "passed",
       "name": "bruja-enemiga",
       "type": "gameplay",
@@ -22895,34 +23592,65 @@
         "await harness.goToScene('nivel 3');",
         "await harness.stepFrames(30);",
         "let brujas = harness.getObjects('vieja_bruja');",
-        "let dylan = harness.getObjects('Dylan');",
-        "harness.assert(brujas.length > 0, 'Hay brujas en nivel 3, count='+brujas.length);",
-        "harness.assert(dylan.length > 0, 'Dylan existe');",
-        "// Salud inicial",
-        "const hp0 = harness.getObjectVariable(brujas[0].id, 'Health');",
-        "// Mover Dylan a la derecha para probar persecucion",
-        "const x0 = brujas[0].x;",
-        "await harness.stepFrames(60);",
-        "// Forzar contacto: teletransportar Dylan junto a bruja",
-        "const b = harness.getObjects('vieja_bruja')[0];",
-        "const d = harness.getNearby('Dylan', 'vieja_bruja', 5000)[0];",
-        "if (d) {",
-        "  harness.setObjectPosition(d.id, b.centerX, b.centerY);",
-        "}",
-        "await harness.stepFrames(120);",
-        "const dylanHp = harness.getObjects('Dylan')[0];",
-        "const hpBeh = dylanHp.behaviors['Health'];",
-        "console.log('Dylan after contact: '+JSON.stringify(dylanHp.behaviors));",
-        "// Dylan ataca con J",
-        "const brujaAntes = harness.getObjects('vieja_bruja');",
-        "const nAntes = brujaAntes.length;",
+        "harness.assert(brujas.length>0, 'Hay brujas con Health');",
+        "let b0 = brujas[0];",
+        "console.log('Bruja HP beh='+JSON.stringify(b0.behaviors['Health'].state).slice(0,300));",
+        "harness.assert(b0.behaviors['Health']!==undefined, 'Bruja tiene Health');",
+        "// J ataque rapido",
+        "let d = harness.getNearby('Dylan','vieja_bruja',5000)[0];",
+        "let b = harness.getObjects('vieja_bruja')[0];",
+        "harness.setObjectPosition(d.id, b.centerX+40, b.centerY);",
+        "await harness.stepFrames(5);",
         "harness.setKeyPressed('j', true);",
         "await harness.stepFrames(3);",
         "harness.setKeyPressed('j', false);",
+        "await harness.stepFrames(20);",
+        "let bAfterJ = harness.getObjects('vieja_bruja').find(o=>o.id===b.id);",
+        "console.log('Tras J bruja HP='+JSON.stringify(bAfterJ.behaviors['Health'].state.PropertyCurrentHealth));",
+        "// K ataque fuerte",
+        "let b2 = harness.getObjects('vieja_bruja')[0];",
+        "let d2 = harness.getObjects('Dylan')[0];",
+        "harness.setObjectPosition(d2.id, b2.centerX+40, b2.centerY);",
         "await harness.stepFrames(30);",
-        "const brujaDesp = harness.getObjects('vieja_bruja');",
-        "console.log('Brujas antes='+nAntes+' despues='+brujaDesp.length);",
-        "harness.assert(true, 'Contacto y ataque ejecutados sin error');"
+        "harness.setKeyPressed('k', true);",
+        "await harness.stepFrames(3);",
+        "harness.setKeyPressed('k', false);",
+        "await harness.stepFrames(20);",
+        "let bAfterK = harness.getObjects('vieja_bruja').find(o=>o.id===b2.id);",
+        "console.log('Tras K bruja HP='+JSON.stringify(bAfterK.behaviors['Health'].state.PropertyCurrentHealth));",
+        "harness.assert(true, 'Ataques J y K sin error');",
+        "// Ranged: alejar y esperar bola",
+        "let bb = harness.getObjects('vieja_bruja')[0];",
+        "let dd = harness.getObjects('Dylan')[0];",
+        "harness.setObjectPosition(dd.id, bb.centerX+250, bb.centerY);",
+        "await harness.stepUntil(()=>harness.getObjects('bola_del_ataque_2_de_bruja').length>0, {maxFrames: 300});",
+        "let bolas = harness.getObjects('bola_del_ataque_2_de_bruja');",
+        "harness.assert(bolas.length>0, 'Bola creada ranged, count='+bolas.length);"
+      ]
+    },
+    {
+      "description": "J golpea bruja",
+      "lastRunAt": 1793332764740,
+      "lastRunDurationMs": 702,
+      "lastRunFramesExecuted": 46,
+      "lastRunStatus": "passed",
+      "name": "dylan-j-attack",
+      "type": "gameplay",
+      "source": [
+        "await harness.goToScene('nivel 3');",
+        "await harness.stepFrames(30);",
+        "let b = harness.getObjects('vieja_bruja')[0];",
+        "let d = harness.getNearby('Dylan','vieja_bruja',5000)[0];",
+        "harness.setObjectPosition(d.id, b.centerX+30, b.centerY);",
+        "await harness.stepFrames(2);",
+        "harness.setKeyPressed('j', true);",
+        "await harness.stepFrames(3);",
+        "harness.setKeyPressed('j', false);",
+        "await harness.stepFrames(10);",
+        "let bAfter = harness.getObjects('vieja_bruja').find(o=>o.id===b.id);",
+        "let hp = bAfter.behaviors['Health'].state.PropertyCurrentHealth;",
+        "console.log('Tras J HP='+hp);",
+        "harness.assert(hp<100, 'J dano a bruja, HP='+hp);"
       ]
     }
   ],
