@@ -1409,12 +1409,342 @@
         "metadata": "",
         "name": "Kenney Pixel.ttf",
         "userAdded": false
+      },
+      {
+        "file": "idle5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "idle5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "idle4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "idle4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../../../../Downloads/idle/idle3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../../../../Downloads/idle/idle3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../../../../Downloads/idle/idle2.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"../../../../Downloads/idle/idle2.png\",\"extension\":\".png\"}",
+        "name": "../../../../Downloads/idle/idle2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "idle6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "idle6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "idle7.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"idle7.png\",\"extension\":\".png\"}",
+        "name": "idle7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "idle8.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"idle8.png\",\"extension\":\".png\"}",
+        "name": "idle8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "idle9.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"idle9.png\",\"extension\":\".png\"}",
+        "name": "idle9.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../../../../Downloads/idle/idle5.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"../../../../Downloads/idle/idle5.png\",\"extension\":\".png\"}",
+        "name": "../../../../Downloads/idle/idle5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "run1.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"run1.png\",\"extension\":\".png\"}",
+        "name": "run1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "run2.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"run2.png\",\"extension\":\".png\"}",
+        "name": "run2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "run3.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"run3.png\",\"extension\":\".png\"}",
+        "name": "run3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "run4.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"run4.png\",\"extension\":\".png\"}",
+        "name": "run4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "run5.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"run5.png\",\"extension\":\".png\"}",
+        "name": "run5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "run6.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"run6.png\",\"extension\":\".png\"}",
+        "name": "run6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "run7.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"run7.png\",\"extension\":\".png\"}",
+        "name": "run7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "run8.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"run8.png\",\"extension\":\".png\"}",
+        "name": "run8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "golpe_rapido1.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"golpe_rapido1.png\",\"extension\":\".png\"}",
+        "name": "golpe_rapido1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "golpe_rapido2.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"golpe_rapido2.png\",\"extension\":\".png\"}",
+        "name": "golpe_rapido2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "golpe_rapido3.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"golpe_rapido3.png\",\"extension\":\".png\"}",
+        "name": "golpe_rapido3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "golpe_rapido4.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"golpe_rapido4.png\",\"extension\":\".png\"}",
+        "name": "golpe_rapido4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "golpe_rapido5.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"golpe_rapido5.png\",\"extension\":\".png\"}",
+        "name": "golpe_rapido5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "golpelargo1.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"golpelargo1.png\",\"extension\":\".png\"}",
+        "name": "golpelargo1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "golpelargo2.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"golpelargo2.png\",\"extension\":\".png\"}",
+        "name": "golpelargo2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "golpelargo3.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"golpelargo3.png\",\"extension\":\".png\"}",
+        "name": "golpelargo3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "golpelargo4.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"golpelargo4.png\",\"extension\":\".png\"}",
+        "name": "golpelargo4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "golpelargo5.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"golpelargo5.png\",\"extension\":\".png\"}",
+        "name": "golpelargo5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "golpelargo6.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"golpelargo6.png\",\"extension\":\".png\"}",
+        "name": "golpelargo6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "die1.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"die1.png\",\"extension\":\".png\"}",
+        "name": "die1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "die2.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"die2.png\",\"extension\":\".png\"}",
+        "name": "die2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "die3.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"die3.png\",\"extension\":\".png\"}",
+        "name": "die3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "die4.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"die4.png\",\"extension\":\".png\"}",
+        "name": "die4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "die5.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"die5.png\",\"extension\":\".png\"}",
+        "name": "die5.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
-  "objects": [],
+  "objects": [
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "NewSprite",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Paisaje urbano posapocalíptico al atardecer (1).png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 2172,
+                        "y": 0
+                      },
+                      {
+                        "x": 2172,
+                        "y": 442
+                      },
+                      {
+                        "x": 0,
+                        "y": 442
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "objectsFolderStructure": {
-    "folderName": "__ROOT"
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "objectName": "NewSprite"
+      }
+    ]
   },
   "objectsGroups": [],
   "variables": [],
@@ -1523,66 +1853,6 @@
         }
       ],
       "objects": [
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "NewSprite",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Paisaje urbano posapocalíptico al atardecer (1).png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 2172,
-                            "y": 0
-                          },
-                          {
-                            "x": 2172,
-                            "y": 442
-                          },
-                          {
-                            "x": 0,
-                            "y": 442
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "assetStoreId": "",
           "name": "NewVideo",
@@ -1758,9 +2028,6 @@
       "objectsFolderStructure": {
         "folderName": "__ROOT",
         "children": [
-          {
-            "objectName": "NewSprite"
-          },
           {
             "objectName": "NewVideo"
           },
@@ -5634,17 +5901,1239 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.4583333333333333,
+        "zoomFactor": 0.8027896525819892,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
       },
       "objectsGroups": [],
       "variables": [],
-      "instances": [],
-      "objects": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 269,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewSprite",
+          "persistentUuid": "fcfea8e6-5754-47b3-94ac-c978d5d276c9",
+          "width": 1800,
+          "x": 0,
+          "y": 1,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 107,
+          "keepRatio": true,
+          "layer": "",
+          "name": "idle",
+          "persistentUuid": "39598c09-c0de-43cc-b8f5-ef649d1c9969",
+          "width": 109,
+          "x": 223,
+          "y": 114,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "idle",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.12,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "../../../../Downloads/idle/idle2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22,
+                            "y": 13
+                          },
+                          {
+                            "x": 141,
+                            "y": 13
+                          },
+                          {
+                            "x": 141,
+                            "y": 139
+                          },
+                          {
+                            "x": 22,
+                            "y": 139
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "../../../../Downloads/idle/idle5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22,
+                            "y": 13
+                          },
+                          {
+                            "x": 141,
+                            "y": 13
+                          },
+                          {
+                            "x": 141,
+                            "y": 139
+                          },
+                          {
+                            "x": 22,
+                            "y": 139
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "idle7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22,
+                            "y": 13
+                          },
+                          {
+                            "x": 141,
+                            "y": 13
+                          },
+                          {
+                            "x": 141,
+                            "y": 139
+                          },
+                          {
+                            "x": 22,
+                            "y": 139
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "idle8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22,
+                            "y": 13
+                          },
+                          {
+                            "x": 141,
+                            "y": 13
+                          },
+                          {
+                            "x": 141,
+                            "y": 139
+                          },
+                          {
+                            "x": 22,
+                            "y": 139
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "idle9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22,
+                            "y": 13
+                          },
+                          {
+                            "x": 141,
+                            "y": 13
+                          },
+                          {
+                            "x": 141,
+                            "y": 139
+                          },
+                          {
+                            "x": 22,
+                            "y": 139
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "run",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "run",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.12,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "run1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 27,
+                            "y": 17
+                          },
+                          {
+                            "x": 151,
+                            "y": 17
+                          },
+                          {
+                            "x": 151,
+                            "y": 139
+                          },
+                          {
+                            "x": 27,
+                            "y": 139
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "run2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 27,
+                            "y": 17
+                          },
+                          {
+                            "x": 151,
+                            "y": 17
+                          },
+                          {
+                            "x": 151,
+                            "y": 139
+                          },
+                          {
+                            "x": 27,
+                            "y": 139
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "run3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 27,
+                            "y": 17
+                          },
+                          {
+                            "x": 151,
+                            "y": 17
+                          },
+                          {
+                            "x": 151,
+                            "y": 139
+                          },
+                          {
+                            "x": 27,
+                            "y": 139
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "run4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 27,
+                            "y": 17
+                          },
+                          {
+                            "x": 151,
+                            "y": 17
+                          },
+                          {
+                            "x": 151,
+                            "y": 139
+                          },
+                          {
+                            "x": 27,
+                            "y": 139
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "run5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 27,
+                            "y": 17
+                          },
+                          {
+                            "x": 151,
+                            "y": 17
+                          },
+                          {
+                            "x": 151,
+                            "y": 139
+                          },
+                          {
+                            "x": 27,
+                            "y": 139
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "run6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 27,
+                            "y": 17
+                          },
+                          {
+                            "x": 151,
+                            "y": 17
+                          },
+                          {
+                            "x": 151,
+                            "y": 139
+                          },
+                          {
+                            "x": 27,
+                            "y": 139
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "run7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 27,
+                            "y": 17
+                          },
+                          {
+                            "x": 151,
+                            "y": 17
+                          },
+                          {
+                            "x": 151,
+                            "y": 139
+                          },
+                          {
+                            "x": 27,
+                            "y": 139
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "run8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 27,
+                            "y": 17
+                          },
+                          {
+                            "x": 151,
+                            "y": 17
+                          },
+                          {
+                            "x": 151,
+                            "y": 139
+                          },
+                          {
+                            "x": 27,
+                            "y": 139
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "golpe_rapido",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "golpe_rapido",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.12,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "golpe_rapido1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 28,
+                            "y": 22
+                          },
+                          {
+                            "x": 149,
+                            "y": 22
+                          },
+                          {
+                            "x": 149,
+                            "y": 140
+                          },
+                          {
+                            "x": 28,
+                            "y": 140
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "golpe_rapido2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 28,
+                            "y": 22
+                          },
+                          {
+                            "x": 149,
+                            "y": 22
+                          },
+                          {
+                            "x": 149,
+                            "y": 140
+                          },
+                          {
+                            "x": 28,
+                            "y": 140
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "golpe_rapido3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 28,
+                            "y": 22
+                          },
+                          {
+                            "x": 149,
+                            "y": 22
+                          },
+                          {
+                            "x": 149,
+                            "y": 140
+                          },
+                          {
+                            "x": 28,
+                            "y": 140
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "golpe_rapido4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 28,
+                            "y": 22
+                          },
+                          {
+                            "x": 149,
+                            "y": 22
+                          },
+                          {
+                            "x": 149,
+                            "y": 140
+                          },
+                          {
+                            "x": 28,
+                            "y": 140
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "golpe_rapido5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 28,
+                            "y": 22
+                          },
+                          {
+                            "x": 149,
+                            "y": 22
+                          },
+                          {
+                            "x": 149,
+                            "y": 140
+                          },
+                          {
+                            "x": 28,
+                            "y": 140
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "golpe_largo",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "golpe_largo",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.12,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "golpelargo1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 36,
+                            "y": 19
+                          },
+                          {
+                            "x": 172,
+                            "y": 19
+                          },
+                          {
+                            "x": 172,
+                            "y": 138
+                          },
+                          {
+                            "x": 36,
+                            "y": 138
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "golpelargo2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 36,
+                            "y": 19
+                          },
+                          {
+                            "x": 172,
+                            "y": 19
+                          },
+                          {
+                            "x": 172,
+                            "y": 138
+                          },
+                          {
+                            "x": 36,
+                            "y": 138
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "golpelargo3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 36,
+                            "y": 19
+                          },
+                          {
+                            "x": 172,
+                            "y": 19
+                          },
+                          {
+                            "x": 172,
+                            "y": 138
+                          },
+                          {
+                            "x": 36,
+                            "y": 138
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "golpelargo4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 36,
+                            "y": 19
+                          },
+                          {
+                            "x": 172,
+                            "y": 19
+                          },
+                          {
+                            "x": 172,
+                            "y": 138
+                          },
+                          {
+                            "x": 36,
+                            "y": 138
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "golpelargo5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 36,
+                            "y": 19
+                          },
+                          {
+                            "x": 172,
+                            "y": 19
+                          },
+                          {
+                            "x": 172,
+                            "y": 138
+                          },
+                          {
+                            "x": 36,
+                            "y": 138
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "golpelargo6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 36,
+                            "y": 19
+                          },
+                          {
+                            "x": 172,
+                            "y": 19
+                          },
+                          {
+                            "x": 172,
+                            "y": 138
+                          },
+                          {
+                            "x": 36,
+                            "y": 138
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "die",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "die",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.12,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "die1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 33,
+                            "y": 9
+                          },
+                          {
+                            "x": 154,
+                            "y": 9
+                          },
+                          {
+                            "x": 154,
+                            "y": 111
+                          },
+                          {
+                            "x": 33,
+                            "y": 111
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "die2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 33,
+                            "y": 9
+                          },
+                          {
+                            "x": 154,
+                            "y": 9
+                          },
+                          {
+                            "x": 154,
+                            "y": 111
+                          },
+                          {
+                            "x": 33,
+                            "y": 111
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "die3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 33,
+                            "y": 9
+                          },
+                          {
+                            "x": 154,
+                            "y": 9
+                          },
+                          {
+                            "x": 154,
+                            "y": 111
+                          },
+                          {
+                            "x": 33,
+                            "y": 111
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "die4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 33,
+                            "y": 9
+                          },
+                          {
+                            "x": 154,
+                            "y": 9
+                          },
+                          {
+                            "x": 154,
+                            "y": 111
+                          },
+                          {
+                            "x": 33,
+                            "y": 111
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "die5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 33,
+                            "y": 9
+                          },
+                          {
+                            "x": 154,
+                            "y": 9
+                          },
+                          {
+                            "x": 154,
+                            "y": 111
+                          },
+                          {
+                            "x": 33,
+                            "y": 111
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
       "objectsFolderStructure": {
-        "folderName": "__ROOT"
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "idle"
+          },
+          {
+            "objectName": "die"
+          },
+          {
+            "objectName": "run"
+          },
+          {
+            "objectName": "golpe_rapido"
+          },
+          {
+            "objectName": "golpe_largo"
+          }
+        ]
       },
       "events": [
         {
@@ -5720,7 +7209,32 @@
           ]
         }
       ],
-      "behaviorsSharedData": []
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        }
+      ]
     }
   ],
   "externalEvents": [],
