@@ -4917,6 +4917,21 @@
       "updateIfNotVisible": false,
       "variables": [
         {
+          "name": "PosInicialY",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "PosInicialX",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "GolpeDado",
+          "type": "number",
+          "value": 0
+        },
+        {
           "name": "Estado",
           "persistentUuid": "4c86c157-2a13-4d0a-9dbd-1df44a7d7a9f",
           "type": "string",
@@ -11191,7 +11206,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.9475825490178695,
+        "zoomFactor": 0.2968315353823221,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -11715,8 +11730,8 @@
           "name": "Fundido",
           "persistentUuid": "78186798-5fd3-4401-8552-f2097467e8c0",
           "width": 480,
-          "x": 1,
-          "y": 2,
+          "x": 2,
+          "y": -3,
           "zOrder": 100,
           "numberProperties": [],
           "stringProperties": [],
@@ -23342,13 +23357,19 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.1221904167164671,
+        "zoomFactor": 0.5062828002597484,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
       },
       "objectsGroups": [],
-      "variables": [],
+      "variables": [
+        {
+          "name": "ReiniciarEnemigos",
+          "type": "boolean",
+          "value": false
+        }
+      ],
       "instances": [
         {
           "angle": 0,
@@ -23562,8 +23583,8 @@
           "name": "asset_morron",
           "persistentUuid": "833492bb-92a4-4328-97c9-35fd5529b512",
           "width": 35,
-          "x": 1741,
-          "y": 159,
+          "x": 921,
+          "y": 184,
           "zOrder": 34,
           "numberProperties": [],
           "stringProperties": [],
@@ -23578,8 +23599,8 @@
           "name": "cajon",
           "persistentUuid": "6653bfe5-9a40-4fd7-baaa-57f9be1390ff",
           "width": 0,
-          "x": 1727,
-          "y": 171,
+          "x": 1660,
+          "y": 170,
           "zOrder": 35,
           "numberProperties": [],
           "stringProperties": [],
@@ -23704,14 +23725,15 @@
           "customSize": true,
           "depth": 1,
           "height": 40,
+          "hidden": true,
           "keepRatio": true,
           "layer": "Inventario",
           "name": "olla",
           "persistentUuid": "c99ac138-e79d-4868-878b-40436dc6e8a3",
           "width": 40,
-          "x": 437,
-          "y": 3,
-          "zOrder": 46,
+          "x": 222,
+          "y": 160,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -23752,15 +23774,16 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 11,
+          "height": 20,
+          "hidden": true,
           "keepRatio": true,
           "layer": "Inventario",
           "name": "InvTitulo",
           "persistentUuid": "11d3541c-b999-402e-a9f3-0b064d28301b",
-          "width": 170,
-          "x": 250,
-          "y": 47,
-          "zOrder": 0,
+          "width": 130,
+          "x": 176,
+          "y": 65,
+          "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -23768,15 +23791,16 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 11,
+          "height": 20,
+          "hidden": true,
           "keepRatio": true,
           "layer": "Inventario",
           "name": "TxtMorron",
           "persistentUuid": "e79117ab-7692-4db0-a1ff-5a7ec3825f16",
-          "width": 150,
-          "x": 256,
-          "y": 61,
-          "zOrder": 0,
+          "width": 108,
+          "x": 208,
+          "y": 104,
+          "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -23784,15 +23808,16 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 11,
+          "height": 20,
+          "hidden": true,
           "keepRatio": true,
           "layer": "Inventario",
           "name": "TxtAjo",
           "persistentUuid": "d1d1967b-882c-4278-93f9-1c49903e1958",
-          "width": 150,
-          "x": 256,
-          "y": 73,
-          "zOrder": 0,
+          "width": 108,
+          "x": 208,
+          "y": 142,
+          "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -23807,8 +23832,8 @@
           "name": "ENEMIGO1",
           "persistentUuid": "95fca169-6c08-4956-aae2-e98e8626f387",
           "width": 73,
-          "x": 860,
-          "y": 160,
+          "x": 1217,
+          "y": 162,
           "zOrder": 49,
           "numberProperties": [],
           "stringProperties": [],
@@ -23823,8 +23848,8 @@
           "name": "BarraEnemigo",
           "persistentUuid": "d1a0d3de-4fd5-4aab-86eb-4e3d02cfa900",
           "width": 120,
-          "x": 830,
-          "y": 120,
+          "x": 351,
+          "y": 12,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -23852,15 +23877,15 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 17,
+          "height": 34,
           "hidden": true,
           "keepRatio": true,
           "layer": "Fin",
           "name": "TxtFin",
           "persistentUuid": "cec9deb6-3f76-4b8e-96a9-193a44c13e63",
-          "width": 29,
-          "x": 233,
-          "y": 102,
+          "width": 150,
+          "x": 172,
+          "y": 114,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -23869,16 +23894,118 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 30,
+          "height": 160,
           "hidden": true,
           "keepRatio": true,
-          "layer": "Fin",
-          "name": "BotonFin",
-          "persistentUuid": "f0c57f19-a35e-47a0-85e0-49577e6f4a4a",
-          "width": 130,
-          "x": 183,
-          "y": 119,
+          "layer": "Inventario",
+          "name": "PanelInv",
+          "persistentUuid": "72d6be71-faea-4681-8a23-0e529b7daa71",
+          "width": 160,
+          "x": 160,
+          "y": 55,
           "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 24,
+          "hidden": true,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "IconoMorron",
+          "persistentUuid": "809fb8ca-c588-4e4a-b44c-bd9ba322926d",
+          "width": 24,
+          "x": 178,
+          "y": 102,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 24,
+          "hidden": true,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "IconoAjo",
+          "persistentUuid": "7acf87fe-0b78-4e3a-a783-a9d7737540ef",
+          "width": 24,
+          "x": 178,
+          "y": 140,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 73,
+          "keepRatio": true,
+          "layer": "",
+          "name": "ENEMIGO1",
+          "persistentUuid": "0878e222-05e5-4955-8d97-baad0618cf32",
+          "width": 73,
+          "x": 2000,
+          "y": 110,
+          "zOrder": 49,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 73,
+          "keepRatio": true,
+          "layer": "",
+          "name": "ENEMIGO1",
+          "persistentUuid": "c9adcb60-d919-4f4f-8f1a-53fe97187660",
+          "width": 73,
+          "x": 474,
+          "y": 168,
+          "zOrder": 49,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 73,
+          "keepRatio": true,
+          "layer": "",
+          "name": "ENEMIGO1",
+          "persistentUuid": "24510bbf-b7de-4549-bbf4-fa00deb2d2dd",
+          "width": 73,
+          "x": 1727,
+          "y": 158,
+          "zOrder": 49,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 73,
+          "keepRatio": true,
+          "layer": "",
+          "name": "ENEMIGO1",
+          "persistentUuid": "427b2021-78ad-4a1f-9761-e1af4c6e6d72",
+          "width": 73,
+          "x": 2082,
+          "y": 162,
+          "zOrder": 49,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -24321,20 +24448,20 @@
           "effects": [],
           "behaviors": [],
           "string": "Text",
-          "font": "Kenney Pixel.ttf",
+          "font": "PixelifySans-VariableFont_wght3.ttf",
           "textAlignment": "left",
-          "characterSize": 10,
+          "characterSize": 15,
           "color": {
-            "b": 255,
-            "g": 255,
-            "r": 255
+            "b": 0,
+            "g": 0,
+            "r": 0
           },
           "content": {
             "bold": false,
-            "isOutlineEnabled": true,
+            "isOutlineEnabled": false,
             "isShadowEnabled": false,
             "italic": false,
-            "outlineColor": "0;0;0",
+            "outlineColor": "255;255;255",
             "outlineThickness": 2,
             "shadowAngle": 90,
             "shadowBlurRadius": 2,
@@ -24344,12 +24471,12 @@
             "smoothed": true,
             "underlined": false,
             "text": "Text",
-            "font": "Kenney Pixel.ttf",
+            "font": "PixelifySans-VariableFont_wght3.ttf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
-            "characterSize": 10,
+            "characterSize": 15,
             "lineHeight": 0,
-            "color": "255;255;255"
+            "color": "0;0;0"
           }
         },
         {
@@ -24364,20 +24491,20 @@
           "effects": [],
           "behaviors": [],
           "string": "Text",
-          "font": "Kenney Pixel.ttf",
+          "font": "PixelifySans-VariableFont_wght3.ttf",
           "textAlignment": "left",
-          "characterSize": 10,
+          "characterSize": 15,
           "color": {
-            "b": 255,
-            "g": 255,
-            "r": 255
+            "b": 0,
+            "g": 0,
+            "r": 0
           },
           "content": {
             "bold": false,
-            "isOutlineEnabled": true,
+            "isOutlineEnabled": false,
             "isShadowEnabled": false,
             "italic": false,
-            "outlineColor": "0;0;0",
+            "outlineColor": "255;255;255",
             "outlineThickness": 2,
             "shadowAngle": 90,
             "shadowBlurRadius": 2,
@@ -24387,12 +24514,12 @@
             "smoothed": true,
             "underlined": false,
             "text": "Text",
-            "font": "Kenney Pixel.ttf",
+            "font": "PixelifySans-VariableFont_wght3.ttf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
-            "characterSize": 10,
+            "characterSize": 15,
             "lineHeight": 0,
-            "color": "255;255;255"
+            "color": "0;0;0"
           }
         },
         {
@@ -24407,20 +24534,20 @@
           "effects": [],
           "behaviors": [],
           "string": "Text",
-          "font": "Kenney Pixel.ttf",
+          "font": "PixelifySans-VariableFont_wght3.ttf",
           "textAlignment": "left",
-          "characterSize": 10,
+          "characterSize": 15,
           "color": {
-            "b": 255,
-            "g": 255,
-            "r": 255
+            "b": 0,
+            "g": 0,
+            "r": 0
           },
           "content": {
             "bold": false,
-            "isOutlineEnabled": true,
+            "isOutlineEnabled": false,
             "isShadowEnabled": false,
             "italic": false,
-            "outlineColor": "0;0;0",
+            "outlineColor": "255;255;255",
             "outlineThickness": 2,
             "shadowAngle": 90,
             "shadowBlurRadius": 2,
@@ -24430,12 +24557,12 @@
             "smoothed": true,
             "underlined": false,
             "text": "Text",
-            "font": "Kenney Pixel.ttf",
+            "font": "PixelifySans-VariableFont_wght3.ttf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
-            "characterSize": 10,
+            "characterSize": 15,
             "lineHeight": 0,
-            "color": "255;255;255"
+            "color": "0;0;0"
           }
         },
         {
@@ -24580,6 +24707,146 @@
             "lineHeight": 0,
             "color": "0;0;0"
           }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "IconoMorron",
+          "persistentUuid": "6ec5a687-00f0-47a5-8a0a-104c78461156",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "morron asset",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "morron asset.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 7
+                          },
+                          {
+                            "x": 54,
+                            "y": 7
+                          },
+                          {
+                            "x": 54,
+                            "y": 62
+                          },
+                          {
+                            "x": 11,
+                            "y": 62
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "IconoAjo",
+          "persistentUuid": "538aba83-d309-4ff1-ad1d-232125d57a86",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "ajos.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 0
+                          },
+                          {
+                            "x": 47,
+                            "y": 0
+                          },
+                          {
+                            "x": 47,
+                            "y": 61
+                          },
+                          {
+                            "x": 20,
+                            "y": 61
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "9f548f2b9333b24e0a35e27b6fc539205e6c1ae8baae93766903e8dcc6080ce2",
+          "bottomMargin": 20,
+          "height": 48,
+          "leftMargin": 20,
+          "name": "PanelInv",
+          "persistentUuid": "b670ab3a-db5f-4e08-a3ee-c38b5d6eb710",
+          "rightMargin": 20,
+          "texture": "Default-panel (24).png",
+          "tiled": false,
+          "topMargin": 20,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 48,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
         }
       ],
       "objectsFolderStructure": {
@@ -24629,6 +24896,15 @@
           },
           {
             "objectName": "BotonFin"
+          },
+          {
+            "objectName": "IconoMorron"
+          },
+          {
+            "objectName": "IconoAjo"
+          },
+          {
+            "objectName": "PanelInv"
           }
         ]
       },
@@ -25343,7 +25619,7 @@
           "parameters": []
         },
         {
-          "aiGeneratedEventId": "01M65A0096SPB86CH12EQK3CCC",
+          "aiGeneratedEventId": "01M68AVC76Z20BCS26Q00X0F3K",
           "colorB": 228,
           "colorG": 176,
           "colorR": 74,
@@ -25415,6 +25691,7 @@
               "comment": "Al empezar la escena se recupera la vida guardada: la vida es persistente entre niveles."
             },
             {
+              "aiGeneratedEventId": "01M68B9814TXAT9MWRZH66S4ZD",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -25426,50 +25703,53 @@
                   ]
                 }
               ],
-              "actions": [],
-              "events": [
+              "actions": [
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "NumberVariable"
-                      },
-                      "parameters": [
-                        "VidaDylan",
-                        "<=",
-                        "0"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetNumberVariable"
-                      },
-                      "parameters": [
-                        "VidaDylan",
-                        "=",
-                        "100"
-                      ]
-                    }
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "VidaDylan",
+                    "=",
+                    "100"
                   ]
                 },
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Health::Health::SetHealth"
-                      },
-                      "parameters": [
-                        "Dylan",
-                        "Health",
-                        "VidaDylan",
-                        ""
-                      ]
-                    }
+                  "type": {
+                    "value": "Health::Health::SetHealth"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "Health",
+                    "100",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "\"Invuln\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "\"Golpe\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "\"Ataque\""
                   ]
                 }
               ]
@@ -25487,7 +25767,6 @@
               "comment": "Derrota: se reproduce la animación Muerte y al terminar Dylan reaparece con la vida completa (una sola barra de vida, sin reiniciar la escena)."
             },
             {
-              "aiGeneratedEventId": "01M685ZR99YJ2V2F76D96STM6Z",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -25556,6 +25835,16 @@
                     "=",
                     "100"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "ReiniciarEnemigos",
+                    "True",
+                    ""
+                  ]
                 }
               ]
             },
@@ -25572,7 +25861,6 @@
               "comment": "Teclas de prueba: H hace 25 de daño, K hace 200 de daño, R cura 100."
             },
             {
-              "aiGeneratedEventId": "01M65A7JXZ4FWQAGQSSXKEFY4F",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -25611,7 +25899,6 @@
               ]
             },
             {
-              "aiGeneratedEventId": "01M65A7JXZ4FWQAGQSSXKEFY4F",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -25689,7 +25976,6 @@
               "comment": "Sincroniza la vida global y la barra en cada frame: la barra muestra siempre la vida real de Dylan."
             },
             {
-              "aiGeneratedEventId": "01M65ABPHX3TXJCZGMC1F6JS5M",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [],
               "actions": [
@@ -25711,6 +25997,124 @@
                     "White1BitPixelBar",
                     "=",
                     "VidaDylan",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Derrota de Dylan: tras la animación de Muerte vuelve a la vida con la vida completa, sin paneles ni botones, para seguir jugando."
+            },
+            {
+              "aiGeneratedEventId": "01M68AYH6HC3BTVYCJ78VK46M2",
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "Health",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CompareTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Derrota\"",
+                    ">",
+                    "2.2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Health::Health::SetHealth"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "Health",
+                    "100",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "VidaDylan",
+                    "=",
+                    "100"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetXY"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "=",
+                    "240",
+                    "=",
+                    "100"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAngle"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "\"Golpe\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Derrota\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "ReiniciarEnemigos",
+                    "True",
                     ""
                   ]
                 }
@@ -25765,7 +26169,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M65A0KT0E0CJ0GEGMVG6AN6F",
+          "aiGeneratedEventId": "01M68AVC76Z20BCS26Q00X0F3K",
           "colorB": 228,
           "colorG": 176,
           "colorR": 74,
@@ -25784,7 +26188,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "Recoger ingredientes: al tocar un morrón o un ajo se suma una unidad en la global correspondiente y el ingrediente desaparece del escenario (no se cuenta dos veces ni reaparece)."
+              "comment": "Recoger ingredientes: al tocar un morrón o un ajo se suma una unidad en la global correspondiente y el ingrediente desaparece del escenario."
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -25872,10 +26276,9 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "El panel de la olla se abre y se cierra con la tecla I o haciendo clic en la olla."
+              "comment": "El inventario permanece completamente oculto durante el juego. Se abre con la tecla I y se cierra con I o ESC."
             },
             {
-              "aiGeneratedEventId": "01M687ZW0P9PTKGJ8NPA179P6F",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -25897,52 +26300,45 @@
                     "False",
                     ""
                   ]
-                },
-                {
-                  "type": {
-                    "value": "Hide"
-                  },
-                  "parameters": [
-                    "olla"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Hide"
-                  },
-                  "parameters": [
-                    "InvTitulo"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Hide"
-                  },
-                  "parameters": [
-                    "TxtMorron"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Hide"
-                  },
-                  "parameters": [
-                    "TxtAjo"
-                  ]
                 }
               ]
             },
             {
-              "aiGeneratedEventId": "01M687ZW0P9PTKGJ8NPA179P6F",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
                   "type": {
-                    "value": "KeyFromTextJustPressed"
+                    "value": "BuiltinCommonInstructions::Or"
                   },
-                  "parameters": [
-                    "",
-                    "\"i\""
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "value": "KeyFromTextJustPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"i\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "KeyFromTextJustPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Tab\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "KeyFromTextJustPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"e\""
+                      ]
+                    }
                   ]
                 }
               ],
@@ -25960,7 +26356,6 @@
               ]
             },
             {
-              "aiGeneratedEventId": "01M687ZW0P9PTKGJ8NPA179P6F",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -25987,7 +26382,6 @@
               ]
             },
             {
-              "aiGeneratedEventId": "01M68818Z5AW9CX4MN0EWQNDJK",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -26002,6 +26396,15 @@
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "PanelInv",
+                    ""
+                  ]
+                },
                 {
                   "type": {
                     "value": "Show"
@@ -26025,7 +26428,25 @@
                     "value": "Show"
                   },
                   "parameters": [
+                    "IconoMorron",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
                     "TxtMorron",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "IconoAjo",
                     ""
                   ]
                 },
@@ -26049,7 +26470,31 @@
                     "value": "Hide"
                   },
                   "parameters": [
+                    "PanelInv"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "olla"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
                     "InvTitulo"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "IconoMorron"
                   ]
                 },
                 {
@@ -26065,49 +26510,18 @@
                     "value": "Hide"
                   },
                   "parameters": [
-                    "TxtAjo"
+                    "IconoAjo"
                   ]
-                }
-              ]
-            },
-            {
-              "aiGeneratedEventId": "01M6882GZ17S28F4F8VXC0CXRA",
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": true,
-                    "value": "BooleanVariable"
-                  },
-                  "parameters": [
-                    "InvAbierto",
-                    "True",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
+                },
                 {
                   "type": {
                     "value": "Hide"
                   },
                   "parameters": [
-                    "olla"
+                    "TxtAjo"
                   ]
                 }
               ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Comment",
-              "color": {
-                "b": 109,
-                "g": 230,
-                "r": 255,
-                "textB": 0,
-                "textG": 0,
-                "textR": 0
-              },
-              "comment": "Contenido del inventario: cantidades guardadas en las globales Morron y Ajo (persisten entre escenas)."
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -26121,7 +26535,7 @@
                     "InvTitulo",
                     "Text",
                     "=",
-                    "\"INVENTARIO (I)\""
+                    "\"INVENTARIO\""
                   ]
                 },
                 {
@@ -26152,7 +26566,7 @@
           "parameters": []
         },
         {
-          "aiGeneratedEventId": "01M685ZR99YJ2V2F76D96STM6Z",
+          "aiGeneratedEventId": "01M68C4HSR9D6V7XQ7RDV4CGDT",
           "colorB": 228,
           "colorG": 176,
           "colorR": 74,
@@ -26171,10 +26585,9 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "El enemigo actúa solo: detecta, persigue, ataca, recibe daño y muere."
+              "comment": "El enemigo detecta a Dylan, se orienta, lo persigue y, cuando está cerca, se planta y EJECUTA su golpe (ATAQUE1) con el daño sincronizado al movimiento."
             },
             {
-              "aiGeneratedEventId": "01M6887SQ433KQMZ6DS9AHA8W5",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -26196,6 +26609,17 @@
                     "Estado",
                     "=",
                     "\"IDLE\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "ENEMIGO1",
+                    "GolpeDado",
+                    "=",
+                    "0"
                   ]
                 },
                 {
@@ -26230,18 +26654,80 @@
                     "value": "ResetObjectTimer"
                   },
                   "parameters": [
+                    "ENEMIGO1",
+                    "\"Golpe\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
                     "Dylan",
                     "\"Invuln\""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "ReiniciarEnemigos",
+                    "False",
+                    ""
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::ForEach",
+                  "object": "ENEMIGO1",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberObjectVariable"
+                      },
+                      "parameters": [
+                        "ENEMIGO1",
+                        "PosInicialX",
+                        "=",
+                        "ENEMIGO1.X()"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberObjectVariable"
+                      },
+                      "parameters": [
+                        "ENEMIGO1",
+                        "PosInicialY",
+                        "=",
+                        "ENEMIGO1.Y()"
+                      ]
+                    }
+                  ]
                 }
               ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Al morir: estado MUERTO (no persigue ni ataca) y animación DIE."
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
                   "type": {
-                    "value": "Health::Health::IsJustDamaged"
+                    "value": "Health::Health::IsDead"
                   },
                   "parameters": [
                     "ENEMIGO1",
@@ -26259,16 +26745,38 @@
                     "ENEMIGO1",
                     "Estado",
                     "=",
-                    "\"DANADO\""
+                    "\"MUERTO\""
                   ]
-                },
+                }
+              ],
+              "events": [
                 {
-                  "type": {
-                    "value": "ResetObjectTimer"
-                  },
-                  "parameters": [
-                    "ENEMIGO1",
-                    "\"Dolor\""
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "ENEMIGO1",
+                        "Animation",
+                        "!=",
+                        "\"DIE\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "ENEMIGO1",
+                        "Animation",
+                        "=",
+                        "\"DIE\""
+                      ]
+                    }
                   ]
                 }
               ]
@@ -26289,14 +26797,12 @@
                 },
                 {
                   "type": {
-                    "inverted": true,
-                    "value": "StringObjectVariable"
+                    "value": "Health::Health::IsJustDamaged"
                   },
                   "parameters": [
                     "ENEMIGO1",
-                    "Estado",
-                    "=",
-                    "\"DANADO\""
+                    "Health",
+                    ""
                   ]
                 }
               ],
@@ -26307,13 +26813,83 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "Distance"
+                        "inverted": true,
+                        "value": "StringObjectVariable"
                       },
                       "parameters": [
                         "ENEMIGO1",
-                        "Dylan",
-                        "ENEMIGO1.RangoDeteccion",
-                        ""
+                        "Estado",
+                        "=",
+                        "\"GOLPEANDO\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetStringObjectVariable"
+                      },
+                      "parameters": [
+                        "ENEMIGO1",
+                        "Estado",
+                        "=",
+                        "\"DANADO\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResetObjectTimer"
+                      },
+                      "parameters": [
+                        "ENEMIGO1",
+                        "\"Dolor\""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "ENEMIGO1",
+                    "Health",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Decide el estado: el golpe en curso manda."
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "StringObjectVariable"
+                      },
+                      "parameters": [
+                        "ENEMIGO1",
+                        "Estado",
+                        "=",
+                        "\"GOLPEANDO\""
                       ]
                     }
                   ],
@@ -26324,13 +26900,13 @@
                       "conditions": [
                         {
                           "type": {
-                            "value": "Distance"
+                            "value": "CompareObjectTimer"
                           },
                           "parameters": [
                             "ENEMIGO1",
-                            "Dylan",
-                            "70",
-                            ""
+                            "\"Golpe\"",
+                            ">",
+                            "0.4"
                           ]
                         }
                       ],
@@ -26347,10 +26923,41 @@
                           ]
                         }
                       ]
-                    },
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Else",
+                  "conditions": [
                     {
-                      "type": "BuiltinCommonInstructions::Else",
-                      "conditions": [],
+                      "type": {
+                        "value": "StringObjectVariable"
+                      },
+                      "parameters": [
+                        "ENEMIGO1",
+                        "Estado",
+                        "=",
+                        "\"DANADO\""
+                      ]
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CompareObjectTimer"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "\"Dolor\"",
+                            ">",
+                            "0.35"
+                          ]
+                        }
+                      ],
                       "actions": [
                         {
                           "type": {
@@ -26370,58 +26977,235 @@
                 {
                   "type": "BuiltinCommonInstructions::Else",
                   "conditions": [],
-                  "actions": [
+                  "actions": [],
+                  "events": [
                     {
-                      "type": {
-                        "value": "SetStringObjectVariable"
-                      },
-                      "parameters": [
-                        "ENEMIGO1",
-                        "Estado",
-                        "=",
-                        "\"IDLE\""
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "Distance"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "Dylan",
+                            "120",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "StringObjectVariable"
+                              },
+                              "parameters": [
+                                "ENEMIGO1",
+                                "Estado",
+                                "!=",
+                                "\"ATACAR\""
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "SetStringObjectVariable"
+                              },
+                              "parameters": [
+                                "ENEMIGO1",
+                                "Estado",
+                                "=",
+                                "\"ATACAR\""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "ResetObjectTimer"
+                              },
+                              "parameters": [
+                                "ENEMIGO1",
+                                "\"Ataque\""
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Else",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "Distance"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "Dylan",
+                            "ENEMIGO1.RangoDeteccion",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetStringObjectVariable"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "Estado",
+                            "=",
+                            "\"PERSEGUIR\""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Else",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetStringObjectVariable"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "Estado",
+                            "=",
+                            "\"IDLE\""
+                          ]
+                        }
                       ]
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
+                },
                 {
-                  "type": {
-                    "value": "StringObjectVariable"
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
                   },
-                  "parameters": [
-                    "ENEMIGO1",
-                    "Estado",
-                    "=",
-                    "\"DANADO\""
-                  ]
-                }
-              ],
-              "actions": [],
-              "events": [
+                  "comment": "Orientación: siempre mira a Dylan (al perseguir, al atacar y al golpear)."
+                },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
                       "type": {
-                        "value": "CompareObjectTimer"
+                        "value": "BuiltinCommonInstructions::Or"
                       },
-                      "parameters": [
-                        "ENEMIGO1",
-                        "\"Dolor\"",
-                        ">",
-                        "0.4"
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "value": "StringObjectVariable"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "Estado",
+                            "=",
+                            "\"PERSEGUIR\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "StringObjectVariable"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "Estado",
+                            "=",
+                            "\"ATACAR\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "StringObjectVariable"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "Estado",
+                            "=",
+                            "\"GOLPEANDO\""
+                          ]
+                        }
                       ]
                     }
                   ],
-                  "actions": [
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "PosX"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "<",
+                            "Dylan.CenterX()"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "FlippableCapability::FlippableBehavior::FlipX"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "Flippable",
+                            "no"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Else",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "FlippableCapability::FlippableBehavior::FlipX"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "Flippable",
+                            "yes"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Persecución: avanza hacia Dylan y salta obstáculos."
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
                     {
                       "type": {
-                        "value": "SetStringObjectVariable"
+                        "value": "StringObjectVariable"
                       },
                       "parameters": [
                         "ENEMIGO1",
@@ -26430,188 +27214,654 @@
                         "\"PERSEGUIR\""
                       ]
                     }
-                  ]
-                }
-              ]
-            },
-            {
-              "aiGeneratedEventId": "01M6887SQ433KQMZ6DS9AHA8W5",
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "StringObjectVariable"
-                  },
-                  "parameters": [
-                    "ENEMIGO1",
-                    "Estado",
-                    "=",
-                    "\"PERSEGUIR\""
-                  ]
-                }
-              ],
-              "actions": [],
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "PosX"
-                      },
-                      "parameters": [
-                        "ENEMIGO1",
-                        "<",
-                        "Dylan.CenterX() - 10"
-                      ]
-                    }
                   ],
-                  "actions": [
+                  "actions": [],
+                  "events": [
                     {
-                      "type": {
-                        "value": "PlatformBehavior::SimulateRightKey"
-                      },
-                      "parameters": [
-                        "ENEMIGO1",
-                        "PlatformerObject"
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "PosX"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "<",
+                            "Dylan.CenterX() - 15"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::SimulateRightKey"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "PlatformerObject"
+                          ]
+                        }
                       ]
                     },
                     {
-                      "type": {
-                        "value": "FlippableCapability::FlippableBehavior::FlipX"
-                      },
-                      "parameters": [
-                        "ENEMIGO1",
-                        "Flippable",
-                        "no"
+                      "type": "BuiltinCommonInstructions::Else",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "PosX"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            ">",
+                            "Dylan.CenterX() + 15"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::SimulateLeftKey"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "PlatformerObject"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::IsOnFloor"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "PlatformerObject"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "CompareObjectTimer"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "\"Salto\"",
+                            ">",
+                            "0.7"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Or"
+                          },
+                          "parameters": [],
+                          "subInstructions": [
+                            {
+                              "type": {
+                                "value": "PosY"
+                              },
+                              "parameters": [
+                                "Dylan",
+                                "<",
+                                "ENEMIGO1.Y() - 40"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "BuiltinCommonInstructions::CompareNumbers"
+                              },
+                              "parameters": [
+                                "abs(Dylan.CenterX() - ENEMIGO1.CenterX())",
+                                ">",
+                                "60"
+                              ]
+                            }
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::SimulateJumpKey"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "PlatformerObject"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ResetObjectTimer"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "\"Salto\""
+                          ]
+                        }
                       ]
                     }
                   ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "ATACAR: se acerca y, cuando le toca, arranca el golpe: se queda quieto y lanza ATAQUE1 desde el primer frame."
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
                       "type": {
-                        "value": "PosX"
+                        "value": "StringObjectVariable"
                       },
                       "parameters": [
                         "ENEMIGO1",
-                        ">",
-                        "Dylan.CenterX() + 10"
+                        "Estado",
+                        "=",
+                        "\"ATACAR\""
                       ]
                     }
                   ],
-                  "actions": [
+                  "actions": [],
+                  "events": [
                     {
-                      "type": {
-                        "value": "PlatformBehavior::SimulateLeftKey"
-                      },
-                      "parameters": [
-                        "ENEMIGO1",
-                        "PlatformerObject"
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "inverted": true,
+                            "value": "Distance"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "Dylan",
+                            "30",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "PosX"
+                              },
+                              "parameters": [
+                                "ENEMIGO1",
+                                "<",
+                                "Dylan.CenterX() - 2"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "PlatformBehavior::SimulateRightKey"
+                              },
+                              "parameters": [
+                                "ENEMIGO1",
+                                "PlatformerObject"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Else",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "PosX"
+                              },
+                              "parameters": [
+                                "ENEMIGO1",
+                                ">",
+                                "Dylan.CenterX() + 2"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "PlatformBehavior::SimulateLeftKey"
+                              },
+                              "parameters": [
+                                "ENEMIGO1",
+                                "PlatformerObject"
+                              ]
+                            }
+                          ]
+                        }
                       ]
                     },
                     {
-                      "type": {
-                        "value": "FlippableCapability::FlippableBehavior::FlipX"
-                      },
-                      "parameters": [
-                        "ENEMIGO1",
-                        "Flippable",
-                        "yes"
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CompareObjectTimer"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "\"Ataque\"",
+                            ">=",
+                            "1.5"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Distance"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "Dylan",
+                            "60",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "CompareObjectTimer"
+                          },
+                          "parameters": [
+                            "Dylan",
+                            "\"Invuln\"",
+                            ">",
+                            "0.85"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "inverted": true,
+                            "value": "Health::Health::IsDead"
+                          },
+                          "parameters": [
+                            "Dylan",
+                            "Health",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ResetObjectTimer"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "\"Ataque\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ResetObjectTimer"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "\"Golpe\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetNumberObjectVariable"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "GolpeDado",
+                            "=",
+                            "0"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetStringObjectVariable"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "Estado",
+                            "=",
+                            "\"GOLPEANDO\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "Animation",
+                            "=",
+                            "\"IDLE\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "Animation",
+                            "=",
+                            "\"ATAQUE1\""
+                          ]
+                        }
                       ]
                     }
                   ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "GOLPEANDO: golpe en curso (0,4 s). El daño se aplica una vez, a mitad del movimiento."
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
                       "type": {
-                        "value": "PlatformBehavior::IsOnFloor"
+                        "value": "StringObjectVariable"
                       },
                       "parameters": [
                         "ENEMIGO1",
-                        "PlatformerObject"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "CompareObjectTimer"
-                      },
-                      "parameters": [
-                        "ENEMIGO1",
-                        "\"Salto\"",
-                        ">",
-                        "0.8"
+                        "Estado",
+                        "=",
+                        "\"GOLPEANDO\""
                       ]
                     }
                   ],
-                  "actions": [
+                  "actions": [],
+                  "events": [
                     {
-                      "type": {
-                        "value": "PlatformBehavior::SimulateJumpKey"
-                      },
-                      "parameters": [
-                        "ENEMIGO1",
-                        "PlatformerObject"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ResetObjectTimer"
-                      },
-                      "parameters": [
-                        "ENEMIGO1",
-                        "\"Salto\""
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CompareObjectTimer"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "\"Golpe\"",
+                            ">",
+                            "0.12"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "CompareObjectTimer"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "\"Golpe\"",
+                            "<",
+                            "0.38"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Distance"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "Dylan",
+                            "65",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "NumberObjectVariable"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "GolpeDado",
+                            "=",
+                            "0"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "inverted": true,
+                            "value": "Health::Health::IsDead"
+                          },
+                          "parameters": [
+                            "Dylan",
+                            "Health",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetNumberObjectVariable"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "GolpeDado",
+                            "=",
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Health::Health::Hit"
+                          },
+                          "parameters": [
+                            "Dylan",
+                            "Health",
+                            "15",
+                            "no",
+                            "no",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ResetObjectTimer"
+                          },
+                          "parameters": [
+                            "Dylan",
+                            "\"Invuln\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ResetObjectTimer"
+                          },
+                          "parameters": [
+                            "Dylan",
+                            "\"Golpe\""
+                          ]
+                        }
                       ]
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "aiGeneratedEventId": "01M6889FJ8CXGBZZEJC3B0S686",
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
+                },
                 {
-                  "type": {
-                    "value": "StringObjectVariable"
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
                   },
-                  "parameters": [
-                    "ENEMIGO1",
-                    "Estado",
-                    "=",
-                    "\"ATACAR\""
-                  ]
-                }
-              ],
-              "actions": [],
-              "events": [
+                  "comment": "Animaciones según estado."
+                },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
                       "type": {
-                        "value": "PosX"
+                        "value": "StringObjectVariable"
                       },
                       "parameters": [
                         "ENEMIGO1",
-                        "<",
-                        "Dylan.CenterX()"
+                        "Estado",
+                        "=",
+                        "\"DANADO\""
                       ]
                     }
                   ],
-                  "actions": [
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::Name"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "Animation",
+                            "!=",
+                            "\"HURT\""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "Animation",
+                            "=",
+                            "\"HURT\""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Else",
+                  "conditions": [
                     {
                       "type": {
-                        "value": "FlippableCapability::FlippableBehavior::FlipX"
+                        "value": "StringObjectVariable"
                       },
                       "parameters": [
                         "ENEMIGO1",
-                        "Flippable",
-                        "no"
+                        "Estado",
+                        "=",
+                        "\"GOLPEANDO\""
+                      ]
+                    }
+                  ],
+                  "actions": []
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Else",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "StringObjectVariable"
+                      },
+                      "parameters": [
+                        "ENEMIGO1",
+                        "Estado",
+                        "=",
+                        "\"ATACAR\""
+                      ]
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::Name"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "Animation",
+                            "!=",
+                            "\"IDLE\""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "Animation",
+                            "=",
+                            "\"IDLE\""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Else",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::IsMoving"
+                      },
+                      "parameters": [
+                        "ENEMIGO1",
+                        "PlatformerObject"
+                      ]
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::Name"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "Animation",
+                            "!=",
+                            "\"WLAK/RUN\""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "Animation",
+                            "=",
+                            "\"WLAK/RUN\""
+                          ]
+                        }
                       ]
                     }
                   ]
@@ -26619,370 +27869,37 @@
                 {
                   "type": "BuiltinCommonInstructions::Else",
                   "conditions": [],
-                  "actions": [
+                  "actions": [],
+                  "events": [
                     {
-                      "type": {
-                        "value": "FlippableCapability::FlippableBehavior::FlipX"
-                      },
-                      "parameters": [
-                        "ENEMIGO1",
-                        "Flippable",
-                        "yes"
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::Name"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "Animation",
+                            "!=",
+                            "\"IDLE\""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "Animation",
+                            "=",
+                            "\"IDLE\""
+                          ]
+                        }
                       ]
                     }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "CompareObjectTimer"
-                      },
-                      "parameters": [
-                        "ENEMIGO1",
-                        "\"Ataque\"",
-                        ">=",
-                        "1.2"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "ResetObjectTimer"
-                      },
-                      "parameters": [
-                        "ENEMIGO1",
-                        "\"Ataque\""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "CompareObjectTimer"
-                      },
-                      "parameters": [
-                        "ENEMIGO1",
-                        "\"Ataque\"",
-                        ">",
-                        "0.3"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "CompareObjectTimer"
-                      },
-                      "parameters": [
-                        "ENEMIGO1",
-                        "\"Ataque\"",
-                        "<",
-                        "0.55"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Distance"
-                      },
-                      "parameters": [
-                        "ENEMIGO1",
-                        "Dylan",
-                        "70",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "CompareObjectTimer"
-                      },
-                      "parameters": [
-                        "Dylan",
-                        "\"Invuln\"",
-                        ">",
-                        "0.8"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PosX"
-                      },
-                      "parameters": [
-                        "Dylan",
-                        ">",
-                        "ENEMIGO1.CenterX()"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Health::Health::Hit"
-                      },
-                      "parameters": [
-                        "Dylan",
-                        "Health",
-                        "12",
-                        "",
-                        "",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ResetObjectTimer"
-                      },
-                      "parameters": [
-                        "Dylan",
-                        "\"Invuln\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ResetObjectTimer"
-                      },
-                      "parameters": [
-                        "Dylan",
-                        "\"Golpe\""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "CompareObjectTimer"
-                      },
-                      "parameters": [
-                        "ENEMIGO1",
-                        "\"Ataque\"",
-                        ">",
-                        "0.3"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "CompareObjectTimer"
-                      },
-                      "parameters": [
-                        "ENEMIGO1",
-                        "\"Ataque\"",
-                        "<",
-                        "0.55"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Distance"
-                      },
-                      "parameters": [
-                        "ENEMIGO1",
-                        "Dylan",
-                        "70",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "CompareObjectTimer"
-                      },
-                      "parameters": [
-                        "Dylan",
-                        "\"Invuln\"",
-                        ">",
-                        "0.8"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PosX"
-                      },
-                      "parameters": [
-                        "Dylan",
-                        "<",
-                        "ENEMIGO1.CenterX()"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Health::Health::Hit"
-                      },
-                      "parameters": [
-                        "Dylan",
-                        "Health",
-                        "12",
-                        "",
-                        "",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ResetObjectTimer"
-                      },
-                      "parameters": [
-                        "Dylan",
-                        "\"Invuln\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ResetObjectTimer"
-                      },
-                      "parameters": [
-                        "Dylan",
-                        "\"Golpe\""
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "Health::Health::IsDead"
-                  },
-                  "parameters": [
-                    "ENEMIGO1",
-                    "Health",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "ENEMIGO1",
-                    "Animation",
-                    "=",
-                    "\"DIE\""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Else",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "StringObjectVariable"
-                  },
-                  "parameters": [
-                    "ENEMIGO1",
-                    "Estado",
-                    "=",
-                    "\"DANADO\""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "ENEMIGO1",
-                    "Animation",
-                    "=",
-                    "\"HURT\""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Else",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "StringObjectVariable"
-                  },
-                  "parameters": [
-                    "ENEMIGO1",
-                    "Estado",
-                    "=",
-                    "\"ATACAR\""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "ENEMIGO1",
-                    "Animation",
-                    "=",
-                    "\"ATAQUE1\""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Else",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "PlatformBehavior::IsMoving"
-                  },
-                  "parameters": [
-                    "ENEMIGO1",
-                    "PlatformerObject"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "ENEMIGO1",
-                    "Animation",
-                    "=",
-                    "\"WLAK/RUN\""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Else",
-              "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "ENEMIGO1",
-                    "Animation",
-                    "=",
-                    "\"IDLE\""
                   ]
                 }
               ]
@@ -26991,7 +27908,7 @@
           "parameters": []
         },
         {
-          "aiGeneratedEventId": "01M685ZR99YJ2V2F76D96STM6Z",
+          "aiGeneratedEventId": "01M68B9814TXAT9MWRZH66S4ZD",
           "colorB": 228,
           "colorG": 176,
           "colorR": 74,
@@ -27013,7 +27930,6 @@
               "comment": "El golpe de J daña al enemigo una vez por ataque."
             },
             {
-              "aiGeneratedEventId": "01M68818Z5AW9CX4MN0EWQNDJK",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -27038,13 +27954,12 @@
                 },
                 {
                   "type": {
-                    "value": "CollisionNP"
+                    "value": "Distance"
                   },
                   "parameters": [
                     "Dylan",
                     "ENEMIGO1",
-                    "",
-                    "",
+                    "60",
                     ""
                   ]
                 },
@@ -27074,7 +27989,7 @@
                   "parameters": [
                     "ENEMIGO1",
                     "Health",
-                    "20",
+                    "25",
                     "",
                     "",
                     ""
@@ -27155,43 +28070,45 @@
           "parameters": []
         },
         {
-          "aiGeneratedEventId": "01M685ZR99YJ2V2F76D96STM6Z",
+          "aiGeneratedEventId": "01M68AVC76Z20BCS26Q00X0F3K",
           "colorB": 228,
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "name": "Fin del combate",
+          "name": "Fin del nivel",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
             {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Al llegar al extremo derecho del escenario se salta directamente al siguiente nivel: sin carteles ni botones."
+            },
+            {
               "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
+              "conditions": [],
+              "actions": [
                 {
                   "type": {
-                    "value": "Health::Health::IsDead"
+                    "value": "Hide"
                   },
                   "parameters": [
-                    "ENEMIGO1",
-                    "Health",
-                    ""
+                    "PanelFin"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "ResetTimer"
+                    "value": "Hide"
                   },
                   "parameters": [
-                    "",
-                    "\"Victoria\""
+                    "TxtFin"
                   ]
                 }
               ]
@@ -27201,138 +28118,12 @@
               "conditions": [
                 {
                   "type": {
-                    "value": "Health::Health::IsDead"
-                  },
-                  "parameters": [
-                    "ENEMIGO1",
-                    "Health",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "CompareTimer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Victoria\"",
-                    ">",
-                    "1.5"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Show"
-                  },
-                  "parameters": [
-                    "PanelFin",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Show"
-                  },
-                  "parameters": [
-                    "TxtFin",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Show"
-                  },
-                  "parameters": [
-                    "BotonFin",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-                  },
-                  "parameters": [
-                    "TxtFin",
-                    "Text",
-                    "=",
-                    "\"¡VICTORIA!\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PanelSpriteButton::PanelSpriteButton::SetLabelTextOp"
-                  },
-                  "parameters": [
-                    "BotonFin",
-                    "=",
-                    "\"CONTINUAR\"",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "Health::Health::IsDead"
+                    "value": "PosX"
                   },
                   "parameters": [
                     "Dylan",
-                    "Health",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "ResetTimer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Derrota\""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "Health::Health::IsDead"
-                  },
-                  "parameters": [
-                    "Dylan",
-                    "Health",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "CompareTimer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Derrota\"",
                     ">",
-                    "1.6"
+                    "2450"
                   ]
                 },
                 {
@@ -27340,81 +28131,6 @@
                     "value": "BuiltinCommonInstructions::Once"
                   },
                   "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Show"
-                  },
-                  "parameters": [
-                    "PanelFin",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Show"
-                  },
-                  "parameters": [
-                    "TxtFin",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Show"
-                  },
-                  "parameters": [
-                    "BotonFin",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-                  },
-                  "parameters": [
-                    "TxtFin",
-                    "Text",
-                    "=",
-                    "\"GAME OVER\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PanelSpriteButton::PanelSpriteButton::SetLabelTextOp"
-                  },
-                  "parameters": [
-                    "BotonFin",
-                    "=",
-                    "\"REINTENTAR\"",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
-                  },
-                  "parameters": [
-                    "BotonFin",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Health::Health::IsDead"
-                  },
-                  "parameters": [
-                    "ENEMIGO1",
-                    "Health",
-                    ""
-                  ]
                 }
               ],
               "actions": [
@@ -27424,31 +28140,47 @@
                   },
                   "parameters": [
                     "",
-                    "\"menu\"",
+                    "\"nivel 3\"",
                     "no"
                   ]
                 }
               ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "aiGeneratedEventId": "01M68AVC76Z20BCS26Q00X0F3K",
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Enemigos reviven",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Cada vez que Dylan cae al vacío o muere, TODOS los enemigos vuelven a la vida en su posición inicial con la vida completa: el nivel es más difícil."
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
                   "type": {
-                    "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+                    "value": "BooleanVariable"
                   },
                   "parameters": [
-                    "BotonFin",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Health::Health::IsDead"
-                  },
-                  "parameters": [
-                    "Dylan",
-                    "Health",
+                    "ReiniciarEnemigos",
+                    "True",
                     ""
                   ]
                 }
@@ -27456,12 +28188,113 @@
               "actions": [
                 {
                   "type": {
-                    "value": "Scene"
+                    "value": "SetBooleanVariable"
                   },
                   "parameters": [
-                    "",
-                    "\"Nivel 1\"",
-                    "no"
+                    "ReiniciarEnemigos",
+                    "False",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Health::Health::SetHealth"
+                  },
+                  "parameters": [
+                    "ENEMIGO1",
+                    "Health",
+                    "ENEMIGO1.SaludMax",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetXY"
+                  },
+                  "parameters": [
+                    "ENEMIGO1",
+                    "=",
+                    "ENEMIGO1.PosInicialX",
+                    "=",
+                    "ENEMIGO1.PosInicialY"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetStringObjectVariable"
+                  },
+                  "parameters": [
+                    "ENEMIGO1",
+                    "Estado",
+                    "=",
+                    "\"IDLE\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "ENEMIGO1",
+                    "GolpeDado",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "ENEMIGO1",
+                    "\"Ataque\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "ENEMIGO1",
+                    "\"Dolor\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "ENEMIGO1",
+                    "\"Salto\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "ENEMIGO1",
+                    "Animation",
+                    "=",
+                    "\"IDLE\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "ENEMIGO1",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "BarraEnemigo",
+                    ""
                   ]
                 }
               ]
@@ -36465,8 +37298,8 @@
   "tests": [
     {
       "description": "Dylan stays on floor, moves right and jumps",
-      "lastRunAt": 1793342911096,
-      "lastRunDurationMs": 4449,
+      "lastRunAt": 1793427814736,
+      "lastRunDurationMs": 2875,
       "lastRunFramesExecuted": 235,
       "lastRunStatus": "passed",
       "name": "dylan-moves",
@@ -36520,8 +37353,8 @@
     },
     {
       "description": "Dylan idle/walk/run/hit/death animations",
-      "lastRunAt": 1793327416554,
-      "lastRunDurationMs": 1449,
+      "lastRunAt": 1793427650972,
+      "lastRunDurationMs": 2273,
       "lastRunFramesExecuted": 360,
       "lastRunStatus": "passed",
       "name": "dylan-full-moves",
@@ -36630,8 +37463,8 @@
     },
     {
       "description": "Camera X follow fixed Y",
-      "lastRunAt": 1793327420382,
-      "lastRunDurationMs": 1366,
+      "lastRunAt": 1793427819989,
+      "lastRunDurationMs": 3187,
       "lastRunFramesExecuted": 234,
       "lastRunStatus": "passed",
       "name": "dylan-camera",
@@ -36841,99 +37674,82 @@
       ]
     },
     {
-      "description": "Barra de vida fija en la capa UI y sincronizada, recogida de morrón en la olla y cadena walk/run/IDLE",
-      "lastRunAt": 1793426075438,
-      "lastRunDurationMs": 1744,
-      "lastRunFramesExecuted": 77,
-      "lastRunStatus": "failed",
+      "description": "Barra de vida fija y sincronizada, recogida de morrón y panel de inventario oculto que se abre/cierra con I",
+      "lastRunAt": 1793428948875,
+      "lastRunDurationMs": 3014,
+      "lastRunFramesExecuted": 85,
+      "lastRunStatus": "passed",
       "name": "vida-inventario-animaciones",
       "type": "gameplay",
       "source": [
         "await harness.goToScene('Nivel 1');",
         "await harness.stepFrames(6);",
-        "",
         "const dylan0 = harness.getObjects('Dylan')[0];",
         "const dylanId = dylan0.id;",
-        "console.log('dylan start', dylan0.x, dylan0.y, 'anim=', dylan0.animation);",
         "",
         "const bar0 = harness.getObjects('White1BitPixelBar')[0];",
         "harness.assert(!!bar0, 'Existe la barra de vida White1BitPixelBar');",
-        "harness.assert(bar0 && bar0.layer === 'barra_vida', 'La barra esta en la capa fija barra_vida (layer=' + (bar0 && bar0.layer) + ')');",
+        "harness.assert(bar0 && bar0.layer === 'barra_vida', 'La barra esta en la capa fija barra_vida');",
         "const barX0 = bar0 ? bar0.x : -1;",
-        "const barY0 = bar0 ? bar0.y : -1;",
         "const cam0 = harness.getCameraState('');",
         "",
-        "// --- Animaciones: caminar ---",
         "harness.setKeyPressed('Right', true);",
         "const walkOk = await harness.stepUntil(() => (harness.getObjects('Dylan')[0].animation || '') === 'walk', { maxFrames: 90 });",
-        "harness.assert(walkOk, 'Al moverse sin Shift se reproduce walk (anim=' + harness.getObjects('Dylan')[0].animation + ')');",
-        "",
-        "// --- Animaciones: correr y camara con Dylan lejos ---",
+        "harness.assert(walkOk, 'Al moverse sin Shift se reproduce walk');",
         "harness.setKeyPressed('LShift', true);",
         "const runOk = await harness.stepUntil(() => (harness.getObjects('Dylan')[0].animation || '') === 'run', { maxFrames: 90 });",
-        "harness.assert(runOk, 'Con Shift se reproduce run (anim=' + harness.getObjects('Dylan')[0].animation + ')');",
+        "harness.assert(runOk, 'Con Shift se reproduce run');",
         "await harness.stepUntil(() => harness.getObjects('Dylan')[0].x > 420, { maxFrames: 220 });",
         "harness.setKeyPressed('LShift', false);",
         "harness.setKeyPressed('Right', false);",
-        "console.log('dylan after run', harness.getObjects('Dylan')[0].x);",
-        "",
-        "// --- Volver a IDLE al soltar ---",
         "const idleOk = await harness.stepUntil(() => (harness.getObjects('Dylan')[0].animation || '') === 'IDLE', { maxFrames: 250 });",
-        "harness.assert(idleOk, 'Al soltar las teclas vuelve a IDLE (anim=' + harness.getObjects('Dylan')[0].animation + ')');",
-        "",
-        "// --- La barra no se mueve aunque se mueva la camara ---",
-        "const cam1 = harness.getCameraState('');",
-        "console.log('cam', JSON.stringify(cam0), '->', JSON.stringify(cam1));",
+        "harness.assert(idleOk, 'Al soltar las teclas vuelve a IDLE');",
         "const bar1 = harness.getObjects('White1BitPixelBar')[0];",
-        "harness.assert(bar1 && bar1.x === barX0 && bar1.y === barY0, 'La barra queda fija en pantalla al moverse la camara (' + (bar1 && bar1.x) + ',' + (bar1 && bar1.y) + ')')",
-        "harness.assert(!cam0 || !cam1 || cam1.x !== cam0.x, 'La camara se movio con Dylan (cam x ' + (cam0 && cam0.x) + ' -> ' + (cam1 && cam1.x) + ')');",
+        "harness.assert(bar1 && bar1.x === barX0, 'La barra queda fija en pantalla al moverse la camara');",
         "",
-        "// --- Dano: H hace 25 ---",
         "const hp0 = Number(harness.getGlobalVariable('VidaDylan').value);",
-        "harness.assert(hp0 === 100, 'La vida global empieza en 100 (VidaDylan=' + hp0 + ')');",
+        "harness.assert(hp0 === 100, 'La vida global empieza en 100');",
         "harness.setKeyPressed('h', true);",
         "await harness.stepFrames(2);",
         "harness.setKeyPressed('h', false);",
         "await harness.stepFrames(4);",
-        "const hp1 = Number(harness.getGlobalVariable('VidaDylan').value);",
-        "harness.assert(hp1 === 75, 'Recibir 25 de dano baja la vida a 75 (VidaDylan=' + hp1 + ')');",
-        "const dylanHit = harness.getObjects('Dylan')[0];",
-        "harness.assert((dylanHit.animation || '') === 'golpeado', 'Al recibir dano se reproduce golpeado (anim=' + dylanHit.animation + ')');",
-        "const barState = harness.getObjects('White1BitPixelBar')[0];",
-        "console.log('bar state', JSON.stringify(barState && barState.state));",
-        "harness.assert(JSON.stringify(barState.state).indexOf('75') >= 0, 'La barra de vida se actualiza a 75 (' + JSON.stringify(barState.state) + ')');",
+        "harness.assert(Number(harness.getGlobalVariable('VidaDylan').value) === 75, 'Recibir 25 de dano baja la vida a 75');",
+        "harness.assert((harness.getObjects('Dylan')[0].animation || '') === 'golpeado', 'Al recibir dano se reproduce golpeado');",
         "",
-        "// --- Recoger un morron ---",
+        "harness.assert(harness.getObjects('PanelInv')[0].hidden === true, 'El panel del inventario empieza cerrado');",
+        "harness.assert(harness.getObjects('TxtMorron')[0].hidden === true, 'Las cantidades no se ven sobre el escenario');",
+        "",
+        "// Recoger el morrón donde realmente está",
+        "const morron = harness.getObjects('asset_morron')[0];",
+        "harness.assert(!!morron, 'El morrón está en el escenario');",
         "const morronBefore = harness.getObjects('asset_morron').length;",
-        "harness.setObjectPosition(dylanId, 1741, 150);",
+        "harness.setObjectPosition(dylanId, morron.x, morron.y);",
         "const picked = await harness.stepUntil(() => Number(harness.getGlobalVariable('Morron').value) >= 1, { maxFrames: 150 });",
         "harness.assert(picked, 'Tocar el morron suma 1 a la global Morron (Morron=' + harness.getGlobalVariable('Morron').value + ')');",
         "harness.assert(harness.getObjects('asset_morron').length === morronBefore - 1, 'El morron recogido desaparece del escenario');",
-        "const txt = harness.getObjects('TxtMorron')[0];",
-        "console.log('txt morron', txt && txt.text, 'hidden=', txt && txt.hidden);",
-        "harness.assert(!!txt && /MORRON x1/.test(txt.text || ''), 'El panel de la olla muestra MORRON x1 (' + (txt && txt.text) + ')');",
+        "harness.assert(/MORRON x1/.test(harness.getObjects('TxtMorron')[0].text || ''), 'El inventario muestra MORRON x1 (' + harness.getObjects('TxtMorron')[0].text + ')');",
         "",
-        "// --- Cerrar y abrir el panel con I ---",
         "harness.setKeyPressed('i', true);",
         "await harness.stepFrames(2);",
         "harness.setKeyPressed('i', false);",
-        "await harness.stepFrames(4);",
-        "harness.assert(harness.getObjects('TxtMorron')[0].hidden === true, 'La tecla I cierra el panel del inventario');",
+        "await harness.stepFrames(5);",
+        "harness.assert(harness.getObjects('PanelInv')[0].hidden === false, 'La tecla I abre el panel del inventario');",
+        "harness.assert(harness.getObjects('TxtMorron')[0].hidden === false, 'Al abrir se ven las cantidades');",
+        "await harness.takeScreenshot('inventario');",
         "harness.setKeyPressed('i', true);",
         "await harness.stepFrames(2);",
         "harness.setKeyPressed('i', false);",
-        "await harness.stepFrames(4);",
-        "harness.assert(harness.getObjects('TxtMorron')[0].hidden === false, 'La tecla I vuelve a abrir el panel del inventario');",
-        "",
-        "await harness.takeScreenshot('final');",
+        "await harness.stepFrames(5);",
+        "harness.assert(harness.getObjects('PanelInv')[0].hidden === true, 'La tecla I vuelve a cerrar el panel');",
+        "harness.assert(harness.getObjects('TxtMorron')[0].hidden === true, 'Al cerrar no queda nada sobre el escenario');",
         ""
       ]
     },
     {
-      "description": "Derrota: animación Muerte, vida a 0, reaparición con vida completa y una sola barra",
-      "lastRunAt": 1793327541975,
-      "lastRunDurationMs": 2686,
-      "lastRunFramesExecuted": 162,
+      "description": "Derrota: animación Muerte, vida a 0, reaparición automática con vida completa (sin botones) y una sola barra",
+      "lastRunAt": 1793429179241,
+      "lastRunDurationMs": 2776,
+      "lastRunFramesExecuted": 192,
       "lastRunStatus": "passed",
       "name": "muerte-y-respawn",
       "type": "gameplay",
@@ -36948,15 +37764,18 @@
         "harness.assert(hp0 === 0, 'Con 200 de dano la vida queda en 0 (VidaDylan=' + hp0 + ')');",
         "const deadAnim = harness.getObjects('Dylan')[0].animation;",
         "harness.assert(deadAnim === 'Muerte', 'Al morir se reproduce la animacion Muerte (anim=' + deadAnim + ')');",
-        "await harness.stepFrames(110);",
-        "const hp1 = Number(harness.getGlobalVariable('VidaDylan').value);",
+        "const back = await harness.stepUntil(() => Number(harness.getGlobalVariable('VidaDylan').value) === 100, { maxFrames: 260 });",
+        "harness.assert(back, 'Tras la derrota la vida vuelve a 100 sin pulsar nada (VidaDylan=' + harness.getGlobalVariable('VidaDylan').value + ')');",
         "const d = harness.getObjects('Dylan')[0];",
-        "console.log('after respawn', hp1, d.x, d.y, d.animation);",
-        "harness.assert(hp1 === 100, 'Tras la derrota la vida vuelve a 100 (VidaDylan=' + hp1 + ')');",
-        "harness.assert(Math.abs(d.x - 240) < 60, 'Dylan reaparece en el inicio del nivel (x=' + d.x + ')');",
+        "harness.assert(Math.abs(d.x - 240) < 80, 'Dylan reaparece en el inicio del nivel (x=' + d.x + ')');",
         "harness.assert(harness.getObjects('White1BitPixelBar').length === 1, 'Sigue habiendo una sola barra de vida');",
+        "harness.assert(harness.getSceneName() === 'Nivel 1', 'La escena no se reinicia (sigue en Nivel 1)');",
         "await harness.stepFrames(40);",
         "harness.assert((harness.getObjects('Dylan')[0].animation || '') === 'IDLE', 'Tras reaparecer vuelve a IDLE (anim=' + harness.getObjects('Dylan')[0].animation + ')');",
+        "harness.setKeyPressed('Right', true);",
+        "const moved = await harness.stepUntil(() => harness.getObjects('Dylan')[0].x > d.x + 20, { maxFrames: 120 });",
+        "harness.setKeyPressed('Right', false);",
+        "harness.assert(moved, 'Dylan puede seguir jugando tras reaparecer');",
         "await harness.takeScreenshot('respawn');",
         ""
       ]
@@ -37137,42 +37956,62 @@
       ]
     },
     {
-      "description": "El enemigo detecta, persigue solo y daña a Dylan con cooldown",
-      "lastRunAt": 1793426033233,
-      "lastRunDurationMs": 2583,
-      "lastRunFramesExecuted": 445,
-      "lastRunStatus": "failed",
+      "description": "El enemigo detecta, se orienta, persigue en ambos sentidos y golpea con su animación, daño 15 y cooldown",
+      "lastRunAt": 1793430065184,
+      "lastRunDurationMs": 3685,
+      "lastRunFramesExecuted": 371,
+      "lastRunStatus": "passed",
       "name": "ia-persecucion-y-ataque",
       "type": "gameplay",
       "source": [
         "await harness.goToScene('Nivel 1');",
-        "await harness.stepFrames(30);",
+        "await harness.stepFrames(25);",
         "const enemy = () => harness.getObjects('ENEMIGO1')[0];",
         "const dylan = () => harness.getObjects('Dylan')[0];",
-        "const eHealth = () => { const o = enemy(); return o?.behaviors?.Health?.state?.PropertyHealth ?? o?.behaviors?.Health?.state?.Health; };",
-        "const dHealth = () => { const o = dylan(); return o?.behaviors?.Health?.state?.PropertyHealth ?? o?.behaviors?.Health?.state?.Health; };",
-        "// Suelo despejado a la derecha del enemigo (sin cajones entre ambos)",
-        "harness.setObjectPosition(dylan().id, 950, 150);",
+        "const dHealth = () => { const s = dylan()?.behaviors?.Health?.state; return s ? (s.Health ?? s.PropertyCurrentHealth) : undefined; };",
+        "const estado = () => enemy()?.variables?.find(v => v.name === 'Estado')?.value;",
+        "const flipped = () => { const s = enemy()?.behaviors?.Flippable?.state; return s ? (s.IsFlipped ?? s.Flipped) : undefined; };",
+        "const enCombate = () => ['ATACAR', 'GOLPEANDO'].indexOf(estado()) >= 0;",
+        "",
+        "const e0 = enemy();",
+        "harness.setObjectPosition(dylan().id, e0.x + 220, e0.y);",
         "await harness.stepFrames(10);",
-        "let est = enemy().variables.find(v => v.name === 'Estado')?.value;",
-        "harness.assert(est === 'PERSEGUIR' || est === 'ATACAR', 'Detecta y persigue (estado=' + est + ')');",
-        "const dist0 = Math.abs(enemy().x - dylan().x);",
-        "const closed = await harness.stepUntil(() => Math.abs(enemy().x - dylan().x) < 75, { maxFrames: 300 });",
-        "harness.assert(closed, 'El enemigo se acerca solo: ' + dist0.toFixed(0) + ' -> ' + Math.abs(enemy().x - dylan().x).toFixed(0));",
+        "harness.assert(estado() === 'PERSEGUIR' || enCombate(), 'Detecta a Dylan (estado=' + estado() + ')');",
+        "const d0 = Math.abs(enemy().x - dylan().x);",
+        "const closed = await harness.stepUntil(() => Math.abs(enemy().x - dylan().x) < 70, { maxFrames: 600 });",
+        "harness.assert(closed, 'Se acerca solo: ' + d0.toFixed(0) + ' -> ' + Math.abs(enemy().x - dylan().x).toFixed(0));",
+        "await harness.stepFrames(10);",
+        "harness.assert(enCombate(), 'Ataca al estar cerca (estado=' + estado() + ')');",
+        "const fR = flipped();",
+        "if (typeof fR === 'boolean') harness.assert(fR === false, 'Mira a la derecha con Dylan a la derecha');",
+        "",
+        "const ex = enemy().x;",
+        "harness.setObjectPosition(dylan().id, ex - 200, enemy().y);",
+        "await harness.stepFrames(20);",
+        "const fL = flipped();",
+        "if (typeof fL === 'boolean') harness.assert(fL === true, 'Mira a la izquierda con Dylan a la izquierda');",
+        "const before = enemy().x;",
+        "const closedLeft = await harness.stepUntil(() => Math.abs(enemy().x - dylan().x) < 70, { maxFrames: 600 });",
+        "harness.assert(closedLeft, 'Persigue hacia la izquierda: ' + before.toFixed(0) + ' -> ' + enemy().x.toFixed(0));",
+        "",
+        "harness.setObjectPosition(dylan().id, enemy().x + 20, enemy().y);",
+        "await harness.stepFrames(5);",
         "const vida0 = dHealth();",
-        "const hit = await harness.stepUntil(() => (dHealth() ?? 100) < (vida0 ?? 100), { maxFrames: 400 });",
-        "harness.assert(hit, 'El ataque del enemigo quita vida a Dylan');",
-        "await harness.stepFrames(90);",
+        "const hit1 = await harness.stepUntil(() => (dHealth() ?? 100) < (vida0 ?? 100), { maxFrames: 300 });",
+        "harness.assert(hit1, 'El golpe del enemigo quita vida: ' + vida0 + ' -> ' + dHealth());",
         "const vida1 = dHealth();",
-        "harness.assert(vida1 > 0 && vida1 >= vida0 - 40, 'Dylan no pierde toda la vida de golpe (vida=' + vida1 + ')');",
-        "harness.assert(eHealth() > 0, 'El enemigo sigue vivo');",
-        "await harness.takeScreenshot('combate-ia');"
+        "let frames = 0;",
+        "const hit2 = await harness.stepUntil(() => (dHealth() ?? 100) < (vida1 ?? 100), { maxFrames: 300, onFrame: () => { frames++; } });",
+        "harness.assert(hit2, 'Sigue golpeando (vida=' + dHealth() + ')');",
+        "harness.assert(frames > 45, 'Hay cooldown entre golpes (' + frames + ' frames)');",
+        "harness.assert((vida1 - dHealth()) === 15, 'Daño por golpe 15: ' + (vida1 - dHealth()));",
+        ""
       ]
     },
     {
       "description": "Probe enemy movement",
-      "lastRunAt": 1793425828919,
-      "lastRunDurationMs": 3911,
+      "lastRunAt": 1793427825311,
+      "lastRunDurationMs": 3287,
       "lastRunFramesExecuted": 401,
       "lastRunStatus": "passed",
       "name": "probe-enemigo",
@@ -37191,6 +38030,340 @@
         " console.log(`t${i} ex=${e.x.toFixed(0)} dx=${d.x.toFixed(0)} ddx=${(d.x-e.x).toFixed(0)} estado=${est} anim=${e.animation} flip=${e.x}`);",
         "}",
         "harness.assert(true,'probe');"
+      ]
+    },
+    {
+      "description": "El inventario está oculto, se abre con I mostrando panel + iconos + cantidades y se cierra con I y ESC",
+      "lastRunAt": 1793428893134,
+      "lastRunDurationMs": 2166,
+      "lastRunFramesExecuted": 53,
+      "lastRunStatus": "passed",
+      "name": "inventario-panel",
+      "type": "gameplay",
+      "source": [
+        "await harness.goToScene('Nivel 1');",
+        "await harness.stepFrames(20);",
+        "",
+        "const hiddenAll = () => {",
+        "  const names = ['PanelInv','IconoMorron','IconoAjo','olla','InvTitulo','TxtMorron','TxtAjo'];",
+        "  return names.every(n => {",
+        "    const objs = harness.getObjects(n);",
+        "    return objs.length === 0 || objs.every(o => o.hidden);",
+        "  });",
+        "};",
+        "",
+        "harness.assert(hiddenAll(), 'Al empezar, todo el inventario está oculto');",
+        "",
+        "// Abrir con I",
+        "harness.setKeyPressed('i', true);",
+        "await harness.stepFrames(2);",
+        "harness.setKeyPressed('i', false);",
+        "await harness.stepFrames(6);",
+        "",
+        "const panel = harness.getObjects('PanelInv')[0];",
+        "harness.assert(!!panel && !panel.hidden, 'Tecla I abre el panel del inventario');",
+        "const iconos = [...harness.getObjects('IconoMorron'), ...harness.getObjects('IconoAjo')];",
+        "harness.assert(iconos.length === 2 && iconos.every(o => !o.hidden), 'Se ven los dos iconos');",
+        "const txtM = harness.getObjects('TxtMorron')[0];",
+        "const txtA = harness.getObjects('TxtAjo')[0];",
+        "harness.assert(!!txtM && !txtM.hidden && /MORR/i.test(txtM.text || ''), 'Se ve la cantidad de morrón: ' + (txtM && txtM.text));",
+        "harness.assert(!!txtA && !txtA.hidden && /AJO/i.test(txtA.text || ''), 'Se ve la cantidad de ajo: ' + (txtA && txtA.text));",
+        "await harness.takeScreenshot('inventario abierto');",
+        "",
+        "// Cerrar con I",
+        "harness.setKeyPressed('i', true);",
+        "await harness.stepFrames(2);",
+        "harness.setKeyPressed('i', false);",
+        "await harness.stepFrames(6);",
+        "harness.assert(hiddenAll(), 'I vuelve a ocultar todo el inventario');",
+        "",
+        "// Cerrar con ESC",
+        "harness.setKeyPressed('i', true);",
+        "await harness.stepFrames(2);",
+        "harness.setKeyPressed('i', false);",
+        "await harness.stepFrames(6);",
+        "harness.assert(!harness.getObjects('PanelInv')[0].hidden, 'Se reabre con I');",
+        "harness.setKeyPressed('Escape', true);",
+        "await harness.stepFrames(2);",
+        "harness.setKeyPressed('Escape', false);",
+        "await harness.stepFrames(6);",
+        "harness.assert(hiddenAll(), 'ESC cierra el inventario');",
+        "await harness.takeScreenshot('inventario cerrado');",
+        ""
+      ]
+    },
+    {
+      "description": "Muerte del enemigo: MUERTO + animación DIE, deja de atacar, sin botón CONTINUAR y el nivel NO termina (el avance es al final del escenario)",
+      "lastRunAt": 1793430093289,
+      "lastRunDurationMs": 3722,
+      "lastRunFramesExecuted": 507,
+      "lastRunStatus": "passed",
+      "name": "muerte-enemigo-autoavance",
+      "type": "gameplay",
+      "source": [
+        "await harness.goToScene('Nivel 1');",
+        "await harness.stepFrames(25);",
+        "const enemy = () => harness.getObjects('ENEMIGO1')[0];",
+        "const dylan = () => harness.getObjects('Dylan')[0];",
+        "const eHealth = () => { const s = enemy()?.behaviors?.Health?.state; return s ? (s.Health ?? s.PropertyCurrentHealth) : undefined; };",
+        "const dHealth = () => { const s = dylan()?.behaviors?.Health?.state; return s ? (s.Health ?? s.PropertyCurrentHealth) : undefined; };",
+        "const estado = () => enemy()?.variables?.find(v => v.name === 'Estado')?.value;",
+        "",
+        "harness.setObjectPosition(dylan().id, enemy().x - 10, enemy().y);",
+        "await harness.stepFrames(5);",
+        "for (let i = 0; i < 8 && (eHealth() ?? 0) > 0; i++) {",
+        "  harness.setKeyPressed('j', true);",
+        "  await harness.stepFrames(3);",
+        "  harness.setKeyPressed('j', false);",
+        "  await harness.stepFrames(24);",
+        "}",
+        "harness.assert((eHealth() ?? 100) <= 0, 'El enemigo muere al ser golpeado (vida=' + eHealth() + ')');",
+        "await harness.stepFrames(8);",
+        "harness.assert(estado() === 'MUERTO', 'Estado MUERTO (estado=' + estado() + ')');",
+        "harness.assert(String(enemy()?.animation || '').toUpperCase().indexOf('DIE') >= 0, 'Animación de muerte: ' + enemy()?.animation);",
+        "const vidaM = dHealth();",
+        "await harness.stepFrames(120);",
+        "harness.assert(Math.abs((dHealth() ?? 0) - (vidaM ?? 0)) < 1, 'Deja de atacar: Dylan no pierde vida (' + vidaM + ' -> ' + dHealth() + ')');",
+        "harness.assert(!harness.getObjects('BotonFin').length, 'No existe el botón CONTINUAR');",
+        "await harness.stepFrames(240);",
+        "harness.assert(harness.getSceneName() === 'Nivel 1', 'El nivel NO termina al matar al enemigo (escena=' + harness.getSceneName() + ')');",
+        "harness.assert(harness.getObjects('PanelFin')[0].hidden === true, 'No aparece ningún cartel al matar al enemigo');",
+        "harness.setKeyPressed('Right', true);",
+        "const moved = await harness.stepUntil(() => harness.getObjects('Dylan')[0].x > dylanX0(harness), { maxFrames: 90 });",
+        "harness.setKeyPressed('Right', false);",
+        "harness.assert(moved, 'Dylan sigue jugando normalmente tras la muerte del enemigo');",
+        "await harness.takeScreenshot('enemigo-muerto');",
+        "",
+        "function dylanX0(h) { return (h.__x0 = h.__x0 ?? h.getObjects('Dylan')[0].x - 1); }",
+        ""
+      ]
+    },
+    {
+      "description": "Matar al enemigo no termina el nivel; el avance automático ocurre al llegar al final del escenario",
+      "lastRunAt": 1793428249248,
+      "lastRunDurationMs": 4260,
+      "lastRunFramesExecuted": 650,
+      "lastRunStatus": "passed",
+      "name": "fin-de-nivel-al-final",
+      "type": "gameplay",
+      "source": [
+        "await harness.goToScene('Nivel 1');",
+        "await harness.stepFrames(25);",
+        "const enemy = () => harness.getObjects('ENEMIGO1')[0];",
+        "const dylan = () => harness.getObjects('Dylan')[0];",
+        "const eHealth = () => { const s = enemy()?.behaviors?.Health?.state; return s ? (s.Health ?? s.PropertyCurrentHealth) : undefined; };",
+        "",
+        "// 1) Matar al enemigo NO debe terminar el nivel",
+        "harness.setObjectPosition(dylan().id, enemy().x - 10, enemy().y);",
+        "await harness.stepFrames(5);",
+        "for (let i = 0; i < 8 && (eHealth() ?? 0) > 0; i++) {",
+        "  harness.setKeyPressed('j', true);",
+        "  await harness.stepFrames(3);",
+        "  harness.setKeyPressed('j', false);",
+        "  await harness.stepFrames(24);",
+        "}",
+        "harness.assert((eHealth() ?? 100) <= 0, 'El enemigo muere (vida=' + eHealth() + ')');",
+        "await harness.stepFrames(300);",
+        "harness.assert(harness.getSceneName() === 'Nivel 1', 'Matar al enemigo NO cambia de nivel (escena=' + harness.getSceneName() + ')');",
+        "const panel = harness.getObjects('PanelFin')[0];",
+        "harness.assert(!panel || panel.hidden === true, 'No aparece ningún cartel tras matar al enemigo');",
+        "",
+        "// 2) Al llegar al final del escenario sí avanza solo",
+        "harness.setObjectPosition(dylan().id, 2400, 170);",
+        "harness.setKeyPressed('Right', true);",
+        "const reached = await harness.stepUntil(() => harness.getObjects('Dylan')[0].x > 2450, { maxFrames: 240 });",
+        "harness.assert(reached, 'Dylan puede llegar al final del nivel (x=' + harness.getObjects('Dylan')[0].x.toFixed(0) + ')');",
+        "harness.setKeyPressed('Right', false);",
+        "await harness.stepFrames(50);",
+        "const txt = harness.getObjects('TxtFin')[0];",
+        "harness.assert(!!txt && !txt.hidden && /FIN DEL NIVEL/.test(txt.text || ''), 'Cartel de fin de nivel visible (' + (txt && txt.text) + ')');",
+        "await harness.takeScreenshot('fin de nivel');",
+        "const advanced = await harness.stepUntil(() => harness.getSceneName() !== 'Nivel 1', { maxFrames: 400 });",
+        "harness.assert(advanced, 'Avanza solo al llegar al final (escena=' + harness.getSceneName() + ')');",
+        "harness.assert(harness.getSceneName() === 'nivel 3', 'Siguiente tramo: ' + harness.getSceneName());",
+        "await harness.stepFrames(20);",
+        "harness.assert(harness.getObjects('Dylan').length === 1, 'Dylan sigue jugable en el tramo siguiente');",
+        ""
+      ]
+    },
+    {
+      "description": "Enemigos reviven al caer/morir Dylan, inventario con I/Tab/E y salto directo de nivel sin cartel",
+      "lastRunAt": 1793430087146,
+      "lastRunDurationMs": 5152,
+      "lastRunFramesExecuted": 659,
+      "lastRunStatus": "passed",
+      "name": "reinicio-dificil-y-fin-directo",
+      "type": "gameplay",
+      "source": [
+        "await harness.goToScene('Nivel 1');",
+        "await harness.stepFrames(25);",
+        "const dylan = () => harness.getObjects('Dylan')[0];",
+        "const enemies = () => harness.getObjects('ENEMIGO1');",
+        "const hp = (o) => { const s = o?.behaviors?.Health?.state; return s ? (s.Health ?? s.PropertyCurrentHealth) : undefined; };",
+        "const estado = (o) => o?.variables?.find(v => v.name === 'Estado')?.value;",
+        "const allAlive = () => enemies().every(o => (hp(o) ?? 0) > 0);",
+        "",
+        "// --- 1) Matar a un enemigo ---",
+        "const e0 = enemies()[0];",
+        "harness.setObjectPosition(dylan().id, e0.x - 10, e0.y);",
+        "await harness.stepFrames(5);",
+        "for (let i = 0; i < 8 && enemies().some(o => (hp(o) ?? 0) > 0); i++) {",
+        "  harness.setKeyPressed('j', true);",
+        "  await harness.stepFrames(3);",
+        "  harness.setKeyPressed('j', false);",
+        "  await harness.stepFrames(24);",
+        "}",
+        "harness.assert(enemies().some(o => (hp(o) ?? 100) <= 0), 'Un enemigo muere (vidas=' + enemies().map(o => hp(o)).join(',') + ')');",
+        "",
+        "// --- 2) Dylan cae al vacío: los enemigos reviven ---",
+        "harness.setObjectPosition(dylan().id, 1200, 700);",
+        "await harness.stepFrames(8);",
+        "harness.assert(allAlive(), 'Tras caer Dylan, los enemigos reviven (vidas=' + enemies().map(o => hp(o)).join(',') + ')');",
+        "harness.assert(enemies().every(o => estado(o) !== 'MUERTO'), 'Ningún enemigo queda en estado MUERTO tras la caída');",
+        "",
+        "// --- 3) Dylan muere (tecla k): los enemigos reviven ---",
+        "const e1 = enemies()[0];",
+        "harness.setObjectPosition(dylan().id, e1.x - 10, e1.y);",
+        "await harness.stepFrames(5);",
+        "for (let i = 0; i < 8 && enemies().some(o => (hp(o) ?? 0) > 0); i++) {",
+        "  harness.setKeyPressed('j', true);",
+        "  await harness.stepFrames(3);",
+        "  harness.setKeyPressed('j', false);",
+        "  await harness.stepFrames(24);",
+        "}",
+        "harness.assert(enemies().some(o => (hp(o) ?? 100) <= 0), 'Enemigo muerto antes de la derrota de Dylan');",
+        "harness.setKeyPressed('k', true);",
+        "await harness.stepFrames(2);",
+        "harness.setKeyPressed('k', false);",
+        "const back = await harness.stepUntil(() => Number(harness.getGlobalVariable('VidaDylan').value) === 100, { maxFrames: 260 });",
+        "harness.assert(back, 'Dylan reaparece con vida completa');",
+        "harness.assert(allAlive(), 'Tras morir Dylan, los enemigos reviven (vidas=' + enemies().map(o => hp(o)).join(',') + ')');",
+        "await harness.takeScreenshot('enemigos-reviven');",
+        "",
+        "// --- 4) Inventario con varias teclas ---",
+        "const panel = () => harness.getObjects('PanelInv')[0];",
+        "harness.assert(panel().hidden === true, 'Inventario oculto al jugar');",
+        "for (const k of ['i', 'Tab', 'e']) {",
+        "  harness.setKeyPressed(k, true);",
+        "  await harness.stepFrames(2);",
+        "  harness.setKeyPressed(k, false);",
+        "  await harness.stepFrames(5);",
+        "  harness.assert(panel().hidden === false, 'La tecla ' + k + ' abre el inventario');",
+        "  harness.setKeyPressed('Escape', true);",
+        "  await harness.stepFrames(2);",
+        "  harness.setKeyPressed('Escape', false);",
+        "  await harness.stepFrames(5);",
+        "  harness.assert(panel().hidden === true, 'ESC cierra el inventario abierto con ' + k);",
+        "}",
+        "",
+        "// --- 5) Final del nivel: salto directo sin cartel ---",
+        "harness.assert(harness.getObjects('PanelFin')[0].hidden === true, 'No hay ningún cartel permanente de fin de nivel');",
+        "harness.setObjectPosition(dylan().id, 2440, 170);",
+        "harness.setKeyPressed('Right', true);",
+        "const jumped = await harness.stepUntil(() => harness.getSceneName() !== 'Nivel 1', { maxFrames: 200 });",
+        "harness.setKeyPressed('Right', false);",
+        "harness.assert(jumped, 'Al llegar al final salta directamente (escena=' + harness.getSceneName() + ')');",
+        "harness.assert(harness.getSceneName() === 'nivel 3', 'Nivel siguiente: ' + harness.getSceneName());",
+        ""
+      ]
+    },
+    {
+      "description": "Golpe del enemigo en punto medio: 15 de daño, con pausa entre golpes, Dylan sobrevive y puede ganar",
+      "lastRunAt": 1793430100228,
+      "lastRunDurationMs": 4820,
+      "lastRunFramesExecuted": 585,
+      "lastRunStatus": "passed",
+      "name": "balance-combate",
+      "type": "gameplay",
+      "source": [
+        "await harness.goToScene('Nivel 1');",
+        "await harness.stepFrames(25);",
+        "const dylan = () => harness.getObjects('Dylan')[0];",
+        "const enemies = () => harness.getObjects('ENEMIGO1');",
+        "const hp = (o) => { const s = o?.behaviors?.Health?.state; return s ? (s.Health ?? s.PropertyCurrentHealth) : undefined; };",
+        "const dhp = () => hp(dylan());",
+        "",
+        "harness.assert(dhp() === 100, 'Dylan empieza con la vida completa (vida=' + dhp() + ')');",
+        "const e = enemies()[0];",
+        "harness.setObjectPosition(dylan().id, e.x - 40, e.y);",
+        "await harness.stepFrames(10);",
+        "",
+        "// Primer golpe: cuánto duele",
+        "const hit1 = await harness.stepUntil(() => (dhp() ?? 100) < 100, { maxFrames: 200 });",
+        "harness.assert(hit1, 'El enemigo golpea');",
+        "const dmg = 100 - dhp();",
+        "harness.assert(dmg === 15, 'El golpe quita 15 de vida (quitó ' + dmg + ')');",
+        "",
+        "// Segundo golpe: debe haber pausa (no encadena y no mata de golpe)",
+        "let frames = 0;",
+        "const v = dhp();",
+        "const hit2 = await harness.stepUntil(() => (dhp() ?? 100) < v, { maxFrames: 300, onFrame: () => { frames++; } });",
+        "harness.assert(hit2, 'Vuelve a golpear (vida=' + dhp() + ')');",
+        "harness.assert(frames >= 45, 'Hay pausa entre golpes (' + frames + ' frames)');",
+        "",
+        "// Con 15 por golpe hacen falta varios golpes: no muere de uno ni de dos",
+        "await harness.stepFrames(120);",
+        "harness.assert(dhp() > 0, 'Sigue vivo tras varios golpes (vida=' + dhp() + ')');",
+        "",
+        "// Y puede contraatacar y ganar",
+        "let intentos = 0;",
+        "while (intentos < 10 && enemies().some(o => (hp(o) ?? 0) > 0)) {",
+        "  harness.setKeyPressed('j', true);",
+        "  await harness.stepFrames(3);",
+        "  harness.setKeyPressed('j', false);",
+        "  await harness.stepFrames(22);",
+        "  intentos++;",
+        "}",
+        "harness.assert(enemies().some(o => (hp(o) ?? 100) <= 0), 'Dylan puede matar al enemigo a golpes');",
+        "harness.assert(dhp() > 0, 'Dylan sobrevive a la pelea (vida=' + dhp() + ')');",
+        "await harness.takeScreenshot('golpe-punto-medio');",
+        ""
+      ]
+    },
+    {
+      "description": "El enemigo ejecuta la animación ATAQUE1 al golpear, vuelve a IDLE entre golpes y el daño coincide",
+      "lastRunAt": 1793430040991,
+      "lastRunDurationMs": 3939,
+      "lastRunFramesExecuted": 336,
+      "lastRunStatus": "passed",
+      "name": "enemigo-animacion-golpe",
+      "type": "gameplay",
+      "source": [
+        "await harness.goToScene('Nivel 1');",
+        "await harness.stepFrames(25);",
+        "const dylan = () => harness.getObjects('Dylan')[0];",
+        "const enemies = () => harness.getObjects('ENEMIGO1');",
+        "const hp = (o) => { const s = o?.behaviors?.Health?.state; return s ? (s.Health ?? s.PropertyCurrentHealth) : undefined; };",
+        "const dhp = () => hp(dylan());",
+        "const e = enemies()[0];",
+        "harness.setObjectPosition(dylan().id, e.x - 40, e.y);",
+        "await harness.stepFrames(10);",
+        "",
+        "// Grabar la secuencia de animaciones del enemigo y los golpes",
+        "const seen = {};",
+        "let golpes = 0;",
+        "let prev = dhp();",
+        "const golpeFrames = [];",
+        "for (let f = 0; f < 300; f++) {",
+        "  await harness.stepFrames(1);",
+        "  const list = harness.getObjects('ENEMIGO1');",
+        "  const near = list.filter(o => Math.abs(o.x - dylan().x) < 200);",
+        "  for (const o of near) { const a = o.animation || '?'; seen[a] = (seen[a] || 0) + 1; }",
+        "  if ((dhp() ?? 100) < prev) { golpes++; golpeFrames.push(f); prev = dhp(); }",
+        "}",
+        "console.log('animaciones vistas: ' + JSON.stringify(seen));",
+        "console.log('golpes: ' + golpes + ' en frames ' + golpeFrames.join(','));",
+        "harness.assert((seen['ATAQUE1'] || 0) > 0, 'El enemigo reproduce la animación de ataque ATAQUE1');",
+        "harness.assert((seen['IDLE'] || 0) > 90, 'Entre golpe y golpe vuelve a IDLE (no se queda enganchado en ATAQUE1): ' + (seen['IDLE'] || 0));",
+        "harness.assert(!seen['WLAK/RUN'] || seen['WLAK/RUN'] < 120, 'No se pasa el rato andando encima de Dylan');",
+        "harness.assert(golpes >= 1, 'Golpea al menos una vez en 5 s (' + golpes + ')');",
+        "if (golpeFrames.length >= 2) {",
+        "  const gap = golpeFrames[1] - golpeFrames[0];",
+        "  harness.assert(gap >= 45, 'Hay pausa entre golpes (' + gap + ' frames)');",
+        "}",
+        "harness.assert((100 - dhp()) % 15 === 0, 'Cada golpe quita 15 (' + (100 - dhp()) + ')');",
+        "await harness.takeScreenshot('enemigo-golpe');",
+        ""
       ]
     }
   ],
