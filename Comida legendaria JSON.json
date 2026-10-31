@@ -3184,6 +3184,13 @@
         }
       },
       {
+        "file": "Handjet-VariableFont_ELGR,ELSH,wght.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Handjet-VariableFont_ELGR,ELSH,wght.ttf",
+        "userAdded": false
+      },
+      {
         "file": "PixelifySans-VariableFont_wght.ttf",
         "kind": "font",
         "metadata": "",
@@ -3203,160 +3210,6 @@
         "metadata": "",
         "name": "PixelifySans-VariableFont_wght3.ttf",
         "userAdded": false
-      },
-      {
-        "file": "PixelifySans-VariableFont_wght4.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "PixelifySans-VariableFont_wght4.ttf",
-        "userAdded": false
-      },
-      {
-        "file": "PixelifySans-VariableFont_wght5.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "PixelifySans-VariableFont_wght5.ttf",
-        "userAdded": false
-      },
-      {
-        "file": "PixelifySans-VariableFont_wght6.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "PixelifySans-VariableFont_wght6.ttf",
-        "userAdded": false
-      },
-      {
-        "file": "PixelifySans-VariableFont_wght7.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "PixelifySans-VariableFont_wght7.ttf",
-        "userAdded": false
-      },
-      {
-        "file": "PixelifySans-VariableFont_wght8.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "PixelifySans-VariableFont_wght8.ttf",
-        "userAdded": false
-      },
-      {
-        "file": "PixelifySans-VariableFont_wght9.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "PixelifySans-VariableFont_wght9.ttf",
-        "userAdded": false
-      },
-      {
-        "file": "PixelifySans-VariableFont_wght10.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "PixelifySans-VariableFont_wght10.ttf",
-        "userAdded": false
-      },
-      {
-        "file": "PixelifySans-VariableFont_wght11.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "PixelifySans-VariableFont_wght11.ttf",
-        "userAdded": false
-      },
-      {
-        "file": "PixelifySans-VariableFont_wght12.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "PixelifySans-VariableFont_wght12.ttf",
-        "userAdded": false
-      },
-      {
-        "file": "PixelifySans-VariableFont_wght13.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "PixelifySans-VariableFont_wght13.ttf",
-        "userAdded": false
-      },
-      {
-        "file": "PixelifySans-VariableFont_wght14.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "PixelifySans-VariableFont_wght14.ttf",
-        "userAdded": false
-      },
-      {
-        "file": "PixelifySans-VariableFont_wght15.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "PixelifySans-VariableFont_wght15.ttf",
-        "userAdded": false
-      },
-      {
-        "file": "PixelifySans-VariableFont_wght16.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "PixelifySans-VariableFont_wght16.ttf",
-        "userAdded": false
-      },
-      {
-        "file": "PixelifySans-VariableFont_wght17.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "PixelifySans-VariableFont_wght17.ttf",
-        "userAdded": false
-      },
-      {
-        "file": "PixelifySans-VariableFont_wght18.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "PixelifySans-VariableFont_wght18.ttf",
-        "userAdded": false
-      },
-      {
-        "file": "PixelifySans-VariableFont_wght19.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "PixelifySans-VariableFont_wght19.ttf",
-        "userAdded": false
-      },
-      {
-        "file": "PixelifySans-VariableFont_wght20.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "PixelifySans-VariableFont_wght20.ttf",
-        "userAdded": false
-      },
-      {
-        "file": "PixelifySans-VariableFont_wght21.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "PixelifySans-VariableFont_wght21.ttf",
-        "userAdded": false
-      },
-      {
-        "file": "PixelifySans-VariableFont_wght22.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "PixelifySans-VariableFont_wght22.ttf",
-        "userAdded": false
-      },
-      {
-        "file": "Handjet-VariableFont_ELGR,ELSH,wght.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "Handjet-VariableFont_ELGR,ELSH,wght.ttf",
-        "userAdded": false
-      },
-      {
-        "file": "PixelifySans-VariableFont_wght23.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "PixelifySans-VariableFont_wght23.ttf",
-        "userAdded": false
-      },
-      {
-        "file": "PixelifySans-VariableFont_wght24.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "PixelifySans-VariableFont_wght24.ttf",
-        "userAdded": false
       }
     ]
   },
@@ -3368,7 +3221,23 @@
       "persistentUuid": "0924012c-84c4-4103-b02d-c39a8d26aff4",
       "type": "Sprite",
       "updateIfNotVisible": false,
-      "variables": [],
+      "variables": [
+        {
+          "name": "Salud",
+          "type": "number",
+          "value": 100
+        },
+        {
+          "name": "SaludMax",
+          "type": "number",
+          "value": 100
+        },
+        {
+          "name": "Invulnerable",
+          "type": "number",
+          "value": 0
+        }
+      ],
       "effects": [],
       "behaviors": [
         {
@@ -4991,6 +4860,1545 @@
         "PreviousHighValueDuration": 0,
         "EasingDuration": 0.25
       }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "ENEMIGO1",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "name": "Estado",
+          "persistentUuid": "4c86c157-2a13-4d0a-9dbd-1df44a7d7a9f",
+          "type": "string",
+          "value": "IDLE"
+        },
+        {
+          "name": "Salud",
+          "persistentUuid": "4d1e10dd-348c-4b65-9498-7080597d25fd",
+          "type": "number",
+          "value": 100
+        },
+        {
+          "name": "SaludMax",
+          "persistentUuid": "ee594005-606d-481f-a77c-3cf53f1472fd",
+          "type": "number",
+          "value": 100
+        },
+        {
+          "name": "RangoDeteccion",
+          "persistentUuid": "f5b752fb-27b0-4b00-86fd-59223fdec766",
+          "type": "number",
+          "value": 300
+        },
+        {
+          "name": "Velocidad",
+          "persistentUuid": "bce23578-00b9-4fb5-9436-2c058a9b395d",
+          "type": "number",
+          "value": 120
+        },
+        {
+          "name": "CoolDownAtaque",
+          "persistentUuid": "aab24e50-7d73-4d4c-a7f8-54b5357a38e0",
+          "type": "number",
+          "value": 0
+        }
+      ],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "IDLE",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "IDLE2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "IDLE3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "IDLE4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "IDLE5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "IDLE6",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "WLAK/RUN",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "kioskero frames/WALK-RUN/1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "kioskero frames/WALK-RUN/3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "kioskero frames/WALK-RUN/4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "kioskero frames/WALK-RUN/5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "kioskero frames/WALK-RUN/6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "kioskero frames/WALK-RUN/7.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "kioskero frames/WALK-RUN/8.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "JUMP",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "kioskero frames/JUMP/1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "kioskero frames/JUMP/2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "kioskero frames/JUMP/3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "kioskero frames/JUMP/4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "kioskero frames/JUMP/5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "kioskero frames/JUMP/6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "HURT",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "kioskero frames/HURT/1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "kioskero frames/HURT/2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "kioskero frames/HURT/3 (1).png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ATAQUE1",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "kioskero frames/ATAQUE/1 (1).png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "kioskero frames/ATAQUE/2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "kioskero frames/ATAQUE/3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "kioskero frames/ATAQUE/4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "kioskero frames/ATAQUE/5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ATAQUE2",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "kioskero frames/ATAQUE 2/1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "kioskero frames/ATAQUE 2/2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "kioskero frames/ATAQUE 2/3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "kioskero frames/ATAQUE 2/4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "kioskero frames/ATAQUE 2/5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "kioskero frames/ATAQUE 2/6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "kioskero frames/ATAQUE 2/7.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "DIE",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "kioskero frames/DIE/1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "kioskero frames/DIE/2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "kioskero frames/DIE/3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "kioskero frames/DIE/4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "kioskero frames/DIE/5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "kioskero frames/DIE/6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 8
+                      },
+                      {
+                        "x": 49,
+                        "y": 51
+                      },
+                      {
+                        "x": 9,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -5015,6 +6423,9 @@
         "objectName": "White1BitPixelBar"
       },
       {
+        "objectName": "ENEMIGO1"
+      },
+      {
         "objectName": "pared"
       }
     ]
@@ -5023,51 +6434,61 @@
   "variables": [
     {
       "name": "MusicaReintentada",
+      "persistentUuid": "9a0cf067-31e2-4aa3-b9b5-05b70edbae2e",
       "type": "boolean",
       "value": false
     },
     {
       "name": "DylanSeleccionado",
+      "persistentUuid": "4058e556-3cc3-45a4-99fa-f21686042a16",
       "type": "boolean",
       "value": true
     },
     {
       "name": "MusicaIniciada",
+      "persistentUuid": "f19d44ad-a921-4662-86e4-68ef01d6a1b8",
       "type": "boolean",
       "value": false
     },
     {
       "name": "VolSfx",
+      "persistentUuid": "6e8c9c79-f946-4218-840c-a2dbc68741d0",
       "type": "number",
       "value": 100
     },
     {
       "name": "VolMusica",
+      "persistentUuid": "f5c6fc4a-b414-40f0-9dc6-42994eda1815",
       "type": "number",
       "value": 80
     },
     {
       "name": "VolGeneral",
+      "persistentUuid": "a44876c9-6ce7-40a3-83b2-5cc7e4d2d7fb",
       "type": "number",
       "value": 100
     },
     {
       "name": "InvAbierto",
+      "persistentUuid": "f72eb24d-b947-4d23-ae5d-359bcb40284e",
       "type": "boolean",
       "value": true
     },
     {
       "name": "Ajo",
+      "persistentUuid": "dd2bdcb5-c9db-4e71-9323-4034ca167da5",
       "type": "number",
       "value": 0
     },
     {
       "name": "Morron",
+      "persistentUuid": "832987c8-a3b2-468c-b238-eb54f65304cf",
       "type": "number",
       "value": 0
     },
     {
       "name": "VidaDylan",
+      "persistentUuid": "0f92731e-9c84-4364-9af6-450710f20194",
       "type": "number",
       "value": 100
     }
@@ -5096,7 +6517,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.2771578358760673,
+        "zoomFactor": 1.6652100870933333,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -5105,21 +6526,25 @@
       "variables": [
         {
           "name": "MusicaReintentada",
+          "persistentUuid": "bf5df9c8-20fb-4e59-9f0e-bbe0da3e66cb",
           "type": "boolean",
           "value": false
         },
         {
           "name": "SeleccionAnterior",
+          "persistentUuid": "c98c1023-a97e-4896-954e-4684f4ecec0c",
           "type": "number",
           "value": 0
         },
         {
           "name": "Bloqueo",
+          "persistentUuid": "73c0d6d4-3154-4f0d-8f8f-80f5a2817e89",
           "type": "boolean",
           "value": false
         },
         {
           "name": "Seleccion",
+          "persistentUuid": "cae9776c-4e06-45cc-bea2-76642d3fad8f",
           "type": "number",
           "value": 0
         }
@@ -5372,7 +6797,7 @@
           "effects": [],
           "behaviors": [],
           "string": "COMIDA LEGENDARIA",
-          "font": "PixelifySans-VariableFont_wght6.ttf",
+          "font": "PixelifySans-VariableFont_wght.ttf",
           "textAlignment": "center",
           "characterSize": 30,
           "color": {
@@ -5395,7 +6820,7 @@
             "smoothed": true,
             "underlined": false,
             "text": "COMIDA LEGENDARIA",
-            "font": "PixelifySans-VariableFont_wght6.ttf",
+            "font": "PixelifySans-VariableFont_wght.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
             "characterSize": 30,
@@ -5501,7 +6926,7 @@
           "effects": [],
           "behaviors": [],
           "string": "VOLUMEN",
-          "font": "PixelifySans-VariableFont_wght3.ttf",
+          "font": "PixelifySans-VariableFont_wght.ttf",
           "textAlignment": "center",
           "characterSize": 16,
           "color": {
@@ -5524,7 +6949,7 @@
             "smoothed": true,
             "underlined": false,
             "text": "VOLUMEN",
-            "font": "PixelifySans-VariableFont_wght3.ttf",
+            "font": "PixelifySans-VariableFont_wght.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
             "characterSize": 16,
@@ -5544,7 +6969,7 @@
           "effects": [],
           "behaviors": [],
           "string": "CRÉDITOS",
-          "font": "PixelifySans-VariableFont_wght4.ttf",
+          "font": "PixelifySans-VariableFont_wght.ttf",
           "textAlignment": "center",
           "characterSize": 16,
           "color": {
@@ -5567,7 +6992,7 @@
             "smoothed": true,
             "underlined": false,
             "text": "CRÉDITOS",
-            "font": "PixelifySans-VariableFont_wght4.ttf",
+            "font": "PixelifySans-VariableFont_wght.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
             "characterSize": 16,
@@ -5630,7 +7055,7 @@
           "effects": [],
           "behaviors": [],
           "string": "FLECHAS: ELEGIR   ENTER / Z: ACEPTAR",
-          "font": "PixelifySans-VariableFont_wght5.ttf",
+          "font": "PixelifySans-VariableFont_wght.ttf",
           "textAlignment": "center",
           "characterSize": 10,
           "color": {
@@ -5653,7 +7078,7 @@
             "smoothed": true,
             "underlined": false,
             "text": "FLECHAS: ELEGIR   ENTER / Z: ACEPTAR",
-            "font": "PixelifySans-VariableFont_wght5.ttf",
+            "font": "PixelifySans-VariableFont_wght.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
             "characterSize": 10,
@@ -6902,6 +8327,104 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "ENEMIGO1",
+                "Animation",
+                "=",
+                "\"IDLE\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Distance"
+              },
+              "parameters": [
+                "ENEMIGO1",
+                "Dylan",
+                "ENEMIGO1.RangoDeteccion",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "NumberObjectVariable"
+              },
+              "parameters": [
+                "ENEMIGO1",
+                "Salud",
+                ">",
+                "0"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetStringObjectVariable"
+              },
+              "parameters": [
+                "ENEMIGO1",
+                "Estado",
+                "=",
+                "\"PERSEGUIR\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "StringObjectVariable"
+              },
+              "parameters": [
+                "ENEMIGO1",
+                "Estado",
+                "=",
+                "\"PERSEGUIR\""
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberObjectVariable"
+              },
+              "parameters": [
+                "ENEMIGO1",
+                "Salud",
+                ">",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "Distance"
+              },
+              "parameters": [
+                "ENEMIGO1",
+                "Dylan",
+                "ENEMIGO1.RangoDeteccion",
+                ""
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": []
+            }
+          ]
         }
       ],
       "layers": [
@@ -7043,7 +8566,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 2.3982953556444326,
+        "zoomFactor": 2.031830047252694,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -7227,7 +8750,7 @@
           "effects": [],
           "behaviors": [],
           "string": "CRÉDITOS",
-          "font": "PixelifySans-VariableFont_wght7.ttf",
+          "font": "PixelifySans-VariableFont_wght.ttf",
           "textAlignment": "center",
           "characterSize": 30,
           "color": {
@@ -7250,7 +8773,7 @@
             "smoothed": true,
             "underlined": false,
             "text": "CRÉDITOS",
-            "font": "PixelifySans-VariableFont_wght7.ttf",
+            "font": "PixelifySans-VariableFont_wght.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
             "characterSize": 30,
@@ -7270,7 +8793,7 @@
           "effects": [],
           "behaviors": [],
           "string": "ALUMNOS: \n\n● Avalos Victoria Inés\n\n● Peralta Cassutti Noah Nicanor\n\n● Gabriela María Sanchez\n\n● Bertorello Santiago Nicolas\n\n",
-          "font": "PixelifySans-VariableFont_wght8.ttf",
+          "font": "PixelifySans-VariableFont_wght.ttf",
           "textAlignment": "center",
           "characterSize": 11,
           "color": {
@@ -7293,7 +8816,7 @@
             "smoothed": true,
             "underlined": false,
             "text": "ALUMNOS: \n\n● Avalos Victoria Inés\n\n● Peralta Cassutti Noah Nicanor\n\n● Gabriela María Sanchez\n\n● Bertorello Santiago Nicolas\n\n",
-            "font": "PixelifySans-VariableFont_wght8.ttf",
+            "font": "PixelifySans-VariableFont_wght.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
             "characterSize": 11,
@@ -7356,7 +8879,7 @@
           "effects": [],
           "behaviors": [],
           "string": "GRACIAS POR JUGAR   -   ESC: VOLVER AL MENU",
-          "font": "PixelifySans-VariableFont_wght10.ttf",
+          "font": "PixelifySans-VariableFont_wght.ttf",
           "textAlignment": "center",
           "characterSize": 10,
           "color": {
@@ -7379,7 +8902,7 @@
             "smoothed": true,
             "underlined": false,
             "text": "GRACIAS POR JUGAR   -   ESC: VOLVER AL MENU",
-            "font": "PixelifySans-VariableFont_wght10.ttf",
+            "font": "PixelifySans-VariableFont_wght.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
             "characterSize": 10,
@@ -7885,7 +9408,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.6108903333303677,
+        "zoomFactor": 1.507508814700352,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -8240,7 +9763,7 @@
           "effects": [],
           "behaviors": [],
           "string": "MUTE",
-          "font": "Kenney Pixel.ttf",
+          "font": "PixelifySans-VariableFont_wght.ttf",
           "textAlignment": "center",
           "characterSize": 20,
           "color": {
@@ -8263,7 +9786,7 @@
             "smoothed": true,
             "underlined": false,
             "text": "MUTE",
-            "font": "Kenney Pixel.ttf",
+            "font": "PixelifySans-VariableFont_wght.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "center",
             "characterSize": 20,
@@ -8457,7 +9980,7 @@
           "effects": [],
           "behaviors": [],
           "string": "DYLAN",
-          "font": "PixelifySans-VariableFont_wght12.ttf",
+          "font": "PixelifySans-VariableFont_wght.ttf",
           "textAlignment": "left",
           "characterSize": 12,
           "color": {
@@ -8480,7 +10003,7 @@
             "smoothed": true,
             "underlined": false,
             "text": "DYLAN",
-            "font": "PixelifySans-VariableFont_wght12.ttf",
+            "font": "PixelifySans-VariableFont_wght.ttf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 12,
@@ -8500,7 +10023,7 @@
           "effects": [],
           "behaviors": [],
           "string": "La ciudad ardió hace años.",
-          "font": "PixelifySans-VariableFont_wght11.ttf",
+          "font": "PixelifySans-VariableFont_wght.ttf",
           "textAlignment": "left",
           "characterSize": 12,
           "color": {
@@ -8523,7 +10046,7 @@
             "smoothed": true,
             "underlined": false,
             "text": "La ciudad ardió hace años.",
-            "font": "PixelifySans-VariableFont_wght11.ttf",
+            "font": "PixelifySans-VariableFont_wght.ttf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 12,
@@ -8586,7 +10109,7 @@
           "effects": [],
           "behaviors": [],
           "string": "ENTER / Z: AVANZAR     ESC: VOLVER AL MENU",
-          "font": "PixelifySans-VariableFont_wght13.ttf",
+          "font": "PixelifySans-VariableFont_wght.ttf",
           "textAlignment": "center",
           "characterSize": 8,
           "color": {
@@ -8609,7 +10132,7 @@
             "smoothed": true,
             "underlined": false,
             "text": "ENTER / Z: AVANZAR     ESC: VOLVER AL MENU",
-            "font": "PixelifySans-VariableFont_wght13.ttf",
+            "font": "PixelifySans-VariableFont_wght.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
             "characterSize": 8,
@@ -21721,7 +23244,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.9077237084179928,
+        "zoomFactor": 0.5781032406270106,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -22747,1508 +24270,6 @@
             "lineHeight": 0,
             "color": "255;255;255"
           }
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "ENEMIGO1",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "IDLE",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "IDLE2",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "IDLE3",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "IDLE4",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "IDLE5",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "IDLE6",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "WLAK/RUN",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "kioskero frames/WALK-RUN/1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "kioskero frames/WALK-RUN/3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "kioskero frames/WALK-RUN/4.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "kioskero frames/WALK-RUN/5.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "kioskero frames/WALK-RUN/6.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "kioskero frames/WALK-RUN/7.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "kioskero frames/WALK-RUN/8.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "JUMP",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "kioskero frames/JUMP/1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "kioskero frames/JUMP/2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "kioskero frames/JUMP/3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "kioskero frames/JUMP/4.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "kioskero frames/JUMP/5.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "kioskero frames/JUMP/6.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "HURT",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "kioskero frames/HURT/1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "kioskero frames/HURT/2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "kioskero frames/HURT/3 (1).png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "ATAQUE1",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "kioskero frames/ATAQUE/1 (1).png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "kioskero frames/ATAQUE/2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "kioskero frames/ATAQUE/3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "kioskero frames/ATAQUE/4.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "kioskero frames/ATAQUE/5.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "ATAQUE2",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "kioskero frames/ATAQUE 2/1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "kioskero frames/ATAQUE 2/2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "kioskero frames/ATAQUE 2/3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "kioskero frames/ATAQUE 2/4.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "kioskero frames/ATAQUE 2/5.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "kioskero frames/ATAQUE 2/6.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "kioskero frames/ATAQUE 2/7.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "DIE",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "kioskero frames/DIE/1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "kioskero frames/DIE/2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "kioskero frames/DIE/3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "kioskero frames/DIE/4.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "kioskero frames/DIE/5.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "kioskero frames/DIE/6.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 8
-                          },
-                          {
-                            "x": 49,
-                            "y": 51
-                          },
-                          {
-                            "x": 9,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
         }
       ],
       "objectsFolderStructure": {
@@ -24283,9 +24304,6 @@
           },
           {
             "objectName": "TxtAjo"
-          },
-          {
-            "objectName": "ENEMIGO1"
           }
         ]
       },
@@ -31101,7 +31119,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.4583333333333357,
+        "zoomFactor": 2.24438083343283,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -31223,8 +31241,8 @@
           "name": "BotonVolver",
           "persistentUuid": "638e7b1b-7647-4865-98eb-49c3719ad19d",
           "width": 88,
-          "x": 376,
-          "y": 236,
+          "x": 369,
+          "y": 239,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -31562,7 +31580,7 @@
           "effects": [],
           "behaviors": [],
           "string": "PERSONAJES DE LA HISTORIA",
-          "font": "Kenney Pixel.ttf",
+          "font": "PixelifySans-VariableFont_wght.ttf",
           "textAlignment": "center",
           "characterSize": 18,
           "color": {
@@ -31585,7 +31603,7 @@
             "smoothed": true,
             "underlined": false,
             "text": "PERSONAJES DE LA HISTORIA",
-            "font": "Kenney Pixel.ttf",
+            "font": "PixelifySans-VariableFont_wght.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
             "characterSize": 18,
@@ -31605,7 +31623,7 @@
           "effects": [],
           "behaviors": [],
           "string": "DYLAN",
-          "font": "PixelifySans-VariableFont_wght24.ttf",
+          "font": "PixelifySans-VariableFont_wght.ttf",
           "textAlignment": "center",
           "characterSize": 14,
           "color": {
@@ -31628,7 +31646,7 @@
             "smoothed": true,
             "underlined": false,
             "text": "DYLAN",
-            "font": "PixelifySans-VariableFont_wght24.ttf",
+            "font": "PixelifySans-VariableFont_wght.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
             "characterSize": 14,
@@ -31648,7 +31666,7 @@
           "effects": [],
           "behaviors": [],
           "string": "PROTAGONISTA",
-          "font": "PixelifySans-VariableFont_wght23.ttf",
+          "font": "PixelifySans-VariableFont_wght.ttf",
           "textAlignment": "center",
           "characterSize": 10,
           "color": {
@@ -31671,7 +31689,7 @@
             "smoothed": true,
             "underlined": false,
             "text": "PROTAGONISTA",
-            "font": "PixelifySans-VariableFont_wght23.ttf",
+            "font": "PixelifySans-VariableFont_wght.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
             "characterSize": 10,
@@ -31907,7 +31925,7 @@
           "effects": [],
           "behaviors": [],
           "string": "KIOSKERO",
-          "font": "PixelifySans-VariableFont_wght24.ttf",
+          "font": "PixelifySans-VariableFont_wght.ttf",
           "textAlignment": "center",
           "characterSize": 14,
           "color": {
@@ -31930,7 +31948,7 @@
             "smoothed": true,
             "underlined": false,
             "text": "KIOSKERO",
-            "font": "PixelifySans-VariableFont_wght24.ttf",
+            "font": "PixelifySans-VariableFont_wght.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
             "characterSize": 14,
@@ -32012,7 +32030,7 @@
           "effects": [],
           "behaviors": [],
           "string": "CARNICERO",
-          "font": "PixelifySans-VariableFont_wght24.ttf",
+          "font": "PixelifySans-VariableFont_wght.ttf",
           "textAlignment": "center",
           "characterSize": 14,
           "color": {
@@ -32035,7 +32053,7 @@
             "smoothed": true,
             "underlined": false,
             "text": "CARNICERO",
-            "font": "PixelifySans-VariableFont_wght24.ttf",
+            "font": "PixelifySans-VariableFont_wght.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
             "characterSize": 14,
@@ -32056,7 +32074,7 @@
           "effects": [],
           "behaviors": [],
           "string": "VIEJA BRUJA",
-          "font": "PixelifySans-VariableFont_wght24.ttf",
+          "font": "PixelifySans-VariableFont_wght3.ttf",
           "textAlignment": "center",
           "characterSize": 14,
           "color": {
@@ -32079,7 +32097,7 @@
             "smoothed": true,
             "underlined": false,
             "text": "VIEJA BRUJA",
-            "font": "PixelifySans-VariableFont_wght24.ttf",
+            "font": "PixelifySans-VariableFont_wght3.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
             "characterSize": 14,
@@ -32755,7 +32773,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 2.4791666666666665,
+        "zoomFactor": 2.1711683209893105,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -32816,8 +32834,8 @@
           "name": "TituloVolumen",
           "persistentUuid": "a162bc1b-0295-40f2-bd45-cd1a4c3060b5",
           "width": 400,
-          "x": 40,
-          "y": 34,
+          "x": 48,
+          "y": 36,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -32993,7 +33011,7 @@
           "persistentUuid": "e2da6ad7-298d-4d01-9523-b05e004737ef",
           "width": 88,
           "x": 196,
-          "y": 236,
+          "y": 241,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -33150,7 +33168,7 @@
           "effects": [],
           "behaviors": [],
           "string": "VOLUMEN",
-          "font": "Kenney Pixel.ttf",
+          "font": "PixelifySans-VariableFont_wght.ttf",
           "textAlignment": "center",
           "characterSize": 18,
           "color": {
@@ -33173,7 +33191,7 @@
             "smoothed": true,
             "underlined": false,
             "text": "VOLUMEN",
-            "font": "Kenney Pixel.ttf",
+            "font": "PixelifySans-VariableFont_wght.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
             "characterSize": 18,
@@ -33193,7 +33211,7 @@
           "effects": [],
           "behaviors": [],
           "string": "GENERAL",
-          "font": "Kenney Pixel.ttf",
+          "font": "PixelifySans-VariableFont_wght.ttf",
           "textAlignment": "left",
           "characterSize": 13,
           "color": {
@@ -33216,7 +33234,7 @@
             "smoothed": true,
             "underlined": false,
             "text": "GENERAL",
-            "font": "Kenney Pixel.ttf",
+            "font": "PixelifySans-VariableFont_wght.ttf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 13,
@@ -33236,7 +33254,7 @@
           "effects": [],
           "behaviors": [],
           "string": "MUSICA",
-          "font": "Kenney Pixel.ttf",
+          "font": "PixelifySans-VariableFont_wght.ttf",
           "textAlignment": "left",
           "characterSize": 13,
           "color": {
@@ -33259,7 +33277,7 @@
             "smoothed": true,
             "underlined": false,
             "text": "MUSICA",
-            "font": "Kenney Pixel.ttf",
+            "font": "PixelifySans-VariableFont_wght.ttf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 13,
@@ -33279,7 +33297,7 @@
           "effects": [],
           "behaviors": [],
           "string": "EFECTOS SFX",
-          "font": "Kenney Pixel.ttf",
+          "font": "PixelifySans-VariableFont_wght2.ttf",
           "textAlignment": "left",
           "characterSize": 13,
           "color": {
@@ -33302,7 +33320,7 @@
             "smoothed": true,
             "underlined": false,
             "text": "EFECTOS SFX",
-            "font": "Kenney Pixel.ttf",
+            "font": "PixelifySans-VariableFont_wght2.ttf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 13,
@@ -33451,7 +33469,7 @@
           "effects": [],
           "behaviors": [],
           "string": "ARRIBA/ABAJO: ELEGIR   IZQ/DER: AJUSTAR",
-          "font": "Kenney Pixel.ttf",
+          "font": "PixelifySans-VariableFont_wght2.ttf",
           "textAlignment": "center",
           "characterSize": 10,
           "color": {
@@ -33474,7 +33492,7 @@
             "smoothed": true,
             "underlined": false,
             "text": "ARRIBA/ABAJO: ELEGIR   IZQ/DER: AJUSTAR",
-            "font": "Kenney Pixel.ttf",
+            "font": "PixelifySans-VariableFont_wght2.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
             "characterSize": 10,
