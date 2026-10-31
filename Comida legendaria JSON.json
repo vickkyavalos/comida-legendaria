@@ -2706,7 +2706,7 @@
       {
         "file": "kioskero frames/IDLE/1.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"kioskero frames/IDLE/1.png\",\"extension\":\".png\"}",
         "name": "kioskero frames/IDLE/1.png",
         "smoothed": false,
         "userAdded": false
@@ -2746,7 +2746,7 @@
       {
         "file": "kioskero frames/WALK-RUN/1.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"kioskero frames/WALK-RUN/1.png\",\"extension\":\".png\"}",
         "name": "kioskero frames/WALK-RUN/1.png",
         "smoothed": false,
         "userAdded": false
@@ -2762,7 +2762,7 @@
       {
         "file": "kioskero frames/WALK-RUN/3.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"kioskero frames/WALK-RUN/3.png\",\"extension\":\".png\"}",
         "name": "kioskero frames/WALK-RUN/3.png",
         "smoothed": false,
         "userAdded": false
@@ -2770,7 +2770,7 @@
       {
         "file": "kioskero frames/WALK-RUN/4.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"kioskero frames/WALK-RUN/4.png\",\"extension\":\".png\"}",
         "name": "kioskero frames/WALK-RUN/4.png",
         "smoothed": false,
         "userAdded": false
@@ -2778,7 +2778,7 @@
       {
         "file": "kioskero frames/WALK-RUN/5.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"kioskero frames/WALK-RUN/5.png\",\"extension\":\".png\"}",
         "name": "kioskero frames/WALK-RUN/5.png",
         "smoothed": false,
         "userAdded": false
@@ -2786,7 +2786,7 @@
       {
         "file": "kioskero frames/WALK-RUN/6.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"kioskero frames/WALK-RUN/6.png\",\"extension\":\".png\"}",
         "name": "kioskero frames/WALK-RUN/6.png",
         "smoothed": false,
         "userAdded": false
@@ -2794,7 +2794,7 @@
       {
         "file": "kioskero frames/WALK-RUN/7.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"kioskero frames/WALK-RUN/7.png\",\"extension\":\".png\"}",
         "name": "kioskero frames/WALK-RUN/7.png",
         "smoothed": false,
         "userAdded": false
@@ -2802,7 +2802,7 @@
       {
         "file": "kioskero frames/WALK-RUN/8.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"kioskero frames/WALK-RUN/8.png\",\"extension\":\".png\"}",
         "name": "kioskero frames/WALK-RUN/8.png",
         "smoothed": false,
         "userAdded": false
@@ -3034,7 +3034,7 @@
       {
         "file": "assets/IDLE2.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/IDLE2.png\"}",
         "name": "IDLE2",
         "smoothed": false,
         "userAdded": false
@@ -3042,7 +3042,7 @@
       {
         "file": "assets/IDLE3.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/IDLE3.png\"}",
         "name": "IDLE3",
         "smoothed": false,
         "userAdded": false
@@ -3050,7 +3050,7 @@
       {
         "file": "assets/IDLE4.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/IDLE4.png\"}",
         "name": "IDLE4",
         "smoothed": false,
         "userAdded": false
@@ -3058,7 +3058,7 @@
       {
         "file": "assets/IDLE5.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/IDLE5.png\"}",
         "name": "IDLE5",
         "smoothed": false,
         "userAdded": false
@@ -3066,7 +3066,7 @@
       {
         "file": "assets/IDLE6.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/IDLE6.png\"}",
         "name": "IDLE6",
         "smoothed": false,
         "userAdded": false
@@ -3159,6 +3159,203 @@
         "preloadAsMusic": false,
         "preloadAsSound": false,
         "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Kenney Pixel2.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "490034af0b44b2d8e88911e4b30bf82a51e9fd67c1688a44a9c36e10ea360cd8_Kenney Pixel.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Font Pack/490034af0b44b2d8e88911e4b30bf82a51e9fd67c1688a44a9c36e10ea360cd8_Kenney Pixel.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Graduate-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "6f90be937f63a6c9500df06e4da70fbe27147c38a70222c4d4102d12cee13ac6_Graduate-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Settings UI/Slider/Kenney/Pixel art/6f90be937f63a6c9500df06e4da70fbe27147c38a70222c4d4102d12cee13ac6_Graduate-Regular.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "PixelifySans-VariableFont_wght.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "PixelifySans-VariableFont_wght.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "PixelifySans-VariableFont_wght2.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "PixelifySans-VariableFont_wght2.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "PixelifySans-VariableFont_wght3.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "PixelifySans-VariableFont_wght3.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "PixelifySans-VariableFont_wght4.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "PixelifySans-VariableFont_wght4.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "PixelifySans-VariableFont_wght5.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "PixelifySans-VariableFont_wght5.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "PixelifySans-VariableFont_wght6.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "PixelifySans-VariableFont_wght6.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "PixelifySans-VariableFont_wght7.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "PixelifySans-VariableFont_wght7.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "PixelifySans-VariableFont_wght8.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "PixelifySans-VariableFont_wght8.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "PixelifySans-VariableFont_wght9.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "PixelifySans-VariableFont_wght9.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "PixelifySans-VariableFont_wght10.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "PixelifySans-VariableFont_wght10.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "PixelifySans-VariableFont_wght11.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "PixelifySans-VariableFont_wght11.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "PixelifySans-VariableFont_wght12.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "PixelifySans-VariableFont_wght12.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "PixelifySans-VariableFont_wght13.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "PixelifySans-VariableFont_wght13.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "PixelifySans-VariableFont_wght14.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "PixelifySans-VariableFont_wght14.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "PixelifySans-VariableFont_wght15.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "PixelifySans-VariableFont_wght15.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "PixelifySans-VariableFont_wght16.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "PixelifySans-VariableFont_wght16.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "PixelifySans-VariableFont_wght17.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "PixelifySans-VariableFont_wght17.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "PixelifySans-VariableFont_wght18.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "PixelifySans-VariableFont_wght18.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "PixelifySans-VariableFont_wght19.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "PixelifySans-VariableFont_wght19.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "PixelifySans-VariableFont_wght20.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "PixelifySans-VariableFont_wght20.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "PixelifySans-VariableFont_wght21.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "PixelifySans-VariableFont_wght21.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "PixelifySans-VariableFont_wght22.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "PixelifySans-VariableFont_wght22.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "Handjet-VariableFont_ELGR,ELSH,wght.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Handjet-VariableFont_ELGR,ELSH,wght.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "PixelifySans-VariableFont_wght23.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "PixelifySans-VariableFont_wght23.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "PixelifySans-VariableFont_wght24.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "PixelifySans-VariableFont_wght24.ttf",
         "userAdded": false
       }
     ]
@@ -4774,6 +4971,26 @@
           ]
         }
       ]
+    },
+    {
+      "assetStoreId": "b804d2390e0f305c450b8396238c89b63af1107b3786ba4b452a7ed6db7e70f2",
+      "name": "White1BitPixelBar",
+      "persistentUuid": "4c44b8fa-6ff8-43aa-b8ce-91cb08d4613d",
+      "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
+      "variant": "White 1Bit Square Bar2",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "InitialValue": 100,
+        "MaxValue": 100,
+        "BarTopPadding": 8,
+        "BarRightPadding": 10,
+        "BarBottomPadding": 8,
+        "BarLeftPadding": 10,
+        "PreviousHighValueDuration": 0,
+        "EasingDuration": 0.25
+      }
     }
   ],
   "objectsFolderStructure": {
@@ -4793,6 +5010,9 @@
       },
       {
         "objectName": "piso2"
+      },
+      {
+        "objectName": "White1BitPixelBar"
       },
       {
         "objectName": "pared"
@@ -4876,7 +5096,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.50750881470035,
+        "zoomFactor": 1.2771578358760673,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -4947,24 +5167,8 @@
           "name": "TituloMenu",
           "persistentUuid": "1fbcdf38-f28b-4c16-b6a3-0dfef4a17899",
           "width": 440,
-          "x": 20,
-          "y": 20,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 18,
-          "keepRatio": true,
-          "layer": "",
-          "name": "SubtituloMenu",
-          "persistentUuid": "eab8c165-0cc2-45ea-b44d-d34a238bd78c",
-          "width": 400,
-          "x": 40,
-          "y": 58,
+          "x": 22,
+          "y": 30,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -5168,9 +5372,9 @@
           "effects": [],
           "behaviors": [],
           "string": "COMIDA LEGENDARIA",
-          "font": "Kenney Pixel.ttf",
+          "font": "PixelifySans-VariableFont_wght6.ttf",
           "textAlignment": "center",
-          "characterSize": 22,
+          "characterSize": 30,
           "color": {
             "b": 60,
             "g": 170,
@@ -5191,55 +5395,12 @@
             "smoothed": true,
             "underlined": false,
             "text": "COMIDA LEGENDARIA",
-            "font": "Kenney Pixel.ttf",
+            "font": "PixelifySans-VariableFont_wght6.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
-            "characterSize": 22,
+            "characterSize": 30,
             "lineHeight": 0,
             "color": "255;170;60"
-          }
-        },
-        {
-          "assetStoreId": "",
-          "bold": false,
-          "italic": false,
-          "name": "SubtituloMenu",
-          "smoothed": true,
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "string": "EL GUISO QUE CAMBIO EL MUNDO",
-          "font": "Kenney Pixel.ttf",
-          "textAlignment": "center",
-          "characterSize": 12,
-          "color": {
-            "b": 215,
-            "g": 200,
-            "r": 190
-          },
-          "content": {
-            "bold": false,
-            "isOutlineEnabled": true,
-            "isShadowEnabled": false,
-            "italic": false,
-            "outlineColor": "0;0;0",
-            "outlineThickness": 1,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
-            "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
-            "smoothed": true,
-            "underlined": false,
-            "text": "EL GUISO QUE CAMBIO EL MUNDO",
-            "font": "Kenney Pixel.ttf",
-            "textAlignment": "center",
-            "verticalTextAlignment": "top",
-            "characterSize": 12,
-            "lineHeight": 0,
-            "color": "190;200;215"
           }
         },
         {
@@ -5254,7 +5415,7 @@
           "effects": [],
           "behaviors": [],
           "string": "JUGAR",
-          "font": "Kenney Pixel.ttf",
+          "font": "PixelifySans-VariableFont_wght2.ttf",
           "textAlignment": "center",
           "characterSize": 16,
           "color": {
@@ -5269,15 +5430,15 @@
             "italic": false,
             "outlineColor": "0;0;0",
             "outlineThickness": 1,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
+            "shadowAngle": 0,
+            "shadowBlurRadius": 0,
             "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
+            "shadowDistance": 0,
+            "shadowOpacity": 0,
             "smoothed": true,
             "underlined": false,
             "text": "JUGAR",
-            "font": "Kenney Pixel.ttf",
+            "font": "PixelifySans-VariableFont_wght2.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
             "characterSize": 16,
@@ -5297,7 +5458,7 @@
           "effects": [],
           "behaviors": [],
           "string": "PERSONAJES",
-          "font": "Kenney Pixel.ttf",
+          "font": "PixelifySans-VariableFont_wght.ttf",
           "textAlignment": "center",
           "characterSize": 16,
           "color": {
@@ -5311,16 +5472,16 @@
             "isShadowEnabled": false,
             "italic": false,
             "outlineColor": "0;0;0",
-            "outlineThickness": 1,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
+            "outlineThickness": 0,
+            "shadowAngle": 0,
+            "shadowBlurRadius": -4,
             "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
+            "shadowDistance": 0,
+            "shadowOpacity": 0,
             "smoothed": true,
             "underlined": false,
             "text": "PERSONAJES",
-            "font": "Kenney Pixel.ttf",
+            "font": "PixelifySans-VariableFont_wght.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
             "characterSize": 16,
@@ -5340,7 +5501,7 @@
           "effects": [],
           "behaviors": [],
           "string": "VOLUMEN",
-          "font": "Kenney Pixel.ttf",
+          "font": "PixelifySans-VariableFont_wght3.ttf",
           "textAlignment": "center",
           "characterSize": 16,
           "color": {
@@ -5354,16 +5515,16 @@
             "isShadowEnabled": false,
             "italic": false,
             "outlineColor": "0;0;0",
-            "outlineThickness": 1,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
+            "outlineThickness": 0,
+            "shadowAngle": 0,
+            "shadowBlurRadius": 0,
             "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
+            "shadowDistance": 0,
+            "shadowOpacity": -3,
             "smoothed": true,
             "underlined": false,
             "text": "VOLUMEN",
-            "font": "Kenney Pixel.ttf",
+            "font": "PixelifySans-VariableFont_wght3.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
             "characterSize": 16,
@@ -5383,7 +5544,7 @@
           "effects": [],
           "behaviors": [],
           "string": "CRÉDITOS",
-          "font": "Kenney Pixel.ttf",
+          "font": "PixelifySans-VariableFont_wght4.ttf",
           "textAlignment": "center",
           "characterSize": 16,
           "color": {
@@ -5397,16 +5558,16 @@
             "isShadowEnabled": false,
             "italic": false,
             "outlineColor": "0;0;0",
-            "outlineThickness": 1,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
+            "outlineThickness": 0,
+            "shadowAngle": 0,
+            "shadowBlurRadius": 0,
             "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
+            "shadowDistance": 0,
+            "shadowOpacity": 0,
             "smoothed": true,
             "underlined": false,
             "text": "CRÉDITOS",
-            "font": "Kenney Pixel.ttf",
+            "font": "PixelifySans-VariableFont_wght4.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
             "characterSize": 16,
@@ -5469,7 +5630,7 @@
           "effects": [],
           "behaviors": [],
           "string": "FLECHAS: ELEGIR   ENTER / Z: ACEPTAR",
-          "font": "Kenney Pixel.ttf",
+          "font": "PixelifySans-VariableFont_wght5.ttf",
           "textAlignment": "center",
           "characterSize": 10,
           "color": {
@@ -5484,15 +5645,15 @@
             "italic": false,
             "outlineColor": "0;0;0",
             "outlineThickness": 1,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
+            "shadowAngle": 0,
+            "shadowBlurRadius": 0,
             "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
+            "shadowDistance": 0,
+            "shadowOpacity": 0,
             "smoothed": true,
             "underlined": false,
             "text": "FLECHAS: ELEGIR   ENTER / Z: ACEPTAR",
-            "font": "Kenney Pixel.ttf",
+            "font": "PixelifySans-VariableFont_wght5.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
             "characterSize": 10,
@@ -5512,9 +5673,6 @@
           },
           {
             "objectName": "TituloMenu"
-          },
-          {
-            "objectName": "SubtituloMenu"
           },
           {
             "objectName": "OpcionJugar"
@@ -6885,7 +7043,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5761972619700115,
+        "zoomFactor": 2.3982953556444326,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -6924,8 +7082,8 @@
           "name": "TituloCreditos",
           "persistentUuid": "493313fa-92ca-45e1-895b-68b3e4ab68f1",
           "width": 400,
-          "x": 40,
-          "y": 32,
+          "x": 45,
+          "y": 25,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -6940,24 +7098,8 @@
           "name": "CreditoIzq",
           "persistentUuid": "d03b202f-677d-443b-9507-b57c586639b4",
           "width": 190,
-          "x": 54,
-          "y": 76,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 160,
-          "keepRatio": true,
-          "layer": "",
-          "name": "CreditoDer",
-          "persistentUuid": "cca305d5-b550-48ca-aff4-7e81b70dcd4d",
-          "width": 190,
-          "x": 252,
-          "y": 76,
+          "x": 154,
+          "y": 61,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -6972,8 +7114,8 @@
           "name": "AyudaCreditos",
           "persistentUuid": "e91cfe62-4ab1-4362-86d5-f595dbeaa092",
           "width": 400,
-          "x": 40,
-          "y": 208,
+          "x": 47,
+          "y": 202,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -6988,8 +7130,8 @@
           "name": "BotonVolver",
           "persistentUuid": "3138d756-63f0-46e2-ae23-87692e11dde2",
           "width": 88,
-          "x": 196,
-          "y": 236,
+          "x": 198,
+          "y": 231,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -7085,9 +7227,9 @@
           "effects": [],
           "behaviors": [],
           "string": "CRÉDITOS",
-          "font": "Kenney Pixel.ttf",
+          "font": "PixelifySans-VariableFont_wght7.ttf",
           "textAlignment": "center",
-          "characterSize": 18,
+          "characterSize": 30,
           "color": {
             "b": 16,
             "g": 36,
@@ -7108,10 +7250,10 @@
             "smoothed": true,
             "underlined": false,
             "text": "CRÉDITOS",
-            "font": "Kenney Pixel.ttf",
+            "font": "PixelifySans-VariableFont_wght7.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
-            "characterSize": 18,
+            "characterSize": 30,
             "lineHeight": 0,
             "color": "58;36;16"
           }
@@ -7127,9 +7269,9 @@
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "DIRECCIÓN:\nDr. Hugo \"Chimichurri\" González\n\nARTE:\nLic. Elena \"Milanesa\" Díaz\n\nPROGRAMACIÓN:\nIng. Javier \"Alfajor\" Torres\nTec. Lucas \"Choripán\" Vargas",
-          "font": "Kenney Pixel.ttf",
-          "textAlignment": "left",
+          "string": "ALUMNOS: \n\n● Avalos Victoria Inés\n\n● Peralta Cassutti Noah Nicanor\n\n● Gabriela María Sanchez\n\n● Bertorello Santiago Nicolas\n\n",
+          "font": "PixelifySans-VariableFont_wght8.ttf",
+          "textAlignment": "center",
           "characterSize": 11,
           "color": {
             "b": 18,
@@ -7143,16 +7285,16 @@
             "italic": false,
             "outlineColor": "0;0;0",
             "outlineThickness": 1,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
+            "shadowAngle": 0,
+            "shadowBlurRadius": 0,
             "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
+            "shadowDistance": 0,
+            "shadowOpacity": 0,
             "smoothed": true,
             "underlined": false,
-            "text": "DIRECCIÓN:\nDr. Hugo \"Chimichurri\" González\n\nARTE:\nLic. Elena \"Milanesa\" Díaz\n\nPROGRAMACIÓN:\nIng. Javier \"Alfajor\" Torres\nTec. Lucas \"Choripán\" Vargas",
-            "font": "Kenney Pixel.ttf",
-            "textAlignment": "left",
+            "text": "ALUMNOS: \n\n● Avalos Victoria Inés\n\n● Peralta Cassutti Noah Nicanor\n\n● Gabriela María Sanchez\n\n● Bertorello Santiago Nicolas\n\n",
+            "font": "PixelifySans-VariableFont_wght8.ttf",
+            "textAlignment": "center",
             "verticalTextAlignment": "top",
             "characterSize": 11,
             "lineHeight": 0,
@@ -7170,8 +7312,8 @@
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "GUIÓN:\nProf. Valentina \"Mate\" Romero\n\nPRODUCCIÓN:\nUniv. Sofía \"Empanada\" Vega\n\nAGRADECIMIENTOS:\nEl Barrio, La Abuela.",
-          "font": "Kenney Pixel.ttf",
+          "string": "Fcad- UNER \n\nMultimedia y Juegos en Web",
+          "font": "PixelifySans-VariableFont_wght9.ttf",
           "textAlignment": "left",
           "characterSize": 11,
           "color": {
@@ -7186,15 +7328,15 @@
             "italic": false,
             "outlineColor": "0;0;0",
             "outlineThickness": 1,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
+            "shadowAngle": 0,
+            "shadowBlurRadius": 0,
             "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
+            "shadowDistance": 0,
+            "shadowOpacity": 0,
             "smoothed": true,
             "underlined": false,
-            "text": "GUIÓN:\nProf. Valentina \"Mate\" Romero\n\nPRODUCCIÓN:\nUniv. Sofía \"Empanada\" Vega\n\nAGRADECIMIENTOS:\nEl Barrio, La Abuela.",
-            "font": "Kenney Pixel.ttf",
+            "text": "Fcad- UNER \n\nMultimedia y Juegos en Web",
+            "font": "PixelifySans-VariableFont_wght9.ttf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 11,
@@ -7214,7 +7356,7 @@
           "effects": [],
           "behaviors": [],
           "string": "GRACIAS POR JUGAR   -   ESC: VOLVER AL MENU",
-          "font": "Kenney Pixel.ttf",
+          "font": "PixelifySans-VariableFont_wght10.ttf",
           "textAlignment": "center",
           "characterSize": 10,
           "color": {
@@ -7237,7 +7379,7 @@
             "smoothed": true,
             "underlined": false,
             "text": "GRACIAS POR JUGAR   -   ESC: VOLVER AL MENU",
-            "font": "Kenney Pixel.ttf",
+            "font": "PixelifySans-VariableFont_wght10.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
             "characterSize": 10,
@@ -7743,7 +7885,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.9014340348507757,
+        "zoomFactor": 1.6108903333303677,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -7795,8 +7937,8 @@
           "name": "BotonPixel",
           "persistentUuid": "3d9f2f8b-fcf5-4e69-af3a-66c8a94f436b",
           "width": 92,
-          "x": 5,
-          "y": 233,
+          "x": 18,
+          "y": 227,
           "zOrder": 300,
           "numberProperties": [],
           "stringProperties": [],
@@ -7813,8 +7955,8 @@
           "name": "EtiquetaMute",
           "persistentUuid": "45d0d8e5-2b6d-43b5-95cb-a07c2a40c97d",
           "width": 107,
-          "x": -2,
-          "y": 247,
+          "x": 11,
+          "y": 240,
           "zOrder": 301,
           "numberProperties": [],
           "stringProperties": [],
@@ -7927,8 +8069,8 @@
           "name": "AyudaIntro",
           "persistentUuid": "e8c417c1-3a1f-499d-8688-7dc1c2949b26",
           "width": 448,
-          "x": 16,
-          "y": 212,
+          "x": 17,
+          "y": 208,
           "zOrder": 21,
           "numberProperties": [],
           "stringProperties": [],
@@ -7943,7 +8085,7 @@
           "name": "BotonContinuar",
           "persistentUuid": "4141fcbb-0395-40c4-8911-92f91bfafd97",
           "width": 136,
-          "x": 178,
+          "x": 180,
           "y": 226,
           "zOrder": 22,
           "numberProperties": [],
@@ -8315,7 +8457,7 @@
           "effects": [],
           "behaviors": [],
           "string": "DYLAN",
-          "font": "Kenney Pixel.ttf",
+          "font": "PixelifySans-VariableFont_wght12.ttf",
           "textAlignment": "left",
           "characterSize": 12,
           "color": {
@@ -8330,15 +8472,15 @@
             "italic": false,
             "outlineColor": "0;0;0",
             "outlineThickness": 1,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
+            "shadowAngle": 0,
+            "shadowBlurRadius": 0,
             "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
+            "shadowDistance": 0,
+            "shadowOpacity": -3,
             "smoothed": true,
             "underlined": false,
             "text": "DYLAN",
-            "font": "Kenney Pixel.ttf",
+            "font": "PixelifySans-VariableFont_wght12.ttf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 12,
@@ -8358,7 +8500,7 @@
           "effects": [],
           "behaviors": [],
           "string": "La ciudad ardió hace años.",
-          "font": "Kenney Pixel.ttf",
+          "font": "PixelifySans-VariableFont_wght11.ttf",
           "textAlignment": "left",
           "characterSize": 12,
           "color": {
@@ -8373,15 +8515,15 @@
             "italic": false,
             "outlineColor": "0;0;0",
             "outlineThickness": 1,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
+            "shadowAngle": 0,
+            "shadowBlurRadius": 0,
             "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
+            "shadowDistance": 0,
+            "shadowOpacity": 0,
             "smoothed": true,
             "underlined": false,
             "text": "La ciudad ardió hace años.",
-            "font": "Kenney Pixel.ttf",
+            "font": "PixelifySans-VariableFont_wght11.ttf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 12,
@@ -8444,9 +8586,9 @@
           "effects": [],
           "behaviors": [],
           "string": "ENTER / Z: AVANZAR     ESC: VOLVER AL MENU",
-          "font": "Kenney Pixel.ttf",
+          "font": "PixelifySans-VariableFont_wght13.ttf",
           "textAlignment": "center",
-          "characterSize": 9,
+          "characterSize": 8,
           "color": {
             "b": 210,
             "g": 195,
@@ -8459,18 +8601,18 @@
             "italic": false,
             "outlineColor": "0;0;0",
             "outlineThickness": 1,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
+            "shadowAngle": 0,
+            "shadowBlurRadius": 0,
             "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
+            "shadowDistance": 0,
+            "shadowOpacity": 0,
             "smoothed": true,
             "underlined": false,
             "text": "ENTER / Z: AVANZAR     ESC: VOLVER AL MENU",
-            "font": "Kenney Pixel.ttf",
+            "font": "PixelifySans-VariableFont_wght13.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
-            "characterSize": 9,
+            "characterSize": 8,
             "lineHeight": 0,
             "color": "190;195;210"
           }
@@ -8941,7 +9083,7 @@
                     "TextoDialogo",
                     "Text",
                     "=",
-                    "\"Faltan el morrón y el ajo. Están esparcidos por el barrio... y la VIEJA BRUJA los vigila.\""
+                    "\"Faltan los demás ingredientes. Están esparcidos por el barrio... y la VIEJA BRUJA los vigila.\""
                   ]
                 }
               ]
@@ -9428,7 +9570,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.5583425095309218,
+        "zoomFactor": 1.3647424093893898,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -9452,8 +9594,8 @@
           "name": "fondo",
           "persistentUuid": "bb5b5e9f-46d9-40e5-9780-feb5d129a347",
           "width": 1585,
-          "x": 0,
-          "y": 0,
+          "x": -163,
+          "y": -1,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -9469,8 +9611,8 @@
           "name": "piso",
           "persistentUuid": "9fee4715-9dfa-47a5-a4a2-86d0659922a1",
           "width": 595,
-          "x": -7,
-          "y": 181,
+          "x": -13,
+          "y": 179,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -9486,8 +9628,8 @@
           "name": "piso",
           "persistentUuid": "c946108c-592a-4271-b613-57843f4d0462",
           "width": 413,
-          "x": 667,
-          "y": 179,
+          "x": 675,
+          "y": 176,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -9535,8 +9677,8 @@
           "name": "pared",
           "persistentUuid": "cad551f0-a8a2-4c88-99b5-8e4cb9cffa4b",
           "width": 222,
-          "x": 708,
-          "y": 62,
+          "x": 717,
+          "y": 61,
           "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
@@ -9562,14 +9704,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 26,
+          "height": 16,
           "keepRatio": true,
           "layer": "UI",
           "name": "ManualTitulo",
           "persistentUuid": "dee531be-5083-43b1-97b6-cd30feed1ac5",
-          "width": 297,
-          "x": 116,
-          "y": 5,
+          "width": 242,
+          "x": 92,
+          "y": 15,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -9579,31 +9721,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 7,
-          "keepRatio": true,
-          "layer": "UI",
-          "name": "ManualMovimiento",
-          "persistentUuid": "949f3aa7-ff7b-43d9-8bf0-a9e969514184",
-          "width": 31,
-          "x": 281,
-          "y": 29,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 7,
+          "height": 12,
           "keepRatio": true,
           "layer": "UI",
           "name": "ManualIzquierda",
           "persistentUuid": "435b8021-3c94-4e04-9357-04e1d417884b",
-          "width": 64,
-          "x": 127,
-          "y": 31,
+          "width": 86,
+          "x": 124,
+          "y": 41,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -9613,14 +9738,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 8,
+          "height": 12,
           "keepRatio": true,
           "layer": "UI",
           "name": "ManualDerecha",
           "persistentUuid": "463378c9-38e6-403b-bd56-210e8e018c28",
-          "width": 64,
-          "x": 205,
-          "y": 31,
+          "width": 80,
+          "x": 210,
+          "y": 41,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -9630,14 +9755,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 5,
+          "height": 14,
           "keepRatio": true,
           "layer": "UI",
           "name": "ManualArriba",
           "persistentUuid": "26224a48-55c4-486d-bbcc-3b1058549283",
-          "width": 55,
-          "x": 108,
-          "y": 57,
+          "width": 82,
+          "x": 118,
+          "y": 62,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -9647,14 +9772,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 7,
+          "height": 15,
           "keepRatio": true,
           "layer": "UI",
           "name": "ManualAbajo",
           "persistentUuid": "147af201-efb8-41a4-aaa0-f921f9bd5861",
-          "width": 65,
-          "x": 41,
-          "y": 77,
+          "width": 111,
+          "x": 54,
+          "y": 85,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -9664,14 +9789,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 8,
+          "height": 17,
           "keepRatio": true,
           "layer": "UI",
           "name": "ManualEspacio",
           "persistentUuid": "16bbf16e-0aeb-4ba1-89ab-7639b4015123",
-          "width": 85,
-          "x": 38,
-          "y": 95,
+          "width": 131,
+          "x": 51,
+          "y": 106,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -9687,8 +9812,8 @@
           "name": "TeclaA",
           "persistentUuid": "06bdc60c-8c27-490c-9f76-d479da405d88",
           "width": 17,
-          "x": 14,
-          "y": 30,
+          "x": 28,
+          "y": 64,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -9704,8 +9829,8 @@
           "name": "TeclaD",
           "persistentUuid": "08f2c350-0ca0-4dc3-82fc-e35dc7d98332",
           "width": 17,
-          "x": 41,
-          "y": 30,
+          "x": 28,
+          "y": 40,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -9721,42 +9846,8 @@
           "name": "TeclaW",
           "persistentUuid": "0a4b9c44-c2fe-4f28-b428-e446254663b4",
           "width": 17,
-          "x": 13,
-          "y": 51,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 14,
-          "keepRatio": true,
-          "layer": "UI",
-          "name": "TeclaJ",
-          "persistentUuid": "c94be198-fc34-40b9-8418-589148e62a5c",
-          "width": 18,
-          "x": 12,
-          "y": 73,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 14,
-          "keepRatio": true,
-          "layer": "UI",
-          "name": "TeclaK",
-          "persistentUuid": "db1160ea-d1d3-46e7-8825-8d08add62789",
-          "width": 19,
-          "x": 12,
-          "y": 95,
+          "x": 28,
+          "y": 85,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -9772,8 +9863,8 @@
           "name": "FlechaT_Izq",
           "persistentUuid": "cf3a71ce-c582-40f1-bd9c-8dcdafb4aecb",
           "width": 15,
-          "x": 63,
-          "y": 28,
+          "x": 49,
+          "y": 38,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -9789,8 +9880,8 @@
           "name": "FlechaT_Down",
           "persistentUuid": "6489b08d-7789-4b88-8839-0528cc9ad611",
           "width": 11,
-          "x": 86,
-          "y": 29,
+          "x": 75,
+          "y": 35,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -9806,8 +9897,8 @@
           "name": "FlechaT_Der",
           "persistentUuid": "8c3f29a5-499f-412a-8252-f11a44c49900",
           "width": 18,
-          "x": 106,
-          "y": 28,
+          "x": 96,
+          "y": 37,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -9823,8 +9914,8 @@
           "name": "FlechaT_Up",
           "persistentUuid": "bd17ef88-c8fa-46bc-ad23-42b4d855f508",
           "width": 19,
-          "x": 34,
-          "y": 53,
+          "x": 53,
+          "y": 56,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -9834,14 +9925,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 7,
+          "height": 14,
           "keepRatio": true,
           "layer": "UI",
           "name": "BarraEsp",
           "persistentUuid": "7a0d1192-0568-4f2c-ad99-44c5c686d494",
-          "width": 50,
-          "x": 49,
-          "y": 57,
+          "width": 57,
+          "x": 64,
+          "y": 62,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -9905,8 +9996,8 @@
           "name": "Puente",
           "persistentUuid": "aab9dd2d-71ac-413d-b6a4-7092a8d42f88",
           "width": 177,
-          "x": 1082,
-          "y": 192,
+          "x": 1084,
+          "y": 186,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -9948,112 +10039,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 1,
-          "height": 136,
-          "keepRatio": true,
-          "layer": "Info",
-          "name": "PanelInfo",
-          "opacity": 210,
-          "persistentUuid": "b40c97cc-bd80-4be3-b88c-d72c344bdff1",
-          "width": 246,
-          "x": 10,
-          "y": 110,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 18,
-          "keepRatio": true,
-          "layer": "Info",
-          "name": "InfoTitulo",
-          "persistentUuid": "1b2149c7-fe94-440d-abc1-c97b1085746e",
-          "width": 440,
-          "x": 20,
-          "y": 112,
-          "zOrder": 5,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
           "height": 20,
           "keepRatio": true,
           "layer": "Info",
           "name": "InfoVida",
           "persistentUuid": "ec3c2039-7d34-4f58-a171-bcb9972b6287",
           "width": 440,
-          "x": 20,
-          "y": 130,
-          "zOrder": 5,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 20,
-          "keepRatio": true,
-          "layer": "Info",
-          "name": "InfoDano",
-          "persistentUuid": "2cd7e68a-b443-4c99-816d-965f2bac2945",
-          "width": 440,
-          "x": 20,
-          "y": 150,
-          "zOrder": 5,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 20,
-          "keepRatio": true,
-          "layer": "Info",
-          "name": "InfoObjetos",
-          "persistentUuid": "0e10deaa-61fb-4d95-9bd3-177f90a310c3",
-          "width": 440,
-          "x": 20,
-          "y": 170,
-          "zOrder": 5,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 20,
-          "keepRatio": true,
-          "layer": "Info",
-          "name": "InfoAtaque",
-          "persistentUuid": "5bf79785-3391-4c6e-8899-3a68556d6b66",
-          "width": 440,
-          "x": 20,
-          "y": 190,
-          "zOrder": 5,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 20,
-          "keepRatio": true,
-          "layer": "Info",
-          "name": "InfoDefensa",
-          "persistentUuid": "fb6433af-3087-422f-9608-5a16469d2735",
-          "width": 440,
-          "x": 20,
-          "y": 210,
+          "x": 28,
+          "y": 126,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -10101,9 +10094,58 @@
           "name": "Fundido",
           "persistentUuid": "78186798-5fd3-4401-8552-f2097467e8c0",
           "width": 480,
-          "x": 0,
-          "y": 1,
+          "x": -1,
+          "y": 0,
           "zOrder": 100,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 15,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "TeclaW",
+          "persistentUuid": "01b9e028-3f24-4d17-a6b3-da0f7cb601d5",
+          "width": 17,
+          "x": 28,
+          "y": 107,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "cajon",
+          "persistentUuid": "aa08bae0-8c08-4eb7-80d0-c63ccb0352e5",
+          "width": 0,
+          "x": 686,
+          "y": 154,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "White1BitPixelBar",
+          "persistentUuid": "08b6c635-0d51-4fb4-b281-6c7f22dd6b24",
+          "width": 0,
+          "x": 8,
+          "y": 7,
+          "zOrder": 101,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -19129,7 +19171,7 @@
           "string": "CÓMO JUGAR / HOW TO PLAY",
           "font": "8612da6519a39bab40fb3fb527dd7574679e45f603b2be582cf2d47a6b12b93f_VT323-Regular.ttf",
           "textAlignment": "center",
-          "characterSize": 15,
+          "characterSize": 20,
           "color": {
             "b": 0,
             "g": 0,
@@ -19141,19 +19183,19 @@
             "isShadowEnabled": false,
             "italic": false,
             "outlineColor": "255;255;255",
-            "outlineThickness": 4,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
+            "outlineThickness": 0,
+            "shadowAngle": 0,
+            "shadowBlurRadius": 0,
             "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
+            "shadowDistance": 0,
+            "shadowOpacity": 0,
             "smoothed": true,
             "underlined": false,
             "text": "CÓMO JUGAR / HOW TO PLAY",
             "font": "8612da6519a39bab40fb3fb527dd7574679e45f603b2be582cf2d47a6b12b93f_VT323-Regular.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
-            "characterSize": 15,
+            "characterSize": 20,
             "lineHeight": 0,
             "color": "0;0;0"
           }
@@ -19170,7 +19212,7 @@
           "effects": [],
           "behaviors": [],
           "string": "MOVER",
-          "font": "8612da6519a39bab40fb3fb527dd7574679e45f603b2be582cf2d47a6b12b93f_VT323-Regular.ttf",
+          "font": "PixelifySans-VariableFont_wght16.ttf",
           "textAlignment": "left",
           "characterSize": 12,
           "color": {
@@ -19185,15 +19227,15 @@
             "italic": false,
             "outlineColor": "255;255;255",
             "outlineThickness": 4,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
+            "shadowAngle": 0,
+            "shadowBlurRadius": 0,
             "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
+            "shadowDistance": 0,
+            "shadowOpacity": 0,
             "smoothed": true,
             "underlined": false,
             "text": "MOVER",
-            "font": "8612da6519a39bab40fb3fb527dd7574679e45f603b2be582cf2d47a6b12b93f_VT323-Regular.ttf",
+            "font": "PixelifySans-VariableFont_wght16.ttf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 12,
@@ -19213,7 +19255,7 @@
           "effects": [],
           "behaviors": [],
           "string": "IZQUIERDA 'LEFT'",
-          "font": "8612da6519a39bab40fb3fb527dd7574679e45f603b2be582cf2d47a6b12b93f_VT323-Regular.ttf",
+          "font": "PixelifySans-VariableFont_wght14.ttf",
           "textAlignment": "left",
           "characterSize": 10,
           "color": {
@@ -19227,16 +19269,16 @@
             "isShadowEnabled": false,
             "italic": false,
             "outlineColor": "255;255;255",
-            "outlineThickness": 4,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
-            "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
+            "outlineThickness": 2,
+            "shadowAngle": 0,
+            "shadowBlurRadius": 0,
+            "shadowColor": "255;255;255",
+            "shadowDistance": 0,
+            "shadowOpacity": 0,
             "smoothed": true,
             "underlined": false,
             "text": "IZQUIERDA 'LEFT'",
-            "font": "8612da6519a39bab40fb3fb527dd7574679e45f603b2be582cf2d47a6b12b93f_VT323-Regular.ttf",
+            "font": "PixelifySans-VariableFont_wght14.ttf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 10,
@@ -19256,7 +19298,7 @@
           "effects": [],
           "behaviors": [],
           "string": "DERECHA 'RIGHT'",
-          "font": "8612da6519a39bab40fb3fb527dd7574679e45f603b2be582cf2d47a6b12b93f_VT323-Regular.ttf",
+          "font": "PixelifySans-VariableFont_wght15.ttf",
           "textAlignment": "left",
           "characterSize": 10,
           "color": {
@@ -19270,16 +19312,16 @@
             "isShadowEnabled": false,
             "italic": true,
             "outlineColor": "255;255;255",
-            "outlineThickness": 4,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
-            "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
+            "outlineThickness": 2,
+            "shadowAngle": 0,
+            "shadowBlurRadius": 0,
+            "shadowColor": "255;255;255",
+            "shadowDistance": 0,
+            "shadowOpacity": 0,
             "smoothed": true,
             "underlined": false,
             "text": "DERECHA 'RIGHT'",
-            "font": "8612da6519a39bab40fb3fb527dd7574679e45f603b2be582cf2d47a6b12b93f_VT323-Regular.ttf",
+            "font": "PixelifySans-VariableFont_wght15.ttf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 10,
@@ -19299,7 +19341,7 @@
           "effects": [],
           "behaviors": [],
           "string": "SALTAR (JUMP)",
-          "font": "8612da6519a39bab40fb3fb527dd7574679e45f603b2be582cf2d47a6b12b93f_VT323-Regular.ttf",
+          "font": "PixelifySans-VariableFont_wght22.ttf",
           "textAlignment": "left",
           "characterSize": 10,
           "color": {
@@ -19313,16 +19355,16 @@
             "isShadowEnabled": false,
             "italic": false,
             "outlineColor": "255;255;255",
-            "outlineThickness": 4,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
+            "outlineThickness": 2,
+            "shadowAngle": 0,
+            "shadowBlurRadius": 0,
             "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
+            "shadowDistance": 0,
+            "shadowOpacity": 0,
             "smoothed": true,
             "underlined": false,
             "text": "SALTAR (JUMP)",
-            "font": "8612da6519a39bab40fb3fb527dd7574679e45f603b2be582cf2d47a6b12b93f_VT323-Regular.ttf",
+            "font": "PixelifySans-VariableFont_wght22.ttf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 10,
@@ -19341,8 +19383,8 @@
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "ATACAR (ATTACK)",
-          "font": "8612da6519a39bab40fb3fb527dd7574679e45f603b2be582cf2d47a6b12b93f_VT323-Regular.ttf",
+          "string": "ATACAR (ATTACK) - J / j",
+          "font": "PixelifySans-VariableFont_wght19.ttf",
           "textAlignment": "left",
           "characterSize": 10,
           "color": {
@@ -19356,16 +19398,16 @@
             "isShadowEnabled": false,
             "italic": false,
             "outlineColor": "255;255;255",
-            "outlineThickness": 4,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
+            "outlineThickness": 2,
+            "shadowAngle": 0,
+            "shadowBlurRadius": 0,
             "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
+            "shadowDistance": 0,
+            "shadowOpacity": 0,
             "smoothed": true,
             "underlined": false,
-            "text": "ATACAR (ATTACK)",
-            "font": "8612da6519a39bab40fb3fb527dd7574679e45f603b2be582cf2d47a6b12b93f_VT323-Regular.ttf",
+            "text": "ATACAR (ATTACK) - J / j",
+            "font": "PixelifySans-VariableFont_wght19.ttf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 10,
@@ -19385,7 +19427,7 @@
           "effects": [],
           "behaviors": [],
           "string": "Prueba de muerte (K)",
-          "font": "8612da6519a39bab40fb3fb527dd7574679e45f603b2be582cf2d47a6b12b93f_VT323-Regular.ttf",
+          "font": "PixelifySans-VariableFont_wght23.ttf",
           "textAlignment": "left",
           "characterSize": 10,
           "color": {
@@ -19399,16 +19441,16 @@
             "isShadowEnabled": false,
             "italic": false,
             "outlineColor": "255;255;255",
-            "outlineThickness": 4,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
+            "outlineThickness": 2,
+            "shadowAngle": 0,
+            "shadowBlurRadius": 0,
             "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
+            "shadowDistance": 0,
+            "shadowOpacity": 0,
             "smoothed": true,
             "underlined": false,
             "text": "Prueba de muerte (K)",
-            "font": "8612da6519a39bab40fb3fb527dd7574679e45f603b2be582cf2d47a6b12b93f_VT323-Regular.ttf",
+            "font": "PixelifySans-VariableFont_wght23.ttf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 10,
@@ -19600,7 +19642,7 @@
           "effects": [],
           "behaviors": [],
           "string": "↑",
-          "font": "8612da6519a39bab40fb3fb527dd7574679e45f603b2be582cf2d47a6b12b93f_VT323-Regular.ttf",
+          "font": "PixelifySans-VariableFont_wght20.ttf",
           "textAlignment": "left",
           "characterSize": 15,
           "color": {
@@ -19623,7 +19665,7 @@
             "smoothed": true,
             "underlined": false,
             "text": "↑",
-            "font": "8612da6519a39bab40fb3fb527dd7574679e45f603b2be582cf2d47a6b12b93f_VT323-Regular.ttf",
+            "font": "PixelifySans-VariableFont_wght20.ttf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 15,
@@ -19686,7 +19728,7 @@
           "effects": [],
           "behaviors": [],
           "string": "[ ESPACIO ]",
-          "font": "8612da6519a39bab40fb3fb527dd7574679e45f603b2be582cf2d47a6b12b93f_VT323-Regular.ttf",
+          "font": "PixelifySans-VariableFont_wght21.ttf",
           "textAlignment": "left",
           "characterSize": 10,
           "color": {
@@ -19700,16 +19742,16 @@
             "isShadowEnabled": false,
             "italic": false,
             "outlineColor": "255;255;255",
-            "outlineThickness": 4,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
+            "outlineThickness": 2,
+            "shadowAngle": 0,
+            "shadowBlurRadius": 0,
             "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
+            "shadowDistance": 0,
+            "shadowOpacity": 0,
             "smoothed": true,
             "underlined": false,
             "text": "[ ESPACIO ]",
-            "font": "8612da6519a39bab40fb3fb527dd7574679e45f603b2be582cf2d47a6b12b93f_VT323-Regular.ttf",
+            "font": "PixelifySans-VariableFont_wght21.ttf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 10,
@@ -20034,7 +20076,7 @@
           "effects": [],
           "behaviors": [],
           "string": "VIDA: la barra de arriba muestra la salud de Dylan.",
-          "font": "Kenney Pixel.ttf",
+          "font": "PixelifySans-VariableFont_wght17.ttf",
           "textAlignment": "left",
           "characterSize": 12,
           "color": {
@@ -20048,16 +20090,16 @@
             "isShadowEnabled": false,
             "italic": false,
             "outlineColor": "0;0;0",
-            "outlineThickness": 2,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
+            "outlineThickness": 1,
+            "shadowAngle": 0,
+            "shadowBlurRadius": 0,
             "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
+            "shadowDistance": 0,
+            "shadowOpacity": 0,
             "smoothed": true,
             "underlined": false,
             "text": "VIDA: la barra de arriba muestra la salud de Dylan.",
-            "font": "Kenney Pixel.ttf",
+            "font": "PixelifySans-VariableFont_wght17.ttf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 12,
@@ -21679,7 +21721,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.9827755090659173,
+        "zoomFactor": 1.9077237084179928,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -21814,7 +21856,7 @@
           "name": "fondo1",
           "persistentUuid": "8286e724-47ad-4f99-806c-23923c8dc109",
           "width": 1327,
-          "x": -11,
+          "x": -10,
           "y": -1,
           "zOrder": 15,
           "numberProperties": [],
@@ -22138,14 +22180,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 80,
+          "height": 73,
           "keepRatio": true,
           "layer": "",
           "name": "ENEMIGO1",
           "persistentUuid": "95fca169-6c08-4956-aae2-e98e8626f387",
-          "width": 80,
-          "x": 905,
-          "y": 157,
+          "width": 73,
+          "x": 860,
+          "y": 160,
           "zOrder": 49,
           "numberProperties": [],
           "stringProperties": [],
@@ -22578,26 +22620,6 @@
           ]
         },
         {
-          "assetStoreId": "b804d2390e0f305c450b8396238c89b63af1107b3786ba4b452a7ed6db7e70f2",
-          "name": "White1BitPixelBar",
-          "persistentUuid": "4c44b8fa-6ff8-43aa-b8ce-91cb08d4613d",
-          "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
-          "variant": "White 1Bit Square Bar2",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "InitialValue": 100,
-            "MaxValue": 100,
-            "BarTopPadding": 8,
-            "BarRightPadding": 10,
-            "BarBottomPadding": 8,
-            "BarLeftPadding": 10,
-            "PreviousHighValueDuration": 0,
-            "EasingDuration": 0.25
-          }
-        },
-        {
           "assetStoreId": "",
           "bold": false,
           "italic": false,
@@ -22747,42 +22769,6 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "IDLE",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 9
-                          },
-                          {
-                            "x": 52,
-                            "y": 9
-                          },
-                          {
-                            "x": 52,
-                            "y": 52
-                          },
-                          {
-                            "x": 9,
-                            "y": 52
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
                       "image": "IDLE2",
                       "points": [],
                       "originPoint": {
@@ -22800,19 +22786,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -22836,19 +22822,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -22872,19 +22858,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -22908,19 +22894,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -22944,19 +22930,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -22971,6 +22957,7 @@
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
@@ -22992,55 +22979,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
-                          },
-                          {
-                            "x": 9,
-                            "y": 52
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "kioskero frames/WALK-RUN/2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 9
-                          },
-                          {
-                            "x": 52,
-                            "y": 9
-                          },
-                          {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -23064,19 +23015,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -23100,19 +23051,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -23136,19 +23087,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -23172,19 +23123,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -23208,19 +23159,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -23244,19 +23195,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -23292,19 +23243,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -23328,19 +23279,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -23364,19 +23315,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -23400,19 +23351,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -23436,19 +23387,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -23472,19 +23423,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -23520,19 +23471,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -23556,19 +23507,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -23592,19 +23543,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -23640,19 +23591,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -23676,19 +23627,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -23712,19 +23663,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -23748,19 +23699,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -23784,19 +23735,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -23832,19 +23783,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -23868,19 +23819,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -23904,19 +23855,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -23940,19 +23891,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -23976,19 +23927,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -24012,19 +23963,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -24048,19 +23999,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -24096,19 +24047,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -24132,19 +24083,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -24168,19 +24119,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -24204,19 +24155,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -24240,19 +24191,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -24276,19 +24227,19 @@
                         [
                           {
                             "x": 9,
-                            "y": 9
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 9
+                            "x": 49,
+                            "y": 8
                           },
                           {
-                            "x": 52,
-                            "y": 52
+                            "x": 49,
+                            "y": 51
                           },
                           {
                             "x": 9,
-                            "y": 52
+                            "y": 51
                           }
                         ]
                       ]
@@ -24323,9 +24274,6 @@
           },
           {
             "objectName": "olla"
-          },
-          {
-            "objectName": "White1BitPixelBar"
           },
           {
             "objectName": "InvTitulo"
@@ -31153,7 +31101,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.4583333333333333,
+        "zoomFactor": 1.4583333333333357,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -31219,46 +31167,15 @@
         {
           "angle": 0,
           "customSize": true,
+          "depth": 1,
           "height": 118,
           "keepRatio": true,
           "layer": "",
           "name": "TarjetaDylan",
           "persistentUuid": "d2b42e2d-0df2-42a0-9a2e-436a86c7bf61",
-          "width": 110,
-          "x": 52,
-          "y": 70,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 118,
-          "keepRatio": true,
-          "layer": "",
-          "name": "TarjetaBloqueada",
-          "persistentUuid": "b862fcd7-55dc-4c6c-939b-b8a4b22564a0",
-          "width": 110,
-          "x": 185,
-          "y": 70,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 118,
-          "keepRatio": true,
-          "layer": "",
-          "name": "TarjetaBloqueada",
-          "persistentUuid": "23485ad9-198f-4c22-b35e-9a434edff1bd",
-          "width": 110,
-          "x": 318,
-          "y": 70,
+          "width": 83,
+          "x": 41,
+          "y": 71,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -31273,8 +31190,8 @@
           "name": "NombreDylan",
           "persistentUuid": "debf499d-0d53-4ebe-9e52-6172afc45f50",
           "width": 110,
-          "x": 52,
-          "y": 142,
+          "x": 29,
+          "y": 146,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -31283,110 +31200,15 @@
         {
           "angle": 0,
           "customSize": true,
+          "depth": 1,
           "height": 18,
           "keepRatio": true,
           "layer": "",
           "name": "RolDylan",
           "persistentUuid": "d21a7ef1-43bb-48af-90c0-8a1dfcfc6a3e",
-          "width": 110,
-          "x": 52,
-          "y": 166,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 26,
-          "keepRatio": true,
-          "layer": "",
-          "name": "TxtInterrogacion",
-          "persistentUuid": "af2bbedd-0097-4a05-b84c-b21c2415ef82",
-          "width": 110,
-          "x": 185,
-          "y": 105,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 26,
-          "keepRatio": true,
-          "layer": "",
-          "name": "TxtInterrogacion",
-          "persistentUuid": "c3ee5fe6-c2de-4e20-a1d1-786ee75ef115",
-          "width": 110,
-          "x": 318,
-          "y": 105,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 18,
-          "keepRatio": true,
-          "layer": "",
-          "name": "TxtBloqueado",
-          "persistentUuid": "91f48264-e7a5-4b31-a951-f706f9ea58a9",
-          "width": 110,
-          "x": 185,
-          "y": 145,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 18,
-          "keepRatio": true,
-          "layer": "",
-          "name": "TxtBloqueado",
-          "persistentUuid": "d5463447-e2c1-41a4-b640-68e936874d64",
-          "width": 110,
-          "x": 318,
-          "y": 145,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 18,
-          "keepRatio": true,
-          "layer": "",
-          "name": "InfoPersonaje",
-          "persistentUuid": "2ef7747c-f762-4db0-a46d-97b0e131bf9b",
-          "width": 400,
-          "x": 40,
-          "y": 198,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 18,
-          "keepRatio": true,
-          "layer": "",
-          "name": "AyudaPersonajes",
-          "persistentUuid": "4b09bdc2-dae0-4f3e-8957-7982f043ca0a",
-          "width": 400,
-          "x": 40,
-          "y": 216,
+          "width": 83,
+          "x": 42,
+          "y": 162,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -31417,8 +31239,8 @@
           "name": "Dylan",
           "persistentUuid": "2956f251-74eb-46e7-9e47-9623f12cea30",
           "width": 54,
-          "x": 62,
-          "y": 74,
+          "x": 55,
+          "y": 89,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -31436,6 +31258,122 @@
           "x": 30,
           "y": 238,
           "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "KIOSKERO",
+          "persistentUuid": "2f67154b-e170-4ae4-93c4-41068a7b4ae9",
+          "width": 0,
+          "x": 152,
+          "y": 148,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 74,
+          "keepRatio": true,
+          "layer": "",
+          "name": "KIOSKERO2",
+          "persistentUuid": "081f8fb5-9b05-4982-99b8-fd65c968c18b",
+          "width": 74,
+          "x": 146,
+          "y": 81,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 118,
+          "keepRatio": true,
+          "layer": "",
+          "name": "TarjetaDylan",
+          "persistentUuid": "a641dd3a-09e5-4feb-8570-cfc2f2eb2ecb",
+          "width": 83,
+          "x": 143,
+          "y": 70,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 118,
+          "keepRatio": true,
+          "layer": "",
+          "name": "TarjetaDylan",
+          "persistentUuid": "4efebd3f-f12a-48f2-9d19-bd6887928f66",
+          "width": 83,
+          "x": 246,
+          "y": 70,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 118,
+          "keepRatio": true,
+          "layer": "",
+          "name": "TarjetaDylan",
+          "persistentUuid": "700289aa-dcb7-4c28-bec3-fb848c8cb948",
+          "width": 83,
+          "x": 345,
+          "y": 69,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "CARNICERO",
+          "persistentUuid": "edcbd413-aae5-4469-ab8d-582419e7544f",
+          "width": 0,
+          "x": 252,
+          "y": 148,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "BRUJ",
+          "persistentUuid": "4ded4681-1b6e-4206-b4f7-8564ccdea095",
+          "width": 0,
+          "x": 346,
+          "y": 148,
+          "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -31623,7 +31561,7 @@
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "PERSONAJES",
+          "string": "PERSONAJES DE LA HISTORIA",
           "font": "Kenney Pixel.ttf",
           "textAlignment": "center",
           "characterSize": 18,
@@ -31646,7 +31584,7 @@
             "shadowOpacity": 127,
             "smoothed": true,
             "underlined": false,
-            "text": "PERSONAJES",
+            "text": "PERSONAJES DE LA HISTORIA",
             "font": "Kenney Pixel.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
@@ -31667,7 +31605,7 @@
           "effects": [],
           "behaviors": [],
           "string": "DYLAN",
-          "font": "Kenney Pixel.ttf",
+          "font": "PixelifySans-VariableFont_wght24.ttf",
           "textAlignment": "center",
           "characterSize": 14,
           "color": {
@@ -31690,7 +31628,7 @@
             "smoothed": true,
             "underlined": false,
             "text": "DYLAN",
-            "font": "Kenney Pixel.ttf",
+            "font": "PixelifySans-VariableFont_wght24.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
             "characterSize": 14,
@@ -31709,10 +31647,10 @@
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "EL COCINERO",
-          "font": "Kenney Pixel.ttf",
+          "string": "PROTAGONISTA",
+          "font": "PixelifySans-VariableFont_wght23.ttf",
           "textAlignment": "center",
-          "characterSize": 12,
+          "characterSize": 10,
           "color": {
             "b": 235,
             "g": 225,
@@ -31732,11 +31670,11 @@
             "shadowOpacity": 127,
             "smoothed": true,
             "underlined": false,
-            "text": "EL COCINERO",
-            "font": "Kenney Pixel.ttf",
+            "text": "PROTAGONISTA",
+            "font": "PixelifySans-VariableFont_wght23.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
-            "characterSize": 12,
+            "characterSize": 10,
             "lineHeight": 0,
             "color": "220;225;235"
           }
@@ -31745,14 +31683,14 @@
           "assetStoreId": "",
           "bold": false,
           "italic": false,
-          "name": "TxtBloqueado",
+          "name": "Kioskero",
           "smoothed": true,
           "type": "TextObject::Text",
           "underlined": false,
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "BLOQUEADO",
+          "string": "Antes del apocalipsis, el clásico kiosco de la cuadra. Cuando el mundo colapsó y la plata perdió todo valor, el kioskero hizo lo que todo buen comerciante de barrio: se armó hasta los dientes, soldó persianas metálicas ciegas y convirtió el negocio en un búnker inexpugnable",
           "font": "Kenney Pixel.ttf",
           "textAlignment": "center",
           "characterSize": 12,
@@ -31775,7 +31713,7 @@
             "shadowOpacity": 127,
             "smoothed": true,
             "underlined": false,
-            "text": "BLOQUEADO",
+            "text": "Antes del apocalipsis, el clásico kiosco de la cuadra. Cuando el mundo colapsó y la plata perdió todo valor, el kioskero hizo lo que todo buen comerciante de barrio: se armó hasta los dientes, soldó persianas metálicas ciegas y convirtió el negocio en un búnker inexpugnable",
             "font": "Kenney Pixel.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
@@ -31955,6 +31893,199 @@
             "lineHeight": 0,
             "color": "255;215;120"
           }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "KIOSKERO",
+          "persistentUuid": "c2164246-a3a4-4c5f-b93e-cb38f75375cf",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "KIOSKERO",
+          "font": "PixelifySans-VariableFont_wght24.ttf",
+          "textAlignment": "center",
+          "characterSize": 14,
+          "color": {
+            "b": 120,
+            "g": 215,
+            "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": true,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "0;0;0",
+            "outlineThickness": 1,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "KIOSKERO",
+            "font": "PixelifySans-VariableFont_wght24.ttf",
+            "textAlignment": "center",
+            "verticalTextAlignment": "top",
+            "characterSize": 14,
+            "lineHeight": 0,
+            "color": "255;215;120"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "KIOSKERO2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "kioskero frames/IDLE/1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "kioskero frames/IDLE/1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 15,
+                            "y": 9
+                          },
+                          {
+                            "x": 55,
+                            "y": 9
+                          },
+                          {
+                            "x": 55,
+                            "y": 52
+                          },
+                          {
+                            "x": 15,
+                            "y": 52
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "CARNICERO",
+          "persistentUuid": "15a66a7e-2bde-4226-a2ec-9d43aa21f1d1",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "CARNICERO",
+          "font": "PixelifySans-VariableFont_wght24.ttf",
+          "textAlignment": "center",
+          "characterSize": 14,
+          "color": {
+            "b": 120,
+            "g": 215,
+            "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": true,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "0;0;0",
+            "outlineThickness": 1,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "CARNICERO",
+            "font": "PixelifySans-VariableFont_wght24.ttf",
+            "textAlignment": "center",
+            "verticalTextAlignment": "top",
+            "characterSize": 14,
+            "lineHeight": 0,
+            "color": "255;215;120"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "BRUJ",
+          "persistentUuid": "91f939b0-ee5c-4a43-ba98-42c3b151912f",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "VIEJA BRUJA",
+          "font": "PixelifySans-VariableFont_wght24.ttf",
+          "textAlignment": "center",
+          "characterSize": 14,
+          "color": {
+            "b": 120,
+            "g": 215,
+            "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": true,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "0;0;0",
+            "outlineThickness": 1,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "VIEJA BRUJA",
+            "font": "PixelifySans-VariableFont_wght24.ttf",
+            "textAlignment": "center",
+            "verticalTextAlignment": "top",
+            "characterSize": 14,
+            "lineHeight": 0,
+            "color": "255;215;120"
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -31982,10 +32113,19 @@
             "objectName": "NombreDylan"
           },
           {
+            "objectName": "KIOSKERO"
+          },
+          {
+            "objectName": "CARNICERO"
+          },
+          {
+            "objectName": "BRUJ"
+          },
+          {
             "objectName": "RolDylan"
           },
           {
-            "objectName": "TxtBloqueado"
+            "objectName": "Kioskero"
           },
           {
             "objectName": "TxtInterrogacion"
@@ -31998,6 +32138,9 @@
           },
           {
             "objectName": "EstadoSeleccion"
+          },
+          {
+            "objectName": "KIOSKERO2"
           }
         ]
       },
@@ -32612,7 +32755,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.7512693152212156,
+        "zoomFactor": 2.4791666666666665,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
