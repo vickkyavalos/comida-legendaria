@@ -23750,7 +23750,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.5124954396215324,
+        "zoomFactor": 0.705380986954279,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -24432,6 +24432,22 @@
           "width": 0,
           "x": 240,
           "y": 60,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "barra_vida",
+          "name": "TxtMuertes",
+          "persistentUuid": "6ee8ff0f-a5cc-4e92-a677-d9c0d65943aa",
+          "width": 0,
+          "x": 10,
+          "y": 30,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -25360,6 +25376,49 @@
             "lineHeight": 0,
             "color": "255;255;255"
           }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "TxtMuertes",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Text",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Text",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 20,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -25424,12 +25483,15 @@
           },
           {
             "objectName": "TxtNivel"
+          },
+          {
+            "objectName": "TxtMuertes"
           }
         ]
       },
       "events": [
         {
-          "aiGeneratedEventId": "01M6AQ2TV7A43WYVGXDJ3D4H9G",
+          "aiGeneratedEventId": "01M6ARS1529R4YT5345AWSFEK7",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -25471,13 +25533,39 @@
             },
             {
               "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::Name"
+                "value": "BuiltinCommonInstructions::Or"
               },
-              "parameters": [
-                "Dylan",
-                "Animation",
-                "!=",
-                "\"Golpes\""
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::Name"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "Animation",
+                    "!=",
+                    "\"Golpes\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsJumping"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsFalling"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "PlatformerObject"
+                  ]
+                }
               ]
             },
             {
@@ -25515,7 +25603,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M6AQ2TV7A43WYVGXDJ3D4H9G",
+          "aiGeneratedEventId": "01M6ARS1529R4YT5345AWSFEK7",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -25557,13 +25645,39 @@
             },
             {
               "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::Name"
+                "value": "BuiltinCommonInstructions::Or"
               },
-              "parameters": [
-                "Dylan",
-                "Animation",
-                "!=",
-                "\"Golpes\""
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::Name"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "Animation",
+                    "!=",
+                    "\"Golpes\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsJumping"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsFalling"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "PlatformerObject"
+                  ]
+                }
               ]
             },
             {
@@ -25847,7 +25961,7 @@
               "comment": "Prioridad de estados: muerte > golpeado > ataque > salto/caída > correr > caminar > IDLE. La animación solo se cambia cuando es distinta de la actual, así no se reinicia el bucle ni se congela el primer frame."
             },
             {
-              "aiGeneratedEventId": "01M6AQ3TBNQQXPC74Z6S1N6X1X",
+              "aiGeneratedEventId": "01M6ARSK513EFRAS3NM0TNXZXW",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -25879,6 +25993,17 @@
                     "Dylan",
                     "Health",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CompareObjectTimer"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "\"Ataque\"",
+                    ">",
+                    "0.45"
                   ]
                 }
               ],
@@ -27823,6 +27948,7 @@
                       ]
                     },
                     {
+                      "aiGeneratedEventId": "01M6ART9A0MXY8T02TZQ6CR7GQ",
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [
                         {
@@ -27842,35 +27968,28 @@
                             "ENEMIGO1",
                             "\"Salto\"",
                             ">",
-                            "0.7"
+                            "1.1"
                           ]
                         },
                         {
                           "type": {
-                            "value": "BuiltinCommonInstructions::Or"
+                            "value": "PosY"
                           },
-                          "parameters": [],
-                          "subInstructions": [
-                            {
-                              "type": {
-                                "value": "PosY"
-                              },
-                              "parameters": [
-                                "Dylan",
-                                "<",
-                                "ENEMIGO1.Y() - 40"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "BuiltinCommonInstructions::CompareNumbers"
-                              },
-                              "parameters": [
-                                "abs(Dylan.CenterX() - ENEMIGO1.CenterX())",
-                                ">",
-                                "60"
-                              ]
-                            }
+                          "parameters": [
+                            "Dylan",
+                            "<",
+                            "ENEMIGO1.Y() - 40"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Distance"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "Dylan",
+                            "320",
+                            ""
                           ]
                         }
                       ],
@@ -28309,16 +28428,18 @@
               "comment": "El golpe de J daña al enemigo una vez por ataque."
             },
             {
-              "aiGeneratedEventId": "01M6AQ3TBNQQXPC74Z6S1N6X1X",
+              "aiGeneratedEventId": "01M6ARSK513EFRAS3NM0TNXZXW",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
                   "type": {
-                    "value": "KeyFromTextJustPressed"
+                    "value": "CompareObjectTimer"
                   },
                   "parameters": [
-                    "",
-                    "\"j\""
+                    "Dylan",
+                    "\"Ataque\"",
+                    "<",
+                    "0.15"
                   ]
                 },
                 {
@@ -28364,6 +28485,12 @@
                     "Health",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
               "actions": [
@@ -28378,6 +28505,15 @@
                     "",
                     "",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "ENEMIGO1",
+                    "\"Dolor\""
                   ]
                 }
               ]
@@ -28988,6 +29124,24 @@
               },
               "parameters": [
                 "TxtNivel"
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6ARWPVKXCRSQNESTZT81W5E",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "TxtMuertes",
+                "Text",
+                "=",
+                "\"Muertes: \" + ToString(MuertesSeguidas)"
               ]
             }
           ]
@@ -29742,6 +29896,22 @@
           "width": 0,
           "x": 240,
           "y": 120,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "TxtMuertes",
+          "persistentUuid": "15033dd4-365e-436e-a745-8780d01f9a7e",
+          "width": 0,
+          "x": 10,
+          "y": 30,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -32367,10 +32537,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ],
@@ -32734,6 +32904,49 @@
             "lineHeight": 0,
             "color": "255;215;0"
           }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "TxtMuertes",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Text",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Text",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 20,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -32801,12 +33014,15 @@
           },
           {
             "objectName": "TxtGanaste"
+          },
+          {
+            "objectName": "TxtMuertes"
           }
         ]
       },
       "events": [
         {
-          "aiGeneratedEventId": "01M6AQ4DZ4BP7A6SD9A37EQD9X",
+          "aiGeneratedEventId": "01M6ARTVKTRDGYY690AEWDFDYN",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -32848,24 +33064,39 @@
             },
             {
               "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::Name"
+                "value": "BuiltinCommonInstructions::Or"
               },
-              "parameters": [
-                "Dylan",
-                "Animation",
-                "!=",
-                "\"Golpes\""
-              ]
-            },
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::Name"
-              },
-              "parameters": [
-                "Dylan",
-                "Animation",
-                "!=",
-                "\"golpeado\""
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::Name"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "Animation",
+                    "!=",
+                    "\"Golpes\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsJumping"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsFalling"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "PlatformerObject"
+                  ]
+                }
               ]
             }
           ],
@@ -32892,7 +33123,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M6AQ4DZ4BP7A6SD9A37EQD9X",
+          "aiGeneratedEventId": "01M6ARTVKTRDGYY690AEWDFDYN",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -32934,24 +33165,39 @@
             },
             {
               "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::Name"
+                "value": "BuiltinCommonInstructions::Or"
               },
-              "parameters": [
-                "Dylan",
-                "Animation",
-                "!=",
-                "\"Golpes\""
-              ]
-            },
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::Name"
-              },
-              "parameters": [
-                "Dylan",
-                "Animation",
-                "!=",
-                "\"golpeado\""
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::Name"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "Animation",
+                    "!=",
+                    "\"Golpes\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsJumping"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsFalling"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "PlatformerObject"
+                  ]
+                }
               ]
             }
           ],
@@ -33936,7 +34182,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M6AQ5WATNPDHMK0BMVX7BQH4",
+          "aiGeneratedEventId": "01M6ARVKZQV0Q259Y22C750QAV",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -34009,6 +34255,15 @@
                   "parameters": [
                     "vieja_bruja",
                     "\"disparo\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "vieja_bruja",
+                    "\"salto\""
                   ]
                 }
               ]
@@ -34643,7 +34898,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M65F2P6DHC9EP93Z6DZT832M",
+          "aiGeneratedEventId": "01M6ARTVKTRDGYY690AEWDFDYN",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -34686,6 +34941,17 @@
                 "260",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "CompareObjectTimer"
+              },
+              "parameters": [
+                "vieja_bruja",
+                "\"salto\"",
+                ">",
+                "1.1"
+              ]
             }
           ],
           "actions": [
@@ -34697,11 +34963,20 @@
                 "vieja_bruja",
                 "PlatformerObject"
               ]
+            },
+            {
+              "type": {
+                "value": "ResetObjectTimer"
+              },
+              "parameters": [
+                "vieja_bruja",
+                "\"salto\""
+              ]
             }
           ]
         },
         {
-          "aiGeneratedEventId": "01M65F2P6DHC9EP93Z6DZT832M",
+          "aiGeneratedEventId": "01M6ARTVKTRDGYY690AEWDFDYN",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -34735,6 +35010,17 @@
                 "",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "CompareObjectTimer"
+              },
+              "parameters": [
+                "vieja_bruja",
+                "\"salto\"",
+                ">",
+                "1.1"
+              ]
             }
           ],
           "actions": [
@@ -34745,6 +35031,15 @@
               "parameters": [
                 "vieja_bruja",
                 "PlatformerObject"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetObjectTimer"
+              },
+              "parameters": [
+                "vieja_bruja",
+                "\"salto\""
               ]
             }
           ]
@@ -35778,6 +36073,44 @@
                 "",
                 "\"menu\"",
                 "no"
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6ARX4NH42X5ZPAKTXHV3EJ2",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "TxtMuertes",
+                "Text",
+                "=",
+                "\"Muertes: \" + ToString(MuertesSeguidas)"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetX"
+              },
+              "parameters": [
+                "TxtMuertes",
+                "=",
+                "CameraX() - 230"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetY"
+              },
+              "parameters": [
+                "TxtMuertes",
+                "=",
+                "CameraY() - 130"
               ]
             }
           ]
@@ -39590,8 +39923,8 @@
   "tests": [
     {
       "description": "Dylan stays on floor, moves right and jumps",
-      "lastRunAt": 1793508880330,
-      "lastRunDurationMs": 1223,
+      "lastRunAt": 1793510535637,
+      "lastRunDurationMs": 866,
       "lastRunFramesExecuted": 235,
       "lastRunStatus": "passed",
       "name": "dylan-moves",
@@ -40249,9 +40582,9 @@
     },
     {
       "description": "El enemigo detecta, se orienta hacia Dylan, persigue en ambos sentidos y golpea con daño real y cooldown",
-      "lastRunAt": 1793508884105,
-      "lastRunDurationMs": 1031,
-      "lastRunFramesExecuted": 401,
+      "lastRunAt": 1793510532726,
+      "lastRunDurationMs": 1152,
+      "lastRunFramesExecuted": 398,
       "lastRunStatus": "passed",
       "name": "ia-persecucion-y-ataque",
       "type": "gameplay",
@@ -40711,8 +41044,8 @@
     },
     {
       "description": "Single J tap full swing and damage",
-      "lastRunAt": 1793508848011,
-      "lastRunDurationMs": 931,
+      "lastRunAt": 1793510534052,
+      "lastRunDurationMs": 590,
       "lastRunFramesExecuted": 55,
       "lastRunStatus": "passed",
       "name": "j-toque-anim",
@@ -40759,6 +41092,41 @@
         "harness.assert(g && g.hidden === false, 'Cartel GANASTE visible al llegar al final');",
         "const toMenu = await harness.stepUntil(() => harness.getSceneName() === 'menu', {maxFrames: 300});",
         "harness.assert(toMenu, 'GANASTE redirige al menu');"
+      ]
+    },
+    {
+      "description": "Air attack keeps momentum and death counter visible",
+      "lastRunAt": 1793510549988,
+      "lastRunDurationMs": 701,
+      "lastRunFramesExecuted": 83,
+      "lastRunStatus": "passed",
+      "name": "fix-verificacion-aire-muertes",
+      "type": "gameplay",
+      "source": [
+        "await harness.goToScene('Nivel 1');",
+        "await harness.stepFrames(30);",
+        "const d0 = harness.getObjects('Dylan')[0];",
+        "const x0 = d0.centerX;",
+        "// run right, jump, then attack in air and check horizontal momentum preserved",
+        " harness.setKeyPressed('d', true);",
+        "await harness.stepFrames(20);",
+        " harness.setKeyPressed('w', true);",
+        "await harness.stepFrames(5);",
+        " harness.setKeyPressed('w', false);",
+        "await harness.stepFrames(5);",
+        "const before = harness.getObjects('Dylan')[0].centerX;",
+        "// press J in air",
+        " harness.setKeyPressed('j', true);",
+        "await harness.stepFrames(2);",
+        " harness.setKeyPressed('j', false);",
+        "await harness.stepFrames(15);",
+        "const after = harness.getObjects('Dylan')[0].centerX;",
+        "harness.setKeyPressed('d', false);",
+        "await harness.stepFrames(5);",
+        "harness.assert(after > before, 'Dylan keeps moving forward while attacking in air (before='+before+' after='+after+')');",
+        "// death counter visible",
+        "const t = harness.getObjects('TxtMuertes');",
+        "harness.assert(t.length > 0 && t[0].text.includes('Muertes'), 'Counter TxtMuertes visible with Muertes text: '+(t.length? t[0].text : 'missing'));"
       ]
     }
   ],
