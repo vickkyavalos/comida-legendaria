@@ -3314,6 +3314,118 @@
         "name": "assets/nivel 3/Gemini_Generated_Image_l8731sl8731sl873.jpg",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "assets/flotando bola13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "flotando bola7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/flotando bola13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "flotando bola8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/flotando bola13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "flotando bola9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/flotando bola13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "flotando bola10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/flotando bola13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "flotando bola11",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/flotando bola13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "flotando bola12",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/colision a personaje7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colision a personaje",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/colision a personaje7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colision a personaje2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/colision a personaje7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colision a personaje3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/colision a personaje7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colision a personaje4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/colision a personaje7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colision a personaje5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/colision a personaje7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "colision a personaje6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ingredientes/chorizos.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/ingredientes/chorizos.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ingredientes/laurel.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/ingredientes/laurel.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -6601,6 +6713,11 @@
   },
   "objectsGroups": [],
   "variables": [
+    {
+      "name": "MuertesSeguidas",
+      "type": "number",
+      "value": 0
+    },
     {
       "name": "MusicaReintentada",
       "persistentUuid": "9a0cf067-31e2-4aa3-b9b5-05b70edbae2e",
@@ -11834,6 +11951,23 @@
           "x": 8,
           "y": 7,
           "zOrder": 101,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "hidden": true,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "TxtNivel",
+          "persistentUuid": "603a8a67-b97a-4765-81cd-cd88b39d2c52",
+          "width": 0,
+          "x": 240,
+          "y": 60,
+          "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -22016,6 +22150,49 @@
             "LabelText": "VOLVER",
             "PressedLabelOffsetY": 2
           }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "TxtNivel",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "NIVEL 1",
+          "font": "",
+          "textAlignment": "center",
+          "characterSize": 28,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "NIVEL 1",
+            "font": "",
+            "textAlignment": "center",
+            "verticalTextAlignment": "top",
+            "characterSize": 28,
+            "lineHeight": 0,
+            "color": "255;255;255"
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -22122,6 +22299,9 @@
           },
           {
             "objectName": "BotonVolver"
+          },
+          {
+            "objectName": "TxtNivel"
           }
         ]
       },
@@ -23230,6 +23410,84 @@
             }
           ],
           "parameters": []
+        },
+        {
+          "aiGeneratedEventId": "01M6AQ960HQMCBEGE42RNKPTCR",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SceneJustBegins"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "TxtNivel",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "TxtNivel",
+                "Text",
+                "=",
+                "\"NIVEL 1\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"Nivel\""
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6AQ960HQMCBEGE42RNKPTCR",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"Nivel\"",
+                ">",
+                "2.5"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "TxtNivel"
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -24057,6 +24315,40 @@
           "x": 2082,
           "y": 162,
           "zOrder": 49,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "hidden": true,
+          "keepRatio": true,
+          "layer": "Fin",
+          "name": "TxtPerdiste",
+          "persistentUuid": "286a5b4a-fd05-438f-bac8-f82cde0b5048",
+          "width": 0,
+          "x": 140,
+          "y": 110,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "hidden": true,
+          "keepRatio": true,
+          "layer": "Fin",
+          "name": "TxtNivel",
+          "persistentUuid": "003893f2-b49d-4c64-a66a-c1025a90a80f",
+          "width": 0,
+          "x": 240,
+          "y": 60,
+          "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -24898,6 +25190,92 @@
           "variables": [],
           "effects": [],
           "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "TxtPerdiste",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "PERDISTE!",
+          "font": "",
+          "textAlignment": "center",
+          "characterSize": 28,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "PERDISTE!",
+            "font": "",
+            "textAlignment": "center",
+            "verticalTextAlignment": "top",
+            "characterSize": 28,
+            "lineHeight": 0,
+            "color": "255;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "TxtNivel",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "NIVEL 2",
+          "font": "",
+          "textAlignment": "center",
+          "characterSize": 28,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "NIVEL 2",
+            "font": "",
+            "textAlignment": "center",
+            "verticalTextAlignment": "top",
+            "characterSize": 28,
+            "lineHeight": 0,
+            "color": "255;255;255"
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -24956,12 +25334,18 @@
           },
           {
             "objectName": "PanelInv"
+          },
+          {
+            "objectName": "TxtPerdiste"
+          },
+          {
+            "objectName": "TxtNivel"
           }
         ]
       },
       "events": [
         {
-          "aiGeneratedEventId": "01M3JZHWVX8XJR72YWSCD6R4BP",
+          "aiGeneratedEventId": "01M6AQ2TV7A43WYVGXDJ3D4H9G",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -24989,6 +25373,39 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "Dylan",
+                "Animation",
+                "!=",
+                "\"Golpes\""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "Dylan",
+                "Animation",
+                "!=",
+                "\"golpeado\""
+              ]
             }
           ],
           "actions": [
@@ -25014,7 +25431,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M3JZHWVX8XJR72YWSCD6R4BP",
+          "aiGeneratedEventId": "01M6AQ2TV7A43WYVGXDJ3D4H9G",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -25042,6 +25459,39 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "Dylan",
+                "Animation",
+                "!=",
+                "\"Golpes\""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "Dylan",
+                "Animation",
+                "!=",
+                "\"golpeado\""
+              ]
             }
           ],
           "actions": [
@@ -25067,7 +25517,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M3JYXB2G3D1WQHM2CC3CHW33",
+          "aiGeneratedEventId": "01M6AQ2TV7A43WYVGXDJ3D4H9G",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -25104,6 +25554,39 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "Dylan",
+                "Animation",
+                "!=",
+                "\"Golpes\""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "Dylan",
+                "Animation",
+                "!=",
+                "\"golpeado\""
+              ]
             }
           ],
           "actions": [
@@ -25119,7 +25602,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M5GZERHXJ7QN4N9SP99XCJJG",
+          "aiGeneratedEventId": "01M6AQ2TV7A43WYVGXDJ3D4H9G",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -25146,6 +25629,39 @@
                     "\"Down\""
                   ]
                 }
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "Dylan",
+                "Animation",
+                "!=",
+                "\"Golpes\""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "Dylan",
+                "Animation",
+                "!=",
+                "\"golpeado\""
               ]
             }
           ],
@@ -25247,6 +25763,7 @@
               "comment": "Prioridad de estados: muerte > golpeado > ataque > salto/caída > correr > caminar > IDLE. La animación solo se cambia cuando es distinta de la actual, así no se reinicia el bucle ni se congela el primer frame."
             },
             {
+              "aiGeneratedEventId": "01M6AQ3TBNQQXPC74Z6S1N6X1X",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -25256,6 +25773,28 @@
                   "parameters": [
                     "",
                     "\"j\""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "InvAbierto",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "Health",
+                    ""
                   ]
                 }
               ],
@@ -25742,7 +26281,43 @@
               "comment": "Al empezar la escena se recupera la vida guardada: la vida es persistente entre niveles."
             },
             {
-              "aiGeneratedEventId": "01M68B9814TXAT9MWRZH66S4ZD",
+              "aiGeneratedEventId": "01M6ANFQT8HP639HGA99F35M12",
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SceneJustBegins"
+                  },
+                  "parameters": [
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "VidaDylan",
+                    "<=",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "VidaDylan",
+                    "=",
+                    "100"
+                  ]
+                }
+              ]
+            },
+            {
+              "aiGeneratedEventId": "01M6ANF3PBKSWT6V8ZDYQC55W1",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -25757,12 +26332,21 @@
               "actions": [
                 {
                   "type": {
-                    "value": "SetNumberVariable"
+                    "value": "Hide"
                   },
                   "parameters": [
-                    "VidaDylan",
+                    "TxtPerdiste"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TxtPerdiste",
+                    "Text",
                     "=",
-                    "100"
+                    "\"PERDISTE!\""
                   ]
                 },
                 {
@@ -25772,7 +26356,7 @@
                   "parameters": [
                     "Dylan",
                     "Health",
-                    "100",
+                    "VidaDylan",
                     ""
                   ]
                 },
@@ -25861,6 +26445,7 @@
               "comment": "Peligro: caer fuera del escenario devuelve a Dylan al inicio del nivel."
             },
             {
+              "aiGeneratedEventId": "01M6AQ1KDPA9ECXP6VBPYNX9FC",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -25872,28 +26457,28 @@
                     ">",
                     "520"
                   ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "Health",
+                    ""
+                  ]
                 }
               ],
               "actions": [
                 {
                   "type": {
-                    "value": "SetXY"
+                    "value": "Health::Health::SetHealth"
                   },
                   "parameters": [
                     "Dylan",
-                    "=",
-                    "240",
-                    "=",
-                    "100"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetBooleanVariable"
-                  },
-                  "parameters": [
-                    "ReiniciarEnemigos",
-                    "True",
+                    "Health",
+                    "0",
                     ""
                   ]
                 }
@@ -26066,7 +26651,7 @@
               "comment": "Derrota de Dylan: tras la animación de Muerte vuelve a la vida con la vida completa, sin paneles ni botones, para seguir jugando."
             },
             {
-              "aiGeneratedEventId": "01M68AYH6HC3BTVYCJ78VK46M2",
+              "aiGeneratedEventId": "01M6AN9S071X2SKW0WXY834ZTV",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -26081,17 +26666,6 @@
                 },
                 {
                   "type": {
-                    "value": "CompareTimer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Derrota\"",
-                    ">",
-                    "2.2"
-                  ]
-                },
-                {
-                  "type": {
                     "value": "BuiltinCommonInstructions::Once"
                   },
                   "parameters": []
@@ -26100,54 +26674,12 @@
               "actions": [
                 {
                   "type": {
-                    "value": "Health::Health::SetHealth"
-                  },
-                  "parameters": [
-                    "Dylan",
-                    "Health",
-                    "100",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
                     "value": "SetNumberVariable"
                   },
                   "parameters": [
-                    "VidaDylan",
-                    "=",
-                    "100"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetXY"
-                  },
-                  "parameters": [
-                    "Dylan",
-                    "=",
-                    "240",
-                    "=",
-                    "100"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetAngle"
-                  },
-                  "parameters": [
-                    "Dylan",
-                    "=",
-                    "0"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ResetObjectTimer"
-                  },
-                  "parameters": [
-                    "Dylan",
-                    "\"Golpe\""
+                    "MuertesSeguidas",
+                    "+",
+                    "1"
                   ]
                 },
                 {
@@ -26161,12 +26693,11 @@
                 },
                 {
                   "type": {
-                    "value": "SetBooleanVariable"
+                    "value": "ResetTimer"
                   },
                   "parameters": [
-                    "ReiniciarEnemigos",
-                    "True",
-                    ""
+                    "",
+                    "\"Perdiste\""
                   ]
                 }
               ]
@@ -27301,6 +27832,7 @@
                   "actions": [],
                   "events": [
                     {
+                      "aiGeneratedEventId": "01M6AQ2TV7A43WYVGXDJ3D4H9G",
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [
                         {
@@ -27313,6 +27845,17 @@
                             "Dylan",
                             "30",
                             ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "CompareObjectTimer"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "\"Ataque\"",
+                            ">",
+                            "0.6"
                           ]
                         }
                       ],
@@ -27682,11 +28225,12 @@
               "comment": "El golpe de J daña al enemigo una vez por ataque."
             },
             {
+              "aiGeneratedEventId": "01M6AQ3TBNQQXPC74Z6S1N6X1X",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
                   "type": {
-                    "value": "KeyFromTextPressed"
+                    "value": "KeyFromTextJustPressed"
                   },
                   "parameters": [
                     "",
@@ -27717,20 +28261,25 @@
                 },
                 {
                   "type": {
-                    "value": "CompareObjectTimer"
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
                   },
                   "parameters": [
                     "Dylan",
-                    "\"Ataque\"",
-                    "<",
-                    "0.35"
+                    "Health",
+                    ""
                   ]
                 },
                 {
                   "type": {
-                    "value": "BuiltinCommonInstructions::Once"
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
                   },
-                  "parameters": []
+                  "parameters": [
+                    "ENEMIGO1",
+                    "Health",
+                    ""
+                  ]
                 }
               ],
               "actions": [
@@ -27866,6 +28415,7 @@
               ]
             },
             {
+              "aiGeneratedEventId": "01M6AN9S071X2SKW0WXY834ZTV",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -27886,6 +28436,16 @@
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "MuertesSeguidas",
+                    "=",
+                    "0"
+                  ]
+                },
                 {
                   "type": {
                     "value": "Scene"
@@ -28053,6 +28613,300 @@
             }
           ],
           "parameters": []
+        },
+        {
+          "aiGeneratedEventId": "01M6AN9S071X2SKW0WXY834ZTV",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"Derrota\"",
+                ">",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "MuertesSeguidas",
+                "<",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "VidaDylan",
+                "=",
+                "100"
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Nivel 1\"",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6AQ7X2GG4D58XGXZ82RY7WX",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"Derrota\"",
+                ">",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "MuertesSeguidas",
+                ">=",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetXY"
+              },
+              "parameters": [
+                "TxtPerdiste",
+                "=",
+                "190",
+                "=",
+                "110"
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "TxtPerdiste",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "TxtPerdiste",
+                "Text",
+                "=",
+                "\"PERDISTE!\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"Perdiste\""
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6AN9S071X2SKW0WXY834ZTV",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "MuertesSeguidas",
+                ">=",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"Perdiste\"",
+                ">",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "VidaDylan",
+                "=",
+                "100"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "MuertesSeguidas",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"menu\"",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6AQ7X2GG4D58XGXZ82RY7WX",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SceneJustBegins"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "TxtNivel",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "TxtNivel",
+                "Text",
+                "=",
+                "\"NIVEL 2\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"Nivel\""
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6AQ7X2GG4D58XGXZ82RY7WX",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"Nivel\"",
+                ">",
+                "2.5"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "TxtNivel"
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -28383,8 +29237,8 @@
           "name": "vieja_bruja",
           "persistentUuid": "ad2ce0ae-b699-468a-99da-1abd2daa8ec7",
           "width": 0,
-          "x": 1066,
-          "y": 125,
+          "x": 1063,
+          "y": 118,
           "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
@@ -28457,15 +29311,16 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 46,
           "keepRatio": true,
           "layer": "",
-          "name": "ajo",
+          "name": "salame",
           "persistentUuid": "ff39e907-8293-4a2f-911f-7b00f65e936c",
-          "width": 0,
-          "x": 490,
-          "y": 144,
+          "width": 46,
+          "x": 1890,
+          "y": 87,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -28473,15 +29328,16 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 42,
           "keepRatio": true,
           "layer": "",
-          "name": "asset_morron",
+          "name": "laurel",
           "persistentUuid": "ff1f8328-b617-4e58-a637-ea10bbe39177",
-          "width": 0,
-          "x": 430,
-          "y": 145,
+          "width": 42,
+          "x": 1616,
+          "y": 181,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -28562,8 +29418,8 @@
           "name": "pared",
           "persistentUuid": "41244c5e-44e4-4fdc-9656-2354f6724fd2",
           "width": 213,
-          "x": 1840,
-          "y": 79,
+          "x": 1846,
+          "y": 73,
           "zOrder": 15,
           "numberProperties": [],
           "stringProperties": [],
@@ -28752,6 +29608,57 @@
           "x": 4440,
           "y": 234,
           "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "hidden": true,
+          "keepRatio": true,
+          "layer": "",
+          "name": "TxtPerdiste",
+          "persistentUuid": "f5531c49-474f-45e3-a9d5-2576df7882eb",
+          "width": 0,
+          "x": 140,
+          "y": 110,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "hidden": true,
+          "keepRatio": true,
+          "layer": "",
+          "name": "TxtNivel",
+          "persistentUuid": "1914e050-8dd7-434c-b3b2-3b51e8caad41",
+          "width": 0,
+          "x": 240,
+          "y": 60,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "hidden": true,
+          "keepRatio": true,
+          "layer": "",
+          "name": "TxtGanaste",
+          "persistentUuid": "437d3a5b-157d-4fd7-bf23-25b9987fc445",
+          "width": 0,
+          "x": 240,
+          "y": 120,
+          "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -30361,7 +31268,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "flotando bola",
+                      "image": "flotando bola7",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -30377,27 +31284,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 19
+                            "x": 1,
+                            "y": 7
                           },
                           {
-                            "x": 57,
-                            "y": 19
+                            "x": 31,
+                            "y": 7
                           },
                           {
-                            "x": 57,
-                            "y": 53
+                            "x": 31,
+                            "y": 26
                           },
                           {
-                            "x": 2,
-                            "y": 53
+                            "x": 1,
+                            "y": 26
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "flotando bola2",
+                      "image": "flotando bola8",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -30413,27 +31320,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 19
+                            "x": 1,
+                            "y": 7
                           },
                           {
-                            "x": 57,
-                            "y": 19
+                            "x": 31,
+                            "y": 7
                           },
                           {
-                            "x": 57,
-                            "y": 53
+                            "x": 31,
+                            "y": 26
                           },
                           {
-                            "x": 2,
-                            "y": 53
+                            "x": 1,
+                            "y": 26
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "flotando bola3",
+                      "image": "flotando bola9",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -30449,27 +31356,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 19
+                            "x": 1,
+                            "y": 7
                           },
                           {
-                            "x": 57,
-                            "y": 19
+                            "x": 31,
+                            "y": 7
                           },
                           {
-                            "x": 57,
-                            "y": 53
+                            "x": 31,
+                            "y": 26
                           },
                           {
-                            "x": 2,
-                            "y": 53
+                            "x": 1,
+                            "y": 26
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "flotando bola4",
+                      "image": "flotando bola10",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -30485,27 +31392,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 19
+                            "x": 1,
+                            "y": 7
                           },
                           {
-                            "x": 57,
-                            "y": 19
+                            "x": 31,
+                            "y": 7
                           },
                           {
-                            "x": 57,
-                            "y": 53
+                            "x": 31,
+                            "y": 26
                           },
                           {
-                            "x": 2,
-                            "y": 53
+                            "x": 1,
+                            "y": 26
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "flotando bola5",
+                      "image": "flotando bola11",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -30521,27 +31428,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 19
+                            "x": 1,
+                            "y": 7
                           },
                           {
-                            "x": 57,
-                            "y": 19
+                            "x": 31,
+                            "y": 7
                           },
                           {
-                            "x": 57,
-                            "y": 53
+                            "x": 31,
+                            "y": 26
                           },
                           {
-                            "x": 2,
-                            "y": 53
+                            "x": 1,
+                            "y": 26
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "flotando bola6",
+                      "image": "flotando bola12",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -30557,20 +31464,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 19
+                            "x": 1,
+                            "y": 7
                           },
                           {
-                            "x": 57,
-                            "y": 19
+                            "x": 31,
+                            "y": 7
                           },
                           {
-                            "x": 57,
-                            "y": 53
+                            "x": 31,
+                            "y": 26
                           },
                           {
-                            "x": 2,
-                            "y": 53
+                            "x": 1,
+                            "y": 26
                           }
                         ]
                       ]
@@ -30590,7 +31497,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "colision personaje",
+                      "image": "colision a personaje",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -30606,27 +31513,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 19
+                            "x": 1,
+                            "y": 7
                           },
                           {
-                            "x": 57,
-                            "y": 19
+                            "x": 31,
+                            "y": 7
                           },
                           {
-                            "x": 57,
-                            "y": 53
+                            "x": 31,
+                            "y": 26
                           },
                           {
-                            "x": 2,
-                            "y": 53
+                            "x": 1,
+                            "y": 26
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "colision personaje2",
+                      "image": "colision a personaje2",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -30642,27 +31549,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 19
+                            "x": 1,
+                            "y": 7
                           },
                           {
-                            "x": 57,
-                            "y": 19
+                            "x": 31,
+                            "y": 7
                           },
                           {
-                            "x": 57,
-                            "y": 53
+                            "x": 31,
+                            "y": 26
                           },
                           {
-                            "x": 2,
-                            "y": 53
+                            "x": 1,
+                            "y": 26
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "colision personaje3",
+                      "image": "colision a personaje3",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -30678,27 +31585,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 19
+                            "x": 1,
+                            "y": 7
                           },
                           {
-                            "x": 57,
-                            "y": 19
+                            "x": 31,
+                            "y": 7
                           },
                           {
-                            "x": 57,
-                            "y": 53
+                            "x": 31,
+                            "y": 26
                           },
                           {
-                            "x": 2,
-                            "y": 53
+                            "x": 1,
+                            "y": 26
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "colision personaje4",
+                      "image": "colision a personaje4",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -30714,27 +31621,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 19
+                            "x": 1,
+                            "y": 7
                           },
                           {
-                            "x": 57,
-                            "y": 19
+                            "x": 31,
+                            "y": 7
                           },
                           {
-                            "x": 57,
-                            "y": 53
+                            "x": 31,
+                            "y": 26
                           },
                           {
-                            "x": 2,
-                            "y": 53
+                            "x": 1,
+                            "y": 26
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "colision personaje5",
+                      "image": "colision a personaje5",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -30750,27 +31657,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 19
+                            "x": 1,
+                            "y": 7
                           },
                           {
-                            "x": 57,
-                            "y": 19
+                            "x": 31,
+                            "y": 7
                           },
                           {
-                            "x": 57,
-                            "y": 53
+                            "x": 31,
+                            "y": 26
                           },
                           {
-                            "x": 2,
-                            "y": 53
+                            "x": 1,
+                            "y": 26
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "colision personaje6",
+                      "image": "colision a personaje6",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -30786,20 +31693,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 19
+                            "x": 1,
+                            "y": 7
                           },
                           {
-                            "x": 57,
-                            "y": 19
+                            "x": 31,
+                            "y": 7
                           },
                           {
-                            "x": 57,
-                            "y": 53
+                            "x": 31,
+                            "y": 26
                           },
                           {
-                            "x": 2,
-                            "y": 53
+                            "x": 1,
+                            "y": 26
                           }
                         ]
                       ]
@@ -30945,7 +31852,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "asset_morron",
+          "name": "laurel",
           "persistentUuid": "ce0abdc2-e2e8-4974-899c-d4f905df5fd1",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -30954,7 +31861,7 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "morron asset",
+              "name": "laurel",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -30964,7 +31871,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "morron asset.png",
+                      "image": "assets/ingredientes/laurel.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -30980,20 +31887,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 11,
-                            "y": 7
+                            "x": 15,
+                            "y": 11
                           },
                           {
-                            "x": 54,
-                            "y": 7
+                            "x": 50,
+                            "y": 11
                           },
                           {
-                            "x": 54,
-                            "y": 62
+                            "x": 50,
+                            "y": 56
                           },
                           {
-                            "x": 11,
-                            "y": 62
+                            "x": 15,
+                            "y": 56
                           }
                         ]
                       ]
@@ -31068,7 +31975,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "ajo",
+          "name": "salame",
           "persistentUuid": "0bad9b7c-a540-4b99-a90c-8370c7c0da0f",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -31086,7 +31993,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "ajos.png",
+                      "image": "assets/ingredientes/chorizos.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -31102,19 +32009,19 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 20,
-                            "y": 0
+                            "x": 3,
+                            "y": 3
                           },
                           {
-                            "x": 47,
-                            "y": 0
+                            "x": 52,
+                            "y": 3
                           },
                           {
-                            "x": 47,
+                            "x": 52,
                             "y": 61
                           },
                           {
-                            "x": 20,
+                            "x": 3,
                             "y": 61
                           }
                         ]
@@ -31614,6 +32521,135 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "TxtPerdiste",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "PERDISTE!",
+          "font": "",
+          "textAlignment": "center",
+          "characterSize": 28,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "PERDISTE!",
+            "font": "",
+            "textAlignment": "center",
+            "verticalTextAlignment": "top",
+            "characterSize": 28,
+            "lineHeight": 0,
+            "color": "255;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "TxtNivel",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "NIVEL 3",
+          "font": "",
+          "textAlignment": "center",
+          "characterSize": 28,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "NIVEL 3",
+            "font": "",
+            "textAlignment": "center",
+            "verticalTextAlignment": "top",
+            "characterSize": 28,
+            "lineHeight": 0,
+            "color": "255;255;255"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "TxtGanaste",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "GANASTE!",
+          "font": "",
+          "textAlignment": "center",
+          "characterSize": 32,
+          "color": {
+            "b": 0,
+            "g": 215,
+            "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "GANASTE!",
+            "font": "",
+            "textAlignment": "center",
+            "verticalTextAlignment": "top",
+            "characterSize": 32,
+            "lineHeight": 0,
+            "color": "255;215;0"
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -31626,13 +32662,13 @@
             "objectName": "NewSprite"
           },
           {
-            "objectName": "asset_morron"
+            "objectName": "laurel"
           },
           {
             "objectName": "NewSprite2"
           },
           {
-            "objectName": "ajo"
+            "objectName": "salame"
           },
           {
             "objectName": "olla"
@@ -31672,12 +32708,21 @@
           },
           {
             "objectName": "NewSprite5"
+          },
+          {
+            "objectName": "TxtPerdiste"
+          },
+          {
+            "objectName": "TxtNivel"
+          },
+          {
+            "objectName": "TxtGanaste"
           }
         ]
       },
       "events": [
         {
-          "aiGeneratedEventId": "01M3JZHWVX8XJR72YWSCD6R4BP",
+          "aiGeneratedEventId": "01M6AQ4DZ4BP7A6SD9A37EQD9X",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -31705,6 +32750,39 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "Dylan",
+                "Animation",
+                "!=",
+                "\"Golpes\""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "Dylan",
+                "Animation",
+                "!=",
+                "\"golpeado\""
+              ]
             }
           ],
           "actions": [
@@ -31730,7 +32808,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M3JZHWVX8XJR72YWSCD6R4BP",
+          "aiGeneratedEventId": "01M6AQ4DZ4BP7A6SD9A37EQD9X",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -31758,6 +32836,39 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "Dylan",
+                "Animation",
+                "!=",
+                "\"Golpes\""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "Dylan",
+                "Animation",
+                "!=",
+                "\"golpeado\""
+              ]
             }
           ],
           "actions": [
@@ -31783,7 +32894,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M3JYXB2G3D1WQHM2CC3CHW33",
+          "aiGeneratedEventId": "01M6AQ4DZ4BP7A6SD9A37EQD9X",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -31820,6 +32931,39 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "Dylan",
+                "Animation",
+                "!=",
+                "\"Golpes\""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "Dylan",
+                "Animation",
+                "!=",
+                "\"golpeado\""
+              ]
             }
           ],
           "actions": [
@@ -31835,7 +32979,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M5GZERHXJ7QN4N9SP99XCJJG",
+          "aiGeneratedEventId": "01M6AQ4DZ4BP7A6SD9A37EQD9X",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -31862,6 +33006,39 @@
                     "\"Down\""
                   ]
                 }
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "Dylan",
+                "Animation",
+                "!=",
+                "\"Golpes\""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "Dylan",
+                "Animation",
+                "!=",
+                "\"golpeado\""
               ]
             }
           ],
@@ -32417,7 +33594,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M5GZDQCBYMGJZPJP4J2XY2SE",
+          "aiGeneratedEventId": "01M6AQ1S7P081EEGWYJ708C026",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -32429,19 +33606,29 @@
                 ">",
                 "520"
               ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
             }
           ],
           "actions": [
             {
               "type": {
-                "value": "SetXY"
+                "value": "Health::Health::SetHealth"
               },
               "parameters": [
                 "Dylan",
-                "=",
-                "240",
-                "=",
-                "100"
+                "Health",
+                "0",
+                ""
               ]
             }
           ]
@@ -32473,7 +33660,7 @@
               },
               "parameters": [
                 "Dylan",
-                "asset_morron",
+                "laurel",
                 "",
                 "",
                 ""
@@ -32486,7 +33673,7 @@
                 "value": "Delete"
               },
               "parameters": [
-                "asset_morron",
+                "laurel",
                 ""
               ]
             }
@@ -32501,7 +33688,7 @@
               },
               "parameters": [
                 "Dylan",
-                "ajo",
+                "salame",
                 "",
                 "",
                 ""
@@ -32514,17 +33701,37 @@
                 "value": "Delete"
               },
               "parameters": [
-                "ajo",
+                "salame",
                 ""
               ]
             }
           ]
         },
         {
-          "aiGeneratedEventId": "01M65C1DSF86J2PYA8RNV4ZMCY",
+          "aiGeneratedEventId": "01M6ANJAHMVEY4KGAFYG8VMRQ9",
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "SceneJustBegins"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
           "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "VidaDylan",
+                "=",
+                "max(0, min(100, Dylan.Health::Health()))"
+              ]
+            },
             {
               "type": {
                 "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
@@ -32532,14 +33739,14 @@
               "parameters": [
                 "White1BitPixelBar",
                 "=",
-                "Dylan.Health::Health()",
+                "VidaDylan",
                 ""
               ]
             }
           ]
         },
         {
-          "aiGeneratedEventId": "01M65C1DSF86J2PYA8RNV4ZMCY",
+          "aiGeneratedEventId": "01M6AQ52KVZX8K6RZSWHSP48Z0",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -32585,6 +33792,17 @@
                 "\"ataque\"",
                 ">",
                 "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "CompareObjectTimer"
+              },
+              "parameters": [
+                "vieja_bruja",
+                "\"Dolor\"",
+                ">",
+                "0.35"
               ]
             }
           ],
@@ -32634,7 +33852,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M65C1DSF86J2PYA8RNV4ZMCY",
+          "aiGeneratedEventId": "01M6AQ5WATNPDHMK0BMVX7BQH4",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -32690,13 +33908,31 @@
                     "vieja_bruja",
                     "\"muerte\""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "vieja_bruja",
+                    "\"Dolor\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "vieja_bruja",
+                    "\"disparo\""
+                  ]
                 }
               ]
             }
           ]
         },
         {
-          "aiGeneratedEventId": "01M65C1DSF86J2PYA8RNV4ZMCY",
+          "aiGeneratedEventId": "01M6AQ4DZ4BP7A6SD9A37EQD9X",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -32739,6 +33975,28 @@
                 "vieja_bruja",
                 "<",
                 "Dylan.Y() + 80"
+              ]
+            },
+            {
+              "type": {
+                "value": "CompareObjectTimer"
+              },
+              "parameters": [
+                "vieja_bruja",
+                "\"ataque\"",
+                ">",
+                "0.6"
+              ]
+            },
+            {
+              "type": {
+                "value": "CompareObjectTimer"
+              },
+              "parameters": [
+                "vieja_bruja",
+                "\"Dolor\"",
+                ">",
+                "0.35"
               ]
             }
           ],
@@ -32819,7 +34077,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M65C1DSF86J2PYA8RNV4ZMCY",
+          "aiGeneratedEventId": "01M6AQ4DZ4BP7A6SD9A37EQD9X",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -32843,6 +34101,28 @@
                 "Dylan",
                 "220",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "CompareObjectTimer"
+              },
+              "parameters": [
+                "vieja_bruja",
+                "\"ataque\"",
+                ">",
+                "0.6"
+              ]
+            },
+            {
+              "type": {
+                "value": "CompareObjectTimer"
+              },
+              "parameters": [
+                "vieja_bruja",
+                "\"Dolor\"",
+                ">",
+                "0.35"
               ]
             }
           ],
@@ -33442,7 +34722,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M65F3JJ6P1E3PCBWJAD9FCQN",
+          "aiGeneratedEventId": "01M6AQ52KVZX8K6RZSWHSP48Z0",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -33500,6 +34780,17 @@
                 ">",
                 "2.5"
               ]
+            },
+            {
+              "type": {
+                "value": "CompareObjectTimer"
+              },
+              "parameters": [
+                "vieja_bruja",
+                "\"Dolor\"",
+                ">",
+                "0.35"
+              ]
             }
           ],
           "actions": [
@@ -33512,7 +34803,7 @@
                 "bola_del_ataque_2_de_bruja",
                 "vieja_bruja.CenterX()",
                 "vieja_bruja.CenterY()",
-                "\"\""
+                ""
               ]
             },
             {
@@ -33745,6 +35036,664 @@
                 "Animation",
                 "=",
                 "\"Golpes\""
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6ANG9694GJP1WNBFFYKKA8Q",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SceneJustBegins"
+              },
+              "parameters": [
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "VidaDylan",
+                "<=",
+                "0"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "VidaDylan",
+                "=",
+                "100"
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6AQ8PSV4YXRWC7JASCN3Z6X",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SceneJustBegins"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "TxtPerdiste"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "TxtGanaste"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "TxtNivel"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "TxtPerdiste",
+                "Text",
+                "=",
+                "\"PERDISTE!\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Health::Health::SetHealth"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                "VidaDylan",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"Derrota\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"Perdiste\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "TxtNivel",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "TxtNivel",
+                "Text",
+                "=",
+                "\"NIVEL 3\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"Nivel\""
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6ANACRN2FCF009CNMQB8JM2",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "MuertesSeguidas",
+                "+",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"Derrota\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"Perdiste\""
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6ANACRN2FCF009CNMQB8JM2",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"Derrota\"",
+                ">",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "MuertesSeguidas",
+                "<",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "VidaDylan",
+                "=",
+                "100"
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"nivel 3\"",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6ANACRN2FCF009CNMQB8JM2",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"Derrota\"",
+                ">",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "MuertesSeguidas",
+                ">=",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "TxtPerdiste",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "TxtPerdiste",
+                "Text",
+                "=",
+                "\"PERDISTE!\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"Perdiste\""
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6ANACRN2FCF009CNMQB8JM2",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "MuertesSeguidas",
+                ">=",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"Perdiste\"",
+                ">",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "VidaDylan",
+                "=",
+                "100"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "MuertesSeguidas",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"menu\"",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6AQ52KVZX8K6RZSWHSP48Z0",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Health::Health::IsJustDamaged"
+              },
+              "parameters": [
+                "vieja_bruja",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "vieja_bruja",
+                "Health",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ResetObjectTimer"
+              },
+              "parameters": [
+                "vieja_bruja",
+                "\"Dolor\""
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6AQ8PSV4YXRWC7JASCN3Z6X",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SetX"
+              },
+              "parameters": [
+                "TxtNivel",
+                "=",
+                "CameraX() - TxtNivel.Width() / 2"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetY"
+              },
+              "parameters": [
+                "TxtNivel",
+                "=",
+                "CameraY() - 100"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetX"
+              },
+              "parameters": [
+                "TxtPerdiste",
+                "=",
+                "CameraX() - TxtPerdiste.Width() / 2"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetY"
+              },
+              "parameters": [
+                "TxtPerdiste",
+                "=",
+                "CameraY() - 20"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetX"
+              },
+              "parameters": [
+                "TxtGanaste",
+                "=",
+                "CameraX() - TxtGanaste.Width() / 2"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetY"
+              },
+              "parameters": [
+                "TxtGanaste",
+                "=",
+                "CameraY() - 20"
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6AQ8PSV4YXRWC7JASCN3Z6X",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"Nivel\"",
+                ">",
+                "2.5"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "TxtNivel"
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6AQ8PSV4YXRWC7JASCN3Z6X",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PosX"
+              },
+              "parameters": [
+                "Dylan",
+                ">",
+                "4650"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "TxtGanaste",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "TxtGanaste",
+                "Text",
+                "=",
+                "\"GANASTE!\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"Ganaste\""
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6AQ8PSV4YXRWC7JASCN3Z6X",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"Ganaste\"",
+                ">",
+                "2.5"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "VidaDylan",
+                "=",
+                "100"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "MuertesSeguidas",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"menu\"",
+                "no"
               ]
             }
           ]
@@ -37553,8 +39502,8 @@
   "tests": [
     {
       "description": "Dylan stays on floor, moves right and jumps",
-      "lastRunAt": 1793427814736,
-      "lastRunDurationMs": 2875,
+      "lastRunAt": 1793508880330,
+      "lastRunDurationMs": 1223,
       "lastRunFramesExecuted": 235,
       "lastRunStatus": "passed",
       "name": "dylan-moves",
@@ -37608,8 +39557,8 @@
     },
     {
       "description": "Dylan idle/walk/run/hit/death animations",
-      "lastRunAt": 1793427650972,
-      "lastRunDurationMs": 2273,
+      "lastRunAt": 1793508882199,
+      "lastRunDurationMs": 1134,
       "lastRunFramesExecuted": 360,
       "lastRunStatus": "passed",
       "name": "dylan-full-moves",
@@ -38002,9 +39951,9 @@
     },
     {
       "description": "Derrota: animación Muerte, vida a 0, reaparición automática con vida completa (sin botones) y una sola barra",
-      "lastRunAt": 1793429179241,
-      "lastRunDurationMs": 2776,
-      "lastRunFramesExecuted": 192,
+      "lastRunAt": 1793507416582,
+      "lastRunDurationMs": 789,
+      "lastRunFramesExecuted": 179,
       "lastRunStatus": "passed",
       "name": "muerte-y-respawn",
       "type": "gameplay",
@@ -38037,8 +39986,8 @@
     },
     {
       "description": "Health bruja, J/K Dylan y bola",
-      "lastRunAt": 1793332726428,
-      "lastRunDurationMs": 895,
+      "lastRunAt": 1793508897880,
+      "lastRunDurationMs": 1194,
       "lastRunFramesExecuted": 152,
       "lastRunStatus": "passed",
       "name": "bruja-enemiga",
@@ -38085,8 +40034,8 @@
     },
     {
       "description": "J golpea bruja",
-      "lastRunAt": 1793332764740,
-      "lastRunDurationMs": 702,
+      "lastRunAt": 1793508899443,
+      "lastRunDurationMs": 838,
       "lastRunFramesExecuted": 46,
       "lastRunStatus": "passed",
       "name": "dylan-j-attack",
@@ -38212,9 +40161,9 @@
     },
     {
       "description": "El enemigo detecta, se orienta hacia Dylan, persigue en ambos sentidos y golpea con daño real y cooldown",
-      "lastRunAt": 1793429680321,
-      "lastRunDurationMs": 3251,
-      "lastRunFramesExecuted": 363,
+      "lastRunAt": 1793508884105,
+      "lastRunDurationMs": 1031,
+      "lastRunFramesExecuted": 401,
       "lastRunStatus": "passed",
       "name": "ia-persecucion-y-ataque",
       "type": "gameplay",
@@ -38397,58 +40346,56 @@
       ]
     },
     {
-      "description": "Matar al enemigo no termina el nivel; el avance automático ocurre al llegar al final del escenario",
-      "lastRunAt": 1793428249248,
-      "lastRunDurationMs": 4260,
-      "lastRunFramesExecuted": 650,
+      "description": "Matar al enemigo no termina el nivel; el avance ocurre al final sin cartel",
+      "lastRunAt": 1793507415106,
+      "lastRunDurationMs": 1257,
+      "lastRunFramesExecuted": 247,
       "lastRunStatus": "passed",
       "name": "fin-de-nivel-al-final",
       "type": "gameplay",
       "source": [
         "await harness.goToScene('Nivel 1');",
         "await harness.stepFrames(25);",
+        "harness.setGlobalVariable('MuertesSeguidas', 0);",
         "const enemy = () => harness.getObjects('ENEMIGO1')[0];",
         "const dylan = () => harness.getObjects('Dylan')[0];",
         "const eHealth = () => { const s = enemy()?.behaviors?.Health?.state; return s ? (s.Health ?? s.PropertyCurrentHealth) : undefined; };",
-        "",
         "// 1) Matar al enemigo NO debe terminar el nivel",
-        "harness.setObjectPosition(dylan().id, enemy().x - 10, enemy().y);",
+        "const d0 = dylan();",
+        "harness.setObjectPosition(d0.id, 240, 100);",
         "await harness.stepFrames(5);",
-        "for (let i = 0; i < 8 && (eHealth() ?? 0) > 0; i++) {",
+        "for (let i = 0; i < 10 && (eHealth() ?? 0) > 0; i++) {",
+        "  const e = enemy(); const d = dylan();",
+        "  if (!e || !d) break;",
+        "  harness.setObjectPosition(d.id, e.x - 10, e.y);",
+        "  await harness.stepFrames(2);",
         "  harness.setKeyPressed('j', true);",
         "  await harness.stepFrames(3);",
         "  harness.setKeyPressed('j', false);",
         "  await harness.stepFrames(24);",
         "}",
         "harness.assert((eHealth() ?? 100) <= 0, 'El enemigo muere (vida=' + eHealth() + ')');",
-        "await harness.stepFrames(300);",
+        "await harness.stepFrames(60);",
         "harness.assert(harness.getSceneName() === 'Nivel 1', 'Matar al enemigo NO cambia de nivel (escena=' + harness.getSceneName() + ')');",
         "const panel = harness.getObjects('PanelFin')[0];",
-        "harness.assert(!panel || panel.hidden === true, 'No aparece ningún cartel tras matar al enemigo');",
-        "",
-        "// 2) Al llegar al final del escenario sí avanza solo",
-        "harness.setObjectPosition(dylan().id, 2400, 170);",
-        "harness.setKeyPressed('Right', true);",
-        "const reached = await harness.stepUntil(() => harness.getObjects('Dylan')[0].x > 2450, { maxFrames: 240 });",
-        "harness.assert(reached, 'Dylan puede llegar al final del nivel (x=' + harness.getObjects('Dylan')[0].x.toFixed(0) + ')');",
-        "harness.setKeyPressed('Right', false);",
-        "await harness.stepFrames(50);",
-        "const txt = harness.getObjects('TxtFin')[0];",
-        "harness.assert(!!txt && !txt.hidden && /FIN DEL NIVEL/.test(txt.text || ''), 'Cartel de fin de nivel visible (' + (txt && txt.text) + ')');",
-        "await harness.takeScreenshot('fin de nivel');",
+        "harness.assert(!panel || panel.hidden === true, 'No aparece ningun cartel tras matar al enemigo');",
+        "// 2) Al llegar al final del escenario avanza directo al nivel 3, sin cartel",
+        "const d2 = dylan();",
+        "harness.setObjectPosition(d2.id, 2400, 170);",
+        "harness.setKeyPressed('d', true);",
         "const advanced = await harness.stepUntil(() => harness.getSceneName() !== 'Nivel 1', { maxFrames: 400 });",
-        "harness.assert(advanced, 'Avanza solo al llegar al final (escena=' + harness.getSceneName() + ')');",
+        "harness.setKeyPressed('d', false);",
+        "harness.assert(advanced, 'Avanza al llegar al final (escena=' + harness.getSceneName() + ')');",
         "harness.assert(harness.getSceneName() === 'nivel 3', 'Siguiente tramo: ' + harness.getSceneName());",
         "await harness.stepFrames(20);",
-        "harness.assert(harness.getObjects('Dylan').length === 1, 'Dylan sigue jugable en el tramo siguiente');",
-        ""
+        "harness.assert(harness.getObjects('Dylan').length === 1, 'Dylan sigue jugable en el tramo siguiente');"
       ]
     },
     {
       "description": "Enemigos reviven al caer/morir Dylan, inventario con I/Tab/E y salto directo de nivel sin cartel",
-      "lastRunAt": 1793429687529,
-      "lastRunDurationMs": 5048,
-      "lastRunFramesExecuted": 659,
+      "lastRunAt": 1793507418785,
+      "lastRunDurationMs": 1382,
+      "lastRunFramesExecuted": 647,
       "lastRunStatus": "passed",
       "name": "reinicio-dificil-y-fin-directo",
       "type": "gameplay",
@@ -38527,8 +40474,8 @@
     },
     {
       "description": "Golpe del enemigo en punto medio: 15 de daño, con pausa entre golpes, Dylan sobrevive y puede ganar",
-      "lastRunAt": 1793429566410,
-      "lastRunDurationMs": 4105,
+      "lastRunAt": 1793507245770,
+      "lastRunDurationMs": 969,
       "lastRunFramesExecuted": 577,
       "lastRunStatus": "passed",
       "name": "balance-combate",
@@ -38576,6 +40523,154 @@
         "harness.assert(dhp() > 0, 'Dylan sobrevive a la pelea (vida=' + dhp() + ')');",
         "await harness.takeScreenshot('golpe-punto-medio');",
         ""
+      ]
+    },
+    {
+      "description": "First death resets level with counter 1",
+      "lastRunAt": 1793507397278,
+      "lastRunDurationMs": 691,
+      "lastRunFramesExecuted": 157,
+      "lastRunStatus": "passed",
+      "name": "muerte-primer-reset",
+      "type": "gameplay",
+      "source": [
+        "await harness.goToScene('Nivel 1');",
+        "await harness.stepFrames(30);",
+        "harness.setGlobalVariable('MuertesSeguidas', 0);",
+        "harness.setGlobalVariable('VidaDylan', 100);",
+        "await harness.stepFrames(5);",
+        "harness.setKeyPressed('k', true);",
+        "await harness.stepFrames(2);",
+        "harness.setKeyPressed('k', false);",
+        "await harness.stepFrames(5);",
+        "const reached = await harness.stepUntil(() => harness.getGlobalVariable('VidaDylan')?.value === 100 && harness.getObjects('Dylan')[0]?.behaviors['Health']?.state['IsDead'] === false, {maxFrames: 400});",
+        "harness.assert(reached, 'Dylan should reset with full life ~2s after 1st death');",
+        "const m = harness.getGlobalVariable('MuertesSeguidas')?.value;",
+        "harness.assert(m === 1, 'MuertesSeguidas should be 1, got '+m);",
+        "harness.assert(harness.getSceneName() === 'Nivel 1', 'Should still be Nivel 1, got '+harness.getSceneName());"
+      ]
+    },
+    {
+      "description": "Second consecutive death goes to menu",
+      "lastRunAt": 1793508901481,
+      "lastRunDurationMs": 1030,
+      "lastRunFramesExecuted": 277,
+      "lastRunStatus": "passed",
+      "name": "muerte-segunda-menu",
+      "type": "gameplay",
+      "source": [
+        "await harness.goToScene('Nivel 1');",
+        "await harness.stepFrames(30);",
+        "harness.setGlobalVariable('MuertesSeguidas', 1);",
+        "harness.setGlobalVariable('VidaDylan', 100);",
+        "await harness.stepFrames(5);",
+        "harness.setKeyPressed('k', true);",
+        "await harness.stepFrames(2);",
+        "harness.setKeyPressed('k', false);",
+        "await harness.stepFrames(5);",
+        "const toMenu = await harness.stepUntil(() => harness.getSceneName() === 'menu', {maxFrames: 500});",
+        "harness.assert(toMenu, 'After 2nd consecutive death should go to menu');",
+        "const m = harness.getGlobalVariable('MuertesSeguidas')?.value;",
+        "harness.assert(m === 0, 'Counter resets after perdiste, got '+m);"
+      ]
+    },
+    {
+      "description": "Damage persists into next level",
+      "lastRunAt": 1793507400722,
+      "lastRunDurationMs": 765,
+      "lastRunFramesExecuted": 69,
+      "lastRunStatus": "passed",
+      "name": "dano-persistente",
+      "type": "gameplay",
+      "source": [
+        "await harness.goToScene('Nivel 1');",
+        "await harness.stepFrames(20);",
+        "harness.setGlobalVariable('MuertesSeguidas', 0);",
+        "await harness.stepFrames(5);",
+        "harness.setKeyPressed('h', true);",
+        "await harness.stepFrames(2);",
+        "harness.setKeyPressed('h', false);",
+        "await harness.stepFrames(10);",
+        "const v1 = harness.getGlobalVariable('VidaDylan')?.value;",
+        "harness.assert(v1 === 75, 'After H hit Vida should be 75, got '+v1);",
+        "await harness.goToScene('nivel 3');",
+        "await harness.stepFrames(30);",
+        "const hp = harness.getObjects('Dylan')[0]?.behaviors['Health']?.state['Health'];",
+        "harness.assert(hp === 75, 'Damage should persist into nivel 3, got '+hp);"
+      ]
+    },
+    {
+      "description": "Fall counts as death with reset",
+      "lastRunAt": 1793508830966,
+      "lastRunDurationMs": 1067,
+      "lastRunFramesExecuted": 147,
+      "lastRunStatus": "passed",
+      "name": "caida-muerte",
+      "type": "gameplay",
+      "source": [
+        "await harness.goToScene('Nivel 1');",
+        "await harness.stepFrames(20);",
+        "harness.setGlobalVariable('MuertesSeguidas', 0);",
+        "await harness.stepFrames(5);",
+        "const d = harness.getObjects('Dylan')[0];",
+        "harness.setObjectPosition(d.id, d.x, 600);",
+        "const died = await harness.stepUntil(() => harness.getObjects('Dylan')[0]?.behaviors['Health']?.state['IsDead'] === true, {maxFrames: 120});",
+        "harness.assert(died, 'Caer al vacio mata a Dylan');",
+        "const reset = await harness.stepUntil(() => harness.getGlobalVariable('VidaDylan')?.value === 100 && harness.getObjects('Dylan')[0]?.behaviors['Health']?.state['IsDead'] === false, {maxFrames: 400});",
+        "harness.assert(reset, 'Tras la caida se resetea el nivel con vida completa');",
+        "harness.assert(harness.getGlobalVariable('MuertesSeguidas')?.value === 1, 'La caida cuenta como muerte (Muertes=1)');"
+      ]
+    },
+    {
+      "description": "Single J tap full swing and damage",
+      "lastRunAt": 1793508848011,
+      "lastRunDurationMs": 931,
+      "lastRunFramesExecuted": 55,
+      "lastRunStatus": "passed",
+      "name": "j-toque-anim",
+      "type": "gameplay",
+      "source": [
+        "await harness.goToScene('Nivel 1');",
+        "await harness.stepFrames(25);",
+        "harness.setGlobalVariable('MuertesSeguidas', 0);",
+        "const enemy = () => harness.getObjects('ENEMIGO1')[0];",
+        "const dylan = () => harness.getObjects('Dylan')[0];",
+        "const eHealth = () => { const s = enemy()?.behaviors?.Health?.state; return s ? (s.Health ?? s.PropertyCurrentHealth) : undefined; };",
+        "const hp0 = eHealth();",
+        "harness.setObjectPosition(dylan().id, enemy().x - 10, enemy().y);",
+        "await harness.stepFrames(2);",
+        "harness.setKeyPressed('j', true);",
+        "await harness.stepFrames(2);",
+        "harness.setKeyPressed('j', false);",
+        "await harness.stepFrames(5);",
+        "const anim = dylan().animation;",
+        "harness.assert(anim === 'Golpes', 'Un toque de J muestra Golpes (anim=' + anim + ')');",
+        "await harness.stepFrames(20);",
+        "const hp1 = eHealth();",
+        "harness.assert(hp1 < hp0, 'Un toque de J dana al enemigo (' + hp0 + ' -> ' + hp1 + ')');"
+      ]
+    },
+    {
+      "description": "Level banner and victory flow",
+      "lastRunAt": 1793508862741,
+      "lastRunDurationMs": 1223,
+      "lastRunFramesExecuted": 173,
+      "lastRunStatus": "passed",
+      "name": "ganaste-nivel3",
+      "type": "gameplay",
+      "source": [
+        "await harness.goToScene('nivel 3');",
+        "await harness.stepFrames(20);",
+        "const banner = harness.getObjects('TxtNivel')[0];",
+        "harness.assert(banner && banner.hidden === false, 'Cartel NIVEL 3 visible al empezar');",
+        "harness.assert((banner.text || '').indexOf('NIVEL 3') !== -1, 'Dice NIVEL 3 (' + banner.text + ')');",
+        "const d = harness.getObjects('Dylan')[0];",
+        "harness.setObjectPosition(d.id, 4700, 150);",
+        "await harness.stepFrames(10);",
+        "const g = harness.getObjects('TxtGanaste')[0];",
+        "harness.assert(g && g.hidden === false, 'Cartel GANASTE visible al llegar al final');",
+        "const toMenu = await harness.stepUntil(() => harness.getSceneName() === 'menu', {maxFrames: 300});",
+        "harness.assert(toMenu, 'GANASTE redirige al menu');"
       ]
     }
   ],
