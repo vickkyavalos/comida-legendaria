@@ -3426,6 +3426,86 @@
         "name": "assets/ingredientes/laurel.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "assets/Golpes.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Golpes",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Golpes2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Golpes2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Golpes3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Golpes3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Golpes4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Golpes4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Golpes5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Golpes5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Golpes6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Golpes6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Golpes7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Golpes7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Golpes8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Golpes8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Golpes9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Golpes9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Golpes10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Golpes10",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -3440,16 +3520,19 @@
       "variables": [
         {
           "name": "Salud",
+          "persistentUuid": "87c2c5f9-ac86-4f21-b494-d6aa5d81bb51",
           "type": "number",
           "value": 100
         },
         {
           "name": "SaludMax",
+          "persistentUuid": "1e84af7f-5833-4430-9967-649741d55a56",
           "type": "number",
           "value": 100
         },
         {
           "name": "Invulnerable",
+          "persistentUuid": "1dbdac37-b24b-4bfa-8e8b-c693995ab34c",
           "type": "number",
           "value": 0
         }
@@ -4317,11 +4400,12 @@
           "directions": [
             {
               "looping": false,
-              "timeBetweenFrames": 0.07,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.7,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "GOLPE 1/sprite_0.png",
+                  "image": "Golpes6",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4357,7 +4441,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "GOLPE 1/sprite_1.png",
+                  "image": "Golpes7",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4393,7 +4477,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "GOLPE 1/sprite_2.png",
+                  "image": "Golpes8",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4429,7 +4513,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "GOLPE 1/sprite_3.png",
+                  "image": "Golpes9",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4465,7 +4549,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "GOLPE 1/sprite_4.png",
+                  "image": "Golpes10",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -23666,7 +23750,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.7053809869542786,
+        "zoomFactor": 1.5124954396215324,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -35810,6 +35894,10 @@
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
         }
       ]
     },
