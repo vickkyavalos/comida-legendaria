@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 282,
+    "build": 284,
     "major": 5,
     "minor": 6,
     "revision": 0
@@ -3258,62 +3258,6 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/e3269fc6a93f1d6083564069b4d14c7e31df6bfc96d27f82c791d2210242315a_Red Button_Pressed.png",
           "name": "Red Button_Pressed.png"
         }
-      },
-      {
-        "file": "assets/nivel 3/fondo_nivel_3_continuacion.jpg",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/nivel 3/fondo_nivel_3_continuacion.jpg",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/nivel 3/Gemini_Generated_Image_kptalrkptalrkpta (1).jpg",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/nivel 3/Gemini_Generated_Image_kptalrkptalrkpta (1).jpg",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewTiledSprite2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
-        "name": "NewTiledSprite",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/linea para piso calle.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "linea para piso calle",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/nivel 3/Gemini_Generated_Image_8ifa9l8ifa9l8ifa (1).jpg",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/nivel 3/Gemini_Generated_Image_8ifa9l8ifa9l8ifa (1).jpg",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/nivel 3/fondo.jpg",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/nivel 3/fondo.jpg",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/nivel 3/Gemini_Generated_Image_l8731sl8731sl873.jpg",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/nivel 3/Gemini_Generated_Image_l8731sl8731sl873.jpg",
-        "smoothed": false,
-        "userAdded": false
       }
     ]
   },
@@ -6669,6 +6613,7 @@
       "mangledName": "menu",
       "name": "menu",
       "r": 247,
+      "renderer3DWorldScale": 100,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
@@ -8717,6 +8662,7 @@
       "mangledName": "creditos",
       "name": "creditos",
       "r": 247,
+      "renderer3DWorldScale": 100,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
@@ -9558,6 +9504,7 @@
       "mangledName": "introduccion",
       "name": "introduccion",
       "r": 247,
+      "renderer3DWorldScale": 100,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
@@ -9574,7 +9521,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.1562064812539687,
+        "zoomFactor": 1.507508814700352,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -11242,6 +11189,7 @@
       "mangledName": "manual",
       "name": "manual",
       "r": 247,
+      "renderer3DWorldScale": 100,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
@@ -23392,6 +23340,7 @@
       "mangledName": "Nivel_321",
       "name": "Nivel 1",
       "r": 255,
+      "renderer3DWorldScale": 100,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "Comida Legendaria",
@@ -23408,7 +23357,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.7053809869542786,
+        "zoomFactor": 0.5062828002597484,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -26617,7 +26566,7 @@
           "parameters": []
         },
         {
-          "aiGeneratedEventId": "01M68AVC76Z20BCS26Q00X0F3K",
+          "aiGeneratedEventId": "01M68C4HSR9D6V7XQ7RDV4CGDT",
           "colorB": 228,
           "colorG": 176,
           "colorR": 74,
@@ -26636,7 +26585,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "El enemigo actúa solo: detecta a Dylan, se orienta hacia él, lo persigue, lo ataca con cooldown, recibe daño y al morir se detiene."
+              "comment": "El enemigo detecta a Dylan, se orienta, lo persigue y, cuando está cerca, se planta y EJECUTA su golpe (ATAQUE1) con el daño sincronizado al movimiento."
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -26698,6 +26647,15 @@
                   "parameters": [
                     "ENEMIGO1",
                     "\"Salto\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "ENEMIGO1",
+                    "\"Golpe\""
                   ]
                 },
                 {
@@ -26848,25 +26806,45 @@
                   ]
                 }
               ],
-              "actions": [
+              "actions": [],
+              "events": [
                 {
-                  "type": {
-                    "value": "SetStringObjectVariable"
-                  },
-                  "parameters": [
-                    "ENEMIGO1",
-                    "Estado",
-                    "=",
-                    "\"DANADO\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ResetObjectTimer"
-                  },
-                  "parameters": [
-                    "ENEMIGO1",
-                    "\"Dolor\""
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "StringObjectVariable"
+                      },
+                      "parameters": [
+                        "ENEMIGO1",
+                        "Estado",
+                        "=",
+                        "\"GOLPEANDO\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetStringObjectVariable"
+                      },
+                      "parameters": [
+                        "ENEMIGO1",
+                        "Estado",
+                        "=",
+                        "\"DANADO\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResetObjectTimer"
+                      },
+                      "parameters": [
+                        "ENEMIGO1",
+                        "\"Dolor\""
+                      ]
+                    }
                   ]
                 }
               ]
@@ -26889,7 +26867,67 @@
               "actions": [],
               "events": [
                 {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Decide el estado: el golpe en curso manda."
+                },
+                {
                   "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "StringObjectVariable"
+                      },
+                      "parameters": [
+                        "ENEMIGO1",
+                        "Estado",
+                        "=",
+                        "\"GOLPEANDO\""
+                      ]
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CompareObjectTimer"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "\"Golpe\"",
+                            ">",
+                            "0.4"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetStringObjectVariable"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "Estado",
+                            "=",
+                            "\"ATACAR\""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Else",
                   "conditions": [
                     {
                       "type": {
@@ -26993,17 +27031,6 @@
                                 "ENEMIGO1",
                                 "\"Ataque\""
                               ]
-                            },
-                            {
-                              "type": {
-                                "value": "SetNumberObjectVariable"
-                              },
-                              "parameters": [
-                                "ENEMIGO1",
-                                "GolpeDado",
-                                "=",
-                                "0"
-                              ]
                             }
                           ]
                         }
@@ -27058,6 +27085,18 @@
                   ]
                 },
                 {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Orientación: siempre mira a Dylan (al perseguir, al atacar y al golpear)."
+                },
+                {
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -27086,6 +27125,17 @@
                             "Estado",
                             "=",
                             "\"ATACAR\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "StringObjectVariable"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "Estado",
+                            "=",
+                            "\"GOLPEANDO\""
                           ]
                         }
                       ]
@@ -27137,6 +27187,18 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Persecución: avanza hacia Dylan y salta obstáculos."
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -27283,7 +27345,18 @@
                   ]
                 },
                 {
-                  "aiGeneratedEventId": "01M68BP398BTMZB7F8CMYF95WM",
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "ATACAR: se acerca y, cuando le toca, arranca el golpe: se queda quieto y lanza ATAQUE1 desde el primer frame."
+                },
+                {
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -27432,6 +27505,152 @@
                         },
                         {
                           "type": {
+                            "value": "ResetObjectTimer"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "\"Golpe\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetNumberObjectVariable"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "GolpeDado",
+                            "=",
+                            "0"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetStringObjectVariable"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "Estado",
+                            "=",
+                            "\"GOLPEANDO\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "Animation",
+                            "=",
+                            "\"IDLE\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "Animation",
+                            "=",
+                            "\"ATAQUE1\""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "GOLPEANDO: golpe en curso (0,4 s). El daño se aplica una vez, a mitad del movimiento."
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "StringObjectVariable"
+                      },
+                      "parameters": [
+                        "ENEMIGO1",
+                        "Estado",
+                        "=",
+                        "\"GOLPEANDO\""
+                      ]
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CompareObjectTimer"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "\"Golpe\"",
+                            ">",
+                            "0.12"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "CompareObjectTimer"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "\"Golpe\"",
+                            "<",
+                            "0.38"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Distance"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "Dylan",
+                            "65",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "NumberObjectVariable"
+                          },
+                          "parameters": [
+                            "ENEMIGO1",
+                            "GolpeDado",
+                            "=",
+                            "0"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "inverted": true,
+                            "value": "Health::Health::IsDead"
+                          },
+                          "parameters": [
+                            "Dylan",
+                            "Health",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
                             "value": "SetNumberObjectVariable"
                           },
                           "parameters": [
@@ -27475,6 +27694,18 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Animaciones según estado."
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -27535,6 +27766,23 @@
                         "ENEMIGO1",
                         "Estado",
                         "=",
+                        "\"GOLPEANDO\""
+                      ]
+                    }
+                  ],
+                  "actions": []
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Else",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "StringObjectVariable"
+                      },
+                      "parameters": [
+                        "ENEMIGO1",
+                        "Estado",
+                        "=",
                         "\"ATACAR\""
                       ]
                     }
@@ -27552,7 +27800,7 @@
                             "ENEMIGO1",
                             "Animation",
                             "!=",
-                            "\"ATAQUE1\""
+                            "\"IDLE\""
                           ]
                         }
                       ],
@@ -27565,7 +27813,7 @@
                             "ENEMIGO1",
                             "Animation",
                             "=",
-                            "\"ATAQUE1\""
+                            "\"IDLE\""
                           ]
                         }
                       ]
@@ -28338,6 +28586,38 @@
           "x": -125,
           "y": 1,
           "zOrder": -2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "vieja_bruja",
+          "persistentUuid": "02283bab-9ff2-4641-90c7-012bdd384827",
+          "width": 0,
+          "x": 503,
+          "y": 80,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 358,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "vieja_bruja",
+          "persistentUuid": "5f5017b9-f331-43e1-9966-9b34c86a7930",
+          "width": 0,
+          "x": 599,
+          "y": 38,
+          "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -33862,7 +34142,8 @@
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
         }
-      ]
+      ],
+      "renderer3DWorldScale": 100
     },
     {
       "b": 18,
@@ -33870,6 +34151,7 @@
       "mangledName": "personajes",
       "name": "personajes",
       "r": 10,
+      "renderer3DWorldScale": 100,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
@@ -35523,6 +35805,7 @@
       "mangledName": "volumen",
       "name": "volumen",
       "r": 16,
+      "renderer3DWorldScale": 100,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
@@ -38211,10 +38494,10 @@
       ]
     },
     {
-      "description": "El enemigo detecta, se orienta hacia Dylan, persigue en ambos sentidos y golpea con daño real y cooldown",
-      "lastRunAt": 1793429680321,
-      "lastRunDurationMs": 3251,
-      "lastRunFramesExecuted": 363,
+      "description": "El enemigo detecta, se orienta, persigue en ambos sentidos y golpea con su animación, daño 15 y cooldown",
+      "lastRunAt": 1793430065184,
+      "lastRunDurationMs": 3685,
+      "lastRunFramesExecuted": 371,
       "lastRunStatus": "passed",
       "name": "ia-persecucion-y-ataque",
       "type": "gameplay",
@@ -38226,21 +38509,20 @@
         "const dHealth = () => { const s = dylan()?.behaviors?.Health?.state; return s ? (s.Health ?? s.PropertyCurrentHealth) : undefined; };",
         "const estado = () => enemy()?.variables?.find(v => v.name === 'Estado')?.value;",
         "const flipped = () => { const s = enemy()?.behaviors?.Flippable?.state; return s ? (s.IsFlipped ?? s.Flipped) : undefined; };",
+        "const enCombate = () => ['ATACAR', 'GOLPEANDO'].indexOf(estado()) >= 0;",
         "",
-        "// Dylan a la derecha del enemigo",
         "const e0 = enemy();",
         "harness.setObjectPosition(dylan().id, e0.x + 220, e0.y);",
         "await harness.stepFrames(10);",
-        "harness.assert(estado() === 'PERSEGUIR' || estado() === 'ATACAR', 'Detecta a Dylan (estado=' + estado() + ')');",
+        "harness.assert(estado() === 'PERSEGUIR' || enCombate(), 'Detecta a Dylan (estado=' + estado() + ')');",
         "const d0 = Math.abs(enemy().x - dylan().x);",
         "const closed = await harness.stepUntil(() => Math.abs(enemy().x - dylan().x) < 70, { maxFrames: 600 });",
         "harness.assert(closed, 'Se acerca solo: ' + d0.toFixed(0) + ' -> ' + Math.abs(enemy().x - dylan().x).toFixed(0));",
         "await harness.stepFrames(10);",
-        "harness.assert(estado() === 'ATACAR', 'Ataca al estar cerca (estado=' + estado() + ')');",
+        "harness.assert(enCombate(), 'Ataca al estar cerca (estado=' + estado() + ')');",
         "const fR = flipped();",
         "if (typeof fR === 'boolean') harness.assert(fR === false, 'Mira a la derecha con Dylan a la derecha');",
         "",
-        "// Dylan a la izquierda: gira y persigue hacia la izquierda",
         "const ex = enemy().x;",
         "harness.setObjectPosition(dylan().id, ex - 200, enemy().y);",
         "await harness.stepFrames(20);",
@@ -38250,7 +38532,6 @@
         "const closedLeft = await harness.stepUntil(() => Math.abs(enemy().x - dylan().x) < 70, { maxFrames: 600 });",
         "harness.assert(closedLeft, 'Persigue hacia la izquierda: ' + before.toFixed(0) + ' -> ' + enemy().x.toFixed(0));",
         "",
-        "// Golpe con daño real",
         "harness.setObjectPosition(dylan().id, enemy().x + 20, enemy().y);",
         "await harness.stepFrames(5);",
         "const vida0 = dHealth();",
@@ -38260,9 +38541,8 @@
         "let frames = 0;",
         "const hit2 = await harness.stepUntil(() => (dHealth() ?? 100) < (vida1 ?? 100), { maxFrames: 300, onFrame: () => { frames++; } });",
         "harness.assert(hit2, 'Sigue golpeando (vida=' + dHealth() + ')');",
-        "harness.assert(frames > 30, 'Hay cooldown entre golpes (' + frames + ' frames)');",
-        "harness.assert((vida1 - dHealth()) <= 24, 'Daño por golpe razonable: ' + (vida1 - dHealth()));",
-        "await harness.takeScreenshot('combate-ia');",
+        "harness.assert(frames > 45, 'Hay cooldown entre golpes (' + frames + ' frames)');",
+        "harness.assert((vida1 - dHealth()) === 15, 'Daño por golpe 15: ' + (vida1 - dHealth()));",
         ""
       ]
     },
@@ -38352,9 +38632,9 @@
     },
     {
       "description": "Muerte del enemigo: MUERTO + animación DIE, deja de atacar, sin botón CONTINUAR y el nivel NO termina (el avance es al final del escenario)",
-      "lastRunAt": 1793428979337,
-      "lastRunDurationMs": 4161,
-      "lastRunFramesExecuted": 534,
+      "lastRunAt": 1793430093289,
+      "lastRunDurationMs": 3722,
+      "lastRunFramesExecuted": 507,
       "lastRunStatus": "passed",
       "name": "muerte-enemigo-autoavance",
       "type": "gameplay",
@@ -38446,8 +38726,8 @@
     },
     {
       "description": "Enemigos reviven al caer/morir Dylan, inventario con I/Tab/E y salto directo de nivel sin cartel",
-      "lastRunAt": 1793429687529,
-      "lastRunDurationMs": 5048,
+      "lastRunAt": 1793430087146,
+      "lastRunDurationMs": 5152,
       "lastRunFramesExecuted": 659,
       "lastRunStatus": "passed",
       "name": "reinicio-dificil-y-fin-directo",
@@ -38527,9 +38807,9 @@
     },
     {
       "description": "Golpe del enemigo en punto medio: 15 de daño, con pausa entre golpes, Dylan sobrevive y puede ganar",
-      "lastRunAt": 1793429566410,
-      "lastRunDurationMs": 4105,
-      "lastRunFramesExecuted": 577,
+      "lastRunAt": 1793430100228,
+      "lastRunDurationMs": 4820,
+      "lastRunFramesExecuted": 585,
       "lastRunStatus": "passed",
       "name": "balance-combate",
       "type": "gameplay",
@@ -38575,6 +38855,52 @@
         "harness.assert(enemies().some(o => (hp(o) ?? 100) <= 0), 'Dylan puede matar al enemigo a golpes');",
         "harness.assert(dhp() > 0, 'Dylan sobrevive a la pelea (vida=' + dhp() + ')');",
         "await harness.takeScreenshot('golpe-punto-medio');",
+        ""
+      ]
+    },
+    {
+      "description": "El enemigo ejecuta la animación ATAQUE1 al golpear, vuelve a IDLE entre golpes y el daño coincide",
+      "lastRunAt": 1793430040991,
+      "lastRunDurationMs": 3939,
+      "lastRunFramesExecuted": 336,
+      "lastRunStatus": "passed",
+      "name": "enemigo-animacion-golpe",
+      "type": "gameplay",
+      "source": [
+        "await harness.goToScene('Nivel 1');",
+        "await harness.stepFrames(25);",
+        "const dylan = () => harness.getObjects('Dylan')[0];",
+        "const enemies = () => harness.getObjects('ENEMIGO1');",
+        "const hp = (o) => { const s = o?.behaviors?.Health?.state; return s ? (s.Health ?? s.PropertyCurrentHealth) : undefined; };",
+        "const dhp = () => hp(dylan());",
+        "const e = enemies()[0];",
+        "harness.setObjectPosition(dylan().id, e.x - 40, e.y);",
+        "await harness.stepFrames(10);",
+        "",
+        "// Grabar la secuencia de animaciones del enemigo y los golpes",
+        "const seen = {};",
+        "let golpes = 0;",
+        "let prev = dhp();",
+        "const golpeFrames = [];",
+        "for (let f = 0; f < 300; f++) {",
+        "  await harness.stepFrames(1);",
+        "  const list = harness.getObjects('ENEMIGO1');",
+        "  const near = list.filter(o => Math.abs(o.x - dylan().x) < 200);",
+        "  for (const o of near) { const a = o.animation || '?'; seen[a] = (seen[a] || 0) + 1; }",
+        "  if ((dhp() ?? 100) < prev) { golpes++; golpeFrames.push(f); prev = dhp(); }",
+        "}",
+        "console.log('animaciones vistas: ' + JSON.stringify(seen));",
+        "console.log('golpes: ' + golpes + ' en frames ' + golpeFrames.join(','));",
+        "harness.assert((seen['ATAQUE1'] || 0) > 0, 'El enemigo reproduce la animación de ataque ATAQUE1');",
+        "harness.assert((seen['IDLE'] || 0) > 90, 'Entre golpe y golpe vuelve a IDLE (no se queda enganchado en ATAQUE1): ' + (seen['IDLE'] || 0));",
+        "harness.assert(!seen['WLAK/RUN'] || seen['WLAK/RUN'] < 120, 'No se pasa el rato andando encima de Dylan');",
+        "harness.assert(golpes >= 1, 'Golpea al menos una vez en 5 s (' + golpes + ')');",
+        "if (golpeFrames.length >= 2) {",
+        "  const gap = golpeFrames[1] - golpeFrames[0];",
+        "  harness.assert(gap >= 45, 'Hay pausa entre golpes (' + gap + ' frames)');",
+        "}",
+        "harness.assert((100 - dhp()) % 15 === 0, 'Cada golpe quita 15 (' + (100 - dhp()) + ')');",
+        "await harness.takeScreenshot('enemigo-golpe');",
         ""
       ]
     }
