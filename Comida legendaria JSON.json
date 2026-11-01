@@ -4401,7 +4401,7 @@
             {
               "looping": false,
               "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.7,
+              "timeBetweenFrames": 0.04,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
@@ -6886,7 +6886,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.156206481253968,
+        "zoomFactor": 1.1951941454427635,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
