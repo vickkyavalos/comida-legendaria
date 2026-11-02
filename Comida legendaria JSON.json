@@ -3506,6 +3506,56 @@
         "name": "Golpes10",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "assets/sonidos/personajes/hurt.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "assets/sonidos/personajes/hurt.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/sonidos/golpes/sonido pegar golpe.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "assets/sonidos/golpes/sonido pegar golpe.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/sonidos/golpes/ataque bola magica.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "assets/sonidos/golpes/ataque bola magica.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/sonidos/personajes/audio risa vieja bruja.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "assets/sonidos/personajes/audio risa vieja bruja.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/sonidos/ingredientes/juntar ingrediente.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "assets/sonidos/ingredientes/juntar ingrediente.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
       }
     ]
   },
@@ -26452,6 +26502,7 @@
               "comment": "Cualquier daño recibido (de un enemigo, peligro o tecla de prueba) reproduce la animación de golpe durante medio segundo."
             },
             {
+              "aiGeneratedEventId": "01M6D7N6EETX5N20DJYZWJQ95Y",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -26473,6 +26524,19 @@
                   "parameters": [
                     "Dylan",
                     "\"Golpe\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundOnChannel"
+                  },
+                  "parameters": [
+                    "",
+                    "assets/sonidos/personajes/hurt.mp3",
+                    "2",
+                    "no",
+                    "100",
+                    "1"
                   ]
                 }
               ]
@@ -26982,6 +27046,7 @@
               "comment": "Recoger ingredientes: al tocar un morrón o un ajo se suma una unidad en la global correspondiente y el ingrediente desaparece del escenario."
             },
             {
+              "aiGeneratedEventId": "01M6D7N6EETX5N20DJYZWJQ95Y",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -27016,10 +27081,24 @@
                     "asset_morron",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundOnChannel"
+                  },
+                  "parameters": [
+                    "",
+                    "assets/sonidos/ingredientes/juntar ingrediente.mp3",
+                    "4",
+                    "no",
+                    "100",
+                    "1"
+                  ]
                 }
               ]
             },
             {
+              "aiGeneratedEventId": "01M6D7N6EETX5N20DJYZWJQ95Y",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -27053,6 +27132,19 @@
                   "parameters": [
                     "ajo",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundOnChannel"
+                  },
+                  "parameters": [
+                    "",
+                    "assets/sonidos/ingredientes/juntar ingrediente.mp3",
+                    "4",
+                    "no",
+                    "100",
+                    "1"
                   ]
                 }
               ]
@@ -28428,7 +28520,7 @@
               "comment": "El golpe de J daña al enemigo una vez por ataque."
             },
             {
-              "aiGeneratedEventId": "01M6ARSK513EFRAS3NM0TNXZXW",
+              "aiGeneratedEventId": "01M6D7N6EETX5N20DJYZWJQ95Y",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -28514,6 +28606,19 @@
                   "parameters": [
                     "ENEMIGO1",
                     "\"Dolor\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundOnChannel"
+                  },
+                  "parameters": [
+                    "",
+                    "assets/sonidos/golpes/sonido pegar golpe.mp3",
+                    "5",
+                    "no",
+                    "100",
+                    "1"
                   ]
                 }
               ]
@@ -33495,7 +33600,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M5GYR06DJX3NNZ9KE1MSJF4B",
+          "aiGeneratedEventId": "01M6D7H126M05Y86HKYYS6DMHP",
           "type": "BuiltinCommonInstructions::Else",
           "conditions": [
             {
@@ -33538,6 +33643,48 @@
                 "Animation",
                 "=",
                 "\"golpeado\""
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6D7HK18EX9M3TXG9558TW1J",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Health::Health::IsJustDamaged"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySoundOnChannel"
+              },
+              "parameters": [
+                "",
+                "assets/sonidos/personajes/hurt.mp3",
+                "2",
+                "no",
+                "100",
+                "1"
               ]
             }
           ]
@@ -33982,6 +34129,7 @@
           ]
         },
         {
+          "aiGeneratedEventId": "01M6D7KQ8B1E3W2R0RAB46FC32",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -34005,11 +34153,25 @@
               "parameters": [
                 "laurel",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundOnChannel"
+              },
+              "parameters": [
+                "",
+                "assets/sonidos/ingredientes/juntar ingrediente.mp3",
+                "4",
+                "no",
+                "100",
+                "1"
               ]
             }
           ]
         },
         {
+          "aiGeneratedEventId": "01M6D7KQ8B1E3W2R0RAB46FC32",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -34033,6 +34195,19 @@
               "parameters": [
                 "salame",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundOnChannel"
+              },
+              "parameters": [
+                "",
+                "assets/sonidos/ingredientes/juntar ingrediente.mp3",
+                "4",
+                "no",
+                "100",
+                "1"
               ]
             }
           ]
@@ -34182,7 +34357,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M6ARVKZQV0Q259Y22C750QAV",
+          "aiGeneratedEventId": "01M6D7KQ8B1E3W2R0RAB46FC32",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -34265,13 +34440,22 @@
                     "vieja_bruja",
                     "\"salto\""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "vieja_bruja",
+                    "\"risa\""
+                  ]
                 }
               ]
             }
           ]
         },
         {
-          "aiGeneratedEventId": "01M6AQ4DZ4BP7A6SD9A37EQD9X",
+          "aiGeneratedEventId": "01M6D7HK18EX9M3TXG9558TW1J",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -34337,9 +34521,43 @@
                 ">",
                 "0.35"
               ]
+            },
+            {
+              "type": {
+                "value": "CompareObjectTimer"
+              },
+              "parameters": [
+                "vieja_bruja",
+                "\"risa\"",
+                ">",
+                "3"
+              ]
             }
           ],
-          "actions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySoundOnChannel"
+              },
+              "parameters": [
+                "",
+                "assets/sonidos/personajes/audio risa vieja bruja.mp3",
+                "3",
+                "no",
+                "80",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetObjectTimer"
+              },
+              "parameters": [
+                "vieja_bruja",
+                "\"risa\""
+              ]
+            }
+          ],
           "events": [
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -34778,7 +34996,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M65FC80S54ZP52WSYYFVXP8G",
+          "aiGeneratedEventId": "01M6D7MAEGA5GR6P8X20421EHJ",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -34893,6 +35111,19 @@
                 "Animation",
                 "=",
                 "\"Golpes\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundOnChannel"
+              },
+              "parameters": [
+                "",
+                "assets/sonidos/golpes/sonido pegar golpe.mp3",
+                "5",
+                "no",
+                "100",
+                "1"
               ]
             }
           ]
@@ -35101,7 +35332,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M6AQ52KVZX8K6RZSWHSP48Z0",
+          "aiGeneratedEventId": "01M6D7MAEGA5GR6P8X20421EHJ",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -35213,6 +35444,19 @@
                 "=",
                 "\"ataque 1 bruja\""
               ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundOnChannel"
+              },
+              "parameters": [
+                "",
+                "assets/sonidos/golpes/ataque bola magica.mp3",
+                "6",
+                "no",
+                "100",
+                "1"
+              ]
             }
           ]
         },
@@ -35322,6 +35566,17 @@
               "parameters": [
                 "bola_del_ataque_2_de_bruja",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Dylan",
+                "Animation",
+                "=",
+                "\"golpeado\""
               ]
             }
           ]
@@ -35612,6 +35867,17 @@
               "parameters": [
                 "",
                 "\"Perdiste\""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Dylan",
+                "Animation",
+                "=",
+                "\"Muerte\""
               ]
             }
           ]
@@ -40407,8 +40673,8 @@
     },
     {
       "description": "Health bruja, J/K Dylan y bola",
-      "lastRunAt": 1793508897880,
-      "lastRunDurationMs": 1194,
+      "lastRunAt": 1793593116436,
+      "lastRunDurationMs": 1015,
       "lastRunFramesExecuted": 152,
       "lastRunStatus": "passed",
       "name": "bruja-enemiga",
@@ -40455,8 +40721,8 @@
     },
     {
       "description": "J golpea bruja",
-      "lastRunAt": 1793508899443,
-      "lastRunDurationMs": 838,
+      "lastRunAt": 1793593117735,
+      "lastRunDurationMs": 654,
       "lastRunFramesExecuted": 46,
       "lastRunStatus": "passed",
       "name": "dylan-j-attack",
@@ -40895,8 +41161,8 @@
     },
     {
       "description": "Golpe del enemigo en punto medio: 15 de daño, con pausa entre golpes, Dylan sobrevive y puede ganar",
-      "lastRunAt": 1793507245770,
-      "lastRunDurationMs": 969,
+      "lastRunAt": 1793593119393,
+      "lastRunDurationMs": 1010,
       "lastRunFramesExecuted": 577,
       "lastRunStatus": "passed",
       "name": "balance-combate",
