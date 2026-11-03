@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 282,
+    "build": 286,
     "major": 5,
     "minor": 6,
     "revision": 0
@@ -2449,6 +2449,38 @@
         "name": "cuchillo3",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "carniceria.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carniceria.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carniceria2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carniceria2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carne.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carne.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "chorizos.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "chorizos.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -4013,6 +4045,7 @@
       "mangledName": "introduccion",
       "name": "introduccion",
       "r": 247,
+      "renderer3DWorldScale": 100,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
@@ -4612,6 +4645,7 @@
       "mangledName": "Nivel_321",
       "name": "Nivel 1",
       "r": 255,
+      "renderer3DWorldScale": 100,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "Comida Legendaria",
@@ -6681,6 +6715,7 @@
       "mangledName": "Nivel_322",
       "name": "Nivel 2",
       "r": 255,
+      "renderer3DWorldScale": 100,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
@@ -6697,7 +6732,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5216293476471819,
+        "zoomFactor": 0.8027896525819915,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -6715,8 +6750,8 @@
           "name": "fondito",
           "persistentUuid": "fcfea8e6-5754-47b3-94ac-c978d5d276c9",
           "width": 1800,
-          "x": -2,
-          "y": 0,
+          "x": 2,
+          "y": 3,
           "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
@@ -6731,9 +6766,9 @@
           "name": "Dylan",
           "persistentUuid": "104ff785-5baf-465a-ad56-79ef10e53b9e",
           "width": 0,
-          "x": 239,
-          "y": 168,
-          "zOrder": 7,
+          "x": 276,
+          "y": 165,
+          "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6811,8 +6846,8 @@
           "name": "cajon",
           "persistentUuid": "eb08fcbb-baad-42ed-9a4a-1503539cd7d7",
           "width": 40,
-          "x": 647,
-          "y": 150,
+          "x": 620,
+          "y": 165,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -6821,30 +6856,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 40,
-          "keepRatio": true,
-          "layer": "",
-          "name": "cajon",
-          "persistentUuid": "015b27d3-8b24-4be4-b7c1-ed0b10750f2d",
-          "width": 40,
-          "x": 1003,
-          "y": 171,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 40,
+          "depth": 1,
+          "height": 52,
           "keepRatio": true,
           "layer": "",
           "name": "cajon",
           "persistentUuid": "32a81357-921e-4f10-839d-cb964b88e8ed",
-          "width": 40,
-          "x": 1059,
-          "y": 134,
+          "width": 49,
+          "x": 1021,
+          "y": 147,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -6878,7 +6898,7 @@
           "width": 73,
           "x": 81,
           "y": 158,
-          "zOrder": 8,
+          "zOrder": 13,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6918,16 +6938,17 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 149,
           "keepRatio": true,
           "layer": "",
-          "name": "pared",
-          "persistentUuid": "f179ba00-dfb2-4e62-a531-651def03583f",
-          "width": 0,
-          "x": 1484,
-          "y": 275,
-          "zOrder": 0,
+          "name": "carniceria",
+          "persistentUuid": "6201866e-63c5-4bfc-baee-7f1a11b2e9e0",
+          "width": 168,
+          "x": 1317,
+          "y": 68,
+          "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6936,111 +6957,66 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 45,
+          "height": 52,
           "keepRatio": true,
           "layer": "",
-          "name": "olla",
-          "persistentUuid": "8962b1b7-bb70-4e6a-9452-a78471d8cedc",
-          "width": 47,
-          "x": 854,
-          "y": 304,
+          "name": "cajon",
+          "persistentUuid": "3858daf4-eb20-4052-8b3d-772577b28dcc",
+          "width": 49,
+          "x": 833,
+          "y": 140,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         },
         {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "angle": 12,
+          "customSize": true,
+          "depth": 1,
+          "height": 43,
           "keepRatio": true,
           "layer": "",
-          "name": "asset_morron",
-          "persistentUuid": "58189e77-c8e8-4159-84a5-2fe6703a7d55",
-          "width": 0,
-          "x": 1076,
-          "y": 305,
-          "zOrder": 0,
+          "name": "carne",
+          "persistentUuid": "e917f703-5d9b-4e27-9812-b1040c3b2ad3",
+          "width": 41,
+          "x": 1170,
+          "y": 151,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 29,
           "keepRatio": true,
           "layer": "",
-          "name": "ajo",
-          "persistentUuid": "9a15bd9a-189e-484a-aae8-5405b0b55820",
-          "width": 0,
-          "x": 1663,
-          "y": 306,
-          "zOrder": 0,
+          "name": "chorixo",
+          "persistentUuid": "8639b416-7045-4a94-87eb-5af21dbc6627",
+          "width": 34,
+          "x": 717,
+          "y": 134,
+          "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 29,
           "keepRatio": true,
           "layer": "",
-          "name": "NewSprite",
-          "persistentUuid": "dd142716-6680-47d3-8b05-b315f4f08e40",
-          "width": 0,
-          "x": 604,
-          "y": 303,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "NewSprite",
-          "persistentUuid": "b017b90f-cce3-4c47-a018-e3ad98cf09ec",
-          "width": 0,
-          "x": 1374,
-          "y": 314,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "NewSprite2",
-          "persistentUuid": "2838867a-b2be-41ed-8075-1c4a2d17543d",
-          "width": 0,
-          "x": 421,
-          "y": 324,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "NewSprite2",
-          "persistentUuid": "8927e255-ea55-4f21-a24d-847ad02ea031",
-          "width": 0,
-          "x": 1135,
-          "y": 333,
-          "zOrder": 0,
+          "name": "chorixo",
+          "persistentUuid": "7021aaf9-6a8a-4a18-aaf3-cc342282b217",
+          "width": 34,
+          "x": 1596,
+          "y": 145,
+          "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -8882,6 +8858,209 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "",
+          "name": "carniceria",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "carniceria",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "carniceria2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 7.5,
+                            "y": 14.5
+                          },
+                          {
+                            "x": 110.5,
+                            "y": 25
+                          },
+                          {
+                            "x": 110,
+                            "y": 113.5
+                          },
+                          {
+                            "x": 6.5,
+                            "y": 114
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "carne",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [
+            {
+              "effectType": "Outline",
+              "name": "Outline",
+              "doubleParameters": {
+                "padding": 0,
+                "thickness": 2
+              },
+              "stringParameters": {
+                "color": "255;255;255"
+              },
+              "booleanParameters": {}
+            }
+          ],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "carne.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 11
+                          },
+                          {
+                            "x": 58,
+                            "y": 11
+                          },
+                          {
+                            "x": 58,
+                            "y": 60
+                          },
+                          {
+                            "x": 8,
+                            "y": 60
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "chorixo",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [
+            {
+              "effectType": "Noise",
+              "name": "Noise",
+              "doubleParameters": {
+                "noise": 0.5
+              },
+              "stringParameters": {},
+              "booleanParameters": {}
+            }
+          ],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "chorixo",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "chorizos.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 3
+                          },
+                          {
+                            "x": 52,
+                            "y": 3
+                          },
+                          {
+                            "x": 52,
+                            "y": 61
+                          },
+                          {
+                            "x": 3,
+                            "y": 61
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -8913,6 +9092,15 @@
           },
           {
             "objectName": "NewSprite2"
+          },
+          {
+            "objectName": "carniceria"
+          },
+          {
+            "objectName": "carne"
+          },
+          {
+            "objectName": "chorixo"
           }
         ]
       },
@@ -9287,7 +9475,7 @@
                 "butcher",
                 "\"GolpeButcher\"",
                 ">=",
-                "1"
+                "3"
               ]
             }
           ],
@@ -9382,7 +9570,7 @@
                 "butcher",
                 "\"CooldownCuchillo\"",
                 ">=",
-                "0.4"
+                "0.7"
               ]
             },
             {
@@ -9454,7 +9642,7 @@
                 "butcher",
                 "\"DelayCuchillo\"",
                 ">=",
-                "0.2"
+                "0.3"
               ]
             },
             {
@@ -9581,7 +9769,7 @@
                 "",
                 "cuchillo",
                 "butcher.CenterX() - 28",
-                "butcher.CenterY() + 5",
+                "butcher.CenterY() + 3",
                 "\"\""
               ]
             },
@@ -10410,6 +10598,74 @@
             }
           ],
           "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "agarrar objetos"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Dylan",
+                "carne",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "carne",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Dylan",
+                "chorixo",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "chorixo",
+                ""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -10519,6 +10775,20 @@
       ]
     }
   ],
+  "layoutsFolderStructure": {
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "itemName": "introduccion"
+      },
+      {
+        "itemName": "Nivel 1"
+      },
+      {
+        "itemName": "Nivel 2"
+      }
+    ]
+  },
   "externalEvents": [
     {
       "associatedLayout": "Nivel 2",
@@ -10610,6 +10880,17 @@
       ]
     }
   ],
+  "externalEventsFolderStructure": {
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "itemName": "idle"
+      },
+      {
+        "itemName": "Eventos externos sin título"
+      }
+    ]
+  },
   "tests": [
     {
       "description": "Dylan stays on floor, moves right and jumps",
@@ -10911,6 +11192,35 @@
       ]
     }
   ],
+  "testsFolderStructure": {
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "itemName": "dylan-moves"
+      },
+      {
+        "itemName": "dylan-flip"
+      },
+      {
+        "itemName": "dylan-full-moves"
+      },
+      {
+        "itemName": "dylan-wasd-arrows"
+      },
+      {
+        "itemName": "dylan-camera"
+      },
+      {
+        "itemName": "intro-buttons"
+      },
+      {
+        "itemName": "intro-pixel-controls"
+      },
+      {
+        "itemName": "butcher-attack-fix"
+      }
+    ]
+  },
   "eventsFunctionsExtensions": [
     {
       "author": "@4ian",
@@ -40193,5 +40503,8 @@
       "eventsBasedObjects": []
     }
   ],
-  "externalLayouts": []
+  "externalLayouts": [],
+  "externalLayoutsFolderStructure": {
+    "folderName": "__ROOT"
+  }
 }
