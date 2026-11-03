@@ -4940,6 +4940,20 @@
         "name": "assets/cuchillo.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "video/video2.mp4",
+        "kind": "video",
+        "metadata": "",
+        "name": "video/video2.mp4",
+        "userAdded": false
+      },
+      {
+        "file": "video/video 1.mp4",
+        "kind": "video",
+        "metadata": "",
+        "name": "video/video 1.mp4",
+        "userAdded": false
       }
     ]
   },
@@ -5029,6 +5043,11 @@
           "persistentUuid": "1dbdac37-b24b-4bfa-8e8b-c693995ab34c",
           "type": "number",
           "value": 0
+        },
+        {
+          "name": "VidaDylan",
+          "type": "number",
+          "value": 100
         }
       ],
       "effects": [],
@@ -8387,7 +8406,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.7766023645096312,
+        "zoomFactor": 1.2354964865370628,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -11278,7 +11297,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.507508814700352,
+        "zoomFactor": 1.2771578358760682,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -11310,7 +11329,7 @@
           "hidden": true,
           "keepRatio": true,
           "layer": "",
-          "name": "NewVideo",
+          "name": "video_introduccion",
           "persistentUuid": "936875f2-5a9c-48cb-aec6-572318c88805",
           "width": 485,
           "x": 0,
@@ -11521,7 +11540,7 @@
       "objects": [
         {
           "assetStoreId": "",
-          "name": "NewVideo",
+          "name": "video_introduccion",
           "type": "Video::VideoObject",
           "variables": [],
           "effects": [],
@@ -11530,7 +11549,7 @@
             "opacity": 255,
             "loop": false,
             "volume": 80,
-            "videoResource": "video/intro.mp4"
+            "videoResource": "video/video2.mp4"
           }
         },
         {
@@ -12030,7 +12049,7 @@
         "folderName": "__ROOT",
         "children": [
           {
-            "objectName": "NewVideo"
+            "objectName": "video_introduccion"
           },
           {
             "objectName": "BotonPixel"
@@ -12110,7 +12129,7 @@
                 "value": "Hide"
               },
               "parameters": [
-                "NewVideo"
+                "video_introduccion"
               ]
             },
             {
@@ -12203,7 +12222,7 @@
                     "value": "Video::SetVolume"
                   },
                   "parameters": [
-                    "NewVideo",
+                    "video_introduccion",
                     "=",
                     "0"
                   ]
@@ -12240,7 +12259,7 @@
                     "value": "Video::SetVolume"
                   },
                   "parameters": [
-                    "NewVideo",
+                    "video_introduccion",
                     "=",
                     "80"
                   ]
@@ -12297,7 +12316,7 @@
                 "value": "Video::Ended"
               },
               "parameters": [
-                "NewVideo"
+                "video_introduccion"
               ]
             }
           ],
@@ -12307,7 +12326,7 @@
                 "value": "Hide"
               },
               "parameters": [
-                "NewVideo"
+                "video_introduccion"
               ]
             }
           ]
@@ -12614,7 +12633,7 @@
                     "value": "Show"
                   },
                   "parameters": [
-                    "NewVideo",
+                    "video_introduccion",
                     ""
                   ]
                 },
@@ -12623,7 +12642,7 @@
                     "value": "SetZOrder"
                   },
                   "parameters": [
-                    "NewVideo",
+                    "video_introduccion",
                     "=",
                     "40"
                   ]
@@ -12633,7 +12652,7 @@
                     "value": "Video::Play"
                   },
                   "parameters": [
-                    "NewVideo"
+                    "video_introduccion"
                   ]
                 }
               ]
@@ -12900,7 +12919,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5761972619700164,
+        "zoomFactor": 1.195194145442772,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -12918,14 +12937,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 288,
+          "height": 319,
           "keepRatio": true,
           "layer": "",
           "name": "fondo",
           "persistentUuid": "bb5b5e9f-46d9-40e5-9780-feb5d129a347",
-          "width": 1653,
-          "x": -177,
-          "y": -11,
+          "width": 1674,
+          "x": -198,
+          "y": -23,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -12942,7 +12961,7 @@
           "persistentUuid": "9fee4715-9dfa-47a5-a4a2-86d0659922a1",
           "width": 623,
           "x": -83,
-          "y": 184,
+          "y": 179,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -13401,15 +13420,15 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 279,
+          "height": 331,
           "hidden": true,
           "keepRatio": true,
           "layer": "Info",
           "name": "Fundido",
           "persistentUuid": "78186798-5fd3-4401-8552-f2097467e8c0",
-          "width": 488,
-          "x": -3,
-          "y": -5,
+          "width": 522,
+          "x": -18,
+          "y": -28,
           "zOrder": 100,
           "numberProperties": [],
           "stringProperties": [],
@@ -13485,14 +13504,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 288,
+          "height": 318,
           "keepRatio": true,
           "layer": "",
           "name": "fondo",
           "persistentUuid": "e0ab721b-1fe6-4cfb-828d-784d1d580519",
-          "width": 1653,
-          "x": 1355,
-          "y": -11,
+          "width": 1831,
+          "x": 1307,
+          "y": -23,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -23699,13 +23718,14 @@
           "bold": false,
           "italic": false,
           "name": "TxtNivel",
+          "persistentUuid": "50aac866-cde4-4de2-ac2e-47cc05b4b006",
           "smoothed": true,
           "type": "TextObject::Text",
           "underlined": false,
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "NIVEL 1",
+          "string": "NIVEL 2",
           "font": "",
           "textAlignment": "center",
           "characterSize": 28,
@@ -23728,7 +23748,7 @@
             "shadowOpacity": 127,
             "smoothed": true,
             "underlined": false,
-            "text": "NIVEL 1",
+            "text": "NIVEL 2",
             "font": "",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
@@ -24970,22 +24990,13 @@
           "actions": [
             {
               "type": {
-                "value": "Show"
-              },
-              "parameters": [
-                "TxtNivel",
-                ""
-              ]
-            },
-            {
-              "type": {
                 "value": "TextContainerCapability::TextContainerBehavior::SetValue"
               },
               "parameters": [
                 "TxtNivel",
                 "Text",
                 "=",
-                "\"NIVEL 1\""
+                "\"INTRODUCCIÓN\""
               ]
             },
             {
@@ -25210,7 +25221,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.7852924230461353,
+        "zoomFactor": 0.6385789179380634,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -25909,6 +25920,57 @@
           "x": 224,
           "y": 4,
           "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 306,
+          "hidden": true,
+          "keepRatio": true,
+          "layer": "Fin",
+          "name": "Fundido",
+          "persistentUuid": "eadca035-a964-4160-9e44-f9cf349a4665",
+          "width": 491,
+          "x": -4,
+          "y": -15,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 284,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Fondo",
+          "persistentUuid": "967a25f7-b80d-4f0b-9c35-cf6aa2ce4868",
+          "width": 1396,
+          "x": 2395,
+          "y": -1,
+          "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 74,
+          "keepRatio": true,
+          "layer": "",
+          "name": "piso",
+          "persistentUuid": "3e143df2-1df1-4a2c-84f1-156743f970be",
+          "width": 665,
+          "x": 2395,
+          "y": 203,
+          "zOrder": 30,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -26879,6 +26941,72 @@
             "lineHeight": 0,
             "color": "0;0;0"
           }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "33454e7ebbe51f44913847d92c10e31219f1972174a74ae1d54d4662eb109d33",
+          "name": "Fundido",
+          "persistentUuid": "de4b611c-fcd5-4dc6-bacd-70b4f7519ec1",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "pixel-black.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 4,
+                            "y": 0
+                          },
+                          {
+                            "x": 4,
+                            "y": 4
+                          },
+                          {
+                            "x": 0,
+                            "y": 4
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -26946,6 +27074,9 @@
           },
           {
             "objectName": "TxtMuertes"
+          },
+          {
+            "objectName": "Fundido"
           }
         ]
       },
@@ -30405,7 +30536,7 @@
           "parameters": []
         },
         {
-          "aiGeneratedEventId": "01M68AVC76Z20BCS26Q00X0F3K",
+          "aiGeneratedEventId": "01M6FY139S1E6EHSG5XBRPRNDQ",
           "colorB": 228,
           "colorG": 176,
           "colorR": 74,
@@ -30424,7 +30555,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "Al llegar al extremo derecho del escenario se salta directamente al siguiente nivel: sin carteles ni botones."
+              "comment": "Al llegar al extremo derecho hay fundido como en manual y se pasa al Nivel 2."
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -30449,7 +30580,29 @@
               ]
             },
             {
-              "aiGeneratedEventId": "01M6AN9S071X2SKW0WXY834ZTV",
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SceneJustBegins"
+                  },
+                  "parameters": [
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "Fundido"
+                  ]
+                }
+              ]
+            },
+            {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -30472,6 +30625,49 @@
               "actions": [
                 {
                   "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "Fundido",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Opacity"
+                  },
+                  "parameters": [
+                    "Fundido",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectOpacityTween3"
+                  },
+                  "parameters": [
+                    "Fundido",
+                    "Tween",
+                    "Opacity",
+                    "\"salida\"",
+                    "255",
+                    "\"linear\"",
+                    "0.8",
+                    "no"
+                  ]
+                },
+                {
+                  "type": {
+                    "await": true,
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.9"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "SetNumberVariable"
                   },
                   "parameters": [
@@ -30486,7 +30682,7 @@
                   },
                   "parameters": [
                     "",
-                    "\"nivel 3\"",
+                    "\"Nivel 2\"",
                     "no"
                   ]
                 }
@@ -30895,7 +31091,7 @@
                 "TxtNivel",
                 "Text",
                 "=",
-                "\"NIVEL 2\""
+                "\"NIVEL 1\""
               ]
             },
             {
@@ -31198,6 +31394,10 @@
         {
           "name": "Text",
           "type": "TextContainerCapability::TextContainerBehavior"
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
         }
       ]
     },
@@ -31224,7 +31424,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.7030553796722148,
+        "zoomFactor": 0.7766023645096317,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -31496,6 +31696,297 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "olla",
+          "persistentUuid": "ba438ec9-4dda-4c50-bfb7-628fb010b811",
+          "width": 0,
+          "x": 222,
+          "y": 160,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 160,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "PanelInv",
+          "persistentUuid": "acedae65-bddc-42a8-a4f3-d860cbf9ac2d",
+          "width": 160,
+          "x": 160,
+          "y": 55,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "InvTitulo",
+          "persistentUuid": "0f05f812-48b5-4f14-ac1b-fe79ab75f230",
+          "width": 0,
+          "x": 176,
+          "y": 65,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "TxtMorron",
+          "persistentUuid": "f5e57ced-985e-4b54-982b-29b5bd8d37e6",
+          "width": 0,
+          "x": 208,
+          "y": 104,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "TxtAjo",
+          "persistentUuid": "7eec2367-4ffb-4fd0-a617-1f797635710e",
+          "width": 0,
+          "x": 208,
+          "y": 142,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 24,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "IconoMorron",
+          "persistentUuid": "2f83bcff-20ad-4405-9b9e-5b5a8f30d276",
+          "width": 24,
+          "x": 178,
+          "y": 102,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 24,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "IconoAjo",
+          "persistentUuid": "b2f0ef8b-d168-4735-910c-df95f0dcf72f",
+          "width": 24,
+          "x": 178,
+          "y": 140,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 9,
+          "keepRatio": true,
+          "layer": "barra_vida",
+          "name": "White1BitPixelBar",
+          "persistentUuid": "9c65ae04-4b18-4381-8941-78f396a57197",
+          "width": 58,
+          "x": 8,
+          "y": 11,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 12,
+          "keepRatio": true,
+          "layer": "barra_vida",
+          "name": "BarraEnemigo",
+          "persistentUuid": "47ce2b8b-e92e-42b7-b152-b5479436cf5e",
+          "width": 120,
+          "x": 351,
+          "y": 12,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 21,
+          "keepRatio": true,
+          "layer": "barra_vida",
+          "name": "TxtMuertes",
+          "persistentUuid": "848cc5c7-842b-473b-a971-13b5ac5499cc",
+          "width": 39,
+          "x": 79,
+          "y": 5,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Fin",
+          "name": "TxtNivel",
+          "persistentUuid": "a2a16aa7-9a05-4e7b-bca6-f5702a966979",
+          "width": 0,
+          "x": 187,
+          "y": 1,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Fin",
+          "name": "TxtPerdiste",
+          "persistentUuid": "4978bd0b-f9a6-4459-9c9b-f7fc6aa725f8",
+          "width": 0,
+          "x": 140,
+          "y": 110,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 71,
+          "keepRatio": true,
+          "layer": "Fin",
+          "name": "PanelFin",
+          "persistentUuid": "7d6101bb-8b75-44a1-ab35-a0b6922167d2",
+          "width": 164,
+          "x": 165,
+          "y": 98,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Fin",
+          "name": "TxtFin",
+          "persistentUuid": "2a7ad434-363d-49bd-a466-06539a149742",
+          "width": 0,
+          "x": 172,
+          "y": 114,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 306,
+          "hidden": true,
+          "keepRatio": true,
+          "layer": "Fin",
+          "name": "Fundido",
+          "persistentUuid": "dc91f8bc-067c-4921-a50e-3523ff3e0f7d",
+          "width": 491,
+          "x": -4,
+          "y": -12,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Fundido",
+          "persistentUuid": "e65e2412-ae5d-4d0b-9dd4-63404d5c8ffa",
+          "width": 0,
+          "x": 2061,
+          "y": 183,
+          "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 269,
+          "keepRatio": true,
+          "layer": "",
+          "name": "fondito",
+          "persistentUuid": "2b041e40-6db4-45bf-b395-399f05110692",
+          "width": 1322,
+          "x": 1691,
+          "y": 1,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 74,
+          "keepRatio": true,
+          "layer": "",
+          "name": "piso",
+          "persistentUuid": "33503424-84ca-4420-b6fc-fca201bb0060",
+          "width": 280,
+          "x": 1680,
+          "y": 194,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -31549,6 +32040,34 @@
           ],
           "effects": [],
           "behaviors": [
+            {
+              "name": "Health",
+              "type": "Health::Health",
+              "Health": 100,
+              "CurrentHealth": 0,
+              "MaxHealth": 100,
+              "DamageCooldown": 0,
+              "AllowOverHealing": false,
+              "IsHealthJustDamaged": false,
+              "DamageToBeApplied": 0,
+              "HitAtLeastOnce": false,
+              "ChanceToDodge": 0,
+              "IsJustDodged": false,
+              "HealToBeApplied": 0,
+              "HealthRegenRate": 0,
+              "HealthRegenDelay": 0,
+              "IsJustHealed": false,
+              "CurrentShieldPoints": 0,
+              "MaxShieldPoints": 0,
+              "ShieldDuration": 5,
+              "ShieldRegenRate": 0,
+              "BlockExcessDamage": false,
+              "ShieldRegenDelay": 0,
+              "IsShieldJustDamaged": false,
+              "ShieldDamageTaken": 0,
+              "FlatDamageReduction": 0,
+              "PercentDamageReduction": 0
+            },
             {
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
@@ -33759,6 +34278,557 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "9f548f2b9333b24e0a35e27b6fc539205e6c1ae8baae93766903e8dcc6080ce2",
+          "bottomMargin": 20,
+          "height": 48,
+          "leftMargin": 20,
+          "name": "PanelInv",
+          "persistentUuid": "28af0135-ecc2-4a31-90e5-1dafcff29138",
+          "rightMargin": 20,
+          "texture": "Default-panel (24).png",
+          "tiled": false,
+          "topMargin": 20,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 48,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "InvTitulo",
+          "persistentUuid": "3c8ef085-a011-4d09-8f11-5d2a3f7fb687",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Text",
+          "font": "PixelifySans-VariableFont_wght3.ttf",
+          "textAlignment": "left",
+          "characterSize": 15,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Text",
+            "font": "PixelifySans-VariableFont_wght3.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 15,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "TxtMorron",
+          "persistentUuid": "718ab5e9-aa86-4d30-a5a5-49bd88cc7190",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Text",
+          "font": "PixelifySans-VariableFont_wght3.ttf",
+          "textAlignment": "left",
+          "characterSize": 15,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Text",
+            "font": "PixelifySans-VariableFont_wght3.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 15,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "TxtAjo",
+          "persistentUuid": "76ad8f2b-a47f-4afb-b9d6-125160e402d4",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Text",
+          "font": "PixelifySans-VariableFont_wght3.ttf",
+          "textAlignment": "left",
+          "characterSize": 15,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Text",
+            "font": "PixelifySans-VariableFont_wght3.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 15,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "IconoMorron",
+          "persistentUuid": "1b36d792-e127-4c44-9edf-841811915804",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "morron asset",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "morron asset.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 7
+                          },
+                          {
+                            "x": 54,
+                            "y": 7
+                          },
+                          {
+                            "x": 54,
+                            "y": 62
+                          },
+                          {
+                            "x": 11,
+                            "y": 62
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "IconoAjo",
+          "persistentUuid": "6d096b9b-fe3e-4881-b881-8f44d110b377",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "ajos.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 0
+                          },
+                          {
+                            "x": 47,
+                            "y": 0
+                          },
+                          {
+                            "x": 47,
+                            "y": 61
+                          },
+                          {
+                            "x": 20,
+                            "y": 61
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "b804d2390e0f305c450b8396238c89b63af1107b3786ba4b452a7ed6db7e70f2",
+          "name": "BarraEnemigo",
+          "persistentUuid": "09b05a98-4ee4-4470-9a35-b0b785673400",
+          "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
+          "variant": "White 1Bit Square Bar2",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "InitialValue": 100,
+            "MaxValue": 100,
+            "BarTopPadding": 8,
+            "BarRightPadding": 10,
+            "BarBottomPadding": 8,
+            "BarLeftPadding": 10,
+            "PreviousHighValueDuration": 0,
+            "EasingDuration": 0.25
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "TxtMuertes",
+          "persistentUuid": "cbaf28b2-4433-49f6-b3d9-0e601e0d9ac1",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Text",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 15,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 1,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Text",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 15,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "TxtNivel",
+          "persistentUuid": "c6e43921-2c8f-49bb-9eae-52d217ed7a39",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "NIVEL 2",
+          "font": "",
+          "textAlignment": "center",
+          "characterSize": 28,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "NIVEL 2",
+            "font": "",
+            "textAlignment": "center",
+            "verticalTextAlignment": "top",
+            "characterSize": 28,
+            "lineHeight": 0,
+            "color": "255;255;255"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "TxtPerdiste",
+          "persistentUuid": "af07caa9-27d8-44be-8e7c-aea4b161c2af",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "PERDISTE!",
+          "font": "",
+          "textAlignment": "center",
+          "characterSize": 28,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "PERDISTE!",
+            "font": "",
+            "textAlignment": "center",
+            "verticalTextAlignment": "top",
+            "characterSize": 28,
+            "lineHeight": 0,
+            "color": "255;0;0"
+          }
+        },
+        {
+          "assetStoreId": "9f548f2b9333b24e0a35e27b6fc539205e6c1ae8baae93766903e8dcc6080ce2",
+          "bottomMargin": 20,
+          "height": 48,
+          "leftMargin": 20,
+          "name": "PanelFin",
+          "persistentUuid": "050e109b-40ba-4374-8ed0-0f00d876a7d0",
+          "rightMargin": 20,
+          "texture": "Default-panel (24).png",
+          "tiled": false,
+          "topMargin": 20,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 48,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "TxtFin",
+          "persistentUuid": "dbc91682-fb97-46e9-95c6-c871c4450721",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "FIN",
+          "font": "PixelifySans-VariableFont_wght3.ttf",
+          "textAlignment": "left",
+          "characterSize": 15,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "FIN",
+            "font": "PixelifySans-VariableFont_wght3.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 15,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "33454e7ebbe51f44913847d92c10e31219f1972174a74ae1d54d4662eb109d33",
+          "name": "Fundido",
+          "persistentUuid": "387b8604-516f-4a08-9a23-3dc75aeaccd5",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "pixel-black.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 4,
+                            "y": 0
+                          },
+                          {
+                            "x": 4,
+                            "y": 4
+                          },
+                          {
+                            "x": 0,
+                            "y": 4
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -33799,6 +34869,45 @@
           },
           {
             "objectName": "chorixo"
+          },
+          {
+            "objectName": "PanelInv"
+          },
+          {
+            "objectName": "InvTitulo"
+          },
+          {
+            "objectName": "TxtMorron"
+          },
+          {
+            "objectName": "TxtAjo"
+          },
+          {
+            "objectName": "IconoMorron"
+          },
+          {
+            "objectName": "IconoAjo"
+          },
+          {
+            "objectName": "BarraEnemigo"
+          },
+          {
+            "objectName": "TxtMuertes"
+          },
+          {
+            "objectName": "TxtNivel"
+          },
+          {
+            "objectName": "TxtPerdiste"
+          },
+          {
+            "objectName": "PanelFin"
+          },
+          {
+            "objectName": "TxtFin"
+          },
+          {
+            "objectName": "Fundido"
           }
         ]
       },
@@ -35364,6 +36473,1500 @@
               ]
             }
           ]
+        },
+        {
+          "aiGeneratedEventId": "01M6FXZDC90Y3RBGNC7NY6YGBS",
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Vida Dylan unificada",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Vida persistente igual que Nivel 1."
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SceneJustBegins"
+                  },
+                  "parameters": [
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "VidaDylan",
+                    "<=",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "VidaDylan",
+                    "=",
+                    "100"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SceneJustBegins"
+                  },
+                  "parameters": [
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "TxtPerdiste"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "PanelFin"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "TxtFin"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "Fundido"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Health::Health::SetHealth"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "Health",
+                    "VidaDylan",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "\"Invuln\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "\"Golpe\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "\"Ataque\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Derrota\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Perdiste\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "TxtNivel",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TxtNivel",
+                    "Text",
+                    "=",
+                    "\"NIVEL 2\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Nivel\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CompareTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Nivel\"",
+                    ">",
+                    "2.5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "TxtNivel"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PosY"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    ">",
+                    "520"
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "Health",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Health::Health::SetHealth"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "Health",
+                    "0",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "VidaDylan",
+                    "=",
+                    "max(0, min(100, Dylan.Health::Health()))"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+                  },
+                  "parameters": [
+                    "White1BitPixelBar",
+                    "=",
+                    "VidaDylan",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TxtMuertes",
+                    "Text",
+                    "=",
+                    "\"Muertes: \" + ToString(MuertesSeguidas)"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "Health",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "MuertesSeguidas",
+                    "+",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Derrota\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Perdiste\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "Health",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CompareTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Derrota\"",
+                    ">",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "MuertesSeguidas",
+                    "<",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "VidaDylan",
+                    "=",
+                    "100"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Nivel 2\"",
+                    "no"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "Health",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CompareTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Derrota\"",
+                    ">",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "MuertesSeguidas",
+                    ">=",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "TxtPerdiste",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TxtPerdiste",
+                    "Text",
+                    "=",
+                    "\"PERDISTE!\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Perdiste\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "MuertesSeguidas",
+                    ">=",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CompareTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Perdiste\"",
+                    ">",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "VidaDylan",
+                    "=",
+                    "100"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "MuertesSeguidas",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"menu\"",
+                    "no"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "aiGeneratedEventId": "01M6FXZDC90Y3RBGNC7NY6YGBS",
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Inventario (olla)",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "asset_morron",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Morron",
+                    "+",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "asset_morron",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundOnChannel"
+                  },
+                  "parameters": [
+                    "",
+                    "assets/sonidos/ingredientes/juntar ingrediente.mp3",
+                    "4",
+                    "no",
+                    "100",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "ajo",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Ajo",
+                    "+",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "ajo",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundOnChannel"
+                  },
+                  "parameters": [
+                    "",
+                    "assets/sonidos/ingredientes/juntar ingrediente.mp3",
+                    "4",
+                    "no",
+                    "100",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SceneJustBegins"
+                  },
+                  "parameters": [
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "InvAbierto",
+                    "False",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Or"
+                  },
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "value": "KeyFromTextJustPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"i\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "KeyFromTextJustPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Tab\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "KeyFromTextJustPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"e\""
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "InvAbierto",
+                    "Toggle",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyFromTextJustPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Escape\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "InvAbierto",
+                    "False",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "InvAbierto",
+                    "True",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "PanelInv",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "olla",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "InvTitulo",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "IconoMorron",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "TxtMorron",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "IconoAjo",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "TxtAjo",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Else",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "PanelInv"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "olla"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "InvTitulo"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "IconoMorron"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "TxtMorron"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "IconoAjo"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "TxtAjo"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "InvTitulo",
+                    "Text",
+                    "=",
+                    "\"INVENTARIO\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TxtMorron",
+                    "Text",
+                    "=",
+                    "\"MORRON x\" + ToString(Morron)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TxtAjo",
+                    "Text",
+                    "=",
+                    "\"AJO x\" + ToString(Ajo)"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "aiGeneratedEventId": "01M6FXZDC90Y3RBGNC7NY6YGBS",
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Butcher como ENEMIGO1",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "El carnicero mira a Dylan, persigue, salta obstaculos y golpea con cooldown como ENEMIGO1."
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SceneJustBegins"
+                  },
+                  "parameters": [
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Health::Health::SetHealth"
+                  },
+                  "parameters": [
+                    "butcher",
+                    "Health",
+                    "100",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "butcher",
+                    "\"Ataque\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "butcher",
+                    "\"Dolor\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "butcher",
+                    "\"Salto\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "butcher",
+                    "Health",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "butcher",
+                    "Animation",
+                    "=",
+                    "\"die\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "butcher",
+                    "PlatformerObject",
+                    "no"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "BarraEnemigo"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Else",
+              "conditions": [],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PosX"
+                      },
+                      "parameters": [
+                        "butcher",
+                        "<",
+                        "Dylan.CenterX()"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "FlippableCapability::FlippableBehavior::FlipX"
+                      },
+                      "parameters": [
+                        "butcher",
+                        "Flippable",
+                        "no"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Else",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "FlippableCapability::FlippableBehavior::FlipX"
+                      },
+                      "parameters": [
+                        "butcher",
+                        "Flippable",
+                        "yes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::IsOnFloor"
+                      },
+                      "parameters": [
+                        "butcher",
+                        "PlatformerObject"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "CompareObjectTimer"
+                      },
+                      "parameters": [
+                        "butcher",
+                        "\"Salto\"",
+                        ">",
+                        "1.1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PosY"
+                      },
+                      "parameters": [
+                        "Dylan",
+                        "<",
+                        "butcher.Y() - 40"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Distance"
+                      },
+                      "parameters": [
+                        "butcher",
+                        "Dylan",
+                        "320",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateJumpKey"
+                      },
+                      "parameters": [
+                        "butcher",
+                        "PlatformerObject"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResetObjectTimer"
+                      },
+                      "parameters": [
+                        "butcher",
+                        "\"Salto\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Health::Health::IsJustDamaged"
+                      },
+                      "parameters": [
+                        "butcher",
+                        "Health",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "butcher",
+                        "Animation",
+                        "=",
+                        "\"hurt\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResetObjectTimer"
+                      },
+                      "parameters": [
+                        "butcher",
+                        "\"Dolor\""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+                  },
+                  "parameters": [
+                    "BarraEnemigo",
+                    "=",
+                    "butcher.Health::Health()",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetXY"
+                  },
+                  "parameters": [
+                    "BarraEnemigo",
+                    "=",
+                    "butcher.X() - 25",
+                    "=",
+                    "butcher.Y() - 30"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyFromTextJustPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"j\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Distance"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "butcher",
+                    "70",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "butcher",
+                    "Health",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "Health",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CompareObjectTimer"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "\"Ataque\"",
+                    ">",
+                    "0.4"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Health::Health::Hit"
+                  },
+                  "parameters": [
+                    "butcher",
+                    "Health",
+                    "25",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "\"Ataque\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "butcher",
+                    "\"Dolor\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "Animation",
+                    "=",
+                    "\"Golpes\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundOnChannel"
+                  },
+                  "parameters": [
+                    "",
+                    "assets/sonidos/golpes/sonido pegar golpe.mp3",
+                    "5",
+                    "no",
+                    "100",
+                    "1"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "aiGeneratedEventId": "01M6FXZDC90Y3RBGNC7NY6YGBS",
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Fin con fundido",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "PanelFin"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "TxtFin"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PosX"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    ">",
+                    "2300"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "Fundido",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Opacity"
+                  },
+                  "parameters": [
+                    "Fundido",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectOpacityTween3"
+                  },
+                  "parameters": [
+                    "Fundido",
+                    "Tween",
+                    "Opacity",
+                    "\"salida\"",
+                    "255",
+                    "\"linear\"",
+                    "0.8",
+                    "no"
+                  ]
+                },
+                {
+                  "type": {
+                    "await": true,
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.9"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "MuertesSeguidas",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"nivel 3\"",
+                    "no"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
         }
       ],
       "layers": [
@@ -35431,6 +38034,60 @@
               }
             }
           ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "Inventario",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "barra_vida",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "Fin",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
         }
       ],
       "behaviorsSharedData": [
@@ -35469,6 +38126,14 @@
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
         }
       ]
     },
@@ -35495,7 +38160,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4568249202997838,
+        "zoomFactor": 0.615711556939331,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -36030,6 +38695,199 @@
           "width": 0,
           "x": 10,
           "y": 30,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "olla",
+          "persistentUuid": "c04c072f-85bf-4e94-8cb4-233c1bd00fa3",
+          "width": 0,
+          "x": 222,
+          "y": 160,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 160,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "PanelInv",
+          "persistentUuid": "98f60c47-b8f2-4f0c-b89f-fc8ddc909f6d",
+          "width": 160,
+          "x": 160,
+          "y": 55,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "InvTitulo",
+          "persistentUuid": "0379cc8f-9b9b-4971-97b7-511fb1a70404",
+          "width": 0,
+          "x": 176,
+          "y": 65,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "TxtMorron",
+          "persistentUuid": "3bd4a6e0-a819-4d54-a11a-b3cc6fd927d9",
+          "width": 0,
+          "x": 208,
+          "y": 104,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "TxtAjo",
+          "persistentUuid": "30b3af1b-5b72-44e0-bf32-b1d0e558e0c5",
+          "width": 0,
+          "x": 208,
+          "y": 142,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 24,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "IconoMorron",
+          "persistentUuid": "afd53bc0-29b8-4705-aa7e-66143fec0253",
+          "width": 24,
+          "x": 178,
+          "y": 102,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 24,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "IconoAjo",
+          "persistentUuid": "f3d1a7cb-4832-4307-9374-cb2c6350ef0d",
+          "width": 24,
+          "x": 178,
+          "y": 140,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 12,
+          "keepRatio": true,
+          "layer": "barra_vida",
+          "name": "BarraEnemigo",
+          "persistentUuid": "83c4356d-b591-43a2-8752-cb562c219001",
+          "width": 120,
+          "x": 351,
+          "y": 12,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 71,
+          "keepRatio": true,
+          "layer": "Fin",
+          "name": "PanelFin",
+          "persistentUuid": "e3ec0c8a-583d-41b5-b0ed-bea3f702464e",
+          "width": 164,
+          "x": 165,
+          "y": 98,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Fin",
+          "name": "TxtFin",
+          "persistentUuid": "67c19235-d525-47e5-b22e-443d737453d3",
+          "width": 0,
+          "x": 172,
+          "y": 114,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 306,
+          "hidden": true,
+          "keepRatio": true,
+          "layer": "Fin",
+          "name": "Fundido",
+          "persistentUuid": "b79ba682-96f0-477a-be3a-eb1916253cb8",
+          "width": 491,
+          "x": -4,
+          "y": -15,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Fin",
+          "name": "video_final",
+          "persistentUuid": "5dbb7597-1989-4b50-9d20-32ad21c1e9cf",
+          "width": 0,
+          "x": 0,
+          "y": 0,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -39065,6 +41923,439 @@
             "lineHeight": 0,
             "color": "0;0;0"
           }
+        },
+        {
+          "assetStoreId": "",
+          "name": "video_final",
+          "type": "Video::VideoObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "opacity": 255,
+            "loop": false,
+            "volume": 100,
+            "videoResource": "video/video 1.mp4"
+          }
+        },
+        {
+          "assetStoreId": "9f548f2b9333b24e0a35e27b6fc539205e6c1ae8baae93766903e8dcc6080ce2",
+          "bottomMargin": 20,
+          "height": 48,
+          "leftMargin": 20,
+          "name": "PanelInv",
+          "persistentUuid": "0f4bc4b2-7919-44d9-8527-18c81379b507",
+          "rightMargin": 20,
+          "texture": "Default-panel (24).png",
+          "tiled": false,
+          "topMargin": 20,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 48,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "InvTitulo",
+          "persistentUuid": "991b506a-0b6b-487c-8091-cbe8fa9d7b45",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Text",
+          "font": "PixelifySans-VariableFont_wght3.ttf",
+          "textAlignment": "left",
+          "characterSize": 15,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Text",
+            "font": "PixelifySans-VariableFont_wght3.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 15,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "TxtMorron",
+          "persistentUuid": "3f910e4c-3015-4648-b4e9-d3cd3c74371f",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Text",
+          "font": "PixelifySans-VariableFont_wght3.ttf",
+          "textAlignment": "left",
+          "characterSize": 15,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Text",
+            "font": "PixelifySans-VariableFont_wght3.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 15,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "TxtAjo",
+          "persistentUuid": "963bb3c7-68c1-47d8-ad42-4eba32984988",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Text",
+          "font": "PixelifySans-VariableFont_wght3.ttf",
+          "textAlignment": "left",
+          "characterSize": 15,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Text",
+            "font": "PixelifySans-VariableFont_wght3.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 15,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "IconoMorron",
+          "persistentUuid": "b0b204a3-d57c-457f-896c-251a647870f3",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "morron asset",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "morron asset.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 7
+                          },
+                          {
+                            "x": 54,
+                            "y": 7
+                          },
+                          {
+                            "x": 54,
+                            "y": 62
+                          },
+                          {
+                            "x": 11,
+                            "y": 62
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "IconoAjo",
+          "persistentUuid": "003ba630-81a6-4c9a-9c37-19b391c9ef7e",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "ajos.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 0
+                          },
+                          {
+                            "x": 47,
+                            "y": 0
+                          },
+                          {
+                            "x": 47,
+                            "y": 61
+                          },
+                          {
+                            "x": 20,
+                            "y": 61
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "b804d2390e0f305c450b8396238c89b63af1107b3786ba4b452a7ed6db7e70f2",
+          "name": "BarraEnemigo",
+          "persistentUuid": "399713ac-b0e6-406b-b980-8fb428af2008",
+          "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
+          "variant": "White 1Bit Square Bar2",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "InitialValue": 100,
+            "MaxValue": 100,
+            "BarTopPadding": 8,
+            "BarRightPadding": 10,
+            "BarBottomPadding": 8,
+            "BarLeftPadding": 10,
+            "PreviousHighValueDuration": 0,
+            "EasingDuration": 0.25
+          }
+        },
+        {
+          "assetStoreId": "9f548f2b9333b24e0a35e27b6fc539205e6c1ae8baae93766903e8dcc6080ce2",
+          "bottomMargin": 20,
+          "height": 48,
+          "leftMargin": 20,
+          "name": "PanelFin",
+          "persistentUuid": "e46008c1-1473-4307-a504-bccd9b495e6c",
+          "rightMargin": 20,
+          "texture": "Default-panel (24).png",
+          "tiled": false,
+          "topMargin": 20,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 48,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "TxtFin",
+          "persistentUuid": "cc63403b-395f-47cd-bd73-7f2c43e2d409",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "FIN",
+          "font": "PixelifySans-VariableFont_wght3.ttf",
+          "textAlignment": "left",
+          "characterSize": 15,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "FIN",
+            "font": "PixelifySans-VariableFont_wght3.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 15,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "33454e7ebbe51f44913847d92c10e31219f1972174a74ae1d54d4662eb109d33",
+          "name": "Fundido",
+          "persistentUuid": "5e429078-f7c6-458b-9cf3-b24f1d058682",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "pixel-black.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 4,
+                            "y": 0
+                          },
+                          {
+                            "x": 4,
+                            "y": 4
+                          },
+                          {
+                            "x": 0,
+                            "y": 4
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -39135,6 +42426,39 @@
           },
           {
             "objectName": "TxtMuertes"
+          },
+          {
+            "objectName": "video_final"
+          },
+          {
+            "objectName": "PanelInv"
+          },
+          {
+            "objectName": "InvTitulo"
+          },
+          {
+            "objectName": "TxtMorron"
+          },
+          {
+            "objectName": "TxtAjo"
+          },
+          {
+            "objectName": "IconoMorron"
+          },
+          {
+            "objectName": "IconoAjo"
+          },
+          {
+            "objectName": "BarraEnemigo"
+          },
+          {
+            "objectName": "PanelFin"
+          },
+          {
+            "objectName": "TxtFin"
+          },
+          {
+            "objectName": "Fundido"
           }
         ]
       },
@@ -42302,7 +45626,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M6AQ8PSV4YXRWC7JASCN3Z6X",
+          "aiGeneratedEventId": "01M6FY1XE9VNN7987DED7DY0ZP",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -42323,38 +45647,7 @@
               "parameters": []
             }
           ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "VidaDylan",
-                "=",
-                "100"
-              ]
-            },
-            {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "MuertesSeguidas",
-                "=",
-                "0"
-              ]
-            },
-            {
-              "type": {
-                "value": "Scene"
-              },
-              "parameters": [
-                "",
-                "\"menu\"",
-                "no"
-              ]
-            }
-          ]
+          "actions": []
         },
         {
           "aiGeneratedEventId": "01M6ARX4NH42X5ZPAKTXHV3EJ2",
@@ -42393,6 +45686,678 @@
               ]
             }
           ]
+        },
+        {
+          "aiGeneratedEventId": "01M6FY03QTJZCZ3ABBP33SSAD5",
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Inventario (olla) nivel 3",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Mismo inventario que Nivel 1: laurel cuenta como morron y salame como ajo."
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "laurel",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Morron",
+                    "+",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "laurel",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundOnChannel"
+                  },
+                  "parameters": [
+                    "",
+                    "assets/sonidos/ingredientes/juntar ingrediente.mp3",
+                    "4",
+                    "no",
+                    "100",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "salame",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Ajo",
+                    "+",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "salame",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundOnChannel"
+                  },
+                  "parameters": [
+                    "",
+                    "assets/sonidos/ingredientes/juntar ingrediente.mp3",
+                    "4",
+                    "no",
+                    "100",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SceneJustBegins"
+                  },
+                  "parameters": [
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "InvAbierto",
+                    "False",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "Fundido"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "video_final"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Or"
+                  },
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "value": "KeyFromTextJustPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"i\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "KeyFromTextJustPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Tab\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "KeyFromTextJustPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"e\""
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "InvAbierto",
+                    "Toggle",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyFromTextJustPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Escape\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "InvAbierto",
+                    "False",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "InvAbierto",
+                    "True",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "PanelInv",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "olla",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "InvTitulo",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "IconoMorron",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "TxtMorron",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "IconoAjo",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "TxtAjo",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Else",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "PanelInv"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "olla"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "InvTitulo"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "IconoMorron"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "TxtMorron"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "IconoAjo"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "TxtAjo"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "InvTitulo",
+                    "Text",
+                    "=",
+                    "\"INVENTARIO\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TxtMorron",
+                    "Text",
+                    "=",
+                    "\"MORRON x\" + ToString(Morron)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TxtAjo",
+                    "Text",
+                    "=",
+                    "\"AJO x\" + ToString(Ajo)"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "aiGeneratedEventId": "01M6FY03QTJZCZ3ABBP33SSAD5",
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Victoria con video_final",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Al ganar se muestra GANASTE y se reproduce video_final antes de volver al menu."
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PosX"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    ">",
+                    "4650"
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "Health",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "TxtGanaste",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TxtGanaste",
+                    "Text",
+                    "=",
+                    "\"GANASTE!\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Ganaste\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CompareTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Ganaste\"",
+                    ">",
+                    "2.5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "TxtGanaste"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "video_final",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Video::Play"
+                  },
+                  "parameters": [
+                    "video_final"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"VideoFin\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Video::Ended"
+                  },
+                  "parameters": [
+                    "video_final"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "VidaDylan",
+                    "=",
+                    "100"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "MuertesSeguidas",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"menu\"",
+                    "no"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CompareTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"VideoFin\"",
+                    ">",
+                    "15"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "VidaDylan",
+                    "=",
+                    "100"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "MuertesSeguidas",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"menu\"",
+                    "no"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
         }
       ],
       "layers": [
@@ -42460,6 +46425,60 @@
               }
             }
           ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "Inventario",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "barra_vida",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "Fin",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
         }
       ],
       "behaviorsSharedData": [
@@ -42510,6 +46529,10 @@
         {
           "name": "Text",
           "type": "TextContainerCapability::TextContainerBehavior"
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
         }
       ]
     },
@@ -42536,7 +46559,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.2771578358760673,
+        "zoomFactor": 1.965551018131744,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -42677,22 +46700,6 @@
           "x": 55,
           "y": 89,
           "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 18,
-          "keepRatio": true,
-          "layer": "",
-          "name": "EstadoSeleccion",
-          "persistentUuid": "61669a3e-78c9-49b4-bc1d-5d25490280f4",
-          "width": 330,
-          "x": 30,
-          "y": 238,
-          "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -43194,49 +47201,6 @@
           "assetStoreId": "",
           "bold": false,
           "italic": false,
-          "name": "TxtInterrogacion",
-          "smoothed": true,
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "string": "???",
-          "font": "Kenney Pixel.ttf",
-          "textAlignment": "center",
-          "characterSize": 16,
-          "color": {
-            "b": 185,
-            "g": 170,
-            "r": 165
-          },
-          "content": {
-            "bold": false,
-            "isOutlineEnabled": true,
-            "isShadowEnabled": false,
-            "italic": false,
-            "outlineColor": "0;0;0",
-            "outlineThickness": 1,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
-            "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
-            "smoothed": true,
-            "underlined": false,
-            "text": "???",
-            "font": "Kenney Pixel.ttf",
-            "textAlignment": "center",
-            "verticalTextAlignment": "top",
-            "characterSize": 16,
-            "lineHeight": 0,
-            "color": "165;170;185"
-          }
-        },
-        {
-          "assetStoreId": "",
-          "bold": false,
-          "italic": false,
           "name": "InfoPersonaje",
           "smoothed": true,
           "type": "TextObject::Text",
@@ -43317,49 +47281,6 @@
             "characterSize": 12,
             "lineHeight": 0,
             "color": "180;190;205"
-          }
-        },
-        {
-          "assetStoreId": "",
-          "bold": false,
-          "italic": false,
-          "name": "EstadoSeleccion",
-          "smoothed": true,
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "string": "PULSA ENTER O HAZ CLIC EN DYLAN",
-          "font": "Kenney Pixel.ttf",
-          "textAlignment": "left",
-          "characterSize": 12,
-          "color": {
-            "b": 120,
-            "g": 215,
-            "r": 255
-          },
-          "content": {
-            "bold": false,
-            "isOutlineEnabled": true,
-            "isShadowEnabled": false,
-            "italic": false,
-            "outlineColor": "0;0;0",
-            "outlineThickness": 1,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
-            "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
-            "smoothed": true,
-            "underlined": false,
-            "text": "PULSA ENTER O HAZ CLIC EN DYLAN",
-            "font": "Kenney Pixel.ttf",
-            "textAlignment": "left",
-            "verticalTextAlignment": "top",
-            "characterSize": 12,
-            "lineHeight": 0,
-            "color": "255;215;120"
           }
         },
         {
@@ -44294,16 +48215,10 @@
             "objectName": "Kioskero"
           },
           {
-            "objectName": "TxtInterrogacion"
-          },
-          {
             "objectName": "InfoPersonaje"
           },
           {
             "objectName": "AyudaPersonajes"
-          },
-          {
-            "objectName": "EstadoSeleccion"
           },
           {
             "objectName": "KIOSKERO2"
@@ -47451,9 +51366,9 @@
     },
     {
       "description": "Barra de vida fija y sincronizada, recogida de morrón y panel de inventario oculto que se abre/cierra con I",
-      "lastRunAt": 1793428948875,
-      "lastRunDurationMs": 3014,
-      "lastRunFramesExecuted": 85,
+      "lastRunAt": 1793683720825,
+      "lastRunDurationMs": 2351,
+      "lastRunFramesExecuted": 109,
       "lastRunStatus": "passed",
       "name": "vida-inventario-animaciones",
       "type": "gameplay",
@@ -47810,8 +51725,8 @@
     },
     {
       "description": "El inventario está oculto, se abre con I mostrando panel + iconos + cantidades y se cierra con I y ESC",
-      "lastRunAt": 1793428893134,
-      "lastRunDurationMs": 2166,
+      "lastRunAt": 1793683727518,
+      "lastRunDurationMs": 2974,
       "lastRunFramesExecuted": 53,
       "lastRunStatus": "passed",
       "name": "inventario-panel",
@@ -47915,10 +51830,10 @@
       ]
     },
     {
-      "description": "Matar al enemigo no termina el nivel; el avance ocurre al final sin cartel",
-      "lastRunAt": 1793507415106,
-      "lastRunDurationMs": 1257,
-      "lastRunFramesExecuted": 247,
+      "description": "Matar al enemigo no termina el nivel; el avance es al final con fundido a Nivel 2",
+      "lastRunAt": 1793683839010,
+      "lastRunDurationMs": 5219,
+      "lastRunFramesExecuted": 302,
       "lastRunStatus": "passed",
       "name": "fin-de-nivel-al-final",
       "type": "gameplay",
@@ -47929,7 +51844,6 @@
         "const enemy = () => harness.getObjects('ENEMIGO1')[0];",
         "const dylan = () => harness.getObjects('Dylan')[0];",
         "const eHealth = () => { const s = enemy()?.behaviors?.Health?.state; return s ? (s.Health ?? s.PropertyCurrentHealth) : undefined; };",
-        "// 1) Matar al enemigo NO debe terminar el nivel",
         "const d0 = dylan();",
         "harness.setObjectPosition(d0.id, 240, 100);",
         "await harness.stepFrames(5);",
@@ -47948,14 +51862,13 @@
         "harness.assert(harness.getSceneName() === 'Nivel 1', 'Matar al enemigo NO cambia de nivel (escena=' + harness.getSceneName() + ')');",
         "const panel = harness.getObjects('PanelFin')[0];",
         "harness.assert(!panel || panel.hidden === true, 'No aparece ningun cartel tras matar al enemigo');",
-        "// 2) Al llegar al final del escenario avanza directo al nivel 3, sin cartel",
         "const d2 = dylan();",
         "harness.setObjectPosition(d2.id, 2400, 170);",
         "harness.setKeyPressed('d', true);",
         "const advanced = await harness.stepUntil(() => harness.getSceneName() !== 'Nivel 1', { maxFrames: 400 });",
         "harness.setKeyPressed('d', false);",
         "harness.assert(advanced, 'Avanza al llegar al final (escena=' + harness.getSceneName() + ')');",
-        "harness.assert(harness.getSceneName() === 'nivel 3', 'Siguiente tramo: ' + harness.getSceneName());",
+        "harness.assert(harness.getSceneName() === 'Nivel 2', 'Siguiente tramo: ' + harness.getSceneName());",
         "await harness.stepFrames(20);",
         "harness.assert(harness.getObjects('Dylan').length === 1, 'Dylan sigue jugable en el tramo siguiente');"
       ]
@@ -48266,10 +52179,10 @@
       ]
     },
     {
-      "description": "Level banner and victory flow",
-      "lastRunAt": 1793508862741,
-      "lastRunDurationMs": 1223,
-      "lastRunFramesExecuted": 173,
+      "description": "Level banner, GANASTE + video_final then menu",
+      "lastRunAt": 1793683930585,
+      "lastRunDurationMs": 14948,
+      "lastRunFramesExecuted": 1074,
       "lastRunStatus": "passed",
       "name": "ganaste-nivel3",
       "type": "gameplay",
@@ -48284,8 +52197,10 @@
         "await harness.stepFrames(10);",
         "const g = harness.getObjects('TxtGanaste')[0];",
         "harness.assert(g && g.hidden === false, 'Cartel GANASTE visible al llegar al final');",
-        "const toMenu = await harness.stepUntil(() => harness.getSceneName() === 'menu', {maxFrames: 300});",
-        "harness.assert(toMenu, 'GANASTE redirige al menu');"
+        "const videoShown = await harness.stepUntil(() => { const v = harness.getObjects('video_final')[0]; return v && v.hidden === false; }, {maxFrames: 400});",
+        "harness.assert(videoShown, 'video_final se reproduce al ganar');",
+        "const toMenu = await harness.stepUntil(() => harness.getSceneName() === 'menu', {maxFrames: 1200});",
+        "harness.assert(toMenu, 'Tras el video vuelve al menu');"
       ]
     },
     {
@@ -48325,9 +52240,9 @@
     },
     {
       "description": "Cuchillo invertido 180 grados",
-      "lastRunAt": 1793674407068,
-      "lastRunDurationMs": 1697,
-      "lastRunFramesExecuted": 38,
+      "lastRunAt": 1793683734959,
+      "lastRunDurationMs": 2708,
+      "lastRunFramesExecuted": 62,
       "lastRunStatus": "passed",
       "name": "butcher-attack-fix",
       "type": "gameplay",
