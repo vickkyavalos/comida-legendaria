@@ -3563,6 +3563,66 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
+      "name": "fondito",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Paisaje urbano posapocalíptico al atardecer (1).png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 2172,
+                        "y": 0
+                      },
+                      {
+                        "x": 2172,
+                        "y": 442
+                      },
+                      {
+                        "x": 0,
+                        "y": 442
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
       "name": "Dylan",
       "persistentUuid": "0924012c-84c4-4103-b02d-c39a8d26aff4",
       "type": "Sprite",
@@ -6820,6 +6880,9 @@
     "folderName": "__ROOT",
     "children": [
       {
+        "objectName": "fondito"
+      },
+      {
         "objectName": "Dylan"
       },
       {
@@ -10070,66 +10133,6 @@
       ],
       "objects": [
         {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "NewSprite",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Paisaje urbano posapocalíptico al atardecer (1).png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 2172,
-                            "y": 0
-                          },
-                          {
-                            "x": 2172,
-                            "y": 442
-                          },
-                          {
-                            "x": 0,
-                            "y": 442
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "assetStoreId": "",
           "name": "NewVideo",
           "type": "Video::VideoObject",
@@ -10639,9 +10642,6 @@
       "objectsFolderStructure": {
         "folderName": "__ROOT",
         "children": [
-          {
-            "objectName": "NewSprite"
-          },
           {
             "objectName": "NewVideo"
           },
@@ -40522,9 +40522,2701 @@
           "type": "TextContainerCapability::TextContainerBehavior"
         }
       ]
+    },
+    {
+      "b": 255,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Nivel_322",
+      "name": "Nivel 2",
+      "r": 255,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 255,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridDepth": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridOffsetZ": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 1.0820050415850222,
+        "windowMask": false,
+        "selectedLayer": "",
+        "gameEditorMode": "instances-editor"
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 269,
+          "keepRatio": true,
+          "layer": "",
+          "name": "fondito",
+          "persistentUuid": "fcfea8e6-5754-47b3-94ac-c978d5d276c9",
+          "width": 1800,
+          "x": -1,
+          "y": 0,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 87,
+          "keepRatio": true,
+          "layer": "",
+          "name": "butcher",
+          "persistentUuid": "39598c09-c0de-43cc-b8f5-ef649d1c9969",
+          "width": 90,
+          "x": 1250,
+          "y": 110,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Dylan",
+          "persistentUuid": "104ff785-5baf-465a-ad56-79ef10e53b9e",
+          "width": 0,
+          "x": 175,
+          "y": 150,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 74,
+          "keepRatio": true,
+          "layer": "",
+          "name": "piso",
+          "persistentUuid": "034f7d6b-41c6-4007-afbb-c952f4b327ec",
+          "width": 500,
+          "x": 11,
+          "y": 146,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 74,
+          "keepRatio": true,
+          "layer": "",
+          "name": "piso",
+          "persistentUuid": "f120139d-9075-4c9b-b0b5-f9d6c75031ae",
+          "width": 420,
+          "x": 578,
+          "y": 197,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 74,
+          "keepRatio": true,
+          "layer": "",
+          "name": "piso",
+          "persistentUuid": "1206dfb7-26c0-473c-9c09-2cde8cc94276",
+          "width": 410,
+          "x": 1088,
+          "y": 197,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 74,
+          "keepRatio": true,
+          "layer": "",
+          "name": "piso",
+          "persistentUuid": "f3df4e4b-828b-4935-8019-9c8d44d8d74e",
+          "width": 280,
+          "x": 1578,
+          "y": 197,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 40,
+          "keepRatio": true,
+          "layer": "",
+          "name": "cajon",
+          "persistentUuid": "eb08fcbb-baad-42ed-9a4a-1503539cd7d7",
+          "width": 40,
+          "x": 750,
+          "y": 157,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 40,
+          "keepRatio": true,
+          "layer": "",
+          "name": "cajon",
+          "persistentUuid": "015b27d3-8b24-4be4-b7c1-ed0b10750f2d",
+          "width": 40,
+          "x": 1300,
+          "y": 157,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 40,
+          "keepRatio": true,
+          "layer": "",
+          "name": "cajon",
+          "persistentUuid": "32a81357-921e-4f10-839d-cb964b88e8ed",
+          "width": 40,
+          "x": 1300,
+          "y": 117,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 40,
+          "keepRatio": true,
+          "layer": "",
+          "name": "cajon",
+          "persistentUuid": "216d7c84-3215-427b-b26f-72ee81c12416",
+          "width": 40,
+          "x": 1650,
+          "y": 157,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 73,
+          "keepRatio": true,
+          "layer": "",
+          "name": "butcher",
+          "persistentUuid": "d3d753c0-b306-4f1f-848e-fdab2a5924e4",
+          "width": 73,
+          "x": 264,
+          "y": 142,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "butcher",
+          "persistentUuid": "72aba25c-b0f6-4047-bed7-5bd7881f4a8f",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "AtacandoCuchillo",
+              "type": "boolean",
+              "value": false
+            },
+            {
+              "name": "VidaButcher",
+              "persistentUuid": "db56e23b-3d67-4638-ac80-1886d36e01f2",
+              "type": "number",
+              "value": 100
+            },
+            {
+              "name": "VelocidadButcher",
+              "persistentUuid": "f17b214e-dd61-452a-a90b-b008e03b959c",
+              "type": "number",
+              "value": 120
+            },
+            {
+              "name": "DanioButcher",
+              "persistentUuid": "ab6c8f7e-d798-46b1-b0ac-69a7faa630be",
+              "type": "number",
+              "value": 10
+            }
+          ],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "acceleration": 1200,
+              "canGoDownFromJumpthru": true,
+              "canGrabPlatforms": false,
+              "canGrabWithoutMoving": true,
+              "deceleration": 1200,
+              "gravity": 1000,
+              "ignoreDefaultControls": false,
+              "jumpSpeed": 600,
+              "jumpSustainTime": 0.2,
+              "ladderClimbingSpeed": 150,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 150,
+              "slopeMaxAngle": 60,
+              "useLegacyTrajectory": false,
+              "useRepeatedJump": false,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.12,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "idle6",
+                      "points": [
+                        {
+                          "name": "mano",
+                          "x": 52.5,
+                          "y": 26.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 59
+                          },
+                          {
+                            "x": 12,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "idle7",
+                      "points": [
+                        {
+                          "name": "mano",
+                          "x": 52.5,
+                          "y": 26.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 59
+                          },
+                          {
+                            "x": 12,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "idle8",
+                      "points": [
+                        {
+                          "name": "mano",
+                          "x": 52.5,
+                          "y": 26.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 59
+                          },
+                          {
+                            "x": 12,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "idle9",
+                      "points": [
+                        {
+                          "name": "mano",
+                          "x": 52.5,
+                          "y": 26.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 59
+                          },
+                          {
+                            "x": 12,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "idle10",
+                      "points": [
+                        {
+                          "name": "mano",
+                          "x": 52.5,
+                          "y": 26.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 59
+                          },
+                          {
+                            "x": 12,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "die",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.12,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "die6",
+                      "points": [
+                        {
+                          "name": "mano",
+                          "x": 52.5,
+                          "y": 26.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 59
+                          },
+                          {
+                            "x": 12,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "die7",
+                      "points": [
+                        {
+                          "name": "mano",
+                          "x": 52.5,
+                          "y": 26.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 59
+                          },
+                          {
+                            "x": 12,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "die8",
+                      "points": [
+                        {
+                          "name": "mano",
+                          "x": 52.5,
+                          "y": 26.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 59
+                          },
+                          {
+                            "x": 12,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "die9",
+                      "points": [
+                        {
+                          "name": "mano",
+                          "x": 52.5,
+                          "y": 26.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 59
+                          },
+                          {
+                            "x": 12,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "die10",
+                      "points": [
+                        {
+                          "name": "mano",
+                          "x": 52.5,
+                          "y": 26.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 59
+                          },
+                          {
+                            "x": 12,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "run",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.12,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "run9",
+                      "points": [
+                        {
+                          "name": "mano",
+                          "x": 52.5,
+                          "y": 26.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 59
+                          },
+                          {
+                            "x": 12,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "run10",
+                      "points": [
+                        {
+                          "name": "mano",
+                          "x": 52.5,
+                          "y": 26.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 59
+                          },
+                          {
+                            "x": 12,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "run11",
+                      "points": [
+                        {
+                          "name": "mano",
+                          "x": 52.5,
+                          "y": 26.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 59
+                          },
+                          {
+                            "x": 12,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "run12",
+                      "points": [
+                        {
+                          "name": "mano",
+                          "x": 52.5,
+                          "y": 26.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 59
+                          },
+                          {
+                            "x": 12,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "run13",
+                      "points": [
+                        {
+                          "name": "mano",
+                          "x": 52.5,
+                          "y": 26.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 59
+                          },
+                          {
+                            "x": 12,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "run14",
+                      "points": [
+                        {
+                          "name": "mano",
+                          "x": 52.5,
+                          "y": 26.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 59
+                          },
+                          {
+                            "x": 12,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "run15",
+                      "points": [
+                        {
+                          "name": "mano",
+                          "x": 52.5,
+                          "y": 26.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 59
+                          },
+                          {
+                            "x": 12,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "run16",
+                      "points": [
+                        {
+                          "name": "mano",
+                          "x": 52.5,
+                          "y": 26.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 59
+                          },
+                          {
+                            "x": 12,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "golpe_rapido",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.12,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "golpe_rapido6",
+                      "points": [
+                        {
+                          "name": "mano",
+                          "x": 52.5,
+                          "y": 26.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 59
+                          },
+                          {
+                            "x": 12,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "golpe_rapido7",
+                      "points": [
+                        {
+                          "name": "mano",
+                          "x": 52.5,
+                          "y": 26.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 59
+                          },
+                          {
+                            "x": 12,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "golpe_rapido8",
+                      "points": [
+                        {
+                          "name": "mano",
+                          "x": 52.5,
+                          "y": 26.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 59
+                          },
+                          {
+                            "x": 12,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "golpe_rapido9",
+                      "points": [
+                        {
+                          "name": "mano",
+                          "x": 52.5,
+                          "y": 26.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 59
+                          },
+                          {
+                            "x": 12,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "golpe_rapido10",
+                      "points": [
+                        {
+                          "name": "mano",
+                          "x": 52.5,
+                          "y": 26.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 59
+                          },
+                          {
+                            "x": 12,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "golpe_largo",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.12,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "golpe_largo7",
+                      "points": [
+                        {
+                          "name": "mano",
+                          "x": 52.5,
+                          "y": 26.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 59
+                          },
+                          {
+                            "x": 12,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "golpe_largo8",
+                      "points": [
+                        {
+                          "name": "mano",
+                          "x": 52.5,
+                          "y": 26.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 59
+                          },
+                          {
+                            "x": 12,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "golpe_largo9",
+                      "points": [
+                        {
+                          "name": "mano",
+                          "x": 52.5,
+                          "y": 26.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 59
+                          },
+                          {
+                            "x": 12,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "golpe_largo10",
+                      "points": [
+                        {
+                          "name": "mano",
+                          "x": 52.5,
+                          "y": 26.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 59
+                          },
+                          {
+                            "x": 12,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "golpe_largo11",
+                      "points": [
+                        {
+                          "name": "mano",
+                          "x": 52.5,
+                          "y": 26.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 59
+                          },
+                          {
+                            "x": 12,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "golpe_largo12",
+                      "points": [
+                        {
+                          "name": "mano",
+                          "x": 52.5,
+                          "y": 26.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 59
+                          },
+                          {
+                            "x": 12,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "cuchillo",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "DanioCuchillo",
+              "persistentUuid": "f1d56c34-5a8a-47f0-8e1b-0afd3bb9f4f3",
+              "type": "number",
+              "value": 10
+            }
+          ],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Destruir Fuera",
+              "type": "DestroyOutsideBehavior::DestroyOutside",
+              "extraBorder": 200,
+              "unseenGraceDistance": 10000
+            }
+          ],
+          "animations": [
+            {
+              "name": "cuchillo",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.12,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "cuchillo3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 17
+                          },
+                          {
+                            "x": 62,
+                            "y": 17
+                          },
+                          {
+                            "x": 62,
+                            "y": 56
+                          },
+                          {
+                            "x": 2,
+                            "y": 56
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "butcher"
+          },
+          {
+            "objectName": "cuchillo"
+          }
+        ]
+      },
+      "events": [
+        {
+          "aiGeneratedEventId": "01M6D70FG4H8TBS701HJKSZJSZ",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SceneJustBegins"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ResetObjectTimer"
+              },
+              "parameters": [
+                "butcher",
+                "\"CooldownCuchillo\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetObjectTimer"
+              },
+              "parameters": [
+                "butcher",
+                "\"GolpeButcher\""
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6D70FG4H8TBS701HJKSZJSZ",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Distance"
+              },
+              "parameters": [
+                "butcher",
+                "Dylan",
+                "400",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PosX"
+              },
+              "parameters": [
+                "butcher",
+                "<",
+                "Dylan.X()"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::SimulateRightKey"
+              },
+              "parameters": [
+                "butcher",
+                "PlatformerObject"
+              ]
+            },
+            {
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlipX"
+              },
+              "parameters": [
+                "butcher",
+                "Flippable",
+                "no"
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "butcher",
+                "Animation",
+                "=",
+                "\"run\""
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6D70FG4H8TBS701HJKSZJSZ",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Distance"
+              },
+              "parameters": [
+                "butcher",
+                "Dylan",
+                "400",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PosX"
+              },
+              "parameters": [
+                "butcher",
+                ">",
+                "Dylan.X()"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::SimulateLeftKey"
+              },
+              "parameters": [
+                "butcher",
+                "PlatformerObject"
+              ]
+            },
+            {
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlipX"
+              },
+              "parameters": [
+                "butcher",
+                "Flippable",
+                "yes"
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "butcher",
+                "Animation",
+                "=",
+                "\"run\""
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6D70V6BS1YZ8NCF1A0W7HM9",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "Distance"
+              },
+              "parameters": [
+                "butcher",
+                "Dylan",
+                "400",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "butcher",
+                "Animation",
+                "=",
+                "\"idle\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "acción de daño\n"
+        },
+        {
+          "aiGeneratedEventId": "01M6D70FG4H8TBS701HJKSZJSZ",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Dylan",
+                "butcher",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "CompareObjectTimer"
+              },
+              "parameters": [
+                "butcher",
+                "\"GolpeButcher\"",
+                ">=",
+                "1"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberObjectVariable"
+              },
+              "parameters": [
+                "Dylan",
+                "VIdaDylan",
+                "-",
+                "butcher.DanioButcher"
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "butcher",
+                "Animation",
+                "=",
+                "\"golpe_rapido\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetObjectTimer"
+              },
+              "parameters": [
+                "butcher",
+                "\"GolpeButcher\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "ataque"
+        },
+        {
+          "aiGeneratedEventId": "01M6D7DBSY5W0W5EDXGCG8M7MS",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Distance"
+              },
+              "parameters": [
+                "butcher",
+                "Dylan",
+                "400",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "CompareObjectTimer"
+              },
+              "parameters": [
+                "butcher",
+                "\"CooldownCuchillo\"",
+                ">=",
+                "0.7"
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanObjectVariable"
+              },
+              "parameters": [
+                "butcher",
+                "AtacandoCuchillo",
+                "False",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetBooleanObjectVariable"
+              },
+              "parameters": [
+                "butcher",
+                "AtacandoCuchillo",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "butcher",
+                "Animation",
+                "=",
+                "\"golpe_largo\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetObjectTimer"
+              },
+              "parameters": [
+                "butcher",
+                "\"DelayCuchillo\""
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6D88K1PYGGSCPDKBTWQDE6K",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanObjectVariable"
+              },
+              "parameters": [
+                "butcher",
+                "AtacandoCuchillo",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "CompareObjectTimer"
+              },
+              "parameters": [
+                "butcher",
+                "\"DelayCuchillo\"",
+                ">=",
+                "0.2"
+              ]
+            },
+            {
+              "type": {
+                "value": "PosX"
+              },
+              "parameters": [
+                "butcher",
+                "<",
+                "Dylan.X()"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "cuchillo",
+                "butcher.CenterX() + 28",
+                "butcher.CenterY() + 5",
+                "\"\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ScalableCapability::ScalableBehavior::SetValue"
+              },
+              "parameters": [
+                "cuchillo",
+                "Scale",
+                "=",
+                "0.5"
+              ]
+            },
+            {
+              "type": {
+                "value": "AddForceTowardObject"
+              },
+              "parameters": [
+                "cuchillo",
+                "Dylan",
+                "350",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetAngle"
+              },
+              "parameters": [
+                "cuchillo",
+                "=",
+                "butcher.AngleToPosition(Dylan.CenterX(), Dylan.CenterY()) + 180"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanObjectVariable"
+              },
+              "parameters": [
+                "butcher",
+                "AtacandoCuchillo",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetObjectTimer"
+              },
+              "parameters": [
+                "butcher",
+                "\"CooldownCuchillo\""
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6D88K1PYGGSCPDKBTWQDE6K",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanObjectVariable"
+              },
+              "parameters": [
+                "butcher",
+                "AtacandoCuchillo",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "CompareObjectTimer"
+              },
+              "parameters": [
+                "butcher",
+                "\"DelayCuchillo\"",
+                ">=",
+                "0.2"
+              ]
+            },
+            {
+              "type": {
+                "value": "PosX"
+              },
+              "parameters": [
+                "butcher",
+                ">",
+                "Dylan.X()"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "cuchillo",
+                "butcher.CenterX() - 28",
+                "butcher.CenterY() + 5",
+                "\"\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ScalableCapability::ScalableBehavior::SetValue"
+              },
+              "parameters": [
+                "cuchillo",
+                "Scale",
+                "=",
+                "0.5"
+              ]
+            },
+            {
+              "type": {
+                "value": "AddForceTowardObject"
+              },
+              "parameters": [
+                "cuchillo",
+                "Dylan",
+                "350",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetAngle"
+              },
+              "parameters": [
+                "cuchillo",
+                "=",
+                "butcher.AngleToPosition(Dylan.CenterX(), Dylan.CenterY()) + 180"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanObjectVariable"
+              },
+              "parameters": [
+                "butcher",
+                "AtacandoCuchillo",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetObjectTimer"
+              },
+              "parameters": [
+                "butcher",
+                "\"CooldownCuchillo\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Dylan",
+                "cuchillo",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberObjectVariable"
+              },
+              "parameters": [
+                "Dylan",
+                "VIdaDylan",
+                "-",
+                "cuchillo.Variable(DanioCuchillo)"
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "cuchillo",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6D8YFVC71J3JVQD0YP7XRW1",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Or"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"a\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Left\""
+                  ]
+                }
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::SimulateLeftKey"
+              },
+              "parameters": [
+                "Dylan",
+                "PlatformerObject"
+              ]
+            },
+            {
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlipX"
+              },
+              "parameters": [
+                "Dylan",
+                "Flippable",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6D8YFVC71J3JVQD0YP7XRW1",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Or"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"d\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Right\""
+                  ]
+                }
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::SimulateRightKey"
+              },
+              "parameters": [
+                "Dylan",
+                "PlatformerObject"
+              ]
+            },
+            {
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlipX"
+              },
+              "parameters": [
+                "Dylan",
+                "Flippable",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6D8YFVC71J3JVQD0YP7XRW1",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Or"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"w\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Up\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Space\""
+                  ]
+                }
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::SimulateJumpKey"
+              },
+              "parameters": [
+                "Dylan",
+                "PlatformerObject"
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6D8YFVC71J3JVQD0YP7XRW1",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Or"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"s\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Down\""
+                  ]
+                }
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::SimulateDownKey"
+              },
+              "parameters": [
+                "Dylan",
+                "PlatformerObject"
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6D8YFVC71J3JVQD0YP7XRW1",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SetCameraCenterX"
+              },
+              "parameters": [
+                "",
+                "=",
+                "max(240, Dylan.X())",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6D8YFVC71J3JVQD0YP7XRW1",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PosY"
+              },
+              "parameters": [
+                "Dylan",
+                ">",
+                "400"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetXY"
+              },
+              "parameters": [
+                "Dylan",
+                "=",
+                "40",
+                "=",
+                "130"
+              ]
+            }
+          ]
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Health",
+          "type": "Health::Health"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior"
+        },
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        }
+      ]
     }
   ],
-  "externalEvents": [],
+  "externalEvents": [
+    {
+      "associatedLayout": "Nivel 2",
+      "name": "idle",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "mov idle\n"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"a\""
+              ]
+            }
+          ],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"d\""
+              ]
+            }
+          ],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"w\""
+              ]
+            }
+          ],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"s\""
+              ]
+            }
+          ],
+          "actions": []
+        }
+      ]
+    },
+    {
+      "associatedLayout": "Nivel 2",
+      "name": "Eventos externos sin título",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        }
+      ]
+    }
+  ],
   "tests": [
     {
       "description": "Dylan stays on floor, moves right and jumps",
@@ -41775,6 +44467,34 @@
         "// death counter visible",
         "const t = harness.getObjects('TxtMuertes');",
         "harness.assert(t.length > 0 && t[0].text.includes('Muertes'), 'Counter TxtMuertes visible with Muertes text: '+(t.length? t[0].text : 'missing'));"
+      ]
+    },
+    {
+      "description": "Cuchillo invertido 180 grados",
+      "lastRunAt": 1793593826282,
+      "lastRunDurationMs": 1361,
+      "lastRunFramesExecuted": 57,
+      "lastRunStatus": "passed",
+      "name": "butcher-attack-fix",
+      "type": "gameplay",
+      "source": [
+        "await harness.goToScene('Nivel 2');",
+        "await harness.stepFrames(30);",
+        "let b = harness.getObjects('butcher')[0];",
+        "let d = harness.getObjects('Dylan')[0];",
+        "harness.setObjectPosition(d.id, b.centerX + 250, b.centerY);",
+        "await harness.stepUntil(()=>harness.getObjects('cuchillo').length>0, {maxFrames: 300});",
+        "let k = harness.getObjects('cuchillo')[0];",
+        "b = harness.getObjects('butcher')[0];",
+        "d = harness.getObjects('Dylan')[0];",
+        "// ángulo esperado = dirección hacia Dylan + 180",
+        "const dx = d.centerX - b.centerX;",
+        "const dy = d.centerY - b.centerY;",
+        "let expected = Math.atan2(dy, dx) * 180 / Math.PI + 180;",
+        "// normalizar a [-180,180]",
+        "function norm(a){ while(a>180) a-=360; while(a<=-180) a+=360; return a; }",
+        "const diff = Math.abs(norm(k.angle - norm(expected)));",
+        "harness.assert(diff < 15, 'cuchillo invertido 180° (angle='+k.angle.toFixed(1)+' esperado~'+norm(expected).toFixed(1)+')');"
       ]
     }
   ],
