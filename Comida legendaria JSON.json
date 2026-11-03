@@ -4932,6 +4932,14 @@
         "name": "chorizos.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "assets/cuchillo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/cuchillo.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -31216,7 +31224,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.0820050415850224,
+        "zoomFactor": 0.7030553796722148,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -31243,23 +31251,6 @@
         },
         {
           "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 87,
-          "keepRatio": true,
-          "layer": "",
-          "name": "butcher",
-          "persistentUuid": "39598c09-c0de-43cc-b8f5-ef649d1c9969",
-          "width": 90,
-          "x": 1219,
-          "y": 137,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": false,
           "height": 0,
           "keepRatio": true,
@@ -31267,25 +31258,9 @@
           "name": "Dylan",
           "persistentUuid": "104ff785-5baf-465a-ad56-79ef10e53b9e",
           "width": 0,
-          "x": 276,
-          "y": 165,
+          "x": 265,
+          "y": 164,
           "zOrder": 12,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 74,
-          "keepRatio": true,
-          "layer": "",
-          "name": "piso",
-          "persistentUuid": "034f7d6b-41c6-4007-afbb-c952f4b327ec",
-          "width": 500,
-          "x": 11,
-          "y": 146,
-          "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -31397,8 +31372,8 @@
           "name": "butcher",
           "persistentUuid": "d3d753c0-b306-4f1f-848e-fdab2a5924e4",
           "width": 73,
-          "x": 264,
-          "y": 142,
+          "x": 737,
+          "y": 155,
           "zOrder": 13,
           "numberProperties": [],
           "stringProperties": [],
@@ -31413,8 +31388,8 @@
           "layer": "",
           "name": "piso",
           "persistentUuid": "a86bea37-eec2-4e22-ab63-3a7850210836",
-          "width": 332,
-          "x": 496,
+          "width": 835,
+          "x": -7,
           "y": 194,
           "zOrder": 0,
           "numberProperties": [],
@@ -33097,7 +33072,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "cuchillo3",
+                      "image": "assets/cuchillo.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -33113,20 +33088,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 17
+                            "x": 6,
+                            "y": 26
                           },
                           {
-                            "x": 62,
-                            "y": 17
+                            "x": 171,
+                            "y": 26
                           },
                           {
-                            "x": 62,
-                            "y": 56
+                            "x": 171,
+                            "y": 88
                           },
                           {
-                            "x": 2,
-                            "y": 56
+                            "x": 6,
+                            "y": 88
                           }
                         ]
                       ]
