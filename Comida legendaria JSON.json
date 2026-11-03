@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 284,
+    "build": 286,
     "major": 5,
     "minor": 6,
     "revision": 0
@@ -29802,6 +29802,7 @@
       "mangledName": "nivel_323",
       "name": "nivel 3",
       "r": 247,
+      "renderer3DWorldScale": 100,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
@@ -29818,7 +29819,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.9475825490178644,
+        "zoomFactor": 0.8298599846520556,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -36834,8 +36835,7 @@
           "name": "Text",
           "type": "TextContainerCapability::TextContainerBehavior"
         }
-      ],
-      "renderer3DWorldScale": 100
+      ]
     },
     {
       "b": 18,
@@ -40529,6 +40529,7 @@
       "mangledName": "Nivel_322",
       "name": "Nivel 2",
       "r": 255,
+      "renderer3DWorldScale": 100,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
@@ -43126,6 +43127,38 @@
       ]
     }
   ],
+  "layoutsFolderStructure": {
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "itemName": "menu"
+      },
+      {
+        "itemName": "creditos"
+      },
+      {
+        "itemName": "introduccion"
+      },
+      {
+        "itemName": "manual"
+      },
+      {
+        "itemName": "Nivel 1"
+      },
+      {
+        "itemName": "nivel 3"
+      },
+      {
+        "itemName": "personajes"
+      },
+      {
+        "itemName": "volumen"
+      },
+      {
+        "itemName": "Nivel 2"
+      }
+    ]
+  },
   "externalEvents": [
     {
       "associatedLayout": "Nivel 2",
@@ -43217,6 +43250,17 @@
       ]
     }
   ],
+  "externalEventsFolderStructure": {
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "itemName": "idle"
+      },
+      {
+        "itemName": "Eventos externos sin título"
+      }
+    ]
+  },
   "tests": [
     {
       "description": "Dylan stays on floor, moves right and jumps",
@@ -44498,6 +44542,104 @@
       ]
     }
   ],
+  "testsFolderStructure": {
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "itemName": "dylan-moves"
+      },
+      {
+        "itemName": "dylan-flip"
+      },
+      {
+        "itemName": "dylan-full-moves"
+      },
+      {
+        "itemName": "dylan-wasd-arrows"
+      },
+      {
+        "itemName": "dylan-camera"
+      },
+      {
+        "itemName": "intro-buttons"
+      },
+      {
+        "itemName": "intro-pixel-controls"
+      },
+      {
+        "itemName": "manual-ui-check"
+      },
+      {
+        "itemName": "manual-gap-fall"
+      },
+      {
+        "itemName": "manual-skip-bridge"
+      },
+      {
+        "itemName": "vida-inventario-animaciones"
+      },
+      {
+        "itemName": "muerte-y-respawn"
+      },
+      {
+        "itemName": "bruja-enemiga"
+      },
+      {
+        "itemName": "dylan-j-attack"
+      },
+      {
+        "itemName": "menu-navegacion-flujo"
+      },
+      {
+        "itemName": "ia-persecucion-y-ataque"
+      },
+      {
+        "itemName": "probe-enemigo"
+      },
+      {
+        "itemName": "inventario-panel"
+      },
+      {
+        "itemName": "muerte-enemigo-autoavance"
+      },
+      {
+        "itemName": "fin-de-nivel-al-final"
+      },
+      {
+        "itemName": "reinicio-dificil-y-fin-directo"
+      },
+      {
+        "itemName": "balance-combate"
+      },
+      {
+        "itemName": "enemigo-animacion-golpe"
+      },
+      {
+        "itemName": "muerte-primer-reset"
+      },
+      {
+        "itemName": "muerte-segunda-menu"
+      },
+      {
+        "itemName": "dano-persistente"
+      },
+      {
+        "itemName": "caida-muerte"
+      },
+      {
+        "itemName": "j-toque-anim"
+      },
+      {
+        "itemName": "ganaste-nivel3"
+      },
+      {
+        "itemName": "fix-verificacion-aire-muertes"
+      },
+      {
+        "itemName": "butcher-attack-fix"
+      }
+    ]
+  },
   "eventsFunctionsExtensions": [
     {
       "author": "@4ian",
@@ -81472,5 +81614,8 @@
       ]
     }
   ],
-  "externalLayouts": []
+  "externalLayouts": [],
+  "externalLayoutsFolderStructure": {
+    "folderName": "__ROOT"
+  }
 }
