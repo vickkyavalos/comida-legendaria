@@ -2481,6 +2481,30 @@
         "name": "chorizos.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "hurt1.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"hurt1.png\",\"extension\":\".png\"}",
+        "name": "hurt1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "hurt2.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"hurt2.png\",\"extension\":\".png\"}",
+        "name": "hurt2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "hurt3.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"hurt3.png\",\"extension\":\".png\"}",
+        "name": "hurt3.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -7033,16 +7057,19 @@
           "variables": [
             {
               "name": "PatrolDir",
+              "persistentUuid": "22e7592a-82d0-4030-aaf2-199ce9fd0623",
               "type": "number",
               "value": 1
             },
             {
               "name": "PatrolMax",
+              "persistentUuid": "bc65de65-ae33-4980-93f9-9e4fe3a1010d",
               "type": "number",
               "value": 500
             },
             {
               "name": "PatrolMin",
+              "persistentUuid": "5871b04e-6544-416e-8f1b-ff17624d9b7f",
               "type": "number",
               "value": 80
             },
@@ -8294,6 +8321,145 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "golpe_largo12",
+                      "points": [
+                        {
+                          "name": "mano",
+                          "x": 52.5,
+                          "y": 26.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 59
+                          },
+                          {
+                            "x": 12,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "hurt",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "hurt1.png",
+                      "points": [
+                        {
+                          "name": "mano",
+                          "x": 52.5,
+                          "y": 26.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 59
+                          },
+                          {
+                            "x": 12,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "hurt2.png",
+                      "points": [
+                        {
+                          "name": "mano",
+                          "x": 52.5,
+                          "y": 26.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 4
+                          },
+                          {
+                            "x": 61,
+                            "y": 59
+                          },
+                          {
+                            "x": 12,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "hurt3.png",
                       "points": [
                         {
                           "name": "mano",
