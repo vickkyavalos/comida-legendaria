@@ -2713,6 +2713,25 @@
         "name": "hurt8.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "fondo_nivel2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "fondo_nivel2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/MetalMania-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "11ed64262caf521cd24c19af2a005d28c4618e6a36c62ae3fc25353d157feeaf_MetalMania-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/11ed64262caf521cd24c19af2a005d28c4618e6a36c62ae3fc25353d157feeaf_MetalMania-Regular.ttf",
+          "name": "gdevelop-asset-store"
+        }
       }
     ]
   },
@@ -4246,6 +4265,66 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "NewSprite15",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "fondo_nivel2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 2246,
+                        "y": 0
+                      },
+                      {
+                        "x": 2246,
+                        "y": 270
+                      },
+                      {
+                        "x": 0,
+                        "y": 270
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -4262,6 +4341,9 @@
       },
       {
         "objectName": "piso"
+      },
+      {
+        "objectName": "NewSprite15"
       },
       {
         "objectName": "fondito"
@@ -6964,7 +7046,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.7512693152212186,
+        "zoomFactor": 0.3171875655466974,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -6972,23 +7054,6 @@
       "objectsGroups": [],
       "variables": [],
       "instances": [
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 272,
-          "keepRatio": true,
-          "layer": "",
-          "name": "fondito",
-          "persistentUuid": "fcfea8e6-5754-47b3-94ac-c978d5d276c9",
-          "width": 1801,
-          "x": 2,
-          "y": 1,
-          "zOrder": -1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
         {
           "angle": 0,
           "customSize": false,
@@ -7079,8 +7144,8 @@
           "name": "cajon",
           "persistentUuid": "216d7c84-3215-427b-b26f-72ee81c12416",
           "width": 45,
-          "x": 1695,
-          "y": 153,
+          "x": 1817,
+          "y": 162,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -7140,23 +7205,6 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 149,
-          "keepRatio": true,
-          "layer": "",
-          "name": "carniceria",
-          "persistentUuid": "6201866e-63c5-4bfc-baee-7f1a11b2e9e0",
-          "width": 168,
-          "x": 1317,
-          "y": 68,
-          "zOrder": 20,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
           "height": 52,
           "keepRatio": true,
           "layer": "",
@@ -7180,8 +7228,8 @@
           "name": "carne",
           "persistentUuid": "e917f703-5d9b-4e27-9812-b1040c3b2ad3",
           "width": 41,
-          "x": 1170,
-          "y": 151,
+          "x": 1122,
+          "y": 121,
           "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
@@ -7214,8 +7262,8 @@
           "name": "chorixo",
           "persistentUuid": "7021aaf9-6a8a-4a18-aaf3-cc342282b217",
           "width": 34,
-          "x": 1596,
-          "y": 145,
+          "x": 1639,
+          "y": 137,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -7231,8 +7279,8 @@
           "name": "cajon",
           "persistentUuid": "d27ee674-0781-4686-8c21-d5b83c6794ad",
           "width": 63,
-          "x": 1436,
-          "y": 161,
+          "x": 1446,
+          "y": 152,
           "zOrder": 23,
           "numberProperties": [],
           "stringProperties": [],
@@ -7248,8 +7296,8 @@
           "name": "cajon",
           "persistentUuid": "b051a833-36e7-4175-95d5-c5a66e8f48a8",
           "width": 63,
-          "x": 1435,
-          "y": 126,
+          "x": 1484,
+          "y": 115,
           "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
@@ -7380,6 +7428,39 @@
           "x": 134,
           "y": 153,
           "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewSprite15",
+          "persistentUuid": "de7eb6e8-f9de-4a1a-97b4-8ca882e9d7ca",
+          "width": 0,
+          "x": 3,
+          "y": 3,
+          "zOrder": -2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 26,
+          "keepRatio": true,
+          "layer": "",
+          "name": "CARNICERIA",
+          "persistentUuid": "b6e49eb7-8d86-40c0-9302-a2a8dd403e8d",
+          "width": 142,
+          "x": 1057,
+          "y": 43,
+          "zOrder": 26,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -9354,10 +9435,10 @@
           ],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             },
             {
@@ -10151,6 +10232,49 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "CARNICERIA",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "CARNICERIA",
+          "font": "11ed64262caf521cd24c19af2a005d28c4618e6a36c62ae3fc25353d157feeaf_MetalMania-Regular.ttf",
+          "textAlignment": "left",
+          "characterSize": 30,
+          "color": {
+            "b": 4,
+            "g": 4,
+            "r": 92
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "CARNICERIA",
+            "font": "11ed64262caf521cd24c19af2a005d28c4618e6a36c62ae3fc25353d157feeaf_MetalMania-Regular.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 30,
+            "lineHeight": 0,
+            "color": "92;4;4"
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -10227,6 +10351,9 @@
           },
           {
             "objectName": "NewSprite14"
+          },
+          {
+            "objectName": "CARNICERIA"
           }
         ]
       },
@@ -11905,6 +12032,10 @@
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
         },
         {
           "name": "Tween",
