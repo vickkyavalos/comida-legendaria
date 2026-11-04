@@ -1,7 +1,11 @@
 {
   "firstLayout": "",
   "gdVersion": {
+<<<<<<< HEAD
     "build": 286,
+=======
+    "build": 284,
+>>>>>>> dc7a8753bad55b040661a86f102d071c29da3212
     "major": 5,
     "minor": 6,
     "revision": 0
@@ -2737,6 +2741,26 @@
   },
   "objects": [
     {
+      "assetStoreId": "b804d2390e0f305c450b8396238c89b63af1107b3786ba4b452a7ed6db7e70f2",
+      "name": "White1BitPixelBar",
+      "persistentUuid": "4c44b8fa-6ff8-43aa-b8ce-91cb08d4613d",
+      "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
+      "variant": "White 1Bit Square Bar2",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "InitialValue": 12,
+        "MaxValue": 16,
+        "BarTopPadding": 8,
+        "BarRightPadding": 10,
+        "BarBottomPadding": 8,
+        "BarLeftPadding": 10,
+        "PreviousHighValueDuration": 0,
+        "EasingDuration": 0.25
+      }
+    },
+    {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "fondito",
@@ -4331,6 +4355,9 @@
     "folderName": "__ROOT",
     "children": [
       {
+        "objectName": "White1BitPixelBar"
+      },
+      {
         "objectName": "Dylan"
       },
       {
@@ -4459,6 +4486,69 @@
       ],
       "objects": [
         {
+<<<<<<< HEAD
+=======
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Fondo",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Paisaje urbano posapocalíptico al atardecer (1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 2172,
+                            "y": 0
+                          },
+                          {
+                            "x": 2172,
+                            "y": 442
+                          },
+                          {
+                            "x": 0,
+                            "y": 442
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+>>>>>>> dc7a8753bad55b040661a86f102d071c29da3212
           "assetStoreId": "",
           "name": "NewVideo",
           "type": "Video::VideoObject",
@@ -4644,6 +4734,9 @@
           },
           {
             "objectName": "IconoSkip"
+          },
+          {
+            "objectName": "Fondo"
           }
         ]
       },
@@ -4956,6 +5049,349 @@
     {
       "b": 255,
       "disableInputWhenNotFocused": true,
+<<<<<<< HEAD
+=======
+      "mangledName": "manual",
+      "name": "manual",
+      "r": 247,
+      "renderer3DWorldScale": 100,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 249,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridDepth": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridOffsetZ": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.7512693152212159,
+        "windowMask": false,
+        "selectedLayer": "",
+        "gameEditorMode": "instances-editor"
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "fondo",
+          "persistentUuid": "bb5b5e9f-46d9-40e5-9780-feb5d129a347",
+          "width": 0,
+          "x": -1,
+          "y": -1,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Dylan",
+          "persistentUuid": "2c0825bc-6082-4fa6-87db-e6b59ee84e0b",
+          "width": 0,
+          "x": -2,
+          "y": 157,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 92,
+          "keepRatio": true,
+          "layer": "",
+          "name": "piso",
+          "persistentUuid": "9fee4715-9dfa-47a5-a4a2-86d0659922a1",
+          "width": 595,
+          "x": -3,
+          "y": 178,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 74,
+          "keepRatio": true,
+          "layer": "",
+          "name": "piso",
+          "persistentUuid": "c946108c-592a-4271-b613-57843f4d0462",
+          "width": 591,
+          "x": 670,
+          "y": 190,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "cajon",
+          "persistentUuid": "64236118-f89d-47da-b36e-d95d520b17c7",
+          "width": 0,
+          "x": 241,
+          "y": 159,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "cajon",
+          "persistentUuid": "f1ef6ce9-272e-4296-961e-417092565f9e",
+          "width": 0,
+          "x": 308,
+          "y": 107,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 202,
+          "keepRatio": true,
+          "layer": "",
+          "name": "pared",
+          "persistentUuid": "cad551f0-a8a2-4c88-99b5-8e4cb9cffa4b",
+          "width": 216,
+          "x": 772,
+          "y": 63,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "auto",
+          "persistentUuid": "885e07ef-cab9-482c-b460-758a63090977",
+          "width": 0,
+          "x": 457,
+          "y": 115,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "fondo",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "fondo1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1260,
+                            "y": 0
+                          },
+                          {
+                            "x": 1260,
+                            "y": 270
+                          },
+                          {
+                            "x": 0,
+                            "y": 270
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "fondo"
+          }
+        ]
+      },
+      "events": [],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Health",
+          "type": "Health::Health"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior"
+        },
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        }
+      ]
+    },
+    {
+      "b": 255,
+      "disableInputWhenNotFocused": true,
+>>>>>>> dc7a8753bad55b040661a86f102d071c29da3212
       "mangledName": "Nivel_321",
       "name": "Nivel 1",
       "r": 255,
@@ -5944,26 +6380,6 @@
               ]
             }
           ]
-        },
-        {
-          "assetStoreId": "b804d2390e0f305c450b8396238c89b63af1107b3786ba4b452a7ed6db7e70f2",
-          "name": "White1BitPixelBar",
-          "persistentUuid": "4c44b8fa-6ff8-43aa-b8ce-91cb08d4613d",
-          "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
-          "variant": "White 1Bit Square Bar2",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "InitialValue": 12,
-            "MaxValue": 16,
-            "BarTopPadding": 8,
-            "BarRightPadding": 10,
-            "BarBottomPadding": 8,
-            "BarLeftPadding": 10,
-            "PreviousHighValueDuration": 0,
-            "EasingDuration": 0.25
-          }
         }
       ],
       "objectsFolderStructure": {
@@ -5979,25 +6395,28 @@
             "objectName": "fondo1"
           },
           {
-            "objectName": "NewSprite"
-          },
-          {
             "objectName": "asset_morron"
           },
           {
+<<<<<<< HEAD
             "objectName": "NewSprite2"
           },
           {
             "objectName": "pared"
           },
           {
+=======
+>>>>>>> dc7a8753bad55b040661a86f102d071c29da3212
             "objectName": "ajo"
           },
           {
             "objectName": "olla"
           },
           {
-            "objectName": "White1BitPixelBar"
+            "objectName": "NewSprite"
+          },
+          {
+            "objectName": "NewSprite2"
           }
         ]
       },
@@ -41772,8 +42191,13 @@
       "eventsBasedObjects": []
     }
   ],
+<<<<<<< HEAD
   "externalLayouts": [],
   "externalLayoutsFolderStructure": {
     "folderName": "__ROOT"
   }
 }
+=======
+  "externalLayouts": []
+}
+>>>>>>> dc7a8753bad55b040661a86f102d071c29da3212
