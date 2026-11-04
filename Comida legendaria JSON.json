@@ -1,11 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-<<<<<<< HEAD
-    "build": 286,
-=======
-    "build": 284,
->>>>>>> dc7a8753bad55b040661a86f102d071c29da3212
+    "build": 287,
     "major": 5,
     "minor": 6,
     "revision": 0
@@ -1417,7 +1413,7 @@
       {
         "file": "idle5.png",
         "kind": "image",
-        "metadata": "{\"localFilePath\":\"idle5.png\",\"extension\":\".png\"}",
+        "metadata": "",
         "name": "idle5.png",
         "smoothed": false,
         "userAdded": false
@@ -1425,7 +1421,7 @@
       {
         "file": "idle4.png",
         "kind": "image",
-        "metadata": "{\"localFilePath\":\"idle4.png\",\"extension\":\".png\"}",
+        "metadata": "",
         "name": "idle4.png",
         "smoothed": false,
         "userAdded": false
@@ -1449,7 +1445,7 @@
       {
         "file": "idle6.png",
         "kind": "image",
-        "metadata": "{\"localFilePath\":\"idle6.png\",\"extension\":\".png\"}",
+        "metadata": "",
         "name": "idle6.png",
         "smoothed": false,
         "userAdded": false
@@ -1721,7 +1717,7 @@
       {
         "file": "die6.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"die6.png\",\"extension\":\".png\"}",
         "name": "die6.png",
         "smoothed": false,
         "userAdded": false
@@ -1729,7 +1725,7 @@
       {
         "file": "die7.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"die7.png\",\"extension\":\".png\"}",
         "name": "die7.png",
         "smoothed": false,
         "userAdded": false
@@ -1737,7 +1733,7 @@
       {
         "file": "die8.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"die8.png\",\"extension\":\".png\"}",
         "name": "die8.png",
         "smoothed": false,
         "userAdded": false
@@ -2607,219 +2603,200 @@
         "userAdded": false
       },
       {
-        "file": "../../primer jueguito/die4.png",
+        "file": "idle10.png",
         "kind": "image",
-        "metadata": "",
-        "name": "../../primer jueguito/die4.png",
+        "metadata": "{\"localFilePath\":\"idle10.png\",\"extension\":\".png\"}",
+        "name": "idle10.png",
         "smoothed": false,
         "userAdded": false
       },
       {
-        "file": "golperapido1.png",
+        "file": "idle11.png",
         "kind": "image",
-        "metadata": "",
-        "name": "golperapido1.png",
+        "metadata": "{\"localFilePath\":\"idle11.png\",\"extension\":\".png\"}",
+        "name": "idle11.png",
         "smoothed": false,
         "userAdded": false
       },
       {
-        "file": "golperapido2.png",
+        "file": "idle12.png",
         "kind": "image",
-        "metadata": "",
-        "name": "golperapido2.png",
+        "metadata": "{\"localFilePath\":\"idle12.png\",\"extension\":\".png\"}",
+        "name": "idle12.png",
         "smoothed": false,
         "userAdded": false
       },
       {
-        "file": "golperapido3.png",
+        "file": "run15.png",
         "kind": "image",
         "metadata": "",
-        "name": "golperapido3.png",
+        "name": "run15.png",
         "smoothed": false,
         "userAdded": false
       },
       {
-        "file": "golperapido4.png",
+        "file": "run16.png",
         "kind": "image",
         "metadata": "",
-        "name": "golperapido4.png",
+        "name": "run16.png",
         "smoothed": false,
         "userAdded": false
       },
       {
-        "file": "hurt4.png",
+        "file": "run17.png",
         "kind": "image",
         "metadata": "",
-        "name": "hurt4.png",
+        "name": "run17.png",
         "smoothed": false,
         "userAdded": false
       },
       {
-        "file": "hurt5.png",
+        "file": "run18.png",
         "kind": "image",
         "metadata": "",
-        "name": "hurt5.png",
+        "name": "run18.png",
         "smoothed": false,
         "userAdded": false
       },
       {
-        "file": "../../primer jueguito/hurt3.png",
+        "file": "run19.png",
         "kind": "image",
         "metadata": "",
-        "name": "../../primer jueguito/hurt3.png",
+        "name": "run19.png",
         "smoothed": false,
         "userAdded": false
       },
       {
-        "file": "idle1.png",
+        "file": "run20.png",
         "kind": "image",
         "metadata": "",
-        "name": "idle1.png",
+        "name": "run20.png",
         "smoothed": false,
         "userAdded": false
       },
       {
-        "file": "idle2.png",
+        "file": "run21.png",
         "kind": "image",
         "metadata": "",
-        "name": "idle2.png",
+        "name": "run21.png",
         "smoothed": false,
         "userAdded": false
       },
       {
-        "file": "idle3.png",
+        "file": "golpe_rapido10.png",
         "kind": "image",
-        "metadata": "",
-        "name": "idle3.png",
+        "metadata": "{\"localFilePath\":\"golpe_rapido10.png\",\"extension\":\".png\"}",
+        "name": "golpe_rapido10.png",
         "smoothed": false,
         "userAdded": false
       },
       {
-        "file": "hurt6.png",
+        "file": "golpelargo11.png",
         "kind": "image",
-        "metadata": "",
-        "name": "hurt6.png",
+        "metadata": "{\"localFilePath\":\"golpelargo11.png\",\"extension\":\".png\"}",
+        "name": "golpelargo11.png",
         "smoothed": false,
         "userAdded": false
       },
       {
-        "file": "hurt7.png",
+        "file": "golpelargo12.png",
         "kind": "image",
-        "metadata": "",
-        "name": "hurt7.png",
+        "metadata": "{\"localFilePath\":\"golpelargo12.png\",\"extension\":\".png\"}",
+        "name": "golpelargo12.png",
         "smoothed": false,
         "userAdded": false
       },
       {
-        "file": "hurt8.png",
+        "file": "golpelargo13.png",
         "kind": "image",
-        "metadata": "",
-        "name": "hurt8.png",
+        "metadata": "{\"localFilePath\":\"golpelargo13.png\",\"extension\":\".png\"}",
+        "name": "golpelargo13.png",
         "smoothed": false,
         "userAdded": false
       },
       {
-        "file": "fondo_nivel2.png",
+        "file": "golpelargo14.png",
         "kind": "image",
-        "metadata": "",
-        "name": "fondo_nivel2.png",
+        "metadata": "{\"localFilePath\":\"golpelargo14.png\",\"extension\":\".png\"}",
+        "name": "golpelargo14.png",
         "smoothed": false,
         "userAdded": false
       },
       {
-        "file": "assets/MetalMania-Regular.ttf",
-        "kind": "font",
+        "file": "golpelargo15.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"golpelargo15.png\",\"extension\":\".png\"}",
+        "name": "golpelargo15.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "golpelargo16.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"golpelargo16.png\",\"extension\":\".png\"}",
+        "name": "golpelargo16.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "fondo_nivel3.png",
+        "kind": "image",
         "metadata": "",
-        "name": "11ed64262caf521cd24c19af2a005d28c4618e6a36c62ae3fc25353d157feeaf_MetalMania-Regular.ttf",
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/11ed64262caf521cd24c19af2a005d28c4618e6a36c62ae3fc25353d157feeaf_MetalMania-Regular.ttf",
-          "name": "gdevelop-asset-store"
-        }
+        "name": "fondo_nivel3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carniceria3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carniceria3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "cartel.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cartel.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "cartel2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cartel2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "cartel3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cartel3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "cartel4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cartel4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "cartel5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cartel5.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
   "objects": [
-    {
-      "assetStoreId": "b804d2390e0f305c450b8396238c89b63af1107b3786ba4b452a7ed6db7e70f2",
-      "name": "White1BitPixelBar",
-      "persistentUuid": "4c44b8fa-6ff8-43aa-b8ce-91cb08d4613d",
-      "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
-      "variant": "White 1Bit Square Bar2",
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "content": {
-        "InitialValue": 12,
-        "MaxValue": 16,
-        "BarTopPadding": 8,
-        "BarRightPadding": 10,
-        "BarBottomPadding": 8,
-        "BarLeftPadding": 10,
-        "PreviousHighValueDuration": 0,
-        "EasingDuration": 0.25
-      }
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "fondito",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Paisaje urbano posapocalíptico al atardecer (1).png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 2172,
-                        "y": 0
-                      },
-                      {
-                        "x": 2172,
-                        "y": 442
-                      },
-                      {
-                        "x": 0,
-                        "y": 442
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
@@ -4293,7 +4270,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "NewSprite15",
+      "name": "fondo",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -4310,7 +4287,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "fondo_nivel2.png",
+                  "image": "fondo_nivel3.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4355,9 +4332,6 @@
     "folderName": "__ROOT",
     "children": [
       {
-        "objectName": "White1BitPixelBar"
-      },
-      {
         "objectName": "Dylan"
       },
       {
@@ -4367,13 +4341,10 @@
         "objectName": "cajon"
       },
       {
+        "objectName": "fondo"
+      },
+      {
         "objectName": "piso"
-      },
-      {
-        "objectName": "NewSprite15"
-      },
-      {
-        "objectName": "fondito"
       }
     ]
   },
@@ -4486,69 +4457,6 @@
       ],
       "objects": [
         {
-<<<<<<< HEAD
-=======
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "Fondo",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Paisaje urbano posapocalíptico al atardecer (1).png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 2172,
-                            "y": 0
-                          },
-                          {
-                            "x": 2172,
-                            "y": 442
-                          },
-                          {
-                            "x": 0,
-                            "y": 442
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
->>>>>>> dc7a8753bad55b040661a86f102d071c29da3212
           "assetStoreId": "",
           "name": "NewVideo",
           "type": "Video::VideoObject",
@@ -4734,9 +4642,6 @@
           },
           {
             "objectName": "IconoSkip"
-          },
-          {
-            "objectName": "Fondo"
           }
         ]
       },
@@ -5049,349 +4954,6 @@
     {
       "b": 255,
       "disableInputWhenNotFocused": true,
-<<<<<<< HEAD
-=======
-      "mangledName": "manual",
-      "name": "manual",
-      "r": 247,
-      "renderer3DWorldScale": 100,
-      "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
-      "title": "",
-      "v": 249,
-      "uiSettings": {
-        "grid": false,
-        "gridType": "rectangular",
-        "gridWidth": 32,
-        "gridHeight": 32,
-        "gridDepth": 32,
-        "gridOffsetX": 0,
-        "gridOffsetY": 0,
-        "gridOffsetZ": 0,
-        "gridColor": 10401023,
-        "gridAlpha": 0.8,
-        "snap": false,
-        "zoomFactor": 0.7512693152212159,
-        "windowMask": false,
-        "selectedLayer": "",
-        "gameEditorMode": "instances-editor"
-      },
-      "objectsGroups": [],
-      "variables": [],
-      "instances": [
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "fondo",
-          "persistentUuid": "bb5b5e9f-46d9-40e5-9780-feb5d129a347",
-          "width": 0,
-          "x": -1,
-          "y": -1,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Dylan",
-          "persistentUuid": "2c0825bc-6082-4fa6-87db-e6b59ee84e0b",
-          "width": 0,
-          "x": -2,
-          "y": 157,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 92,
-          "keepRatio": true,
-          "layer": "",
-          "name": "piso",
-          "persistentUuid": "9fee4715-9dfa-47a5-a4a2-86d0659922a1",
-          "width": 595,
-          "x": -3,
-          "y": 178,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 74,
-          "keepRatio": true,
-          "layer": "",
-          "name": "piso",
-          "persistentUuid": "c946108c-592a-4271-b613-57843f4d0462",
-          "width": 591,
-          "x": 670,
-          "y": 190,
-          "zOrder": 5,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "cajon",
-          "persistentUuid": "64236118-f89d-47da-b36e-d95d520b17c7",
-          "width": 0,
-          "x": 241,
-          "y": 159,
-          "zOrder": 6,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "cajon",
-          "persistentUuid": "f1ef6ce9-272e-4296-961e-417092565f9e",
-          "width": 0,
-          "x": 308,
-          "y": 107,
-          "zOrder": 7,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 202,
-          "keepRatio": true,
-          "layer": "",
-          "name": "pared",
-          "persistentUuid": "cad551f0-a8a2-4c88-99b5-8e4cb9cffa4b",
-          "width": 216,
-          "x": 772,
-          "y": 63,
-          "zOrder": 8,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "auto",
-          "persistentUuid": "885e07ef-cab9-482c-b460-758a63090977",
-          "width": 0,
-          "x": 457,
-          "y": 115,
-          "zOrder": 9,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        }
-      ],
-      "objects": [
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "fondo",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "fondo1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 1260,
-                            "y": 0
-                          },
-                          {
-                            "x": 1260,
-                            "y": 270
-                          },
-                          {
-                            "x": 0,
-                            "y": 270
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "objectsFolderStructure": {
-        "folderName": "__ROOT",
-        "children": [
-          {
-            "objectName": "fondo"
-          }
-        ]
-      },
-      "events": [],
-      "layers": [
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera2DPlaneMaxDrawingDistance": 5000,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": [
-            {
-              "effectType": "Scene3D::HemisphereLight",
-              "name": "3D Ambient Hemisphere Light",
-              "doubleParameters": {
-                "elevation": 40,
-                "intensity": 0.33,
-                "rotation": 300
-              },
-              "stringParameters": {
-                "groundColor": "127;127;127",
-                "skyColor": "255;255;255",
-                "top": "Z+"
-              },
-              "booleanParameters": {}
-            },
-            {
-              "effectType": "Scene3D::DirectionalLight",
-              "name": "3D Sun Light",
-              "doubleParameters": {
-                "distanceFromCamera": 1500,
-                "elevation": 40,
-                "frustumSize": 4000,
-                "intensity": 0.75,
-                "minimumShadowBias": 0,
-                "rotation": 300
-              },
-              "stringParameters": {
-                "color": "255;255;255",
-                "shadowQuality": "medium",
-                "top": "Z+"
-              },
-              "booleanParameters": {
-                "isCastingShadow": true
-              }
-            }
-          ]
-        }
-      ],
-      "behaviorsSharedData": [
-        {
-          "name": "Animation",
-          "type": "AnimatableCapability::AnimatableBehavior"
-        },
-        {
-          "name": "Effect",
-          "type": "EffectCapability::EffectBehavior"
-        },
-        {
-          "name": "Flippable",
-          "type": "FlippableCapability::FlippableBehavior"
-        },
-        {
-          "name": "Health",
-          "type": "Health::Health"
-        },
-        {
-          "name": "Opacity",
-          "type": "OpacityCapability::OpacityBehavior"
-        },
-        {
-          "name": "Platform",
-          "type": "PlatformBehavior::PlatformBehavior"
-        },
-        {
-          "name": "PlatformerObject",
-          "type": "PlatformBehavior::PlatformerObjectBehavior"
-        },
-        {
-          "name": "Resizable",
-          "type": "ResizableCapability::ResizableBehavior"
-        },
-        {
-          "name": "Scale",
-          "type": "ScalableCapability::ScalableBehavior"
-        }
-      ]
-    },
-    {
-      "b": 255,
-      "disableInputWhenNotFocused": true,
->>>>>>> dc7a8753bad55b040661a86f102d071c29da3212
       "mangledName": "Nivel_321",
       "name": "Nivel 1",
       "r": 255,
@@ -6380,6 +5942,26 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "b804d2390e0f305c450b8396238c89b63af1107b3786ba4b452a7ed6db7e70f2",
+          "name": "White1BitPixelBar",
+          "persistentUuid": "4c44b8fa-6ff8-43aa-b8ce-91cb08d4613d",
+          "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
+          "variant": "White 1Bit Square Bar2",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "InitialValue": 12,
+            "MaxValue": 16,
+            "BarTopPadding": 8,
+            "BarRightPadding": 10,
+            "BarBottomPadding": 8,
+            "BarLeftPadding": 10,
+            "PreviousHighValueDuration": 0,
+            "EasingDuration": 0.25
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -6395,28 +5977,25 @@
             "objectName": "fondo1"
           },
           {
+            "objectName": "NewSprite"
+          },
+          {
             "objectName": "asset_morron"
           },
           {
-<<<<<<< HEAD
             "objectName": "NewSprite2"
           },
           {
             "objectName": "pared"
           },
           {
-=======
->>>>>>> dc7a8753bad55b040661a86f102d071c29da3212
             "objectName": "ajo"
           },
           {
             "objectName": "olla"
           },
           {
-            "objectName": "NewSprite"
-          },
-          {
-            "objectName": "NewSprite2"
+            "objectName": "White1BitPixelBar"
           }
         ]
       },
@@ -7465,7 +7044,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.3171875655466974,
+        "zoomFactor": 0.703055379672216,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -7492,62 +7071,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 74,
-          "keepRatio": true,
-          "layer": "",
-          "name": "piso",
-          "persistentUuid": "034f7d6b-41c6-4007-afbb-c952f4b327ec",
-          "width": 500,
-          "x": -1,
-          "y": 197,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 74,
-          "keepRatio": true,
-          "layer": "",
-          "name": "piso",
-          "persistentUuid": "f120139d-9075-4c9b-b0b5-f9d6c75031ae",
-          "width": 420,
-          "x": 936,
-          "y": 195,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 74,
-          "keepRatio": true,
-          "layer": "",
-          "name": "piso",
-          "persistentUuid": "1206dfb7-26c0-473c-9c09-2cde8cc94276",
-          "width": 410,
-          "x": 1344,
-          "y": 194,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
+          "depth": 1,
           "height": 74,
           "keepRatio": true,
           "layer": "",
           "name": "piso",
           "persistentUuid": "f3df4e4b-828b-4935-8019-9c8d44d8d74e",
-          "width": 280,
-          "x": 1521,
-          "y": 195,
+          "width": 605,
+          "x": 1185,
+          "y": 193,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -7563,8 +7095,8 @@
           "name": "cajon",
           "persistentUuid": "216d7c84-3215-427b-b26f-72ee81c12416",
           "width": 45,
-          "x": 1817,
-          "y": 162,
+          "x": 1830,
+          "y": 181,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -7583,23 +7115,6 @@
           "x": 74,
           "y": 153,
           "zOrder": 25,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 74,
-          "keepRatio": true,
-          "layer": "",
-          "name": "piso",
-          "persistentUuid": "a86bea37-eec2-4e22-ab63-3a7850210836",
-          "width": 332,
-          "x": 496,
-          "y": 194,
-          "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -7647,8 +7162,8 @@
           "name": "carne",
           "persistentUuid": "e917f703-5d9b-4e27-9812-b1040c3b2ad3",
           "width": 41,
-          "x": 1122,
-          "y": 121,
+          "x": 1170,
+          "y": 151,
           "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
@@ -7681,8 +7196,8 @@
           "name": "chorixo",
           "persistentUuid": "7021aaf9-6a8a-4a18-aaf3-cc342282b217",
           "width": 34,
-          "x": 1639,
-          "y": 137,
+          "x": 1596,
+          "y": 145,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -7698,8 +7213,8 @@
           "name": "cajon",
           "persistentUuid": "d27ee674-0781-4686-8c21-d5b83c6794ad",
           "width": 63,
-          "x": 1446,
-          "y": 152,
+          "x": 1436,
+          "y": 161,
           "zOrder": 23,
           "numberProperties": [],
           "stringProperties": [],
@@ -7715,8 +7230,8 @@
           "name": "cajon",
           "persistentUuid": "b051a833-36e7-4175-95d5-c5a66e8f48a8",
           "width": 63,
-          "x": 1484,
-          "y": 115,
+          "x": 1435,
+          "y": 126,
           "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
@@ -7748,8 +7263,8 @@
           "name": "NewSprite6",
           "persistentUuid": "3eaec35c-2e64-4383-a0a7-862032deb884",
           "width": 92,
-          "x": 985,
-          "y": 154,
+          "x": 986,
+          "y": 158,
           "zOrder": 15,
           "numberProperties": [],
           "stringProperties": [],
@@ -7764,8 +7279,8 @@
           "name": "NewSprite12",
           "persistentUuid": "81efc4c4-b08b-4ae9-9a6c-07adcd6c8d2f",
           "width": 0,
-          "x": 1466,
-          "y": 148,
+          "x": 1429,
+          "y": 154,
           "zOrder": 16,
           "numberProperties": [],
           "stringProperties": [],
@@ -7780,8 +7295,8 @@
           "name": "NewSprite13",
           "persistentUuid": "d0b38bdb-a2e3-4593-8c7d-9c8879065c1c",
           "width": 0,
-          "x": 1215,
-          "y": 149,
+          "x": 1995,
+          "y": 159,
           "zOrder": 17,
           "numberProperties": [],
           "stringProperties": [],
@@ -7853,16 +7368,17 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 74,
           "keepRatio": true,
           "layer": "",
-          "name": "NewSprite15",
-          "persistentUuid": "de7eb6e8-f9de-4a1a-97b4-8ca882e9d7ca",
-          "width": 0,
-          "x": 3,
-          "y": 3,
-          "zOrder": -2,
+          "name": "piso",
+          "persistentUuid": "6cdb23bb-d16d-4a9d-82df-2c1af248df6d",
+          "width": 605,
+          "x": 635,
+          "y": 195,
+          "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -7871,14 +7387,46 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 26,
+          "height": 74,
           "keepRatio": true,
           "layer": "",
-          "name": "CARNICERIA",
-          "persistentUuid": "b6e49eb7-8d86-40c0-9302-a2a8dd403e8d",
-          "width": 142,
-          "x": 1057,
-          "y": 43,
+          "name": "piso",
+          "persistentUuid": "897a4119-cc43-49ea-811e-d64b5521aeaf",
+          "width": 673,
+          "x": -13,
+          "y": 195,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "fondo",
+          "persistentUuid": "f579a057-be43-4a61-acff-86b745b6f4d0",
+          "width": 0,
+          "x": -4,
+          "y": -3,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 10,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "CARTEL",
+          "persistentUuid": "7167512d-ba00-4778-aef9-85e97fe76877",
+          "width": 0,
+          "x": 1383,
+          "y": 32,
           "zOrder": 26,
           "numberProperties": [],
           "stringProperties": [],
@@ -7973,7 +7521,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "idle4.png",
+                      "image": "idle8.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8009,7 +7557,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "idle5.png",
+                      "image": "idle9.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8045,7 +7593,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "idle6.png",
+                      "image": "idle10.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8081,7 +7629,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "idle7.png",
+                      "image": "idle11.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8117,7 +7665,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "idle7.png",
+                      "image": "idle12.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8166,7 +7714,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "die4.png",
+                      "image": "die6.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8202,7 +7750,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "die4.png",
+                      "image": "die7.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8238,7 +7786,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "die4.png",
+                      "image": "die7.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8274,7 +7822,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "die4.png",
+                      "image": "die8.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8310,7 +7858,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "die5.png",
+                      "image": "die8.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8359,7 +7907,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "run8.png",
+                      "image": "run14.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8395,7 +7943,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "run9.png",
+                      "image": "run15.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8431,7 +7979,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "run10.png",
+                      "image": "run16.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8467,7 +8015,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "run11.png",
+                      "image": "run17.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8503,7 +8051,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "run11.png",
+                      "image": "run18.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8539,7 +8087,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "run12.png",
+                      "image": "run19.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8575,7 +8123,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "run12.png",
+                      "image": "run20.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8611,7 +8159,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "run13.png",
+                      "image": "run21.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8660,7 +8208,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "golpe_rapido1.png",
+                      "image": "golpe_rapido6.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8696,7 +8244,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "golpe_rapido2.png",
+                      "image": "golpe_rapido7.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8732,7 +8280,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "golpe_rapido3.png",
+                      "image": "golpe_rapido8.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8768,7 +8316,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "golpe_rapido4.png",
+                      "image": "golpe_rapido9.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8804,7 +8352,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "golpe_rapido5.png",
+                      "image": "golpe_rapido10.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8853,7 +8401,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "golpelargo5.png",
+                      "image": "golpelargo11.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8889,7 +8437,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "golpelargo6.png",
+                      "image": "golpelargo12.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8925,7 +8473,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "golpelargo7.png",
+                      "image": "golpelargo13.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8961,7 +8509,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "golpelargo8.png",
+                      "image": "golpelargo14.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8997,7 +8545,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "golpelargo9.png",
+                      "image": "golpelargo15.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -9033,7 +8581,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "golpelargo10.png",
+                      "image": "golpelargo16.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -9078,12 +8626,18 @@
                 {
                   "looping": false,
                   "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.12,
+                  "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "hurt6.png",
-                      "points": [],
+                      "image": "hurt1.png",
+                      "points": [
+                        {
+                          "name": "mano",
+                          "x": 52.5,
+                          "y": 26.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -9118,8 +8672,14 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "hurt7.png",
-                      "points": [],
+                      "image": "hurt2.png",
+                      "points": [
+                        {
+                          "name": "mano",
+                          "x": 52.5,
+                          "y": 26.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -9154,8 +8714,14 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "hurt8.png",
-                      "points": [],
+                      "image": "hurt3.png",
+                      "points": [
+                        {
+                          "name": "mano",
+                          "x": 52.5,
+                          "y": 26.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -10653,47 +10219,64 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "bold": false,
-          "italic": false,
-          "name": "CARNICERIA",
-          "smoothed": true,
-          "type": "TextObject::Text",
-          "underlined": false,
+          "name": "CARTEL",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "CARNICERIA",
-          "font": "11ed64262caf521cd24c19af2a005d28c4618e6a36c62ae3fc25353d157feeaf_MetalMania-Regular.ttf",
-          "textAlignment": "left",
-          "characterSize": 30,
-          "color": {
-            "b": 4,
-            "g": 4,
-            "r": 92
-          },
-          "content": {
-            "bold": false,
-            "isOutlineEnabled": false,
-            "isShadowEnabled": false,
-            "italic": false,
-            "outlineColor": "255;255;255",
-            "outlineThickness": 2,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
-            "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
-            "smoothed": true,
-            "underlined": false,
-            "text": "CARNICERIA",
-            "font": "11ed64262caf521cd24c19af2a005d28c4618e6a36c62ae3fc25353d157feeaf_MetalMania-Regular.ttf",
-            "textAlignment": "left",
-            "verticalTextAlignment": "top",
-            "characterSize": 30,
-            "lineHeight": 0,
-            "color": "92;4;4"
-          }
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "cartel5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 2
+                          },
+                          {
+                            "x": 118,
+                            "y": 2
+                          },
+                          {
+                            "x": 118,
+                            "y": 38
+                          },
+                          {
+                            "x": 2,
+                            "y": 38
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -10772,7 +10355,7 @@
             "objectName": "NewSprite14"
           },
           {
-            "objectName": "CARNICERIA"
+            "objectName": "CARTEL"
           }
         ]
       },
@@ -12451,10 +12034,6 @@
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
-        },
-        {
-          "name": "Text",
-          "type": "TextContainerCapability::TextContainerBehavior"
         },
         {
           "name": "Tween",
@@ -42191,13 +41770,8 @@
       "eventsBasedObjects": []
     }
   ],
-<<<<<<< HEAD
   "externalLayouts": [],
   "externalLayoutsFolderStructure": {
     "folderName": "__ROOT"
   }
 }
-=======
-  "externalLayouts": []
-}
->>>>>>> dc7a8753bad55b040661a86f102d071c29da3212
