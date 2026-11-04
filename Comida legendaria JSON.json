@@ -2629,7 +2629,7 @@
       {
         "file": "run15.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"run15.png\",\"extension\":\".png\"}",
         "name": "run15.png",
         "smoothed": false,
         "userAdded": false
@@ -2637,7 +2637,7 @@
       {
         "file": "run16.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"run16.png\",\"extension\":\".png\"}",
         "name": "run16.png",
         "smoothed": false,
         "userAdded": false
@@ -2645,7 +2645,7 @@
       {
         "file": "run17.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"run17.png\",\"extension\":\".png\"}",
         "name": "run17.png",
         "smoothed": false,
         "userAdded": false
@@ -2653,7 +2653,7 @@
       {
         "file": "run18.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"run18.png\",\"extension\":\".png\"}",
         "name": "run18.png",
         "smoothed": false,
         "userAdded": false
@@ -2661,7 +2661,7 @@
       {
         "file": "run19.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"run19.png\",\"extension\":\".png\"}",
         "name": "run19.png",
         "smoothed": false,
         "userAdded": false
@@ -2669,7 +2669,7 @@
       {
         "file": "run20.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"run20.png\",\"extension\":\".png\"}",
         "name": "run20.png",
         "smoothed": false,
         "userAdded": false
@@ -2677,7 +2677,7 @@
       {
         "file": "run21.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"run21.png\",\"extension\":\".png\"}",
         "name": "run21.png",
         "smoothed": false,
         "userAdded": false
@@ -7044,7 +7044,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.703055379672216,
+        "zoomFactor": 0.3743962081609087,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
