@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 286,
+    "build": 282,
     "major": 5,
     "minor": 6,
     "revision": 0
@@ -4986,6 +4986,246 @@
         "name": "assets-comid/laurel.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "asset-tileset que uso/Nueva carpeta/55.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "asset-tileset que uso/Nueva carpeta/55.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "asset-tileset que uso/Nueva carpeta/31.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "asset-tileset que uso/Nueva carpeta/31.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "asset-tileset que uso/Nueva carpeta/37.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "asset-tileset que uso/Nueva carpeta/37.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "asset-tileset que uso/Nueva carpeta/12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "asset-tileset que uso/Nueva carpeta/12.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets-comid/vino.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets-comid/vino",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets-comid/vino2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets-comid/vino2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/chorizo.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "chorizo",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets-comid/lentejas.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets-comid/lentejas",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets-comid/arroz (1).png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets-comid/arroz (1)",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Hoja de sprites de bruja pixelada (11).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Hoja de sprites de bruja pixelada (11).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Hoja de sprites de bruja pixelada (10).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Hoja de sprites de bruja pixelada (10).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Hoja de sprites de bruja pixelada (9).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Hoja de sprites de bruja pixelada (9).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Hoja de sprites de bruja pixelada (8).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Hoja de sprites de bruja pixelada (8).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Hoja de sprites de bruja pixelada (7).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Hoja de sprites de bruja pixelada (7).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Hoja de sprites de bruja pixelada (6).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Hoja de sprites de bruja pixelada (6).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../../../Downloads/iloveimg-background-removed (7)/Hoja de sprites de bruja pixelada (7)-Photoroom.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../../../Downloads/iloveimg-background-removed (7)/Hoja de sprites de bruja pixelada (7)-Photoroom.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../../../Downloads/iloveimg-background-removed (7)/Hoja de sprites de bruja pixelada (8)-Photoroom.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../../../Downloads/iloveimg-background-removed (7)/Hoja de sprites de bruja pixelada (8)-Photoroom.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../../../Downloads/iloveimg-background-removed (7)/Hoja de sprites de bruja pixelada (6).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../../../Downloads/iloveimg-background-removed (7)/Hoja de sprites de bruja pixelada (6).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../../../Downloads/iloveimg-background-removed (7)/Hoja de sprites de bruja pixelada (9).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../../../Downloads/iloveimg-background-removed (7)/Hoja de sprites de bruja pixelada (9).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../../../Downloads/iloveimg-background-removed (7)/Hoja de sprites de bruja pixelada (10).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../../../Downloads/iloveimg-background-removed (7)/Hoja de sprites de bruja pixelada (10).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/ATAQUE 2 BOLA DE FUEGO/Hoja de sprites de bruja pixelada (6).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/ATAQUE 2 BOLA DE FUEGO/Hoja de sprites de bruja pixelada (6).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/ATAQUE 2 BOLA DE FUEGO/Hoja de sprites de bruja pixelada (7)-Photoroom.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/ATAQUE 2 BOLA DE FUEGO/Hoja de sprites de bruja pixelada (7)-Photoroom.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/ATAQUE 2 BOLA DE FUEGO/Hoja de sprites de bruja pixelada (8)-Photoroom.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/ATAQUE 2 BOLA DE FUEGO/Hoja de sprites de bruja pixelada (8)-Photoroom.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/ATAQUE 2 BOLA DE FUEGO/Hoja de sprites de bruja pixelada (9).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/ATAQUE 2 BOLA DE FUEGO/Hoja de sprites de bruja pixelada (9).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bruja/ATAQUE 2 BOLA DE FUEGO/Hoja de sprites de bruja pixelada (10).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bruja/ATAQUE 2 BOLA DE FUEGO/Hoja de sprites de bruja pixelada (10).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ataque 2 - bola de fuego.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ataque 2 - bola de fuego",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ataque 2 - bola de fuego2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ataque 2 - bola de fuego2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ataque 2 - bola de fuego3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ataque 2 - bola de fuego3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ataque 2 - bola de fuego4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ataque 2 - bola de fuego4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ataque 2 - bola de fuego5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ataque 2 - bola de fuego5",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -5060,6 +5300,7 @@
       "variables": [
         {
           "name": "VIdaDylan",
+          "persistentUuid": "d3fa5993-ba42-4a86-977e-e4ac1c1d00a9",
           "type": "number",
           "value": 0
         },
@@ -5083,6 +5324,7 @@
         },
         {
           "name": "VidaDylan",
+          "persistentUuid": "2e76a8fd-ab5b-4428-9a31-fe6048fc23b2",
           "type": "number",
           "value": 100
         }
@@ -5118,9 +5360,9 @@
           "PercentDamageReduction": 0
         },
         {
+          "ignoreDefaultControls": true,
           "name": "PlatformerObject",
           "type": "PlatformBehavior::PlatformerObjectBehavior",
-          "ignoreDefaultControls": true,
           "acceleration": 1500,
           "canGoDownFromJumpthru": true,
           "canGrabPlatforms": false,
@@ -8446,7 +8688,6 @@
       "mangledName": "menu",
       "name": "menu",
       "r": 247,
-      "renderer3DWorldScale": 100,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
@@ -10495,7 +10736,6 @@
       "mangledName": "creditos",
       "name": "creditos",
       "r": 247,
-      "renderer3DWorldScale": 100,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
@@ -11337,7 +11577,6 @@
       "mangledName": "introduccion",
       "name": "introduccion",
       "r": 247,
-      "renderer3DWorldScale": 100,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
@@ -12959,7 +13198,6 @@
       "mangledName": "manual",
       "name": "manual",
       "r": 247,
-      "renderer3DWorldScale": 100,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
@@ -26076,7 +26314,6 @@
       "mangledName": "Nivel_321",
       "name": "Nivel 1",
       "r": 255,
-      "renderer3DWorldScale": 100,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "Comida Legendaria",
@@ -32359,7 +32596,6 @@
       "mangledName": "Nivel_322",
       "name": "Nivel 2",
       "r": 255,
-      "renderer3DWorldScale": 100,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
@@ -39344,7 +39580,6 @@
       "mangledName": "nivel_323",
       "name": "nivel 3",
       "r": 247,
-      "renderer3DWorldScale": 100,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
@@ -39361,7 +39596,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4135619880424799,
+        "zoomFactor": 0.6157115569393328,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -39403,38 +39638,6 @@
           "initialVariables": []
         },
         {
-          "angle": 358,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "vieja_bruja",
-          "persistentUuid": "5f5017b9-f331-43e1-9966-9b34c86a7930",
-          "width": 0,
-          "x": 599,
-          "y": 38,
-          "zOrder": 19,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "vieja_bruja",
-          "persistentUuid": "b51348f7-3f74-47e3-a85e-d2ef7779ad8b",
-          "width": 0,
-          "x": 951,
-          "y": 129,
-          "zOrder": 19,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
           "angle": 0,
           "customSize": false,
           "height": 0,
@@ -39443,25 +39646,9 @@
           "name": "vieja_bruja",
           "persistentUuid": "0e09e695-9ff9-4a81-8e85-d0bc6a6242d0",
           "width": 0,
-          "x": 840,
-          "y": 145,
+          "x": 1906,
+          "y": 60,
           "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "vieja_bruja",
-          "persistentUuid": "ad2ce0ae-b699-468a-99da-1abd2daa8ec7",
-          "width": 0,
-          "x": 1063,
-          "y": 118,
-          "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -39525,8 +39712,8 @@
           "name": "laurel",
           "persistentUuid": "ff1f8328-b617-4e58-a637-ea10bbe39177",
           "width": 42,
-          "x": 1616,
-          "y": 181,
+          "x": 3801,
+          "y": 218,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -39590,7 +39777,7 @@
           "name": "auto",
           "persistentUuid": "5b100a75-fdf7-4316-86a3-b0af25e07b0e",
           "width": 167,
-          "x": 1694,
+          "x": 1722,
           "y": 113,
           "zOrder": 15,
           "numberProperties": [],
@@ -39601,15 +39788,15 @@
           "angle": 0,
           "customSize": true,
           "depth": 2,
-          "height": 213,
+          "height": 228,
           "keepRatio": true,
           "layer": "",
           "name": "pared",
           "persistentUuid": "41244c5e-44e4-4fdc-9656-2354f6724fd2",
-          "width": 213,
-          "x": 1898,
-          "y": 70,
-          "zOrder": 15,
+          "width": 233,
+          "x": 1896,
+          "y": 75,
+          "zOrder": 63,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -39643,7 +39830,7 @@
           "width": 2233,
           "x": 1552,
           "y": -34,
-          "zOrder": -1,
+          "zOrder": -5,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -39760,9 +39947,9 @@
           "name": "fondo_nivel_3_final",
           "persistentUuid": "38d6bafa-0571-4341-957d-6cb1de4859a5",
           "width": 551,
-          "x": 3305,
-          "y": -41,
-          "zOrder": 17,
+          "x": 3622,
+          "y": -39,
+          "zOrder": -4,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -39777,9 +39964,9 @@
           "name": "NewSprite5",
           "persistentUuid": "3d3b51fc-48d2-4273-985c-278ce6a073e7",
           "width": 1308,
-          "x": 3306,
-          "y": -37,
-          "zOrder": -3,
+          "x": 3699,
+          "y": -41,
+          "zOrder": -6,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -39828,8 +40015,8 @@
           "name": "TxtNivel",
           "persistentUuid": "1914e050-8dd7-434c-b3b2-3b51e8caad41",
           "width": 0,
-          "x": 240,
-          "y": 60,
+          "x": 349,
+          "y": 42,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -39954,7 +40141,7 @@
           "height": 24,
           "keepRatio": true,
           "layer": "Inventario",
-          "name": "IconoMorron",
+          "name": "chorizo",
           "persistentUuid": "afd53bc0-29b8-4705-aa7e-66143fec0253",
           "width": 24,
           "x": 178,
@@ -40038,8 +40225,8 @@
           "name": "Fundido",
           "persistentUuid": "b79ba682-96f0-477a-be3a-eb1916253cb8",
           "width": 491,
-          "x": 0,
-          "y": -21,
+          "x": -57,
+          "y": 423,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -40055,25 +40242,9 @@
           "name": "video_final",
           "persistentUuid": "5dbb7597-1989-4b50-9d20-32ad21c1e9cf",
           "width": 601,
-          "x": -40,
-          "y": -49,
+          "x": -117,
+          "y": 508,
           "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "ingrediente1",
-          "persistentUuid": "8df45ddc-91a0-45fd-b3c5-f9bdb1c15e0e",
-          "width": 0,
-          "x": 632,
-          "y": 170,
-          "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -40087,8 +40258,8 @@
           "name": "ingrediente2",
           "persistentUuid": "50a66a95-54d9-4b45-b0d1-ebd378af2ce2",
           "width": 0,
-          "x": 1427,
-          "y": 172,
+          "x": 2409,
+          "y": 190,
           "zOrder": 21,
           "numberProperties": [],
           "stringProperties": [],
@@ -40100,12 +40271,12 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "ingrediente3",
-          "persistentUuid": "4d6bb8a5-3a13-4d1d-9ca1-e76fc9f5490f",
+          "name": "vieja_bruja",
+          "persistentUuid": "9208a680-fc0e-4253-aa06-e8a94218f13d",
           "width": 0,
-          "x": 2097,
-          "y": 162,
-          "zOrder": 22,
+          "x": 2483,
+          "y": 165,
+          "zOrder": 49,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -40116,12 +40287,273 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "salame",
-          "persistentUuid": "274ad6c2-b975-42e0-b38d-d7e2ebcb8bc5",
+          "name": "vieja_bruja",
+          "persistentUuid": "8717ed97-d7ce-4c81-b511-29acbf119cc3",
           "width": 0,
-          "x": 1570,
-          "y": 181,
-          "zOrder": 0,
+          "x": 3133,
+          "y": 172,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "vieja_bruja",
+          "persistentUuid": "2fc1c125-c5e2-408d-8237-d4da0d639b2e",
+          "width": 0,
+          "x": 4034,
+          "y": 178,
+          "zOrder": 53,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "vieja_bruja",
+          "persistentUuid": "4dd3cf34-d042-4014-9301-5e1e7a9904a2",
+          "width": 0,
+          "x": 4327,
+          "y": 177,
+          "zOrder": 54,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 46,
+          "keepRatio": true,
+          "layer": "",
+          "name": "piso",
+          "persistentUuid": "7feaa0bc-8e8a-438c-9536-7a24ec9434bd",
+          "width": 406,
+          "x": 4467,
+          "y": 256,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 46,
+          "keepRatio": true,
+          "layer": "",
+          "name": "piso",
+          "persistentUuid": "b1d0ec28-c31d-4b99-9d3f-e22636095a0d",
+          "width": 406,
+          "x": 4604,
+          "y": 258,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "vieja_bruja",
+          "persistentUuid": "c7d04107-28ed-42b4-8b8e-4c87e277b647",
+          "width": 0,
+          "x": 951,
+          "y": 149,
+          "zOrder": 55,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 3,
+          "height": 125,
+          "keepRatio": true,
+          "layer": "",
+          "name": "bolsas_de_arena",
+          "persistentUuid": "7d4a498a-79af-45f2-846d-b12492aed33b",
+          "width": 125,
+          "x": 2584,
+          "y": 184,
+          "zOrder": 56,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 3,
+          "height": 125,
+          "keepRatio": true,
+          "layer": "",
+          "name": "bolsas_de_arena",
+          "persistentUuid": "d1d8aca6-5e44-4703-8108-8dbe18767236",
+          "width": 125,
+          "x": 3856,
+          "y": 184,
+          "zOrder": 56,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 109,
+          "keepRatio": true,
+          "layer": "",
+          "name": "elemento_calle",
+          "persistentUuid": "3701bd2b-10db-42a9-8043-46cd9593f3d4",
+          "width": 179,
+          "x": 3494,
+          "y": 184,
+          "zOrder": 57,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "barril",
+          "persistentUuid": "f23f5bad-60a8-45e0-a342-1df11d3f466b",
+          "width": 0,
+          "x": 3195,
+          "y": 205,
+          "zOrder": 58,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "barril",
+          "persistentUuid": "1706b041-d8c5-4263-b577-a14411eca0a1",
+          "width": 0,
+          "x": 3179,
+          "y": 209,
+          "zOrder": 58,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "barril",
+          "persistentUuid": "5ec484b9-c5a0-4cc6-9887-174d29f0c2ce",
+          "width": 0,
+          "x": 3208,
+          "y": 213,
+          "zOrder": 58,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "barril",
+          "persistentUuid": "3817fd86-014c-449e-bd87-db8963ea75d1",
+          "width": 0,
+          "x": 3213,
+          "y": 165,
+          "zOrder": 59,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "vino",
+          "persistentUuid": "7514d045-46ef-4059-9861-f5c70e6ee8f1",
+          "width": 0,
+          "x": 3233,
+          "y": 141,
+          "zOrder": 60,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "chorizo",
+          "persistentUuid": "dccfed34-f211-4e1d-b042-277ef347dc56",
+          "width": 0,
+          "x": 2057,
+          "y": 104,
+          "zOrder": 61,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "ingrediente1",
+          "persistentUuid": "8b0b3335-a585-4a75-9ab9-9d0314c27cc1",
+          "width": 0,
+          "x": 814,
+          "y": 127,
+          "zOrder": 62,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "ingrediente2",
+          "persistentUuid": "3a3a9e4b-19a9-4fd6-b8f9-78eec4a7b1f7",
+          "width": 0,
+          "x": 4737,
+          "y": 231,
+          "zOrder": 64,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -41671,6 +42103,199 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets/bruja/death/death_bruja_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "ataque 2 - bola de fuego",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "ataque 2 - bola de fuego",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "ataque 2 - bola de fuego2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "ataque 2 - bola de fuego3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "ataque 2 - bola de fuego4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 3
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 9,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "ataque 2 - bola de fuego5",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -43323,7 +43948,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "IconoMorron",
+          "name": "chorizo",
           "persistentUuid": "b0b204a3-d57c-457f-896c-251a647870f3",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -43332,7 +43957,7 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "morron asset",
+              "name": "chorizo",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -43342,7 +43967,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets/ingredientes/chorizos.png",
+                      "image": "chorizo",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -43358,20 +43983,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 11,
-                            "y": 7
+                            "x": 1,
+                            "y": 1
                           },
                           {
-                            "x": 54,
-                            "y": 7
+                            "x": 26,
+                            "y": 1
                           },
                           {
-                            "x": 54,
-                            "y": 62
+                            "x": 26,
+                            "y": 30
                           },
                           {
-                            "x": 11,
-                            "y": 62
+                            "x": 1,
+                            "y": 30
                           }
                         ]
                       ]
@@ -43601,16 +44226,17 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "assets-comid/arroz (1)",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets-comid/arroz (1).png",
+                      "image": "assets-comid/arroz (1)",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -43626,20 +44252,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 10,
-                            "y": 9
+                            "x": 5,
+                            "y": 4
                           },
                           {
-                            "x": 57,
-                            "y": 9
+                            "x": 28,
+                            "y": 4
                           },
                           {
-                            "x": 57,
-                            "y": 60
+                            "x": 28,
+                            "y": 30
                           },
                           {
-                            "x": 10,
-                            "y": 60
+                            "x": 5,
+                            "y": 30
                           }
                         ]
                       ]
@@ -43661,16 +44287,17 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "assets-comid/lentejas",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets-comid/lentejas.png",
+                      "image": "assets-comid/lentejas",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -43686,20 +44313,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 10,
-                            "y": 8
+                            "x": 5,
+                            "y": 4
                           },
                           {
-                            "x": 59,
-                            "y": 8
+                            "x": 29,
+                            "y": 4
                           },
                           {
-                            "x": 59,
-                            "y": 59
+                            "x": 29,
+                            "y": 29
                           },
                           {
-                            "x": 10,
-                            "y": 59
+                            "x": 5,
+                            "y": 29
                           }
                         ]
                       ]
@@ -43713,7 +44340,75 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "ingrediente3",
+          "name": "bolsas_de_arena",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "asset-tileset que uso/Nueva carpeta/55.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 18
+                          },
+                          {
+                            "x": 59,
+                            "y": 18
+                          },
+                          {
+                            "x": 59,
+                            "y": 44
+                          },
+                          {
+                            "x": 4,
+                            "y": 44
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "elemento_calle",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -43730,7 +44425,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets-comid/vino.png",
+                      "image": "asset-tileset que uso/Nueva carpeta/31.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -43746,20 +44441,141 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 23,
-                            "y": 2
+                            "x": 6,
+                            "y": 20
                           },
                           {
-                            "x": 44,
-                            "y": 2
+                            "x": 58,
+                            "y": 20
                           },
                           {
-                            "x": 44,
-                            "y": 62
+                            "x": 58,
+                            "y": 47
                           },
                           {
-                            "x": 23,
-                            "y": 62
+                            "x": 6,
+                            "y": 47
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "barril",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "asset-tileset que uso/Nueva carpeta/12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 6
+                          },
+                          {
+                            "x": 51,
+                            "y": 6
+                          },
+                          {
+                            "x": 51,
+                            "y": 60
+                          },
+                          {
+                            "x": 16,
+                            "y": 60
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "vino",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "assets-comid/vino",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets-comid/vino2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 1
+                          },
+                          {
+                            "x": 22,
+                            "y": 1
+                          },
+                          {
+                            "x": 22,
+                            "y": 31
+                          },
+                          {
+                            "x": 11,
+                            "y": 31
                           }
                         ]
                       ]
@@ -43803,6 +44619,15 @@
           },
           {
             "objectName": "vieja_bruja"
+          },
+          {
+            "objectName": "bolsas_de_arena"
+          },
+          {
+            "objectName": "barril"
+          },
+          {
+            "objectName": "elemento_calle"
           },
           {
             "objectName": "BotonPixel"
@@ -43856,7 +44681,7 @@
             "objectName": "TxtAjo"
           },
           {
-            "objectName": "IconoMorron"
+            "objectName": "chorizo"
           },
           {
             "objectName": "IconoAjo"
@@ -43880,7 +44705,7 @@
             "objectName": "ingrediente2"
           },
           {
-            "objectName": "ingrediente3"
+            "objectName": "vino"
           }
         ]
       },
@@ -46117,7 +46942,7 @@
                 "vieja_bruja",
                 "Animation",
                 "=",
-                "\"ataque 1 bruja\""
+                "\"ataque 2 - bola de fuego\""
               ]
             },
             {
@@ -47270,7 +48095,7 @@
                   },
                   "parameters": [
                     "Dylan",
-                    "ingrediente3",
+                    "vino",
                     "",
                     "",
                     ""
@@ -47293,7 +48118,7 @@
                     "value": "Delete"
                   },
                   "parameters": [
-                    "ingrediente3",
+                    "vino",
                     ""
                   ]
                 },
@@ -47478,7 +48303,7 @@
                     "value": "Show"
                   },
                   "parameters": [
-                    "IconoMorron",
+                    "chorizo",
                     ""
                   ]
                 },
@@ -47544,7 +48369,7 @@
                     "value": "Hide"
                   },
                   "parameters": [
-                    "IconoMorron"
+                    "chorizo"
                   ]
                 },
                 {
@@ -48044,7 +48869,6 @@
       "mangledName": "personajes",
       "name": "personajes",
       "r": 255,
-      "renderer3DWorldScale": 100,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
@@ -50234,7 +51058,6 @@
       "mangledName": "volumen",
       "name": "volumen",
       "r": 16,
-      "renderer3DWorldScale": 100,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
@@ -52261,38 +53084,6 @@
       ]
     }
   ],
-  "layoutsFolderStructure": {
-    "folderName": "__ROOT",
-    "children": [
-      {
-        "itemName": "menu"
-      },
-      {
-        "itemName": "creditos"
-      },
-      {
-        "itemName": "introduccion"
-      },
-      {
-        "itemName": "manual"
-      },
-      {
-        "itemName": "Nivel 1"
-      },
-      {
-        "itemName": "Nivel 2"
-      },
-      {
-        "itemName": "nivel 3"
-      },
-      {
-        "itemName": "personajes"
-      },
-      {
-        "itemName": "volumen"
-      }
-    ]
-  },
   "externalEvents": [
     {
       "associatedLayout": "Nivel 2",
@@ -52384,17 +53175,6 @@
       ]
     }
   ],
-  "externalEventsFolderStructure": {
-    "folderName": "__ROOT",
-    "children": [
-      {
-        "itemName": "idle"
-      },
-      {
-        "itemName": "Eventos externos sin título"
-      }
-    ]
-  },
   "tests": [
     {
       "description": "Dylan stays on floor, moves right and jumps",
@@ -53874,116 +54654,6 @@
       ]
     }
   ],
-  "testsFolderStructure": {
-    "folderName": "__ROOT",
-    "children": [
-      {
-        "itemName": "dylan-moves"
-      },
-      {
-        "itemName": "dylan-flip"
-      },
-      {
-        "itemName": "dylan-full-moves"
-      },
-      {
-        "itemName": "dylan-wasd-arrows"
-      },
-      {
-        "itemName": "dylan-camera"
-      },
-      {
-        "itemName": "intro-buttons"
-      },
-      {
-        "itemName": "intro-pixel-controls"
-      },
-      {
-        "itemName": "manual-ui-check"
-      },
-      {
-        "itemName": "manual-gap-fall"
-      },
-      {
-        "itemName": "manual-skip-bridge"
-      },
-      {
-        "itemName": "vida-inventario-animaciones"
-      },
-      {
-        "itemName": "muerte-y-respawn"
-      },
-      {
-        "itemName": "bruja-enemiga"
-      },
-      {
-        "itemName": "dylan-j-attack"
-      },
-      {
-        "itemName": "menu-navegacion-flujo"
-      },
-      {
-        "itemName": "ia-persecucion-y-ataque"
-      },
-      {
-        "itemName": "probe-enemigo"
-      },
-      {
-        "itemName": "inventario-panel"
-      },
-      {
-        "itemName": "muerte-enemigo-autoavance"
-      },
-      {
-        "itemName": "fin-de-nivel-al-final"
-      },
-      {
-        "itemName": "reinicio-dificil-y-fin-directo"
-      },
-      {
-        "itemName": "balance-combate"
-      },
-      {
-        "itemName": "enemigo-animacion-golpe"
-      },
-      {
-        "itemName": "muerte-primer-reset"
-      },
-      {
-        "itemName": "muerte-segunda-menu"
-      },
-      {
-        "itemName": "dano-persistente"
-      },
-      {
-        "itemName": "caida-muerte"
-      },
-      {
-        "itemName": "j-toque-anim"
-      },
-      {
-        "itemName": "ganaste-nivel3"
-      },
-      {
-        "itemName": "fix-verificacion-aire-muertes"
-      },
-      {
-        "itemName": "butcher-attack-fix"
-      },
-      {
-        "itemName": "nivel2-carnicero-e-inventario"
-      },
-      {
-        "itemName": "nivel3-manual-inventario-y-barra"
-      },
-      {
-        "itemName": "hud-barras-y-etiquetas"
-      },
-      {
-        "itemName": "barra-vida-cuatro-escenarios"
-      }
-    ]
-  },
   "eventsFunctionsExtensions": [
     {
       "author": "@4ian",
@@ -90958,8 +91628,5 @@
       ]
     }
   ],
-  "externalLayouts": [],
-  "externalLayoutsFolderStructure": {
-    "folderName": "__ROOT"
-  }
+  "externalLayouts": []
 }
