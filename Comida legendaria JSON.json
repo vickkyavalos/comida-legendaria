@@ -6402,6 +6402,30 @@
         "name": "fondoo.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "assets/Herb_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Herb_No Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/General Items/2503392166fb61740ef329612d05300f851a9ab76b036e54c3c2d7270f492ed1_Herb_No Shadow.png",
+          "name": "Herb_No Shadow.png"
+        }
+      },
+      {
+        "file": "assets/Herb_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Herb_Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/General Items/150c96e06e2a584f4b8a894d2084c9d2aee3235fb6c2d24a50b38696d5379cba_Herb_Shadow.png",
+          "name": "Herb_Shadow.png"
+        }
       }
     ]
   },
@@ -9733,6 +9757,49 @@
           ]
         }
       ]
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "TxtPerdiste",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "PERDISTE!",
+      "font": "",
+      "textAlignment": "center",
+      "characterSize": 28,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 255
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "PERDISTE!",
+        "font": "",
+        "textAlignment": "center",
+        "verticalTextAlignment": "top",
+        "characterSize": 28,
+        "lineHeight": 0,
+        "color": "255;0;0"
+      }
     }
   ],
   "objectsFolderStructure": {
@@ -9761,6 +9828,9 @@
       },
       {
         "objectName": "ENEMIGO1"
+      },
+      {
+        "objectName": "TxtPerdiste"
       },
       {
         "objectName": "pared"
@@ -9865,7 +9935,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.0467096467968613,
+        "zoomFactor": 0.9475825490178638,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -10557,6 +10627,7 @@
               ],
               "events": [
                 {
+                  "aiGeneratedEventId": "01M6MX3EKJQWD2YW723JE64DCB",
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -10580,7 +10651,7 @@
                         "comida legendaria2.mp3",
                         "1",
                         "yes",
-                        "100",
+                        "60",
                         "1"
                       ]
                     },
@@ -11566,7 +11637,7 @@
           "parameters": []
         },
         {
-          "aiGeneratedEventId": "01M65S3NX1E9YFTWJZ6AXJC2FC",
+          "aiGeneratedEventId": "01M6MX25PM8VQY236R47V7YCC9",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -11659,7 +11730,7 @@
                     "comida legendaria2.mp3",
                     "1",
                     "yes",
-                    "100",
+                    "60",
                     "1"
                   ]
                 },
@@ -12785,15 +12856,15 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 267,
+          "height": 289,
           "hidden": true,
           "keepRatio": true,
           "layer": "",
           "name": "video_introduccion",
           "persistentUuid": "936875f2-5a9c-48cb-aec6-572318c88805",
-          "width": 485,
-          "x": 0,
-          "y": 1,
+          "width": 499,
+          "x": -5,
+          "y": -13,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -12844,8 +12915,8 @@
           "name": "IconoSkip",
           "persistentUuid": "0d103bc3-4099-43ee-8ba9-5bf2a2d63bb6",
           "width": 34,
-          "x": 436,
-          "y": 6,
+          "x": 435,
+          "y": 18,
           "zOrder": 302,
           "numberProperties": [],
           "stringProperties": [],
@@ -12861,8 +12932,8 @@
           "name": "FondoMenu",
           "persistentUuid": "4653fd1d-3186-4441-b5d4-ab70dd0555b9",
           "width": 553,
-          "x": -24,
-          "y": -7,
+          "x": -28,
+          "y": -14,
           "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
@@ -28278,49 +28349,6 @@
           "assetStoreId": "",
           "bold": false,
           "italic": false,
-          "name": "TxtPerdiste",
-          "smoothed": true,
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "string": "PERDISTE!",
-          "font": "",
-          "textAlignment": "center",
-          "characterSize": 28,
-          "color": {
-            "b": 0,
-            "g": 0,
-            "r": 255
-          },
-          "content": {
-            "bold": false,
-            "isOutlineEnabled": false,
-            "isShadowEnabled": false,
-            "italic": false,
-            "outlineColor": "255;255;255",
-            "outlineThickness": 2,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
-            "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
-            "smoothed": true,
-            "underlined": false,
-            "text": "PERDISTE!",
-            "font": "",
-            "textAlignment": "center",
-            "verticalTextAlignment": "top",
-            "characterSize": 28,
-            "lineHeight": 0,
-            "color": "255;0;0"
-          }
-        },
-        {
-          "assetStoreId": "",
-          "bold": false,
-          "italic": false,
           "name": "TxtNivel",
           "smoothed": true,
           "type": "TextObject::Text",
@@ -28468,6 +28496,115 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "2d47d973aa7bcdca49ef9f7815377b372e42d5d5ec2b8c53a489077c3c10bae7",
+          "name": "laurel",
+          "persistentUuid": "4f8a916e-0190-483c-93fd-6041f0f95814",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "No Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Herb_No Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 4
+                          },
+                          {
+                            "x": 28,
+                            "y": 4
+                          },
+                          {
+                            "x": 28,
+                            "y": 29
+                          },
+                          {
+                            "x": 4,
+                            "y": 29
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Herb_Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 4
+                          },
+                          {
+                            "x": 28,
+                            "y": 4
+                          },
+                          {
+                            "x": 28,
+                            "y": 29
+                          },
+                          {
+                            "x": 4,
+                            "y": 29
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -28528,9 +28665,6 @@
             "objectName": "PanelInv"
           },
           {
-            "objectName": "TxtPerdiste"
-          },
-          {
             "objectName": "TxtNivel"
           },
           {
@@ -28538,6 +28672,9 @@
           },
           {
             "objectName": "Fundido"
+          },
+          {
+            "objectName": "laurel"
           }
         ]
       },
@@ -29999,6 +30136,7 @@
           ]
         },
         {
+          "aiGeneratedEventId": "01M6MWYMS0B62PQNDRXDE9J438",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -30013,14 +30151,55 @@
           "actions": [
             {
               "type": {
-                "value": "PlayMusic"
+                "value": "SetMusicChannelVolume"
               },
               "parameters": [
                 "",
-                "comida legendaria2.mp3",
-                "",
-                "",
-                ""
+                "1",
+                "=",
+                "60"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "MusicaIniciada",
+                    "True",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlayMusicOnChannel"
+                  },
+                  "parameters": [
+                    "",
+                    "comida legendaria2.mp3",
+                    "1",
+                    "yes",
+                    "60",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "MusicaIniciada",
+                    "True",
+                    ""
+                  ]
+                }
               ]
             }
           ]
@@ -32616,6 +32795,58 @@
               ]
             }
           ]
+        },
+        {
+          "aiGeneratedEventId": "01M6MWYMS0B62PQNDRXDE9J438",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Dylan",
+                "laurel",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Morron",
+                "+",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "laurel",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundOnChannel"
+              },
+              "parameters": [
+                "",
+                "assets/sonidos/ingredientes/juntar ingrediente.mp3",
+                "4",
+                "no",
+                "100",
+                "1"
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -32885,7 +33116,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5392188614293869,
+        "zoomFactor": 1.458333333333345,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -33253,8 +33484,8 @@
           "name": "White1BitPixelBar",
           "persistentUuid": "2c18fed9-1576-46a2-be74-cae51c999571",
           "width": 0,
-          "x": 54,
-          "y": 24,
+          "x": 44,
+          "y": 21,
           "zOrder": 27,
           "numberProperties": [],
           "stringProperties": [],
@@ -37648,6 +37879,247 @@
               ]
             }
           ]
+        },
+        {
+          "aiGeneratedEventId": "01M6MX0GTARH0CJDHZ0BZ4KH2S",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SceneJustBegins"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetMusicChannelVolume"
+              },
+              "parameters": [
+                "",
+                "1",
+                "=",
+                "60"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "MusicaIniciada",
+                    "False",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlayMusicOnChannel"
+                  },
+                  "parameters": [
+                    "",
+                    "comida legendaria2.mp3",
+                    "1",
+                    "yes",
+                    "60",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "MusicaIniciada",
+                    "True",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6ANF3PBKSWT6V8ZDYQC55W1",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SceneJustBegins"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "TxtPerdiste"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "TxtPerdiste",
+                "Text",
+                "=",
+                "\"PERDISTE!\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Health::Health::SetHealth"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                "VidaDylan",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetObjectTimer"
+              },
+              "parameters": [
+                "Dylan",
+                "\"Invuln\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetObjectTimer"
+              },
+              "parameters": [
+                "Dylan",
+                "\"Golpe\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetObjectTimer"
+              },
+              "parameters": [
+                "Dylan",
+                "\"Ataque\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "VidaDylan",
+                "=",
+                "max(0, min(100, Dylan.Health::Health()))"
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+              },
+              "parameters": [
+                "White1BitPixelBar",
+                "=",
+                "VidaDylan",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6ANFQT8HP639HGA99F35M12",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SceneJustBegins"
+              },
+              "parameters": [
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "VidaDylan",
+                "<=",
+                "0"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "VidaDylan",
+                "=",
+                "100"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
+            }
+          ],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Else",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"Derrota\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
         }
       ],
       "layers": [
@@ -37755,6 +38227,10 @@
           "type": "ScalableCapability::ScalableBehavior"
         },
         {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
+        },
+        {
           "name": "Tween",
           "type": "Tween::TweenBehavior"
         }
@@ -37789,7 +38265,13 @@
         "gameEditorMode": "instances-editor"
       },
       "objectsGroups": [],
-      "variables": [],
+      "variables": [
+        {
+          "name": "Ganado",
+          "type": "boolean",
+          "value": false
+        }
+      ],
       "instances": [
         {
           "angle": 0,
@@ -43430,7 +43912,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M6AQ1S7P081EEGWYJ708C026",
+          "aiGeneratedEventId": "01M6MX91G702FGDPZ5YN5BTPTF",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -43451,6 +43933,16 @@
               "parameters": [
                 "Dylan",
                 "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "Ganado",
+                "False",
                 ""
               ]
             }
@@ -43488,7 +43980,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M6D7KQ8B1E3W2R0RAB46FC32",
+          "aiGeneratedEventId": "01M6MWZ7XDYM1G7SE35DHNMZ6B",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -43502,35 +43994,22 @@
                 "",
                 ""
               ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Delete"
-              },
-              "parameters": [
-                "laurel",
-                ""
-              ]
             },
             {
               "type": {
-                "value": "PlaySoundOnChannel"
+                "value": "NumberVariable"
               },
               "parameters": [
-                "",
-                "assets/sonidos/ingredientes/juntar ingrediente.mp3",
-                "4",
-                "no",
-                "100",
-                "1"
+                "Morron",
+                "<",
+                "-9999"
               ]
             }
-          ]
+          ],
+          "actions": []
         },
         {
-          "aiGeneratedEventId": "01M6D7KQ8B1E3W2R0RAB46FC32",
+          "aiGeneratedEventId": "01M6MWZ7XDYM1G7SE35DHNMZ6B",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -43544,32 +44023,19 @@
                 "",
                 ""
               ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Delete"
-              },
-              "parameters": [
-                "salame",
-                ""
-              ]
             },
             {
               "type": {
-                "value": "PlaySoundOnChannel"
+                "value": "NumberVariable"
               },
               "parameters": [
-                "",
-                "assets/sonidos/ingredientes/juntar ingrediente.mp3",
-                "4",
-                "no",
-                "100",
-                "1"
+                "Ajo",
+                "<",
+                "-9999"
               ]
             }
-          ]
+          ],
+          "actions": []
         },
         {
           "aiGeneratedEventId": "01M6ANJAHMVEY4KGAFYG8VMRQ9",
@@ -45242,7 +45708,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M6ANACRN2FCF009CNMQB8JM2",
+          "aiGeneratedEventId": "01M6MX91G702FGDPZ5YN5BTPTF",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -45278,6 +45744,16 @@
             },
             {
               "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "Ganado",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "BuiltinCommonInstructions::Once"
               },
               "parameters": []
@@ -45307,7 +45783,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M6ANACRN2FCF009CNMQB8JM2",
+          "aiGeneratedEventId": "01M6MWZVWXPECVG205Q9CXJF5H",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -45349,6 +45825,22 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "TxtGanaste"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "video_final"
+              ]
+            },
             {
               "type": {
                 "value": "Show"
@@ -45584,7 +46076,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M6AQ8PSV4YXRWC7JASCN3Z6X",
+          "aiGeneratedEventId": "01M6MWZ7XDYM1G7SE35DHNMZ6B",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -45594,7 +46086,7 @@
               "parameters": [
                 "Dylan",
                 ">",
-                "4650"
+                "999999"
               ]
             },
             {
@@ -45615,37 +46107,7 @@
               "parameters": []
             }
           ],
-          "actions": [
-            {
-              "type": {
-                "value": "Show"
-              },
-              "parameters": [
-                "TxtGanaste",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-              },
-              "parameters": [
-                "TxtGanaste",
-                "Text",
-                "=",
-                "\"GANASTE!\""
-              ]
-            },
-            {
-              "type": {
-                "value": "ResetTimer"
-              },
-              "parameters": [
-                "",
-                "\"Ganaste\""
-              ]
-            }
-          ]
+          "actions": []
         },
         {
           "aiGeneratedEventId": "01M6FY1XE9VNN7987DED7DY0ZP",
@@ -45834,7 +46296,7 @@
               ]
             },
             {
-              "aiGeneratedEventId": "01M6G14TTV58J8T6S02DEJS276",
+              "aiGeneratedEventId": "01M6MWZ7XDYM1G7SE35DHNMZ6B",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -45856,7 +46318,7 @@
                     "value": "SetNumberVariable"
                   },
                   "parameters": [
-                    "",
+                    "Ingredientes",
                     "+",
                     "1"
                   ]
@@ -46315,6 +46777,7 @@
               "comment": "Al ganar se muestra GANASTE y se reproduce video_final antes de volver al menu."
             },
             {
+              "aiGeneratedEventId": "01M6MX91G702FGDPZ5YN5BTPTF",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -46348,6 +46811,14 @@
               "actions": [
                 {
                   "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "TxtPerdiste"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Show"
                   },
                   "parameters": [
@@ -46368,6 +46839,16 @@
                 },
                 {
                   "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "Ganado",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "ResetTimer"
                   },
                   "parameters": [
@@ -46378,6 +46859,7 @@
               ]
             },
             {
+              "aiGeneratedEventId": "01M6MWZVWXPECVG205Q9CXJF5H",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -46405,6 +46887,34 @@
                   },
                   "parameters": [
                     "TxtGanaste"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "TxtPerdiste"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetX"
+                  },
+                  "parameters": [
+                    "video_final",
+                    "=",
+                    "CameraX() - 160"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetY"
+                  },
+                  "parameters": [
+                    "video_final",
+                    "=",
+                    "CameraY() - 90"
                   ]
                 },
                 {
@@ -46536,6 +47046,75 @@
             }
           ],
           "parameters": []
+        },
+        {
+          "aiGeneratedEventId": "01M6MWZVWXPECVG205Q9CXJF5H",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SceneJustBegins"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetMusicChannelVolume"
+              },
+              "parameters": [
+                "",
+                "1",
+                "=",
+                "60"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "MusicaIniciada",
+                    "False",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlayMusicOnChannel"
+                  },
+                  "parameters": [
+                    "",
+                    "comida legendaria2.mp3",
+                    "1",
+                    "yes",
+                    "60",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "MusicaIniciada",
+                    "True",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -48963,7 +49542,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.5075088147003495,
+        "zoomFactor": 0.9475825490178631,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -51488,8 +52067,8 @@
     },
     {
       "description": "Barra de vida fija y sincronizada, recogida de morrón y panel de inventario oculto que se abre/cierra con I",
-      "lastRunAt": 1793683720825,
-      "lastRunDurationMs": 2351,
+      "lastRunAt": 1793850528569,
+      "lastRunDurationMs": 4728,
       "lastRunFramesExecuted": 109,
       "lastRunStatus": "passed",
       "name": "vida-inventario-animaciones",
@@ -51560,8 +52139,8 @@
     },
     {
       "description": "Derrota: animación Muerte, vida a 0, reaparición automática con vida completa (sin botones) y una sola barra",
-      "lastRunAt": 1793507416582,
-      "lastRunDurationMs": 789,
+      "lastRunAt": 1793850702055,
+      "lastRunDurationMs": 5524,
       "lastRunFramesExecuted": 179,
       "lastRunStatus": "passed",
       "name": "muerte-y-respawn",
@@ -51847,8 +52426,8 @@
     },
     {
       "description": "El inventario está oculto, se abre con I mostrando panel + iconos + cantidades y se cierra con I y ESC",
-      "lastRunAt": 1793683727518,
-      "lastRunDurationMs": 2974,
+      "lastRunAt": 1793850539519,
+      "lastRunDurationMs": 4212,
       "lastRunFramesExecuted": 53,
       "lastRunStatus": "passed",
       "name": "inventario-panel",
@@ -52302,8 +52881,8 @@
     },
     {
       "description": "Level banner, GANASTE + video_final then menu",
-      "lastRunAt": 1793683930585,
-      "lastRunDurationMs": 14948,
+      "lastRunAt": 1793850675121,
+      "lastRunDurationMs": 5071,
       "lastRunFramesExecuted": 1074,
       "lastRunStatus": "passed",
       "name": "ganaste-nivel3",
