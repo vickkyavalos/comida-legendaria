@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 286,
+    "build": 287,
     "major": 5,
     "minor": 6,
     "revision": 0
@@ -4954,6 +4954,590 @@
         "metadata": "",
         "name": "video/video 1.mp4",
         "userAdded": false
+      },
+      {
+        "file": "assets/cuchillo3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "cuchillo3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "hurt1.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"hurt1.png\",\"extension\":\".png\"}",
+        "name": "hurt1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "hurt2.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"hurt2.png\",\"extension\":\".png\"}",
+        "name": "hurt2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "hurt3.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"hurt3.png\",\"extension\":\".png\"}",
+        "name": "hurt3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "59.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "59.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "58.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "58.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "57.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "57.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "54.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "54.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "52.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "52.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "47.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "47.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "46.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "46.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "43.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "43.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "35.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "35.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "30.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "30.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "13.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "12.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "idle10.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"idle10.png\",\"extension\":\".png\"}",
+        "name": "idle10.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "idle11.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"idle11.png\",\"extension\":\".png\"}",
+        "name": "idle11.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "idle12.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"idle12.png\",\"extension\":\".png\"}",
+        "name": "idle12.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "run15.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"run15.png\",\"extension\":\".png\"}",
+        "name": "run15.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "run16.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"run16.png\",\"extension\":\".png\"}",
+        "name": "run16.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "run17.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"run17.png\",\"extension\":\".png\"}",
+        "name": "run17.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "run18.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"run18.png\",\"extension\":\".png\"}",
+        "name": "run18.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "run19.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"run19.png\",\"extension\":\".png\"}",
+        "name": "run19.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "run20.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"run20.png\",\"extension\":\".png\"}",
+        "name": "run20.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "run21.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"run21.png\",\"extension\":\".png\"}",
+        "name": "run21.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "golpe_rapido10.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"golpe_rapido10.png\",\"extension\":\".png\"}",
+        "name": "golpe_rapido10.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "golpelargo11.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"golpelargo11.png\",\"extension\":\".png\"}",
+        "name": "golpelargo11.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "golpelargo12.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"golpelargo12.png\",\"extension\":\".png\"}",
+        "name": "golpelargo12.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "golpelargo13.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"golpelargo13.png\",\"extension\":\".png\"}",
+        "name": "golpelargo13.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "golpelargo14.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"golpelargo14.png\",\"extension\":\".png\"}",
+        "name": "golpelargo14.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "golpelargo15.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"golpelargo15.png\",\"extension\":\".png\"}",
+        "name": "golpelargo15.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "golpelargo16.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"golpelargo16.png\",\"extension\":\".png\"}",
+        "name": "golpelargo16.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "fondo_nivel3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "fondo_nivel3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carniceria3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carniceria3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "cartel.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cartel.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "cartel2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cartel2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "cartel3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cartel3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "cartel4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cartel4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "cartel5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cartel5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "fondo nivel2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "fondo nivel2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/run-carnicero/run8c (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/run-carnicero/run8c (1).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/run-carnicero/run8c (2).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/run-carnicero/run8c (2).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/run-carnicero/run8c (3).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/run-carnicero/run8c (3).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/run-carnicero/run8c (4).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/run-carnicero/run8c (4).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/run-carnicero/run8c (5).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/run-carnicero/run8c (5).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/run-carnicero/run8c (6).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/run-carnicero/run8c (6).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/run-carnicero/run8c (7).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/run-carnicero/run8c (7).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/run-carnicero/run8c (8).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/run-carnicero/run8c (8).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/die-carnicero/DIEC (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/die-carnicero/DIEC (1).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/die-carnicero/DIEC (2).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/die-carnicero/DIEC (2).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/die-carnicero/DIEC (3).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/die-carnicero/DIEC (3).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/die-carnicero/DIEC (4).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/die-carnicero/DIEC (4).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/die-carnicero/DIEC (5).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/die-carnicero/DIEC (5).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/idleCarnicero/idle1c.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/idleCarnicero/idle1c.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/idleCarnicero/idle2c.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/idleCarnicero/idle2c.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/idleCarnicero/idle3c.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/idleCarnicero/idle3c.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/idleCarnicero/idle4c.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/idleCarnicero/idle4c.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/idleCarnicero/idle5c.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/idleCarnicero/idle5c.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/golperapido-carnicero/golpe_rapido5c (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/golperapido-carnicero/golpe_rapido5c (1).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/golperapido-carnicero/golpe_rapido5c (2).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/golperapido-carnicero/golpe_rapido5c (2).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/golperapido-carnicero/golpe_rapido5c (3).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/golperapido-carnicero/golpe_rapido5c (3).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/golperapido-carnicero/golpe_rapido5c (4).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/golperapido-carnicero/golpe_rapido5c (4).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/golperapido-carnicero/golpe_rapido5c (5).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/golperapido-carnicero/golpe_rapido5c (5).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/golpelargo-carniecero/golpelargo6c (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/golpelargo-carniecero/golpelargo6c (1).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/golpelargo-carniecero/golpelargo6c (2).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/golpelargo-carniecero/golpelargo6c (2).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/golpelargo-carniecero/golpelargo6c (3).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/golpelargo-carniecero/golpelargo6c (3).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/golpelargo-carniecero/golpelargo6c (4).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/golpelargo-carniecero/golpelargo6c (4).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/golpelargo-carniecero/golpelargo6c (5).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/golpelargo-carniecero/golpelargo6c (5).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/golpelargo-carniecero/golpelargo6c (6).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/golpelargo-carniecero/golpelargo6c (6).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/hurt-carnicero/hurt1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/hurt-carnicero/hurt1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/hurt-carnicero/hurt2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/hurt-carnicero/hurt2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/hurt-carnicero/hurt3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/hurt-carnicero/hurt3.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -8280,6 +8864,66 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "fondo",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "fondo nivel2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 2246,
+                        "y": 0
+                      },
+                      {
+                        "x": 2246,
+                        "y": 270
+                      },
+                      {
+                        "x": 0,
+                        "y": 270
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -8311,6 +8955,9 @@
       },
       {
         "objectName": "pared"
+      },
+      {
+        "objectName": "fondo"
       }
     ]
   },
@@ -31424,7 +32071,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.7766023645096317,
+        "zoomFactor": 0.6579356521975028,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -31434,23 +32081,6 @@
       "instances": [
         {
           "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 269,
-          "keepRatio": true,
-          "layer": "",
-          "name": "fondito",
-          "persistentUuid": "fcfea8e6-5754-47b3-94ac-c978d5d276c9",
-          "width": 1800,
-          "x": -1,
-          "y": 0,
-          "zOrder": -1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": false,
           "height": 0,
           "keepRatio": true,
@@ -31458,9 +32088,9 @@
           "name": "Dylan",
           "persistentUuid": "104ff785-5baf-465a-ad56-79ef10e53b9e",
           "width": 0,
-          "x": 265,
-          "y": 164,
-          "zOrder": 12,
+          "x": 32,
+          "y": 157,
+          "zOrder": 24,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -31468,62 +32098,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 74,
-          "keepRatio": true,
-          "layer": "",
-          "name": "piso",
-          "persistentUuid": "f120139d-9075-4c9b-b0b5-f9d6c75031ae",
-          "width": 420,
-          "x": 936,
-          "y": 195,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 74,
-          "keepRatio": true,
-          "layer": "",
-          "name": "piso",
-          "persistentUuid": "1206dfb7-26c0-473c-9c09-2cde8cc94276",
-          "width": 410,
-          "x": 1344,
-          "y": 194,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
+          "depth": 1,
           "height": 74,
           "keepRatio": true,
           "layer": "",
           "name": "piso",
           "persistentUuid": "f3df4e4b-828b-4935-8019-9c8d44d8d74e",
-          "width": 280,
-          "x": 1521,
-          "y": 195,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 40,
-          "keepRatio": true,
-          "layer": "",
-          "name": "cajon",
-          "persistentUuid": "eb08fcbb-baad-42ed-9a4a-1503539cd7d7",
-          "width": 40,
-          "x": 620,
-          "y": 165,
+          "width": 605,
+          "x": 1185,
+          "y": 193,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -31533,30 +32116,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 52,
-          "keepRatio": true,
-          "layer": "",
-          "name": "cajon",
-          "persistentUuid": "32a81357-921e-4f10-839d-cb964b88e8ed",
-          "width": 49,
-          "x": 1021,
-          "y": 147,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 40,
+          "height": 46,
           "keepRatio": true,
           "layer": "",
           "name": "cajon",
           "persistentUuid": "216d7c84-3215-427b-b26f-72ee81c12416",
-          "width": 40,
-          "x": 1650,
-          "y": 157,
+          "width": 45,
+          "x": 1830,
+          "y": 181,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -31572,26 +32139,9 @@
           "name": "butcher",
           "persistentUuid": "d3d753c0-b306-4f1f-848e-fdab2a5924e4",
           "width": 73,
-          "x": 737,
-          "y": 155,
-          "zOrder": 13,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 74,
-          "keepRatio": true,
-          "layer": "",
-          "name": "piso",
-          "persistentUuid": "a86bea37-eec2-4e22-ab63-3a7850210836",
-          "width": 835,
-          "x": -7,
-          "y": 194,
-          "zOrder": 0,
+          "x": 270,
+          "y": 139,
+          "zOrder": 25,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -31605,26 +32155,9 @@
           "name": "auto",
           "persistentUuid": "031fd615-e02e-4ab0-bb2a-340dbe7893ff",
           "width": 0,
-          "x": 416,
-          "y": 131,
+          "x": 350,
+          "y": 127,
           "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 149,
-          "keepRatio": true,
-          "layer": "",
-          "name": "carniceria",
-          "persistentUuid": "6201866e-63c5-4bfc-baee-7f1a11b2e9e0",
-          "width": 168,
-          "x": 1317,
-          "y": 68,
-          "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -31656,8 +32189,8 @@
           "name": "carne",
           "persistentUuid": "e917f703-5d9b-4e27-9812-b1040c3b2ad3",
           "width": 41,
-          "x": 1170,
-          "y": 151,
+          "x": 1238,
+          "y": 115,
           "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
@@ -31667,14 +32200,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 29,
+          "height": 34,
           "keepRatio": true,
           "layer": "",
           "name": "chorixo",
           "persistentUuid": "8639b416-7045-4a94-87eb-5af21dbc6627",
-          "width": 34,
+          "width": 39,
           "x": 717,
-          "y": 134,
+          "y": 129,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -31699,144 +32232,17 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "Inventario",
-          "name": "olla",
-          "persistentUuid": "ba438ec9-4dda-4c50-bfb7-628fb010b811",
-          "width": 0,
-          "x": 222,
-          "y": 160,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": true,
-          "height": 160,
+          "depth": 1,
+          "height": 73,
           "keepRatio": true,
-          "layer": "Inventario",
-          "name": "PanelInv",
-          "persistentUuid": "acedae65-bddc-42a8-a4f3-d860cbf9ac2d",
-          "width": 160,
-          "x": 160,
-          "y": 55,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "Inventario",
-          "name": "InvTitulo",
-          "persistentUuid": "0f05f812-48b5-4f14-ac1b-fe79ab75f230",
-          "width": 0,
-          "x": 176,
-          "y": 65,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "Inventario",
-          "name": "TxtMorron",
-          "persistentUuid": "f5e57ced-985e-4b54-982b-29b5bd8d37e6",
-          "width": 0,
-          "x": 208,
-          "y": 104,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "Inventario",
-          "name": "TxtAjo",
-          "persistentUuid": "7eec2367-4ffb-4fd0-a617-1f797635710e",
-          "width": 0,
-          "x": 208,
-          "y": 142,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 24,
-          "keepRatio": true,
-          "layer": "Inventario",
-          "name": "IconoMorron",
-          "persistentUuid": "2f83bcff-20ad-4405-9b9e-5b5a8f30d276",
-          "width": 24,
-          "x": 178,
-          "y": 102,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 24,
-          "keepRatio": true,
-          "layer": "Inventario",
-          "name": "IconoAjo",
-          "persistentUuid": "b2f0ef8b-d168-4735-910c-df95f0dcf72f",
-          "width": 24,
-          "x": 178,
-          "y": 140,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 9,
-          "keepRatio": true,
-          "layer": "barra_vida",
-          "name": "White1BitPixelBar",
-          "persistentUuid": "9c65ae04-4b18-4381-8941-78f396a57197",
-          "width": 58,
-          "x": 8,
-          "y": 11,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 12,
-          "keepRatio": true,
-          "layer": "barra_vida",
-          "name": "BarraEnemigo",
-          "persistentUuid": "47ce2b8b-e92e-42b7-b152-b5479436cf5e",
-          "width": 120,
-          "x": 351,
-          "y": 12,
-          "zOrder": 0,
+          "layer": "",
+          "name": "cajon",
+          "persistentUuid": "d27ee674-0781-4686-8c21-d5b83c6794ad",
+          "width": 63,
+          "x": 1436,
+          "y": 161,
+          "zOrder": 23,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -31845,96 +32251,15 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 21,
+          "height": 73,
           "keepRatio": true,
-          "layer": "barra_vida",
-          "name": "TxtMuertes",
-          "persistentUuid": "848cc5c7-842b-473b-a971-13b5ac5499cc",
-          "width": 39,
-          "x": 79,
-          "y": 5,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "Fin",
-          "name": "TxtNivel",
-          "persistentUuid": "a2a16aa7-9a05-4e7b-bca6-f5702a966979",
-          "width": 0,
-          "x": 187,
-          "y": 1,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "Fin",
-          "name": "TxtPerdiste",
-          "persistentUuid": "4978bd0b-f9a6-4459-9c9b-f7fc6aa725f8",
-          "width": 0,
-          "x": 140,
-          "y": 110,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 71,
-          "keepRatio": true,
-          "layer": "Fin",
-          "name": "PanelFin",
-          "persistentUuid": "7d6101bb-8b75-44a1-ab35-a0b6922167d2",
-          "width": 164,
-          "x": 165,
-          "y": 98,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "Fin",
-          "name": "TxtFin",
-          "persistentUuid": "2a7ad434-363d-49bd-a466-06539a149742",
-          "width": 0,
-          "x": 172,
-          "y": 114,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 306,
-          "hidden": true,
-          "keepRatio": true,
-          "layer": "Fin",
-          "name": "Fundido",
-          "persistentUuid": "dc91f8bc-067c-4921-a50e-3523ff3e0f7d",
-          "width": 491,
-          "x": -4,
-          "y": -12,
-          "zOrder": 0,
+          "layer": "",
+          "name": "cajon",
+          "persistentUuid": "b051a833-36e7-4175-95d5-c5a66e8f48a8",
+          "width": 63,
+          "x": 1435,
+          "y": 126,
+          "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -31945,11 +32270,11 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Fundido",
-          "persistentUuid": "e65e2412-ae5d-4d0b-9dd4-63404d5c8ffa",
+          "name": "NewSprite4",
+          "persistentUuid": "6e2bf719-5151-49f2-9ca0-ed50637d0558",
           "width": 0,
-          "x": 2061,
-          "y": 183,
+          "x": 1107,
+          "y": 162,
           "zOrder": 14,
           "numberProperties": [],
           "stringProperties": [],
@@ -31959,14 +32284,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 269,
+          "height": 98,
           "keepRatio": true,
           "layer": "",
-          "name": "fondito",
-          "persistentUuid": "2b041e40-6db4-45bf-b395-399f05110692",
-          "width": 1322,
-          "x": 1691,
-          "y": 1,
+          "name": "NewSprite6",
+          "persistentUuid": "3eaec35c-2e64-4383-a0a7-862032deb884",
+          "width": 92,
+          "x": 986,
+          "y": 158,
           "zOrder": 15,
           "numberProperties": [],
           "stringProperties": [],
@@ -31974,16 +32299,178 @@
         },
         {
           "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewSprite12",
+          "persistentUuid": "81efc4c4-b08b-4ae9-9a6c-07adcd6c8d2f",
+          "width": 0,
+          "x": 1429,
+          "y": 154,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 10,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewSprite13",
+          "persistentUuid": "d0b38bdb-a2e3-4593-8c7d-9c8879065c1c",
+          "width": 0,
+          "x": 1995,
+          "y": 159,
+          "zOrder": 17,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewSprite14",
+          "persistentUuid": "4c6729af-2058-46b0-aa39-2bb732b90c91",
+          "width": 0,
+          "x": 609,
+          "y": 155,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 18,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewSprite14",
+          "persistentUuid": "5afdfa7e-b7bd-46f3-8e4d-7930bb2d6a5e",
+          "width": 0,
+          "x": 586,
+          "y": 161,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 22,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewSprite3",
+          "persistentUuid": "9f3052eb-4024-4960-a0ca-fc28aa650749",
+          "width": 0,
+          "x": 467,
+          "y": 156,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 344,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewSprite3",
+          "persistentUuid": "8adc7f67-ad97-4ec3-a368-a7349c2c8fd4",
+          "width": 0,
+          "x": 134,
+          "y": 153,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
           "customSize": true,
+          "depth": 1,
           "height": 74,
           "keepRatio": true,
           "layer": "",
           "name": "piso",
-          "persistentUuid": "33503424-84ca-4420-b6fc-fca201bb0060",
-          "width": 280,
-          "x": 1680,
-          "y": 194,
-          "zOrder": 16,
+          "persistentUuid": "6cdb23bb-d16d-4a9d-82df-2c1af248df6d",
+          "width": 605,
+          "x": 635,
+          "y": 195,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 74,
+          "keepRatio": true,
+          "layer": "",
+          "name": "piso",
+          "persistentUuid": "897a4119-cc43-49ea-811e-d64b5521aeaf",
+          "width": 666,
+          "x": -6,
+          "y": 195,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "fondo",
+          "persistentUuid": "f579a057-be43-4a61-acff-86b745b6f4d0",
+          "width": 0,
+          "x": -4,
+          "y": -3,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 10,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "CARTEL",
+          "persistentUuid": "7167512d-ba00-4778-aef9-85e97fe76877",
+          "width": 0,
+          "x": 1383,
+          "y": 32,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "White1BitPixelBar",
+          "persistentUuid": "2c18fed9-1576-46a2-be74-cae51c999571",
+          "width": 0,
+          "x": 54,
+          "y": 24,
+          "zOrder": 27,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -32000,22 +32487,25 @@
           "variables": [
             {
               "name": "PatrolDir",
+              "persistentUuid": "22e7592a-82d0-4030-aaf2-199ce9fd0623",
               "type": "number",
               "value": 1
             },
             {
               "name": "PatrolMax",
+              "persistentUuid": "bc65de65-ae33-4980-93f9-9e4fe3a1010d",
               "type": "number",
               "value": 500
             },
             {
               "name": "PatrolMin",
+              "persistentUuid": "5871b04e-6544-416e-8f1b-ff17624d9b7f",
               "type": "number",
               "value": 80
             },
             {
               "name": "AtacandoCuchillo",
-              "persistentUuid": "92b90535-95cb-45c1-bca6-e24ee0053496",
+              "persistentUuid": "dac63a72-d81c-41dd-871c-4ef48877a122",
               "type": "boolean",
               "value": false
             },
@@ -32040,34 +32530,6 @@
           ],
           "effects": [],
           "behaviors": [
-            {
-              "name": "Health",
-              "type": "Health::Health",
-              "Health": 100,
-              "CurrentHealth": 0,
-              "MaxHealth": 100,
-              "DamageCooldown": 0,
-              "AllowOverHealing": false,
-              "IsHealthJustDamaged": false,
-              "DamageToBeApplied": 0,
-              "HitAtLeastOnce": false,
-              "ChanceToDodge": 0,
-              "IsJustDodged": false,
-              "HealToBeApplied": 0,
-              "HealthRegenRate": 0,
-              "HealthRegenDelay": 0,
-              "IsJustHealed": false,
-              "CurrentShieldPoints": 0,
-              "MaxShieldPoints": 0,
-              "ShieldDuration": 5,
-              "ShieldRegenRate": 0,
-              "BlockExcessDamage": false,
-              "ShieldRegenDelay": 0,
-              "IsShieldJustDamaged": false,
-              "ShieldDamageTaken": 0,
-              "FlatDamageReduction": 0,
-              "PercentDamageReduction": 0
-            },
             {
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
@@ -32102,14 +32564,8 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/idleCarnicero/idle/idle1c.png",
-                      "points": [
-                        {
-                          "name": "mano",
-                          "x": 52.5,
-                          "y": 26.5
-                        }
-                      ],
+                      "image": "carnicero/idleCarnicero/idle1c.png",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -32144,14 +32600,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "idle",
-                      "points": [
-                        {
-                          "name": "mano",
-                          "x": 52.5,
-                          "y": 26.5
-                        }
-                      ],
+                      "image": "carnicero/idleCarnicero/idle2c.png",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -32186,14 +32636,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/idleCarnicero/idle/idle2c.png",
-                      "points": [
-                        {
-                          "name": "mano",
-                          "x": 52.5,
-                          "y": 26.5
-                        }
-                      ],
+                      "image": "carnicero/idleCarnicero/idle3c.png",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -32228,14 +32672,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/idleCarnicero/idle/idle3c.png",
-                      "points": [
-                        {
-                          "name": "mano",
-                          "x": 52.5,
-                          "y": 26.5
-                        }
-                      ],
+                      "image": "carnicero/idleCarnicero/idle4c.png",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -32270,56 +32708,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/idleCarnicero/idle/idle4c.png",
-                      "points": [
-                        {
-                          "name": "mano",
-                          "x": 52.5,
-                          "y": 26.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 5,
-                            "y": 13
-                          },
-                          {
-                            "x": 128,
-                            "y": 13
-                          },
-                          {
-                            "x": 128,
-                            "y": 140
-                          },
-                          {
-                            "x": 5,
-                            "y": 140
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "carnicero/idleCarnicero/idle/idle5c.png",
-                      "points": [
-                        {
-                          "name": "mano",
-                          "x": 52.5,
-                          "y": 26.5
-                        }
-                      ],
+                      "image": "carnicero/idleCarnicero/idle5c.png",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -32361,19 +32751,14 @@
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.12,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/die-carnicero/die/DIEC (1).png",
-                      "points": [
-                        {
-                          "name": "mano",
-                          "x": 52.5,
-                          "y": 26.5
-                        }
-                      ],
+                      "image": "carnicero/die-carnicero/DIEC (1).png",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -32408,14 +32793,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/die-carnicero/die/DIEC (2).png",
-                      "points": [
-                        {
-                          "name": "mano",
-                          "x": 52.5,
-                          "y": 26.5
-                        }
-                      ],
+                      "image": "carnicero/die-carnicero/DIEC (2).png",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -32450,14 +32829,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/die-carnicero/die/DIEC (3).png",
-                      "points": [
-                        {
-                          "name": "mano",
-                          "x": 52.5,
-                          "y": 26.5
-                        }
-                      ],
+                      "image": "carnicero/die-carnicero/DIEC (3).png",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -32492,14 +32865,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/die-carnicero/die/DIEC (4).png",
-                      "points": [
-                        {
-                          "name": "mano",
-                          "x": 52.5,
-                          "y": 26.5
-                        }
-                      ],
+                      "image": "carnicero/die-carnicero/DIEC (4).png",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -32534,14 +32901,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/die-carnicero/die/DIEC (5).png",
-                      "points": [
-                        {
-                          "name": "mano",
-                          "x": 52.5,
-                          "y": 26.5
-                        }
-                      ],
+                      "image": "carnicero/die-carnicero/DIEC (5).png",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -32583,20 +32944,14 @@
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
+                  "looping": true,
                   "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.12,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/run-carnicero/run/run8c (1).png",
-                      "points": [
-                        {
-                          "name": "mano",
-                          "x": 52.5,
-                          "y": 26.5
-                        }
-                      ],
+                      "image": "carnicero/run-carnicero/run8c (1).png",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -32631,14 +32986,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/run-carnicero/run/run8c (2).png",
-                      "points": [
-                        {
-                          "name": "mano",
-                          "x": 52.5,
-                          "y": 26.5
-                        }
-                      ],
+                      "image": "carnicero/run-carnicero/run8c (2).png",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -32673,14 +33022,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/run-carnicero/run/run8c (3).png",
-                      "points": [
-                        {
-                          "name": "mano",
-                          "x": 52.5,
-                          "y": 26.5
-                        }
-                      ],
+                      "image": "carnicero/run-carnicero/run8c (3).png",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -32715,14 +33058,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/run-carnicero/run/run8c (4).png",
-                      "points": [
-                        {
-                          "name": "mano",
-                          "x": 52.5,
-                          "y": 26.5
-                        }
-                      ],
+                      "image": "carnicero/run-carnicero/run8c (4).png",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -32757,14 +33094,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/run-carnicero/run/run8c (5).png",
-                      "points": [
-                        {
-                          "name": "mano",
-                          "x": 52.5,
-                          "y": 26.5
-                        }
-                      ],
+                      "image": "carnicero/run-carnicero/run8c (5).png",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -32799,14 +33130,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/run-carnicero/run/run8c (6).png",
-                      "points": [
-                        {
-                          "name": "mano",
-                          "x": 52.5,
-                          "y": 26.5
-                        }
-                      ],
+                      "image": "carnicero/run-carnicero/run8c (6).png",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -32841,14 +33166,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/run-carnicero/run/run8c (7).png",
-                      "points": [
-                        {
-                          "name": "mano",
-                          "x": 52.5,
-                          "y": 26.5
-                        }
-                      ],
+                      "image": "carnicero/run-carnicero/run8c (7).png",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -32883,14 +33202,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/run-carnicero/run/run8c (8).png",
-                      "points": [
-                        {
-                          "name": "mano",
-                          "x": 52.5,
-                          "y": 26.5
-                        }
-                      ],
+                      "image": "carnicero/run-carnicero/run8c (8).png",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -32928,24 +33241,18 @@
               ]
             },
             {
-              "name": "golpe-rapido",
+              "name": "golpe_rapido",
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
+                  "looping": true,
                   "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.12,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/golperapido-carnicero/golperapido/golpe_rapido5c (1).png",
-                      "points": [
-                        {
-                          "name": "mano",
-                          "x": 52.5,
-                          "y": 26.5
-                        }
-                      ],
+                      "image": "carnicero/golperapido-carnicero/golpe_rapido5c (1).png",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -32980,14 +33287,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/golperapido-carnicero/golperapido/golpe_rapido5c (2).png",
-                      "points": [
-                        {
-                          "name": "mano",
-                          "x": 52.5,
-                          "y": 26.5
-                        }
-                      ],
+                      "image": "carnicero/golperapido-carnicero/golpe_rapido5c (2).png",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -33022,14 +33323,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/golperapido-carnicero/golperapido/golpe_rapido5c (3).png",
-                      "points": [
-                        {
-                          "name": "mano",
-                          "x": 52.5,
-                          "y": 26.5
-                        }
-                      ],
+                      "image": "carnicero/golperapido-carnicero/golpe_rapido5c (3).png",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -33064,14 +33359,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/golperapido-carnicero/golperapido/golpe_rapido5c (4).png",
-                      "points": [
-                        {
-                          "name": "mano",
-                          "x": 52.5,
-                          "y": 26.5
-                        }
-                      ],
+                      "image": "carnicero/golperapido-carnicero/golpe_rapido5c (4).png",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -33106,14 +33395,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/golperapido-carnicero/golperapido/golpe_rapido5c (5).png",
-                      "points": [
-                        {
-                          "name": "mano",
-                          "x": 52.5,
-                          "y": 26.5
-                        }
-                      ],
+                      "image": "carnicero/golperapido-carnicero/golpe_rapido5c (5).png",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -33151,24 +33434,18 @@
               ]
             },
             {
-              "name": "golpe-largo",
+              "name": "golpe_largo",
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
+                  "looping": true,
                   "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.12,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/golpelargo-carniecero/golpelargo/golpelargo6c (1).png",
-                      "points": [
-                        {
-                          "name": "mano",
-                          "x": 52.5,
-                          "y": 26.5
-                        }
-                      ],
+                      "image": "carnicero/golpelargo-carniecero/golpelargo6c (1).png",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -33203,14 +33480,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/golpelargo-carniecero/golpelargo/golpelargo6c (2).png",
-                      "points": [
-                        {
-                          "name": "mano",
-                          "x": 52.5,
-                          "y": 26.5
-                        }
-                      ],
+                      "image": "carnicero/golpelargo-carniecero/golpelargo6c (2).png",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -33245,14 +33516,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/golpelargo-carniecero/golpelargo/golpelargo6c (3).png",
-                      "points": [
-                        {
-                          "name": "mano",
-                          "x": 52.5,
-                          "y": 26.5
-                        }
-                      ],
+                      "image": "carnicero/golpelargo-carniecero/golpelargo6c (3).png",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -33287,14 +33552,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/golpelargo-carniecero/golpelargo/golpelargo6c (4).png",
-                      "points": [
-                        {
-                          "name": "mano",
-                          "x": 52.5,
-                          "y": 26.5
-                        }
-                      ],
+                      "image": "carnicero/golpelargo-carniecero/golpelargo6c (4).png",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -33329,14 +33588,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/golpelargo-carniecero/golpelargo/golpelargo6c (5).png",
-                      "points": [
-                        {
-                          "name": "mano",
-                          "x": 52.5,
-                          "y": 26.5
-                        }
-                      ],
+                      "image": "carnicero/golpelargo-carniecero/golpelargo6c (5).png",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -33371,14 +33624,8 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/golpelargo-carniecero/golpelargo/golpelargo6c (6).png",
-                      "points": [
-                        {
-                          "name": "mano",
-                          "x": 52.5,
-                          "y": 26.5
-                        }
-                      ],
+                      "image": "carnicero/golpelargo-carniecero/golpelargo6c (6).png",
+                      "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -33426,7 +33673,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/hurt-carnicero/hurt/hurt1.png",
+                      "image": "carnicero/hurt-carnicero/hurt1.png",
                       "points": [
                         {
                           "name": "mano",
@@ -33468,7 +33715,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/hurt-carnicero/hurt/hurt2.png",
+                      "image": "carnicero/hurt-carnicero/hurt2.png",
                       "points": [
                         {
                           "name": "mano",
@@ -33510,7 +33757,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/hurt-carnicero/hurt/hurt3.png",
+                      "image": "carnicero/hurt-carnicero/hurt3.png",
                       "points": [
                         {
                           "name": "mano",
@@ -33591,7 +33838,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets/cuchillo.png",
+                      "image": "cuchillo3",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -33607,20 +33854,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 6,
-                            "y": 26
+                            "x": 2,
+                            "y": 17
                           },
                           {
-                            "x": 171,
-                            "y": 26
+                            "x": 62,
+                            "y": 17
                           },
                           {
-                            "x": 171,
-                            "y": 88
+                            "x": 62,
+                            "y": 56
                           },
                           {
-                            "x": 6,
-                            "y": 88
+                            "x": 2,
+                            "y": 56
                           }
                         ]
                       ]
@@ -34143,21 +34390,20 @@
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
-          "effects": [
+          "effects": [],
+          "behaviors": [
             {
-              "effectType": "Outline",
-              "name": "Outline",
-              "doubleParameters": {
-                "padding": 0,
-                "thickness": 2
-              },
-              "stringParameters": {
-                "color": "255;255;255"
-              },
-              "booleanParameters": {}
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            },
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
             }
           ],
-          "behaviors": [],
           "animations": [
             {
               "name": "",
@@ -34218,16 +34464,28 @@
           "variables": [],
           "effects": [
             {
-              "effectType": "Noise",
-              "name": "Noise",
+              "effectType": "Brightness",
+              "name": "Brightness",
               "doubleParameters": {
-                "noise": 0.5
+                "brightness": 0.8
               },
               "stringParameters": {},
               "booleanParameters": {}
             }
           ],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            },
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
           "animations": [
             {
               "name": "chorixo",
@@ -34280,159 +34538,9 @@
           ]
         },
         {
-          "assetStoreId": "9f548f2b9333b24e0a35e27b6fc539205e6c1ae8baae93766903e8dcc6080ce2",
-          "bottomMargin": 20,
-          "height": 48,
-          "leftMargin": 20,
-          "name": "PanelInv",
-          "persistentUuid": "28af0135-ecc2-4a31-90e5-1dafcff29138",
-          "rightMargin": 20,
-          "texture": "Default-panel (24).png",
-          "tiled": false,
-          "topMargin": 20,
-          "type": "PanelSpriteObject::PanelSprite",
-          "width": 48,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "bold": false,
-          "italic": false,
-          "name": "InvTitulo",
-          "persistentUuid": "3c8ef085-a011-4d09-8f11-5d2a3f7fb687",
-          "smoothed": true,
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "string": "Text",
-          "font": "PixelifySans-VariableFont_wght3.ttf",
-          "textAlignment": "left",
-          "characterSize": 15,
-          "color": {
-            "b": 0,
-            "g": 0,
-            "r": 0
-          },
-          "content": {
-            "bold": false,
-            "isOutlineEnabled": false,
-            "isShadowEnabled": false,
-            "italic": false,
-            "outlineColor": "255;255;255",
-            "outlineThickness": 2,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
-            "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
-            "smoothed": true,
-            "underlined": false,
-            "text": "Text",
-            "font": "PixelifySans-VariableFont_wght3.ttf",
-            "textAlignment": "left",
-            "verticalTextAlignment": "top",
-            "characterSize": 15,
-            "lineHeight": 0,
-            "color": "0;0;0"
-          }
-        },
-        {
-          "assetStoreId": "",
-          "bold": false,
-          "italic": false,
-          "name": "TxtMorron",
-          "persistentUuid": "718ab5e9-aa86-4d30-a5a5-49bd88cc7190",
-          "smoothed": true,
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "string": "Text",
-          "font": "PixelifySans-VariableFont_wght3.ttf",
-          "textAlignment": "left",
-          "characterSize": 15,
-          "color": {
-            "b": 0,
-            "g": 0,
-            "r": 0
-          },
-          "content": {
-            "bold": false,
-            "isOutlineEnabled": false,
-            "isShadowEnabled": false,
-            "italic": false,
-            "outlineColor": "255;255;255",
-            "outlineThickness": 2,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
-            "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
-            "smoothed": true,
-            "underlined": false,
-            "text": "Text",
-            "font": "PixelifySans-VariableFont_wght3.ttf",
-            "textAlignment": "left",
-            "verticalTextAlignment": "top",
-            "characterSize": 15,
-            "lineHeight": 0,
-            "color": "0;0;0"
-          }
-        },
-        {
-          "assetStoreId": "",
-          "bold": false,
-          "italic": false,
-          "name": "TxtAjo",
-          "persistentUuid": "76ad8f2b-a47f-4afb-b9d6-125160e402d4",
-          "smoothed": true,
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "string": "Text",
-          "font": "PixelifySans-VariableFont_wght3.ttf",
-          "textAlignment": "left",
-          "characterSize": 15,
-          "color": {
-            "b": 0,
-            "g": 0,
-            "r": 0
-          },
-          "content": {
-            "bold": false,
-            "isOutlineEnabled": false,
-            "isShadowEnabled": false,
-            "italic": false,
-            "outlineColor": "255;255;255",
-            "outlineThickness": 2,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
-            "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
-            "smoothed": true,
-            "underlined": false,
-            "text": "Text",
-            "font": "PixelifySans-VariableFont_wght3.ttf",
-            "textAlignment": "left",
-            "verticalTextAlignment": "top",
-            "characterSize": 15,
-            "lineHeight": 0,
-            "color": "0;0;0"
-          }
-        },
-        {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "IconoMorron",
-          "persistentUuid": "1b36d792-e127-4c44-9edf-841811915804",
+          "name": "NewSprite3",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -34440,17 +34548,16 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "morron asset",
+              "name": "reja",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
-                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "morron asset.png",
+                      "image": "59.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -34466,20 +34573,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 11,
-                            "y": 7
+                            "x": 2,
+                            "y": 9
                           },
                           {
-                            "x": 54,
-                            "y": 7
+                            "x": 62,
+                            "y": 9
                           },
                           {
-                            "x": 54,
-                            "y": 62
+                            "x": 62,
+                            "y": 55
                           },
                           {
-                            "x": 11,
-                            "y": 62
+                            "x": 2,
+                            "y": 55
                           }
                         ]
                       ]
@@ -34493,8 +34600,67 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "IconoAjo",
-          "persistentUuid": "6d096b9b-fe3e-4881-b881-8f44d110b377",
+          "name": "NewSprite4",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "sillon",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "58.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 18
+                          },
+                          {
+                            "x": 57,
+                            "y": 18
+                          },
+                          {
+                            "x": 57,
+                            "y": 50
+                          },
+                          {
+                            "x": 5,
+                            "y": 50
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite5",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -34511,7 +34677,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "ajos.png",
+                      "image": "57.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -34527,20 +34693,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 20,
-                            "y": 0
+                            "x": 6,
+                            "y": 7
                           },
                           {
-                            "x": 47,
-                            "y": 0
+                            "x": 59,
+                            "y": 7
                           },
                           {
-                            "x": 47,
-                            "y": 61
+                            "x": 59,
+                            "y": 56
                           },
                           {
-                            "x": 20,
-                            "y": 61
+                            "x": 6,
+                            "y": 56
                           }
                         ]
                       ]
@@ -34552,231 +34718,20 @@
           ]
         },
         {
-          "assetStoreId": "b804d2390e0f305c450b8396238c89b63af1107b3786ba4b452a7ed6db7e70f2",
-          "name": "BarraEnemigo",
-          "persistentUuid": "09b05a98-4ee4-4470-9a35-b0b785673400",
-          "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
-          "variant": "White 1Bit Square Bar2",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "InitialValue": 100,
-            "MaxValue": 100,
-            "BarTopPadding": 8,
-            "BarRightPadding": 10,
-            "BarBottomPadding": 8,
-            "BarLeftPadding": 10,
-            "PreviousHighValueDuration": 0,
-            "EasingDuration": 0.25
-          }
-        },
-        {
-          "assetStoreId": "",
-          "bold": false,
-          "italic": false,
-          "name": "TxtMuertes",
-          "persistentUuid": "cbaf28b2-4433-49f6-b3d9-0e601e0d9ac1",
-          "smoothed": true,
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "string": "Text",
-          "font": "",
-          "textAlignment": "left",
-          "characterSize": 15,
-          "color": {
-            "b": 0,
-            "g": 0,
-            "r": 0
-          },
-          "content": {
-            "bold": false,
-            "isOutlineEnabled": false,
-            "isShadowEnabled": false,
-            "italic": false,
-            "outlineColor": "255;255;255",
-            "outlineThickness": 1,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
-            "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
-            "smoothed": true,
-            "underlined": false,
-            "text": "Text",
-            "font": "",
-            "textAlignment": "left",
-            "verticalTextAlignment": "top",
-            "characterSize": 15,
-            "lineHeight": 0,
-            "color": "0;0;0"
-          }
-        },
-        {
-          "assetStoreId": "",
-          "bold": false,
-          "italic": false,
-          "name": "TxtNivel",
-          "persistentUuid": "c6e43921-2c8f-49bb-9eae-52d217ed7a39",
-          "smoothed": true,
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "string": "NIVEL 2",
-          "font": "",
-          "textAlignment": "center",
-          "characterSize": 28,
-          "color": {
-            "b": 255,
-            "g": 255,
-            "r": 255
-          },
-          "content": {
-            "bold": false,
-            "isOutlineEnabled": false,
-            "isShadowEnabled": false,
-            "italic": false,
-            "outlineColor": "255;255;255",
-            "outlineThickness": 2,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
-            "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
-            "smoothed": true,
-            "underlined": false,
-            "text": "NIVEL 2",
-            "font": "",
-            "textAlignment": "center",
-            "verticalTextAlignment": "top",
-            "characterSize": 28,
-            "lineHeight": 0,
-            "color": "255;255;255"
-          }
-        },
-        {
-          "assetStoreId": "",
-          "bold": false,
-          "italic": false,
-          "name": "TxtPerdiste",
-          "persistentUuid": "af07caa9-27d8-44be-8e7c-aea4b161c2af",
-          "smoothed": true,
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "string": "PERDISTE!",
-          "font": "",
-          "textAlignment": "center",
-          "characterSize": 28,
-          "color": {
-            "b": 0,
-            "g": 0,
-            "r": 255
-          },
-          "content": {
-            "bold": false,
-            "isOutlineEnabled": false,
-            "isShadowEnabled": false,
-            "italic": false,
-            "outlineColor": "255;255;255",
-            "outlineThickness": 2,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
-            "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
-            "smoothed": true,
-            "underlined": false,
-            "text": "PERDISTE!",
-            "font": "",
-            "textAlignment": "center",
-            "verticalTextAlignment": "top",
-            "characterSize": 28,
-            "lineHeight": 0,
-            "color": "255;0;0"
-          }
-        },
-        {
-          "assetStoreId": "9f548f2b9333b24e0a35e27b6fc539205e6c1ae8baae93766903e8dcc6080ce2",
-          "bottomMargin": 20,
-          "height": 48,
-          "leftMargin": 20,
-          "name": "PanelFin",
-          "persistentUuid": "050e109b-40ba-4374-8ed0-0f00d876a7d0",
-          "rightMargin": 20,
-          "texture": "Default-panel (24).png",
-          "tiled": false,
-          "topMargin": 20,
-          "type": "PanelSpriteObject::PanelSprite",
-          "width": 48,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "bold": false,
-          "italic": false,
-          "name": "TxtFin",
-          "persistentUuid": "dbc91682-fb97-46e9-95c6-c871c4450721",
-          "smoothed": true,
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "string": "FIN",
-          "font": "PixelifySans-VariableFont_wght3.ttf",
-          "textAlignment": "left",
-          "characterSize": 15,
-          "color": {
-            "b": 0,
-            "g": 0,
-            "r": 0
-          },
-          "content": {
-            "bold": false,
-            "isOutlineEnabled": false,
-            "isShadowEnabled": false,
-            "italic": false,
-            "outlineColor": "255;255;255",
-            "outlineThickness": 2,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
-            "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
-            "smoothed": true,
-            "underlined": false,
-            "text": "FIN",
-            "font": "PixelifySans-VariableFont_wght3.ttf",
-            "textAlignment": "left",
-            "verticalTextAlignment": "top",
-            "characterSize": 15,
-            "lineHeight": 0,
-            "color": "0;0;0"
-          }
-        },
-        {
           "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "33454e7ebbe51f44913847d92c10e31219f1972174a74ae1d54d4662eb109d33",
-          "name": "Fundido",
-          "persistentUuid": "387b8604-516f-4a08-9a23-3dc75aeaccd5",
+          "assetStoreId": "",
+          "name": "NewSprite6",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
           "behaviors": [
             {
-              "name": "Tween",
-              "type": "Tween::TweenBehavior"
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
             }
           ],
           "animations": [
@@ -34785,12 +34740,12 @@
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "pixel-black.png",
+                      "image": "54.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -34806,20 +34761,568 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 4,
+                            "y": 16
+                          },
+                          {
+                            "x": 61,
+                            "y": 16
+                          },
+                          {
+                            "x": 61,
+                            "y": 47
                           },
                           {
                             "x": 4,
-                            "y": 0
+                            "y": 47
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite7",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "52.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 18
+                          },
+                          {
+                            "x": 61,
+                            "y": 18
+                          },
+                          {
+                            "x": 61,
+                            "y": 46
+                          },
+                          {
+                            "x": 3,
+                            "y": 46
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite8",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "47.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 7
+                          },
+                          {
+                            "x": 61,
+                            "y": 7
+                          },
+                          {
+                            "x": 61,
+                            "y": 57
                           },
                           {
                             "x": 4,
-                            "y": 4
+                            "y": 57
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite9",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "46.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 7
                           },
                           {
-                            "x": 0,
-                            "y": 4
+                            "x": 58,
+                            "y": 7
+                          },
+                          {
+                            "x": 58,
+                            "y": 57
+                          },
+                          {
+                            "x": 6,
+                            "y": 57
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite10",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "43.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 8
+                          },
+                          {
+                            "x": 58,
+                            "y": 8
+                          },
+                          {
+                            "x": 58,
+                            "y": 57
+                          },
+                          {
+                            "x": 5,
+                            "y": 57
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite11",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "35.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 11
+                          },
+                          {
+                            "x": 60,
+                            "y": 11
+                          },
+                          {
+                            "x": 60,
+                            "y": 50
+                          },
+                          {
+                            "x": 4,
+                            "y": 50
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite12",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "30.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 12
+                          },
+                          {
+                            "x": 59,
+                            "y": 12
+                          },
+                          {
+                            "x": 59,
+                            "y": 55
+                          },
+                          {
+                            "x": 6,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite13",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "13.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 18,
+                            "y": 5
+                          },
+                          {
+                            "x": 50,
+                            "y": 5
+                          },
+                          {
+                            "x": 50,
+                            "y": 59
+                          },
+                          {
+                            "x": 18,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite14",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 6
+                          },
+                          {
+                            "x": 51,
+                            "y": 6
+                          },
+                          {
+                            "x": 51,
+                            "y": 60
+                          },
+                          {
+                            "x": 16,
+                            "y": 60
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "CARTEL",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "cartel5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 2
+                          },
+                          {
+                            "x": 118,
+                            "y": 2
+                          },
+                          {
+                            "x": 118,
+                            "y": 38
+                          },
+                          {
+                            "x": 2,
+                            "y": 38
                           }
                         ]
                       ]
@@ -34871,43 +35374,43 @@
             "objectName": "chorixo"
           },
           {
-            "objectName": "PanelInv"
+            "objectName": "NewSprite3"
           },
           {
-            "objectName": "InvTitulo"
+            "objectName": "NewSprite4"
           },
           {
-            "objectName": "TxtMorron"
+            "objectName": "NewSprite5"
           },
           {
-            "objectName": "TxtAjo"
+            "objectName": "NewSprite6"
           },
           {
-            "objectName": "IconoMorron"
+            "objectName": "NewSprite7"
           },
           {
-            "objectName": "IconoAjo"
+            "objectName": "NewSprite8"
           },
           {
-            "objectName": "BarraEnemigo"
+            "objectName": "NewSprite9"
           },
           {
-            "objectName": "TxtMuertes"
+            "objectName": "NewSprite10"
           },
           {
-            "objectName": "TxtNivel"
+            "objectName": "NewSprite11"
           },
           {
-            "objectName": "TxtPerdiste"
+            "objectName": "NewSprite12"
           },
           {
-            "objectName": "PanelFin"
+            "objectName": "NewSprite13"
           },
           {
-            "objectName": "TxtFin"
+            "objectName": "NewSprite14"
           },
           {
-            "objectName": "Fundido"
+            "objectName": "CARTEL"
           }
         ]
       },
@@ -34957,7 +35460,7 @@
               "parameters": [
                 "butcher",
                 "Dylan",
-                "400",
+                "600",
                 ""
               ]
             },
@@ -35016,7 +35519,7 @@
               "parameters": [
                 "butcher",
                 "Dylan",
-                "400",
+                "600",
                 ""
               ]
             },
@@ -35282,7 +35785,7 @@
                 "butcher",
                 "\"GolpeButcher\"",
                 ">=",
-                "3"
+                "5"
               ]
             }
           ],
@@ -35315,7 +35818,7 @@
               },
               "parameters": [
                 "Dylan",
-                "VIdaDylan",
+                "VidaDylan",
                 "=",
                 "Dylan.Health::Health()"
               ]
@@ -35680,7 +36183,7 @@
               },
               "parameters": [
                 "Dylan",
-                "VIdaDylan",
+                "VidaDylan",
                 "=",
                 "Dylan.Health::Health()"
               ]
@@ -36296,7 +36799,7 @@
                   },
                   "parameters": [
                     "Dylan",
-                    "VIdaDylan",
+                    "VidaDylan",
                     "=",
                     "Dylan.Health::Health()"
                   ]
@@ -36337,7 +36840,7 @@
                   },
                   "parameters": [
                     "Dylan",
-                    "VIdaDylan",
+                    "VidaDylan",
                     "=",
                     "Dylan.Health::Health()"
                   ]
@@ -36387,7 +36890,7 @@
                   },
                   "parameters": [
                     "Dylan",
-                    "VIdaDylan",
+                    "VidaDylan",
                     "=",
                     "Dylan.Health::Health()"
                   ]
@@ -36473,1500 +36976,6 @@
               ]
             }
           ]
-        },
-        {
-          "aiGeneratedEventId": "01M6FXZDC90Y3RBGNC7NY6YGBS",
-          "colorB": 228,
-          "colorG": 176,
-          "colorR": 74,
-          "creationTime": 0,
-          "name": "Vida Dylan unificada",
-          "source": "",
-          "type": "BuiltinCommonInstructions::Group",
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Comment",
-              "color": {
-                "b": 109,
-                "g": 230,
-                "r": 255,
-                "textB": 0,
-                "textG": 0,
-                "textR": 0
-              },
-              "comment": "Vida persistente igual que Nivel 1."
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "SceneJustBegins"
-                  },
-                  "parameters": [
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "NumberVariable"
-                  },
-                  "parameters": [
-                    "VidaDylan",
-                    "<=",
-                    "0"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "VidaDylan",
-                    "=",
-                    "100"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "SceneJustBegins"
-                  },
-                  "parameters": [
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Hide"
-                  },
-                  "parameters": [
-                    "TxtPerdiste"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Hide"
-                  },
-                  "parameters": [
-                    "PanelFin"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Hide"
-                  },
-                  "parameters": [
-                    "TxtFin"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Hide"
-                  },
-                  "parameters": [
-                    "Fundido"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Health::Health::SetHealth"
-                  },
-                  "parameters": [
-                    "Dylan",
-                    "Health",
-                    "VidaDylan",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ResetObjectTimer"
-                  },
-                  "parameters": [
-                    "Dylan",
-                    "\"Invuln\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ResetObjectTimer"
-                  },
-                  "parameters": [
-                    "Dylan",
-                    "\"Golpe\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ResetObjectTimer"
-                  },
-                  "parameters": [
-                    "Dylan",
-                    "\"Ataque\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ResetTimer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Derrota\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ResetTimer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Perdiste\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Show"
-                  },
-                  "parameters": [
-                    "TxtNivel",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-                  },
-                  "parameters": [
-                    "TxtNivel",
-                    "Text",
-                    "=",
-                    "\"NIVEL 2\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ResetTimer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Nivel\""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CompareTimer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Nivel\"",
-                    ">",
-                    "2.5"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Hide"
-                  },
-                  "parameters": [
-                    "TxtNivel"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "PosY"
-                  },
-                  "parameters": [
-                    "Dylan",
-                    ">",
-                    "520"
-                  ]
-                },
-                {
-                  "type": {
-                    "inverted": true,
-                    "value": "Health::Health::IsDead"
-                  },
-                  "parameters": [
-                    "Dylan",
-                    "Health",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Health::Health::SetHealth"
-                  },
-                  "parameters": [
-                    "Dylan",
-                    "Health",
-                    "0",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "VidaDylan",
-                    "=",
-                    "max(0, min(100, Dylan.Health::Health()))"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
-                  },
-                  "parameters": [
-                    "White1BitPixelBar",
-                    "=",
-                    "VidaDylan",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-                  },
-                  "parameters": [
-                    "TxtMuertes",
-                    "Text",
-                    "=",
-                    "\"Muertes: \" + ToString(MuertesSeguidas)"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "Health::Health::IsDead"
-                  },
-                  "parameters": [
-                    "Dylan",
-                    "Health",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "MuertesSeguidas",
-                    "+",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ResetTimer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Derrota\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ResetTimer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Perdiste\""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "Health::Health::IsDead"
-                  },
-                  "parameters": [
-                    "Dylan",
-                    "Health",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "CompareTimer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Derrota\"",
-                    ">",
-                    "2"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "NumberVariable"
-                  },
-                  "parameters": [
-                    "MuertesSeguidas",
-                    "<",
-                    "2"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "VidaDylan",
-                    "=",
-                    "100"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Scene"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Nivel 2\"",
-                    "no"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "Health::Health::IsDead"
-                  },
-                  "parameters": [
-                    "Dylan",
-                    "Health",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "CompareTimer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Derrota\"",
-                    ">",
-                    "2"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "NumberVariable"
-                  },
-                  "parameters": [
-                    "MuertesSeguidas",
-                    ">=",
-                    "2"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Show"
-                  },
-                  "parameters": [
-                    "TxtPerdiste",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-                  },
-                  "parameters": [
-                    "TxtPerdiste",
-                    "Text",
-                    "=",
-                    "\"PERDISTE!\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ResetTimer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Perdiste\""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "NumberVariable"
-                  },
-                  "parameters": [
-                    "MuertesSeguidas",
-                    ">=",
-                    "2"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "CompareTimer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Perdiste\"",
-                    ">",
-                    "2"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "VidaDylan",
-                    "=",
-                    "100"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "MuertesSeguidas",
-                    "=",
-                    "0"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Scene"
-                  },
-                  "parameters": [
-                    "",
-                    "\"menu\"",
-                    "no"
-                  ]
-                }
-              ]
-            }
-          ],
-          "parameters": []
-        },
-        {
-          "aiGeneratedEventId": "01M6FXZDC90Y3RBGNC7NY6YGBS",
-          "colorB": 228,
-          "colorG": 176,
-          "colorR": 74,
-          "creationTime": 0,
-          "name": "Inventario (olla)",
-          "source": "",
-          "type": "BuiltinCommonInstructions::Group",
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "Dylan",
-                    "asset_morron",
-                    "",
-                    "",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "Morron",
-                    "+",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Delete"
-                  },
-                  "parameters": [
-                    "asset_morron",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PlaySoundOnChannel"
-                  },
-                  "parameters": [
-                    "",
-                    "assets/sonidos/ingredientes/juntar ingrediente.mp3",
-                    "4",
-                    "no",
-                    "100",
-                    "1"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "Dylan",
-                    "ajo",
-                    "",
-                    "",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "Ajo",
-                    "+",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Delete"
-                  },
-                  "parameters": [
-                    "ajo",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PlaySoundOnChannel"
-                  },
-                  "parameters": [
-                    "",
-                    "assets/sonidos/ingredientes/juntar ingrediente.mp3",
-                    "4",
-                    "no",
-                    "100",
-                    "1"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "SceneJustBegins"
-                  },
-                  "parameters": [
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetBooleanVariable"
-                  },
-                  "parameters": [
-                    "InvAbierto",
-                    "False",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Or"
-                  },
-                  "parameters": [],
-                  "subInstructions": [
-                    {
-                      "type": {
-                        "value": "KeyFromTextJustPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "\"i\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "KeyFromTextJustPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "\"Tab\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "KeyFromTextJustPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "\"e\""
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetBooleanVariable"
-                  },
-                  "parameters": [
-                    "InvAbierto",
-                    "Toggle",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "KeyFromTextJustPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Escape\""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetBooleanVariable"
-                  },
-                  "parameters": [
-                    "InvAbierto",
-                    "False",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BooleanVariable"
-                  },
-                  "parameters": [
-                    "InvAbierto",
-                    "True",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Show"
-                  },
-                  "parameters": [
-                    "PanelInv",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Show"
-                  },
-                  "parameters": [
-                    "olla",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Show"
-                  },
-                  "parameters": [
-                    "InvTitulo",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Show"
-                  },
-                  "parameters": [
-                    "IconoMorron",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Show"
-                  },
-                  "parameters": [
-                    "TxtMorron",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Show"
-                  },
-                  "parameters": [
-                    "IconoAjo",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Show"
-                  },
-                  "parameters": [
-                    "TxtAjo",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Else",
-              "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Hide"
-                  },
-                  "parameters": [
-                    "PanelInv"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Hide"
-                  },
-                  "parameters": [
-                    "olla"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Hide"
-                  },
-                  "parameters": [
-                    "InvTitulo"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Hide"
-                  },
-                  "parameters": [
-                    "IconoMorron"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Hide"
-                  },
-                  "parameters": [
-                    "TxtMorron"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Hide"
-                  },
-                  "parameters": [
-                    "IconoAjo"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Hide"
-                  },
-                  "parameters": [
-                    "TxtAjo"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-                  },
-                  "parameters": [
-                    "InvTitulo",
-                    "Text",
-                    "=",
-                    "\"INVENTARIO\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-                  },
-                  "parameters": [
-                    "TxtMorron",
-                    "Text",
-                    "=",
-                    "\"MORRON x\" + ToString(Morron)"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-                  },
-                  "parameters": [
-                    "TxtAjo",
-                    "Text",
-                    "=",
-                    "\"AJO x\" + ToString(Ajo)"
-                  ]
-                }
-              ]
-            }
-          ],
-          "parameters": []
-        },
-        {
-          "aiGeneratedEventId": "01M6FXZDC90Y3RBGNC7NY6YGBS",
-          "colorB": 228,
-          "colorG": 176,
-          "colorR": 74,
-          "creationTime": 0,
-          "name": "Butcher como ENEMIGO1",
-          "source": "",
-          "type": "BuiltinCommonInstructions::Group",
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Comment",
-              "color": {
-                "b": 109,
-                "g": 230,
-                "r": 255,
-                "textB": 0,
-                "textG": 0,
-                "textR": 0
-              },
-              "comment": "El carnicero mira a Dylan, persigue, salta obstaculos y golpea con cooldown como ENEMIGO1."
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "SceneJustBegins"
-                  },
-                  "parameters": [
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Health::Health::SetHealth"
-                  },
-                  "parameters": [
-                    "butcher",
-                    "Health",
-                    "100",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ResetObjectTimer"
-                  },
-                  "parameters": [
-                    "butcher",
-                    "\"Ataque\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ResetObjectTimer"
-                  },
-                  "parameters": [
-                    "butcher",
-                    "\"Dolor\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ResetObjectTimer"
-                  },
-                  "parameters": [
-                    "butcher",
-                    "\"Salto\""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "Health::Health::IsDead"
-                  },
-                  "parameters": [
-                    "butcher",
-                    "Health",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "butcher",
-                    "Animation",
-                    "=",
-                    "\"die\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ActivateBehavior"
-                  },
-                  "parameters": [
-                    "butcher",
-                    "PlatformerObject",
-                    "no"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Hide"
-                  },
-                  "parameters": [
-                    "BarraEnemigo"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Else",
-              "conditions": [],
-              "actions": [],
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "PosX"
-                      },
-                      "parameters": [
-                        "butcher",
-                        "<",
-                        "Dylan.CenterX()"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "FlippableCapability::FlippableBehavior::FlipX"
-                      },
-                      "parameters": [
-                        "butcher",
-                        "Flippable",
-                        "no"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Else",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "FlippableCapability::FlippableBehavior::FlipX"
-                      },
-                      "parameters": [
-                        "butcher",
-                        "Flippable",
-                        "yes"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::IsOnFloor"
-                      },
-                      "parameters": [
-                        "butcher",
-                        "PlatformerObject"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "CompareObjectTimer"
-                      },
-                      "parameters": [
-                        "butcher",
-                        "\"Salto\"",
-                        ">",
-                        "1.1"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PosY"
-                      },
-                      "parameters": [
-                        "Dylan",
-                        "<",
-                        "butcher.Y() - 40"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Distance"
-                      },
-                      "parameters": [
-                        "butcher",
-                        "Dylan",
-                        "320",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::SimulateJumpKey"
-                      },
-                      "parameters": [
-                        "butcher",
-                        "PlatformerObject"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ResetObjectTimer"
-                      },
-                      "parameters": [
-                        "butcher",
-                        "\"Salto\""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "Health::Health::IsJustDamaged"
-                      },
-                      "parameters": [
-                        "butcher",
-                        "Health",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                      },
-                      "parameters": [
-                        "butcher",
-                        "Animation",
-                        "=",
-                        "\"hurt\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ResetObjectTimer"
-                      },
-                      "parameters": [
-                        "butcher",
-                        "\"Dolor\""
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
-                  },
-                  "parameters": [
-                    "BarraEnemigo",
-                    "=",
-                    "butcher.Health::Health()",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetXY"
-                  },
-                  "parameters": [
-                    "BarraEnemigo",
-                    "=",
-                    "butcher.X() - 25",
-                    "=",
-                    "butcher.Y() - 30"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "KeyFromTextJustPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "\"j\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Distance"
-                  },
-                  "parameters": [
-                    "Dylan",
-                    "butcher",
-                    "70",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "inverted": true,
-                    "value": "Health::Health::IsDead"
-                  },
-                  "parameters": [
-                    "butcher",
-                    "Health",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "inverted": true,
-                    "value": "Health::Health::IsDead"
-                  },
-                  "parameters": [
-                    "Dylan",
-                    "Health",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "CompareObjectTimer"
-                  },
-                  "parameters": [
-                    "Dylan",
-                    "\"Ataque\"",
-                    ">",
-                    "0.4"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Health::Health::Hit"
-                  },
-                  "parameters": [
-                    "butcher",
-                    "Health",
-                    "25",
-                    "",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ResetObjectTimer"
-                  },
-                  "parameters": [
-                    "Dylan",
-                    "\"Ataque\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ResetObjectTimer"
-                  },
-                  "parameters": [
-                    "butcher",
-                    "\"Dolor\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "Dylan",
-                    "Animation",
-                    "=",
-                    "\"Golpes\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PlaySoundOnChannel"
-                  },
-                  "parameters": [
-                    "",
-                    "assets/sonidos/golpes/sonido pegar golpe.mp3",
-                    "5",
-                    "no",
-                    "100",
-                    "1"
-                  ]
-                }
-              ]
-            }
-          ],
-          "parameters": []
-        },
-        {
-          "aiGeneratedEventId": "01M6FXZDC90Y3RBGNC7NY6YGBS",
-          "colorB": 228,
-          "colorG": 176,
-          "colorR": 74,
-          "creationTime": 0,
-          "name": "Fin con fundido",
-          "source": "",
-          "type": "BuiltinCommonInstructions::Group",
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Hide"
-                  },
-                  "parameters": [
-                    "PanelFin"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Hide"
-                  },
-                  "parameters": [
-                    "TxtFin"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "PosX"
-                  },
-                  "parameters": [
-                    "Dylan",
-                    ">",
-                    "2300"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Show"
-                  },
-                  "parameters": [
-                    "Fundido",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Opacity"
-                  },
-                  "parameters": [
-                    "Fundido",
-                    "=",
-                    "0"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Tween::TweenBehavior::AddObjectOpacityTween3"
-                  },
-                  "parameters": [
-                    "Fundido",
-                    "Tween",
-                    "Opacity",
-                    "\"salida\"",
-                    "255",
-                    "\"linear\"",
-                    "0.8",
-                    "no"
-                  ]
-                },
-                {
-                  "type": {
-                    "await": true,
-                    "value": "Wait"
-                  },
-                  "parameters": [
-                    "0.9"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "MuertesSeguidas",
-                    "=",
-                    "0"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Scene"
-                  },
-                  "parameters": [
-                    "",
-                    "\"nivel 3\"",
-                    "no"
-                  ]
-                }
-              ]
-            }
-          ],
-          "parameters": []
         }
       ],
       "layers": [
@@ -38034,60 +37043,6 @@
               }
             }
           ]
-        },
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera2DPlaneMaxDrawingDistance": 5000,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "Inventario",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [],
-          "effects": []
-        },
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera2DPlaneMaxDrawingDistance": 5000,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "barra_vida",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [],
-          "effects": []
-        },
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera2DPlaneMaxDrawingDistance": 5000,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "Fin",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [],
-          "effects": []
         }
       ],
       "behaviorsSharedData": [
@@ -38126,10 +37081,6 @@
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
-        },
-        {
-          "name": "Text",
-          "type": "TextContainerCapability::TextContainerBehavior"
         },
         {
           "name": "Tween",
@@ -48354,99 +47305,6 @@
                     "1",
                     "=",
                     "VolSfx"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Comment",
-              "color": {
-                "b": 109,
-                "g": 230,
-                "r": 255,
-                "textB": 0,
-                "textG": 0,
-                "textR": 0
-              },
-              "comment": "Estado de selección (se muestra y colorea según la variable global)."
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BooleanVariable"
-                  },
-                  "parameters": [
-                    "DylanSeleccionado",
-                    "True",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-                  },
-                  "parameters": [
-                    "EstadoSeleccion",
-                    "Text",
-                    "=",
-                    "\"PERSONAJE SELECCIONADO: DYLAN\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "TextObject::ChangeColor"
-                  },
-                  "parameters": [
-                    "EstadoSeleccion",
-                    "\"120;230;140\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "TextObject::ChangeColor"
-                  },
-                  "parameters": [
-                    "NombreDylan",
-                    "\"120;230;140\""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Else",
-              "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-                  },
-                  "parameters": [
-                    "EstadoSeleccion",
-                    "Text",
-                    "=",
-                    "\"PULSA ENTER O HAZ CLIC EN DYLAN\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "TextObject::ChangeColor"
-                  },
-                  "parameters": [
-                    "EstadoSeleccion",
-                    "\"255;215;120\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "TextObject::ChangeColor"
-                  },
-                  "parameters": [
-                    "NombreDylan",
-                    "\"255;215;120\""
                   ]
                 }
               ]
