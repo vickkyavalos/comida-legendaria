@@ -5802,6 +5802,302 @@
         "name": "carnicero/hurt-carnicero/sprite_2.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "DYLAN/IDLE 1/sprite_0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "DYLAN/IDLE 1/sprite_0.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "DYLAN/IDLE 1/sprite_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "DYLAN/IDLE 1/sprite_1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "DYLAN/IDLE 1/sprite_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "DYLAN/IDLE 1/sprite_2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "DYLAN/IDLE 1/sprite_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "DYLAN/IDLE 1/sprite_3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "DYLAN/run 1/sprite_0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "DYLAN/run 1/sprite_0.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "DYLAN/run 1/sprite_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "DYLAN/run 1/sprite_1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "DYLAN/run 1/sprite_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "DYLAN/run 1/sprite_2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "DYLAN/run 1/sprite_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "DYLAN/run 1/sprite_3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "DYLAN/run 1/sprite_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "DYLAN/run 1/sprite_4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "DYLAN/run 1/sprite_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "DYLAN/run 1/sprite_5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "DYLAN/run 1/sprite_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "DYLAN/run 1/sprite_6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "DYLAN/golpeado/sprite_0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "DYLAN/golpeado/sprite_0.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "DYLAN/golpeado/sprite_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "DYLAN/golpeado/sprite_1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "DYLAN/golpeado/sprite_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "DYLAN/golpeado/sprite_2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "DYLAN/DEATH 1/sprite_0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "DYLAN/DEATH 1/sprite_0.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "DYLAN/DEATH 1/sprite_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "DYLAN/DEATH 1/sprite_1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "DYLAN/DEATH 1/sprite_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "DYLAN/DEATH 1/sprite_2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "DYLAN/DEATH 1/sprite_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "DYLAN/DEATH 1/sprite_3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "DYLAN/DEATH 1/sprite_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "DYLAN/DEATH 1/sprite_4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "fondo lv2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "fondo lv2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "ASSETS- VARIOS/CAJA.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ASSETS- VARIOS/CAJA.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/3 (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/3 (1).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/tapial-1.png.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/tapial-1.png.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "NIVEL 2/52.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NIVEL 2/52.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "NIVEL 2/cartel4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NIVEL 2/cartel4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "NIVEL 2/12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NIVEL 2/12.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "NIVEL 2/13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NIVEL 2/13.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "NIVEL 2/30.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NIVEL 2/30.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "NIVEL 2/35.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NIVEL 2/35.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "NIVEL 2/43.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NIVEL 2/43.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "NIVEL 2/46.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NIVEL 2/46.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "NIVEL 2/47.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NIVEL 2/47.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "NIVEL 2/54.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NIVEL 2/54.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "NIVEL 2/57.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NIVEL 2/57.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "NIVEL 2/58.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NIVEL 2/58.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "NIVEL 2/59.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NIVEL 2/59.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "NIVEL 2/chorizos.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NIVEL 2/chorizos.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -5826,7 +6122,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Paisaje urbano posapocalíptico al atardecer (1).png",
+                  "image": "fondo lv2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5846,16 +6142,16 @@
                         "y": 0
                       },
                       {
-                        "x": 2172,
+                        "x": 2246,
                         "y": 0
                       },
                       {
-                        "x": 2172,
-                        "y": 442
+                        "x": 2246,
+                        "y": 270
                       },
                       {
                         "x": 0,
-                        "y": 442
+                        "y": 270
                       }
                     ]
                   ]
@@ -5894,6 +6190,7 @@
         },
         {
           "name": "VidaDylan",
+          "persistentUuid": "8f3c7660-6e8c-458a-920d-e165dd696d0f",
           "type": "number",
           "value": 100
         }
@@ -5961,7 +6258,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "IDLE 1/sprite_0.png",
+                  "image": "DYLAN/IDLE 1/sprite_0.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5997,7 +6294,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "IDLE 1/sprite_1.png",
+                  "image": "DYLAN/IDLE 1/sprite_1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -6033,7 +6330,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "IDLE 1/sprite_2.png",
+                  "image": "DYLAN/IDLE 1/sprite_2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -6069,7 +6366,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "IDLE 1/sprite_3.png",
+                  "image": "DYLAN/IDLE 1/sprite_3.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -6117,7 +6414,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "run 1/sprite_0.png",
+                  "image": "DYLAN/run 1/sprite_0.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -6153,7 +6450,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "run 1/sprite_1.png",
+                  "image": "DYLAN/run 1/sprite_1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -6189,7 +6486,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "run 1/sprite_2.png",
+                  "image": "DYLAN/run 1/sprite_2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -6225,7 +6522,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "run 1/sprite_3.png",
+                  "image": "DYLAN/run 1/sprite_3.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -6261,7 +6558,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "run 1/sprite_4.png",
+                  "image": "DYLAN/run 1/sprite_4.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -6297,7 +6594,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "run 1/sprite_5.png",
+                  "image": "DYLAN/run 1/sprite_5.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -6333,7 +6630,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "run 1/sprite_6.png",
+                  "image": "DYLAN/run 1/sprite_6.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -6381,7 +6678,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "run 1 - copia/sprite_0.png",
+                  "image": "DYLAN/run 1/sprite_0.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -6417,7 +6714,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "run 1 - copia/sprite_1.png",
+                  "image": "DYLAN/run 1/sprite_1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -6453,7 +6750,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "run 1 - copia/sprite_2.png",
+                  "image": "DYLAN/run 1/sprite_2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -6489,7 +6786,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "run 1 - copia/sprite_3.png",
+                  "image": "DYLAN/run 1/sprite_3.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -6525,7 +6822,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "run 1 - copia/sprite_4.png",
+                  "image": "DYLAN/run 1/sprite_4.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -6561,7 +6858,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "run 1 - copia/sprite_5.png",
+                  "image": "DYLAN/run 1/sprite_5.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -6597,7 +6894,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "run 1 - copia/sprite_6.png",
+                  "image": "DYLAN/run 1/sprite_6.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -6645,7 +6942,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "golpeado/sprite_0.png",
+                  "image": "DYLAN/golpeado/sprite_0.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -6681,7 +6978,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "golpeado/sprite_1.png",
+                  "image": "DYLAN/golpeado/sprite_1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -6717,7 +7014,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "golpeado/sprite_2.png",
+                  "image": "DYLAN/golpeado/sprite_2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -6958,7 +7255,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "DEATH 1/sprite_0.png",
+                  "image": "DYLAN/DEATH 1/sprite_0.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -6994,7 +7291,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "DEATH 1/sprite_1.png",
+                  "image": "DYLAN/DEATH 1/sprite_1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -7030,7 +7327,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "DEATH 1/sprite_2.png",
+                  "image": "DYLAN/DEATH 1/sprite_2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -7066,7 +7363,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "DEATH 1/sprite_3.png",
+                  "image": "DYLAN/DEATH 1/sprite_3.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -7102,7 +7399,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "DEATH 1/sprite_4.png",
+                  "image": "DYLAN/DEATH 1/sprite_4.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -7313,7 +7610,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "asset-tileset que uso/CAJA.png",
+                  "image": "ASSETS- VARIOS/CAJA.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -7381,7 +7678,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "asset-tileset que uso/tapial-1.png.png",
+                  "image": "assets/tapial-1.png.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -7454,7 +7751,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "3 (1).png",
+                  "image": "assets/3 (1).png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -9128,66 +9425,6 @@
           ]
         }
       ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "fondo",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "fondo nivel2.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 2246,
-                        "y": 0
-                      },
-                      {
-                        "x": 2246,
-                        "y": 270
-                      },
-                      {
-                        "x": 0,
-                        "y": 270
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
     }
   ],
   "objectsFolderStructure": {
@@ -9219,9 +9456,6 @@
       },
       {
         "objectName": "pared"
-      },
-      {
-        "objectName": "fondo"
       }
     ]
   },
@@ -32335,7 +32569,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.6364735538735447,
+        "zoomFactor": 0.9795353453490251,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -32352,8 +32586,8 @@
           "name": "Dylan",
           "persistentUuid": "104ff785-5baf-465a-ad56-79ef10e53b9e",
           "width": 0,
-          "x": 32,
-          "y": 157,
+          "x": 45,
+          "y": 196,
           "zOrder": 24,
           "numberProperties": [],
           "stringProperties": [],
@@ -32368,9 +32602,9 @@
           "layer": "",
           "name": "piso",
           "persistentUuid": "f3df4e4b-828b-4935-8019-9c8d44d8d74e",
-          "width": 605,
-          "x": 1185,
-          "y": 193,
+          "width": 1128,
+          "x": 1221,
+          "y": 240,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -32386,8 +32620,8 @@
           "name": "cajon",
           "persistentUuid": "216d7c84-3215-427b-b26f-72ee81c12416",
           "width": 45,
-          "x": 1830,
-          "y": 181,
+          "x": 1803,
+          "y": 211,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -32403,25 +32637,9 @@
           "name": "butcher",
           "persistentUuid": "d3d753c0-b306-4f1f-848e-fdab2a5924e4",
           "width": 73,
-          "x": 273,
-          "y": 159,
+          "x": 708,
+          "y": 193,
           "zOrder": 25,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "auto",
-          "persistentUuid": "031fd615-e02e-4ab0-bb2a-340dbe7893ff",
-          "width": 0,
-          "x": 344,
-          "y": 139,
-          "zOrder": 28,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -32436,8 +32654,8 @@
           "name": "cajon",
           "persistentUuid": "3858daf4-eb20-4052-8b3d-772577b28dcc",
           "width": 49,
-          "x": 833,
-          "y": 140,
+          "x": 850,
+          "y": 209,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -32470,8 +32688,8 @@
           "name": "chorixo",
           "persistentUuid": "8639b416-7045-4a94-87eb-5af21dbc6627",
           "width": 39,
-          "x": 717,
-          "y": 129,
+          "x": 719,
+          "y": 147,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -32505,7 +32723,7 @@
           "persistentUuid": "d27ee674-0781-4686-8c21-d5b83c6794ad",
           "width": 63,
           "x": 1436,
-          "y": 161,
+          "y": 191,
           "zOrder": 23,
           "numberProperties": [],
           "stringProperties": [],
@@ -32521,8 +32739,8 @@
           "name": "cajon",
           "persistentUuid": "b051a833-36e7-4175-95d5-c5a66e8f48a8",
           "width": 63,
-          "x": 1435,
-          "y": 126,
+          "x": 1437,
+          "y": 153,
           "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
@@ -32530,15 +32748,16 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 119,
           "keepRatio": true,
           "layer": "",
-          "name": "NewSprite4",
+          "name": "sillon",
           "persistentUuid": "6e2bf719-5151-49f2-9ca0-ed50637d0558",
-          "width": 0,
-          "x": 1107,
-          "y": 162,
+          "width": 135,
+          "x": 1114,
+          "y": 168,
           "zOrder": 14,
           "numberProperties": [],
           "stringProperties": [],
@@ -32551,11 +32770,11 @@
           "height": 98,
           "keepRatio": true,
           "layer": "",
-          "name": "NewSprite6",
+          "name": "llantas_madera",
           "persistentUuid": "3eaec35c-2e64-4383-a0a7-862032deb884",
           "width": 92,
-          "x": 986,
-          "y": 158,
+          "x": 983,
+          "y": 187,
           "zOrder": 15,
           "numberProperties": [],
           "stringProperties": [],
@@ -32567,7 +32786,7 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "NewSprite12",
+          "name": "pared_rota2",
           "persistentUuid": "81efc4c4-b08b-4ae9-9a6c-07adcd6c8d2f",
           "width": 0,
           "x": 1429,
@@ -32583,7 +32802,7 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "NewSprite13",
+          "name": "cartel1",
           "persistentUuid": "d0b38bdb-a2e3-4593-8c7d-9c8879065c1c",
           "width": 0,
           "x": 1995,
@@ -32599,11 +32818,11 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "NewSprite14",
+          "name": "tanque1",
           "persistentUuid": "4c6729af-2058-46b0-aa39-2bb732b90c91",
           "width": 0,
-          "x": 609,
-          "y": 155,
+          "x": 613,
+          "y": 206,
           "zOrder": 18,
           "numberProperties": [],
           "stringProperties": [],
@@ -32611,15 +32830,16 @@
         },
         {
           "angle": 18,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 72,
           "keepRatio": true,
           "layer": "",
-          "name": "NewSprite14",
+          "name": "tanque1",
           "persistentUuid": "5afdfa7e-b7bd-46f3-8e4d-7930bb2d6a5e",
-          "width": 0,
-          "x": 586,
-          "y": 161,
+          "width": 72,
+          "x": 566,
+          "y": 192,
           "zOrder": 18,
           "numberProperties": [],
           "stringProperties": [],
@@ -32631,7 +32851,7 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "NewSprite3",
+          "name": "reja",
           "persistentUuid": "9f3052eb-4024-4960-a0ca-fc28aa650749",
           "width": 0,
           "x": 467,
@@ -32647,7 +32867,7 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "NewSprite3",
+          "name": "reja",
           "persistentUuid": "8adc7f67-ad97-4ec3-a368-a7349c2c8fd4",
           "width": 0,
           "x": 134,
@@ -32667,8 +32887,8 @@
           "name": "piso",
           "persistentUuid": "6cdb23bb-d16d-4a9d-82df-2c1af248df6d",
           "width": 605,
-          "x": 635,
-          "y": 195,
+          "x": 643,
+          "y": 234,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -32683,42 +32903,26 @@
           "layer": "",
           "name": "piso",
           "persistentUuid": "897a4119-cc43-49ea-811e-d64b5521aeaf",
-          "width": 666,
-          "x": -11,
-          "y": 209,
+          "width": 703,
+          "x": -33,
+          "y": 236,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         },
         {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 312,
-          "keepRatio": true,
-          "layer": "",
-          "name": "fondo",
-          "persistentUuid": "f579a057-be43-4a61-acff-86b745b6f4d0",
-          "width": 2276,
-          "x": -17,
-          "y": -13,
-          "zOrder": -1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
           "angle": 10,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 92,
           "keepRatio": true,
           "layer": "",
           "name": "CARTEL",
           "persistentUuid": "7167512d-ba00-4778-aef9-85e97fe76877",
-          "width": 0,
-          "x": 1383,
-          "y": 32,
+          "width": 269,
+          "x": 1867,
+          "y": 7,
           "zOrder": 26,
           "numberProperties": [],
           "stringProperties": [],
@@ -32736,6 +32940,56 @@
           "x": 54,
           "y": 24,
           "zOrder": 27,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 338,
+          "keepRatio": true,
+          "layer": "",
+          "name": "fondito",
+          "persistentUuid": "86a58f1c-c70e-4fb8-b27d-657a6a7277fe",
+          "width": 2812,
+          "x": -17,
+          "y": -15,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "auto",
+          "persistentUuid": "19b5b0cc-a490-41ae-b22a-e386ed3e0259",
+          "width": 0,
+          "x": 388,
+          "y": 165,
+          "zOrder": 30,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 74,
+          "keepRatio": true,
+          "layer": "",
+          "name": "piso",
+          "persistentUuid": "9597e3e4-32bd-49b2-b1bb-0ac0913ca628",
+          "width": 516,
+          "x": 2307,
+          "y": 243,
+          "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -34180,144 +34434,6 @@
           ]
         },
         {
-          "adaptCollisionMaskAutomatically": false,
-          "assetStoreId": "",
-          "name": "auto",
-          "persistentUuid": "b7800f9f-0722-4d6f-b5f1-b80e7da50c3c",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "canBeGrabbed": true,
-              "platformType": "NormalPlatform",
-              "yGrabOffset": 0
-            }
-          ],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "3 (1).png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 4.5,
-                            "y": 68.5
-                          },
-                          {
-                            "x": 74,
-                            "y": 52.5
-                          },
-                          {
-                            "x": 118.5,
-                            "y": 64.5
-                          },
-                          {
-                            "x": 122.5,
-                            "y": 92
-                          },
-                          {
-                            "x": 71.5,
-                            "y": 91.5
-                          },
-                          {
-                            "x": 13,
-                            "y": 91.5
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "pared",
-          "persistentUuid": "36396f3b-eb9b-4c7d-bf7c-072d92da734f",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "asset-tileset que uso/tapial-1.png.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 11
-                          },
-                          {
-                            "x": 106,
-                            "y": 11
-                          },
-                          {
-                            "x": 106,
-                            "y": 119
-                          },
-                          {
-                            "x": 0,
-                            "y": 119
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
           "name": "olla",
@@ -34584,7 +34700,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "hgbuyssg.png",
+                      "image": "hgbuyg.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -34600,80 +34716,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 1
+                            "x": 93,
+                            "y": 77
                           },
                           {
-                            "x": 69,
-                            "y": 1
+                            "x": 160,
+                            "y": 77
                           },
                           {
-                            "x": 69,
-                            "y": 98
+                            "x": 160,
+                            "y": 174
                           },
                           {
-                            "x": 2,
-                            "y": 98
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": false,
-          "assetStoreId": "",
-          "name": "carniceria",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "carniceria",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "carniceria2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 7.5,
-                            "y": 14.5
-                          },
-                          {
-                            "x": 110.5,
-                            "y": 25
-                          },
-                          {
-                            "x": 110,
-                            "y": 113.5
-                          },
-                          {
-                            "x": 6.5,
-                            "y": 114
+                            "x": 93,
+                            "y": 174
                           }
                         ]
                       ]
@@ -34798,7 +34854,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "chorizos.png",
+                      "image": "NIVEL 2/chorizos.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -34841,7 +34897,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "NewSprite3",
+          "name": "reja",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -34858,7 +34914,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "59.png",
+                      "image": "NIVEL 2/59.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -34899,9 +34955,9 @@
           ]
         },
         {
-          "adaptCollisionMaskAutomatically": true,
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "",
-          "name": "NewSprite4",
+          "name": "sillon",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -34918,7 +34974,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "58.png",
+                      "image": "NIVEL 2/58.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -34934,20 +34990,28 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 18
+                            "x": 6.5,
+                            "y": 29.5
+                          },
+                          {
+                            "x": 15.5,
+                            "y": 18.5
+                          },
+                          {
+                            "x": 53.5,
+                            "y": 23
                           },
                           {
                             "x": 57,
-                            "y": 18
+                            "y": 35.5
                           },
                           {
-                            "x": 57,
-                            "y": 50
+                            "x": 50.5,
+                            "y": 49
                           },
                           {
-                            "x": 5,
-                            "y": 50
+                            "x": 7.5,
+                            "y": 41
                           }
                         ]
                       ]
@@ -34961,7 +35025,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "NewSprite5",
+          "name": "tanque_guego",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -34978,7 +35042,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "57.png",
+                      "image": "NIVEL 2/57.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -35021,7 +35085,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "NewSprite6",
+          "name": "llantas_madera",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -35046,7 +35110,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "54.png",
+                      "image": "NIVEL 2/54.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -35089,7 +35153,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "NewSprite7",
+          "name": "auto_rojo",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -35106,7 +35170,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "52.png",
+                      "image": "NIVEL 2/52.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -35149,7 +35213,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "NewSprite8",
+          "name": "puerta_madera",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -35166,7 +35230,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "47.png",
+                      "image": "NIVEL 2/47.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -35209,7 +35273,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "NewSprite9",
+          "name": "local_roto",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -35226,7 +35290,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "46.png",
+                      "image": "NIVEL 2/46.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -35269,7 +35333,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "NewSprite10",
+          "name": "local_roto2",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -35286,7 +35350,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "43.png",
+                      "image": "NIVEL 2/43.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -35329,7 +35393,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "NewSprite11",
+          "name": "pared_rota",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -35346,7 +35410,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "35.png",
+                      "image": "NIVEL 2/35.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -35389,7 +35453,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "NewSprite12",
+          "name": "pared_rota2",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -35406,7 +35470,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "30.png",
+                      "image": "NIVEL 2/30.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -35449,7 +35513,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "NewSprite13",
+          "name": "cartel1",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -35466,7 +35530,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "13.png",
+                      "image": "NIVEL 2/13.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -35509,7 +35573,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "NewSprite14",
+          "name": "tanque1",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -35534,7 +35598,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "12.png",
+                      "image": "NIVEL 2/12.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -35594,7 +35658,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "cartel5.png",
+                      "image": "NIVEL 2/cartel4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -35610,20 +35674,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 2
+                            "x": 38,
+                            "y": 47
                           },
                           {
-                            "x": 118,
-                            "y": 2
+                            "x": 2101,
+                            "y": 47
                           },
                           {
-                            "x": 118,
-                            "y": 38
+                            "x": 2101,
+                            "y": 686
                           },
                           {
-                            "x": 2,
-                            "y": 38
+                            "x": 38,
+                            "y": 686
                           }
                         ]
                       ]
@@ -35645,12 +35709,6 @@
             "objectName": "cuchillo"
           },
           {
-            "objectName": "auto"
-          },
-          {
-            "objectName": "pared"
-          },
-          {
             "objectName": "olla"
           },
           {
@@ -35666,49 +35724,46 @@
             "objectName": "NewSprite2"
           },
           {
-            "objectName": "carniceria"
-          },
-          {
             "objectName": "carne"
           },
           {
             "objectName": "chorixo"
           },
           {
-            "objectName": "NewSprite3"
+            "objectName": "reja"
           },
           {
-            "objectName": "NewSprite4"
+            "objectName": "sillon"
           },
           {
-            "objectName": "NewSprite5"
+            "objectName": "tanque_guego"
           },
           {
-            "objectName": "NewSprite6"
+            "objectName": "llantas_madera"
           },
           {
-            "objectName": "NewSprite7"
+            "objectName": "auto_rojo"
           },
           {
-            "objectName": "NewSprite8"
+            "objectName": "puerta_madera"
           },
           {
-            "objectName": "NewSprite9"
+            "objectName": "local_roto"
           },
           {
-            "objectName": "NewSprite10"
+            "objectName": "local_roto2"
           },
           {
-            "objectName": "NewSprite11"
+            "objectName": "pared_rota"
           },
           {
-            "objectName": "NewSprite12"
+            "objectName": "pared_rota2"
           },
           {
-            "objectName": "NewSprite13"
+            "objectName": "cartel1"
           },
           {
-            "objectName": "NewSprite14"
+            "objectName": "tanque1"
           },
           {
             "objectName": "CARTEL"
@@ -37412,7 +37467,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.615711556939331,
+        "zoomFactor": 0.4881529321482684,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -38122,8 +38177,8 @@
           "name": "Fundido",
           "persistentUuid": "b79ba682-96f0-477a-be3a-eb1916253cb8",
           "width": 491,
-          "x": -4,
-          "y": -15,
+          "x": -5,
+          "y": -18,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -38138,8 +38193,8 @@
           "name": "video_final",
           "persistentUuid": "5dbb7597-1989-4b50-9d20-32ad21c1e9cf",
           "width": 0,
-          "x": 0,
-          "y": 0,
+          "x": -65,
+          "y": -59,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
