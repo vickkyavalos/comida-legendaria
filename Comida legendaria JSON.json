@@ -9800,6 +9800,366 @@
         "lineHeight": 0,
         "color": "255;0;0"
       }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "33454e7ebbe51f44913847d92c10e31219f1972174a74ae1d54d4662eb109d33",
+      "name": "Fundido",
+      "persistentUuid": "de4b611c-fcd5-4dc6-bacd-70b4f7519ec1",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "pixel-black.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 4,
+                        "y": 0
+                      },
+                      {
+                        "x": 4,
+                        "y": 4
+                      },
+                      {
+                        "x": 0,
+                        "y": 4
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "9f548f2b9333b24e0a35e27b6fc539205e6c1ae8baae93766903e8dcc6080ce2",
+      "bottomMargin": 20,
+      "height": 48,
+      "leftMargin": 20,
+      "name": "PanelFin",
+      "persistentUuid": "91f6d98f-1444-43ce-87de-1958e3768b3e",
+      "rightMargin": 20,
+      "texture": "Default-panel (24).png",
+      "tiled": false,
+      "topMargin": 20,
+      "type": "PanelSpriteObject::PanelSprite",
+      "width": 48,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "TxtFin",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "FIN",
+      "font": "PixelifySans-VariableFont_wght3.ttf",
+      "textAlignment": "left",
+      "characterSize": 15,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "FIN",
+        "font": "PixelifySans-VariableFont_wght3.ttf",
+        "textAlignment": "left",
+        "verticalTextAlignment": "top",
+        "characterSize": 15,
+        "lineHeight": 0,
+        "color": "0;0;0"
+      }
+    },
+    {
+      "assetStoreId": "9f548f2b9333b24e0a35e27b6fc539205e6c1ae8baae93766903e8dcc6080ce2",
+      "bottomMargin": 20,
+      "height": 48,
+      "leftMargin": 20,
+      "name": "PanelInv",
+      "persistentUuid": "b670ab3a-db5f-4e08-a3ee-c38b5d6eb710",
+      "rightMargin": 20,
+      "texture": "Default-panel (24).png",
+      "tiled": false,
+      "topMargin": 20,
+      "type": "PanelSpriteObject::PanelSprite",
+      "width": 48,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "TxtAjo",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "Text",
+      "font": "PixelifySans-VariableFont_wght3.ttf",
+      "textAlignment": "left",
+      "characterSize": 15,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "Text",
+        "font": "PixelifySans-VariableFont_wght3.ttf",
+        "textAlignment": "left",
+        "verticalTextAlignment": "top",
+        "characterSize": 15,
+        "lineHeight": 0,
+        "color": "0;0;0"
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "TxtMorron",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "Text",
+      "font": "PixelifySans-VariableFont_wght3.ttf",
+      "textAlignment": "left",
+      "characterSize": 15,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "Text",
+        "font": "PixelifySans-VariableFont_wght3.ttf",
+        "textAlignment": "left",
+        "verticalTextAlignment": "top",
+        "characterSize": 15,
+        "lineHeight": 0,
+        "color": "0;0;0"
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "InvTitulo",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "Text",
+      "font": "PixelifySans-VariableFont_wght3.ttf",
+      "textAlignment": "left",
+      "characterSize": 15,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "Text",
+        "font": "PixelifySans-VariableFont_wght3.ttf",
+        "textAlignment": "left",
+        "verticalTextAlignment": "top",
+        "characterSize": 15,
+        "lineHeight": 0,
+        "color": "0;0;0"
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "TxtCarne",
+      "persistentUuid": "a9f8a52c-80fe-4534-bdfd-6b734e9df4d3",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "Text",
+      "font": "PixelifySans-VariableFont_wght3.ttf",
+      "textAlignment": "left",
+      "characterSize": 15,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "Text",
+        "font": "PixelifySans-VariableFont_wght3.ttf",
+        "textAlignment": "left",
+        "verticalTextAlignment": "top",
+        "characterSize": 15,
+        "lineHeight": 0,
+        "color": "0;0;0"
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "TxtChorizo",
+      "persistentUuid": "0aa3b545-b09d-44e2-afb1-0513238eb61c",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "Text",
+      "font": "PixelifySans-VariableFont_wght3.ttf",
+      "textAlignment": "left",
+      "characterSize": 15,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "Text",
+        "font": "PixelifySans-VariableFont_wght3.ttf",
+        "textAlignment": "left",
+        "verticalTextAlignment": "top",
+        "characterSize": 15,
+        "lineHeight": 0,
+        "color": "0;0;0"
+      }
     }
   ],
   "objectsFolderStructure": {
@@ -9834,6 +10194,33 @@
       },
       {
         "objectName": "pared"
+      },
+      {
+        "objectName": "Fundido"
+      },
+      {
+        "objectName": "PanelFin"
+      },
+      {
+        "objectName": "PanelInv"
+      },
+      {
+        "objectName": "TxtMorron"
+      },
+      {
+        "objectName": "TxtFin"
+      },
+      {
+        "objectName": "InvTitulo"
+      },
+      {
+        "objectName": "TxtAjo"
+      },
+      {
+        "objectName": "TxtCarne"
+      },
+      {
+        "objectName": "TxtChorizo"
       }
     ]
   },
@@ -9901,6 +10288,7 @@
     },
     {
       "name": "Ingredientes",
+      "persistentUuid": "89cba592-7685-422d-97c2-81714eb8638e",
       "type": "number",
       "value": 0
     },
@@ -9909,6 +10297,17 @@
       "persistentUuid": "0f92731e-9c84-4364-9af6-450710f20194",
       "type": "number",
       "value": 100
+    },
+    {
+      "name": "carne3",
+      "persistentUuid": "3b244d3c-2b43-4fcd-b8c7-896ef1767514",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "name": "chorizo",
+      "type": "number",
+      "value": 0
     }
   ],
   "layouts": [
@@ -11960,6 +12359,10 @@
         {
           "name": "Text",
           "type": "TextContainerCapability::TextContainerBehavior"
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
         }
       ]
     },
@@ -12802,6 +13205,10 @@
         {
           "name": "Text",
           "type": "TextContainerCapability::TextContainerBehavior"
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
         }
       ]
     },
@@ -14425,6 +14832,10 @@
         {
           "name": "Text",
           "type": "TextContainerCapability::TextContainerBehavior"
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
         }
       ]
     },
@@ -26753,7 +27164,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5410025207925361,
+        "zoomFactor": 0.3633813195697415,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -27934,135 +28345,6 @@
           ]
         },
         {
-          "assetStoreId": "",
-          "bold": false,
-          "italic": false,
-          "name": "InvTitulo",
-          "smoothed": true,
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "string": "Text",
-          "font": "PixelifySans-VariableFont_wght3.ttf",
-          "textAlignment": "left",
-          "characterSize": 15,
-          "color": {
-            "b": 0,
-            "g": 0,
-            "r": 0
-          },
-          "content": {
-            "bold": false,
-            "isOutlineEnabled": false,
-            "isShadowEnabled": false,
-            "italic": false,
-            "outlineColor": "255;255;255",
-            "outlineThickness": 2,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
-            "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
-            "smoothed": true,
-            "underlined": false,
-            "text": "Text",
-            "font": "PixelifySans-VariableFont_wght3.ttf",
-            "textAlignment": "left",
-            "verticalTextAlignment": "top",
-            "characterSize": 15,
-            "lineHeight": 0,
-            "color": "0;0;0"
-          }
-        },
-        {
-          "assetStoreId": "",
-          "bold": false,
-          "italic": false,
-          "name": "TxtMorron",
-          "smoothed": true,
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "string": "Text",
-          "font": "PixelifySans-VariableFont_wght3.ttf",
-          "textAlignment": "left",
-          "characterSize": 15,
-          "color": {
-            "b": 0,
-            "g": 0,
-            "r": 0
-          },
-          "content": {
-            "bold": false,
-            "isOutlineEnabled": false,
-            "isShadowEnabled": false,
-            "italic": false,
-            "outlineColor": "255;255;255",
-            "outlineThickness": 2,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
-            "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
-            "smoothed": true,
-            "underlined": false,
-            "text": "Text",
-            "font": "PixelifySans-VariableFont_wght3.ttf",
-            "textAlignment": "left",
-            "verticalTextAlignment": "top",
-            "characterSize": 15,
-            "lineHeight": 0,
-            "color": "0;0;0"
-          }
-        },
-        {
-          "assetStoreId": "",
-          "bold": false,
-          "italic": false,
-          "name": "TxtAjo",
-          "smoothed": true,
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "string": "Text",
-          "font": "PixelifySans-VariableFont_wght3.ttf",
-          "textAlignment": "left",
-          "characterSize": 15,
-          "color": {
-            "b": 0,
-            "g": 0,
-            "r": 0
-          },
-          "content": {
-            "bold": false,
-            "isOutlineEnabled": false,
-            "isShadowEnabled": false,
-            "italic": false,
-            "outlineColor": "255;255;255",
-            "outlineThickness": 2,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
-            "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
-            "smoothed": true,
-            "underlined": false,
-            "text": "Text",
-            "font": "PixelifySans-VariableFont_wght3.ttf",
-            "textAlignment": "left",
-            "verticalTextAlignment": "top",
-            "characterSize": 15,
-            "lineHeight": 0,
-            "color": "0;0;0"
-          }
-        },
-        {
           "assetStoreId": "b804d2390e0f305c450b8396238c89b63af1107b3786ba4b452a7ed6db7e70f2",
           "name": "BarraEnemigo",
           "persistentUuid": "48e8e43c-b8ca-4f4f-a123-608e6d43b46e",
@@ -28080,66 +28362,6 @@
             "BarLeftPadding": 10,
             "PreviousHighValueDuration": 0,
             "EasingDuration": 0.25
-          }
-        },
-        {
-          "assetStoreId": "9f548f2b9333b24e0a35e27b6fc539205e6c1ae8baae93766903e8dcc6080ce2",
-          "bottomMargin": 20,
-          "height": 48,
-          "leftMargin": 20,
-          "name": "PanelFin",
-          "persistentUuid": "91f6d98f-1444-43ce-87de-1958e3768b3e",
-          "rightMargin": 20,
-          "texture": "Default-panel (24).png",
-          "tiled": false,
-          "topMargin": 20,
-          "type": "PanelSpriteObject::PanelSprite",
-          "width": 48,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "bold": false,
-          "italic": false,
-          "name": "TxtFin",
-          "smoothed": true,
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "string": "FIN",
-          "font": "PixelifySans-VariableFont_wght3.ttf",
-          "textAlignment": "left",
-          "characterSize": 15,
-          "color": {
-            "b": 0,
-            "g": 0,
-            "r": 0
-          },
-          "content": {
-            "bold": false,
-            "isOutlineEnabled": false,
-            "isShadowEnabled": false,
-            "italic": false,
-            "outlineColor": "255;255;255",
-            "outlineThickness": 2,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
-            "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
-            "smoothed": true,
-            "underlined": false,
-            "text": "FIN",
-            "font": "PixelifySans-VariableFont_wght3.ttf",
-            "textAlignment": "left",
-            "verticalTextAlignment": "top",
-            "characterSize": 15,
-            "lineHeight": 0,
-            "color": "0;0;0"
           }
         },
         {
@@ -28329,23 +28551,6 @@
           ]
         },
         {
-          "assetStoreId": "9f548f2b9333b24e0a35e27b6fc539205e6c1ae8baae93766903e8dcc6080ce2",
-          "bottomMargin": 20,
-          "height": 48,
-          "leftMargin": 20,
-          "name": "PanelInv",
-          "persistentUuid": "b670ab3a-db5f-4e08-a3ee-c38b5d6eb710",
-          "rightMargin": 20,
-          "texture": "Default-panel (24).png",
-          "tiled": false,
-          "topMargin": 20,
-          "type": "PanelSpriteObject::PanelSprite",
-          "width": 48,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
           "assetStoreId": "",
           "bold": false,
           "italic": false,
@@ -28430,72 +28635,6 @@
             "lineHeight": 0,
             "color": "0;0;0"
           }
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "33454e7ebbe51f44913847d92c10e31219f1972174a74ae1d54d4662eb109d33",
-          "name": "Fundido",
-          "persistentUuid": "de4b611c-fcd5-4dc6-bacd-70b4f7519ec1",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "Tween",
-              "type": "Tween::TweenBehavior"
-            }
-          ],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "pixel-black.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 4,
-                            "y": 0
-                          },
-                          {
-                            "x": 4,
-                            "y": 4
-                          },
-                          {
-                            "x": 0,
-                            "y": 4
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
         },
         {
           "adaptCollisionMaskAutomatically": true,
@@ -28632,22 +28771,7 @@
             "objectName": "olla"
           },
           {
-            "objectName": "InvTitulo"
-          },
-          {
-            "objectName": "TxtMorron"
-          },
-          {
-            "objectName": "TxtAjo"
-          },
-          {
             "objectName": "BarraEnemigo"
-          },
-          {
-            "objectName": "PanelFin"
-          },
-          {
-            "objectName": "TxtFin"
           },
           {
             "objectName": "TEXTBTN"
@@ -28662,16 +28786,10 @@
             "objectName": "IconoAjo"
           },
           {
-            "objectName": "PanelInv"
-          },
-          {
             "objectName": "TxtNivel"
           },
           {
             "objectName": "TxtMuertes"
-          },
-          {
-            "objectName": "Fundido"
           },
           {
             "objectName": "laurel"
@@ -30157,7 +30275,7 @@
                 "",
                 "1",
                 "=",
-                "60"
+                "30"
               ]
             }
           ],
@@ -30171,7 +30289,7 @@
                   },
                   "parameters": [
                     "MusicaIniciada",
-                    "True",
+                    "False",
                     ""
                   ]
                 }
@@ -30186,7 +30304,7 @@
                     "comida legendaria2.mp3",
                     "1",
                     "yes",
-                    "60",
+                    "30",
                     "1"
                   ]
                 },
@@ -33116,7 +33234,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.458333333333345,
+        "zoomFactor": 0.7361613572605633,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -33135,7 +33253,7 @@
           "width": 0,
           "x": 45,
           "y": 196,
-          "zOrder": 24,
+          "zOrder": 34,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -33218,8 +33336,8 @@
           "name": "carne",
           "persistentUuid": "e917f703-5d9b-4e27-9812-b1040c3b2ad3",
           "width": 41,
-          "x": 1238,
-          "y": 115,
+          "x": 1286,
+          "y": 218,
           "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
@@ -33235,8 +33353,8 @@
           "name": "chorixo",
           "persistentUuid": "8639b416-7045-4a94-87eb-5af21dbc6627",
           "width": 39,
-          "x": 719,
-          "y": 147,
+          "x": 899,
+          "y": 209,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -33252,8 +33370,8 @@
           "name": "chorixo",
           "persistentUuid": "7021aaf9-6a8a-4a18-aaf3-cc342282b217",
           "width": 34,
-          "x": 1596,
-          "y": 145,
+          "x": 1648,
+          "y": 231,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -33303,8 +33421,8 @@
           "name": "sillon",
           "persistentUuid": "6e2bf719-5151-49f2-9ca0-ed50637d0558",
           "width": 135,
-          "x": 1114,
-          "y": 168,
+          "x": 1813,
+          "y": 170,
           "zOrder": 14,
           "numberProperties": [],
           "stringProperties": [],
@@ -33477,22 +33595,6 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "White1BitPixelBar",
-          "persistentUuid": "2c18fed9-1576-46a2-be74-cae51c999571",
-          "width": 0,
-          "x": 44,
-          "y": 21,
-          "zOrder": 27,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": true,
           "depth": 1,
           "height": 338,
@@ -33501,8 +33603,8 @@
           "name": "fondito",
           "persistentUuid": "86a58f1c-c70e-4fb8-b27d-657a6a7277fe",
           "width": 2812,
-          "x": -17,
-          "y": -15,
+          "x": -14,
+          "y": -27,
           "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
@@ -33537,6 +33639,71 @@
           "x": 2307,
           "y": 243,
           "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "White1BitPixelBar",
+          "persistentUuid": "08af4bb7-bf61-4627-bb07-992204642733",
+          "width": 0,
+          "x": 32,
+          "y": 15,
+          "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "PanelFin",
+          "persistentUuid": "9f084bd3-6983-435c-9adb-87d5c24357cd",
+          "width": 0,
+          "x": 296,
+          "y": 346,
+          "zOrder": 32,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 324,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Fundido",
+          "persistentUuid": "e9e587b9-8e13-4e3c-9949-344125f2e4b9",
+          "width": 538,
+          "x": -17,
+          "y": -27,
+          "zOrder": 35,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "PanelFin",
+          "persistentUuid": "223f1b7b-fa4d-426b-88bf-cdec52e40ac0",
+          "width": 0,
+          "x": 224,
+          "y": 124,
+          "zOrder": -2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -35295,19 +35462,7 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [
-            {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "canBeGrabbed": true,
-              "platformType": "NormalPlatform",
-              "yGrabOffset": 0
-            },
-            {
-              "name": "Tween",
-              "type": "Tween::TweenBehavior"
-            }
-          ],
+          "behaviors": [],
           "animations": [
             {
               "name": "",
@@ -35377,19 +35532,7 @@
               "booleanParameters": {}
             }
           ],
-          "behaviors": [
-            {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "canBeGrabbed": true,
-              "platformType": "NormalPlatform",
-              "yGrabOffset": 0
-            },
-            {
-              "name": "Tween",
-              "type": "Tween::TweenBehavior"
-            }
-          ],
+          "behaviors": [],
           "animations": [
             {
               "name": "chorixo",
@@ -37902,7 +38045,7 @@
                 "",
                 "1",
                 "=",
-                "60"
+                "30"
               ]
             }
           ],
@@ -37931,7 +38074,7 @@
                     "comida legendaria2.mp3",
                     "1",
                     "yes",
-                    "60",
+                    "30",
                     "1"
                   ]
                 },
@@ -38117,6 +38260,570 @@
           ]
         },
         {
+          "aiGeneratedEventId": "01M6FY139S1E6EHSG5XBRPRNDQ",
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Fin del nivel",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Al llegar al extremo derecho hay fundido como en manual y se pasa al Nivel 3"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "PanelFin"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "TxtFin"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SceneJustBegins"
+                  },
+                  "parameters": [
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "Fundido"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PosX"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    ">",
+                    "2450"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "Fundido",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Opacity"
+                  },
+                  "parameters": [
+                    "Fundido",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectOpacityTween3"
+                  },
+                  "parameters": [
+                    "Fundido",
+                    "Tween",
+                    "Opacity",
+                    "\"salida\"",
+                    "255",
+                    "\"linear\"",
+                    "0.8",
+                    "no"
+                  ]
+                },
+                {
+                  "type": {
+                    "await": true,
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.9"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "MuertesSeguidas",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"nivel 3\"",
+                    "no"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "aiGeneratedEventId": "01M68AVC76Z20BCS26Q00X0F3K",
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Inventario (olla)",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Recoger ingredientes: al tocar un morrón o un ajo se suma una unidad en la global correspondiente y el ingrediente desaparece del escenario."
+            },
+            {
+              "aiGeneratedEventId": "01M6D7N6EETX5N20DJYZWJQ95Y",
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "chorixo",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "chorizo",
+                    "+",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "chorixo",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundOnChannel"
+                  },
+                  "parameters": [
+                    "",
+                    "assets/sonidos/ingredientes/juntar ingrediente.mp3",
+                    "4",
+                    "no",
+                    "100",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "aiGeneratedEventId": "01M6D7N6EETX5N20DJYZWJQ95Y",
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "carne",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "carne3",
+                    "+",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "carne",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundOnChannel"
+                  },
+                  "parameters": [
+                    "",
+                    "assets/sonidos/ingredientes/juntar ingrediente.mp3",
+                    "4",
+                    "no",
+                    "100",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "El inventario permanece completamente oculto durante el juego. Se abre con la tecla I y se cierra con I o ESC."
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SceneJustBegins"
+                  },
+                  "parameters": [
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "InvAbierto",
+                    "False",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Or"
+                  },
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "value": "KeyFromTextJustPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"i\""
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "InvAbierto",
+                    "Toggle",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyFromTextJustPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Escape\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "InvAbierto",
+                    "False",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "InvAbierto",
+                    "True",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "PanelInv",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "olla",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "InvTitulo",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "carne",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "TxtCarne",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "chorixo",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "TxtChorizo",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Else",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "PanelInv"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "olla"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "InvTitulo"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "carne"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "TxtCarne"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "chorixo"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "TxtChorizo"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "InvTitulo",
+                    "Text",
+                    "=",
+                    "\"INVENTARIO\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TxtMorron",
+                    "Text",
+                    "=",
+                    "\"CARNE x\" + ToString(carne3)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TxtAjo",
+                    "Text",
+                    "=",
+                    "\"CARNE x\" + ToString(chorizo)"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [],
           "actions": []
@@ -38259,7 +38966,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4568249202997841,
+        "zoomFactor": 0.7030553796722153,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -38277,14 +38984,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 261,
+          "height": 331,
           "keepRatio": true,
           "layer": "",
           "name": "fondo_nivel3",
           "persistentUuid": "f707d432-12b0-4ab5-a2c1-72596d767d5a",
-          "width": 2171,
-          "x": -125,
-          "y": 1,
+          "width": 2213,
+          "x": -167,
+          "y": -29,
           "zOrder": -2,
           "numberProperties": [],
           "stringProperties": [],
@@ -38524,14 +39231,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 256,
+          "height": 323,
           "keepRatio": true,
           "layer": "",
           "name": "fondo_nivel_3_comtinuacion",
           "persistentUuid": "ff44d06a-3fb5-4ee7-bfe8-6f7335d5cda5",
-          "width": 2233,
-          "x": 1589,
-          "y": 1,
+          "width": 2278,
+          "x": 1544,
+          "y": -31,
           "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
@@ -38548,7 +39255,7 @@
           "persistentUuid": "0612cec3-a4fd-4652-9f71-29630ad594be",
           "width": 825,
           "x": 664,
-          "y": 224,
+          "y": 233,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -38564,8 +39271,8 @@
           "name": "piso",
           "persistentUuid": "06021ed7-682f-4237-ae80-ca08246a9430",
           "width": 825,
-          "x": 1468,
-          "y": 224,
+          "x": 1462,
+          "y": 230,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -38582,7 +39289,7 @@
           "persistentUuid": "b6f94363-e0da-4594-ae77-d9a04abc51f6",
           "width": 825,
           "x": 2264,
-          "y": 224,
+          "y": 233,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -38598,8 +39305,8 @@
           "name": "piso",
           "persistentUuid": "894bebf7-43bb-44ca-aefb-60367b58d368",
           "width": 794,
-          "x": 2648,
-          "y": 226,
+          "x": 2649,
+          "y": 230,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -49516,6 +50223,10 @@
         {
           "name": "Text",
           "type": "TextContainerCapability::TextContainerBehavior"
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
         }
       ]
     },
@@ -51549,6 +52260,10 @@
         {
           "name": "Text",
           "type": "TextContainerCapability::TextContainerBehavior"
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
         }
       ]
     }
