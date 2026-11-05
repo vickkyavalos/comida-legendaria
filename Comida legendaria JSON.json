@@ -2882,7 +2882,7 @@
       {
         "file": "kioskero frames/ATAQUE/1 (1).png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"kioskero frames/ATAQUE/1 (1).png\",\"extension\":\".png\"}",
         "name": "kioskero frames/ATAQUE/1 (1).png",
         "smoothed": false,
         "userAdded": false
@@ -2890,7 +2890,7 @@
       {
         "file": "kioskero frames/ATAQUE/2.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"kioskero frames/ATAQUE/2.png\",\"extension\":\".png\"}",
         "name": "kioskero frames/ATAQUE/2.png",
         "smoothed": false,
         "userAdded": false
@@ -2898,7 +2898,7 @@
       {
         "file": "kioskero frames/ATAQUE/3.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"kioskero frames/ATAQUE/3.png\",\"extension\":\".png\"}",
         "name": "kioskero frames/ATAQUE/3.png",
         "smoothed": false,
         "userAdded": false
@@ -2906,7 +2906,7 @@
       {
         "file": "kioskero frames/ATAQUE/4.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"kioskero frames/ATAQUE/4.png\",\"extension\":\".png\"}",
         "name": "kioskero frames/ATAQUE/4.png",
         "smoothed": false,
         "userAdded": false
@@ -2914,7 +2914,7 @@
       {
         "file": "kioskero frames/ATAQUE/5.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"kioskero frames/ATAQUE/5.png\",\"extension\":\".png\"}",
         "name": "kioskero frames/ATAQUE/5.png",
         "smoothed": false,
         "userAdded": false
@@ -4986,6 +4986,494 @@
         "name": "assets-comid/laurel.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "assets/IDLE7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "IDLE7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/IDLE8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "IDLE8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/IDLE9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "IDLE9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/IDLE10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "IDLE10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/IDLE11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "IDLE11",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/JUMP.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/JUMP.png\"}",
+        "name": "JUMP",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/JUMP2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/JUMP2.png\"}",
+        "name": "JUMP2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/JUMP3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/JUMP3.png\"}",
+        "name": "JUMP3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/JUMP4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/JUMP4.png\"}",
+        "name": "JUMP4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/JUMP5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/JUMP5.png\"}",
+        "name": "JUMP5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/HURT.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "HURT",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/HURT2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "HURT2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/HURT3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "HURT3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ATAQUE2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ATAQUE2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ATAQUE3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ATAQUE3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ATAQUE4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ATAQUE4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ATAQUE5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ATAQUE5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ATAQUE6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ATAQUE6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ATAQUE7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ATAQUE7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ATAQUE8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "ATAQUE8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/DIE.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "DIE",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/DIE2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "DIE2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/DIE3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "DIE3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/DIE4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "DIE4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/DIE5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "DIE5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/DIE6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "DIE6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/idle12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/idle12.png\"}",
+        "name": "idle11",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/idle12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/idle12.png\"}",
+        "name": "idle12",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/idle13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/idle13.png\"}",
+        "name": "idle13",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/idle14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/idle14.png\"}",
+        "name": "idle14",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/idle15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/idle15.png\"}",
+        "name": "idle15",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/idle16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/idle16.png\"}",
+        "name": "idle16",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/die11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "die11",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/die12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "die12",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/die13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "die13",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/die14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "die14",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/die15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "die15",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/run17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/run17.png\"}",
+        "name": "run17",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/run18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/run18.png\"}",
+        "name": "run18",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/run19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/run19.png\"}",
+        "name": "run19",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/run20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/run20.png\"}",
+        "name": "run20",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/run21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/run21.png\"}",
+        "name": "run21",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/run22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/run22.png\"}",
+        "name": "run22",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/run23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/run23.png\"}",
+        "name": "run23",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/run24.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/run24.png\"}",
+        "name": "run24",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/golpe-rapido.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "golpe-rapido",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/golpe-rapido2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "golpe-rapido2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/golpe-rapido3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "golpe-rapido3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/golpe-rapido4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "golpe-rapido4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/golpe-rapido5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "golpe-rapido5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/golpe-largo.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/golpe-largo.png\"}",
+        "name": "golpe-largo",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/golpe-largo2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/golpe-largo2.png\"}",
+        "name": "golpe-largo2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/golpe-largo3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/golpe-largo3.png\"}",
+        "name": "golpe-largo3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/golpe-largo4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/golpe-largo4.png\"}",
+        "name": "golpe-largo4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/golpe-largo5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/golpe-largo5.png\"}",
+        "name": "golpe-largo5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/golpe-largo6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/golpe-largo6.png\"}",
+        "name": "golpe-largo6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/hurt4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/hurt4.png\"}",
+        "name": "hurt",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/hurt4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/hurt4.png\"}",
+        "name": "hurt2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/hurt4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/hurt4.png\"}",
+        "name": "hurt3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/cuchillo4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/cuchillo4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/cuchillo5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/cuchillo4",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -6837,7 +7325,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kioskero frames/IDLE/1.png",
+                  "image": "IDLE7",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -6873,7 +7361,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kioskero frames/IDLE/2.png",
+                  "image": "IDLE8",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -6909,7 +7397,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kioskero frames/IDLE/3.png",
+                  "image": "IDLE9",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -6945,7 +7433,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kioskero frames/IDLE/4.png",
+                  "image": "IDLE10",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -6981,7 +7469,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kioskero frames/IDLE/5.png",
+                  "image": "IDLE11",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -7290,11 +7778,12 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kioskero frames/JUMP/1.png",
+                  "image": "JUMP",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -7330,7 +7819,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kioskero frames/JUMP/2.png",
+                  "image": "JUMP2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -7366,7 +7855,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kioskero frames/JUMP/3.png",
+                  "image": "JUMP3",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -7402,7 +7891,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kioskero frames/JUMP/4.png",
+                  "image": "JUMP4",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -7438,43 +7927,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kioskero frames/JUMP/5.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 15,
-                        "y": 9
-                      },
-                      {
-                        "x": 55,
-                        "y": 9
-                      },
-                      {
-                        "x": 55,
-                        "y": 52
-                      },
-                      {
-                        "x": 15,
-                        "y": 52
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "kioskero frames/JUMP/6.png",
+                  "image": "JUMP5",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -7518,11 +7971,12 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kioskero frames/HURT/1.png",
+                  "image": "HURT",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -7558,7 +8012,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kioskero frames/HURT/2.png",
+                  "image": "HURT2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -7594,7 +8048,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kioskero frames/HURT/3 (1).png",
+                  "image": "HURT3",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -7638,6 +8092,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -7830,11 +8285,12 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kioskero frames/ATAQUE 2/1.png",
+                  "image": "ATAQUE2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -7870,7 +8326,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kioskero frames/ATAQUE 2/2.png",
+                  "image": "ATAQUE3",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -7906,7 +8362,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kioskero frames/ATAQUE 2/3.png",
+                  "image": "ATAQUE4",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -7942,7 +8398,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kioskero frames/ATAQUE 2/4.png",
+                  "image": "ATAQUE5",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -7978,7 +8434,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kioskero frames/ATAQUE 2/5.png",
+                  "image": "ATAQUE6",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -8014,7 +8470,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kioskero frames/ATAQUE 2/6.png",
+                  "image": "ATAQUE7",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -8050,7 +8506,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kioskero frames/ATAQUE 2/7.png",
+                  "image": "ATAQUE8",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -8094,11 +8550,12 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kioskero frames/DIE/1.png",
+                  "image": "DIE",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -8134,7 +8591,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kioskero frames/DIE/2.png",
+                  "image": "DIE2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -8170,7 +8627,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kioskero frames/DIE/3.png",
+                  "image": "DIE3",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -8206,7 +8663,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kioskero frames/DIE/4.png",
+                  "image": "DIE4",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -8242,7 +8699,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kioskero frames/DIE/5.png",
+                  "image": "DIE5",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -8278,7 +8735,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kioskero frames/DIE/6.png",
+                  "image": "DIE6",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -26093,7 +26550,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.7791712547654945,
+        "zoomFactor": 0.6177482432685599,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -32376,7 +32833,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5392188614293845,
+        "zoomFactor": 0.9166720644299531,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -32877,15 +33334,16 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 306,
+          "depth": 1,
+          "height": 322,
           "hidden": true,
           "keepRatio": true,
           "layer": "Fin",
           "name": "Fundido",
           "persistentUuid": "dc91f8bc-067c-4921-a50e-3523ff3e0f7d",
-          "width": 491,
-          "x": -2,
-          "y": -21,
+          "width": 501,
+          "x": -9,
+          "y": -30,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -32969,21 +33427,25 @@
           "variables": [
             {
               "name": "Muerto",
+              "persistentUuid": "84bfdec8-e6a7-43a0-9c65-3c956fb5ef64",
               "type": "number",
               "value": 0
             },
             {
               "name": "PatrolDir",
+              "persistentUuid": "c15fe6d3-45af-4349-97f9-287eb32c12fd",
               "type": "number",
               "value": 1
             },
             {
               "name": "PatrolMax",
+              "persistentUuid": "8211d011-7232-4991-b785-a645b2c1e3fd",
               "type": "number",
               "value": 500
             },
             {
               "name": "PatrolMin",
+              "persistentUuid": "2374e584-d81d-43de-88a4-9fe951598283",
               "type": "number",
               "value": 80
             },
@@ -33076,7 +33538,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/idleCarnicero/idle/idle1c.png",
+                      "image": "idle11",
                       "points": [
                         {
                           "name": "mano",
@@ -33098,27 +33560,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "idle",
+                      "image": "idle12",
                       "points": [
                         {
                           "name": "mano",
@@ -33140,27 +33602,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/idleCarnicero/idle/idle2c.png",
+                      "image": "idle13",
                       "points": [
                         {
                           "name": "mano",
@@ -33182,27 +33644,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/idleCarnicero/idle/idle3c.png",
+                      "image": "idle14",
                       "points": [
                         {
                           "name": "mano",
@@ -33224,27 +33686,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/idleCarnicero/idle/idle4c.png",
+                      "image": "idle15",
                       "points": [
                         {
                           "name": "mano",
@@ -33266,27 +33728,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/idleCarnicero/idle/idle5c.png",
+                      "image": "idle16",
                       "points": [
                         {
                           "name": "mano",
@@ -33308,20 +33770,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
@@ -33336,11 +33798,12 @@
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/die-carnicero/die/DIEC (1).png",
+                      "image": "die11",
                       "points": [
                         {
                           "name": "mano",
@@ -33362,27 +33825,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/die-carnicero/die/DIEC (2).png",
+                      "image": "die12",
                       "points": [
                         {
                           "name": "mano",
@@ -33404,27 +33867,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/die-carnicero/die/DIEC (3).png",
+                      "image": "die13",
                       "points": [
                         {
                           "name": "mano",
@@ -33446,27 +33909,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/die-carnicero/die/DIEC (4).png",
+                      "image": "die14",
                       "points": [
                         {
                           "name": "mano",
@@ -33488,27 +33951,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/die-carnicero/die/DIEC (5).png",
+                      "image": "die15",
                       "points": [
                         {
                           "name": "mano",
@@ -33530,20 +33993,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
@@ -33563,7 +34026,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/run-carnicero/run/run8c (1).png",
+                      "image": "run17",
                       "points": [
                         {
                           "name": "mano",
@@ -33585,27 +34048,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/run-carnicero/run/run8c (2).png",
+                      "image": "run18",
                       "points": [
                         {
                           "name": "mano",
@@ -33627,27 +34090,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/run-carnicero/run/run8c (3).png",
+                      "image": "run19",
                       "points": [
                         {
                           "name": "mano",
@@ -33669,27 +34132,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/run-carnicero/run/run8c (4).png",
+                      "image": "run20",
                       "points": [
                         {
                           "name": "mano",
@@ -33711,27 +34174,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/run-carnicero/run/run8c (5).png",
+                      "image": "run21",
                       "points": [
                         {
                           "name": "mano",
@@ -33753,27 +34216,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/run-carnicero/run/run8c (6).png",
+                      "image": "run22",
                       "points": [
                         {
                           "name": "mano",
@@ -33795,27 +34258,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/run-carnicero/run/run8c (7).png",
+                      "image": "run23",
                       "points": [
                         {
                           "name": "mano",
@@ -33837,27 +34300,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/run-carnicero/run/run8c (8).png",
+                      "image": "run24",
                       "points": [
                         {
                           "name": "mano",
@@ -33879,20 +34342,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
@@ -33912,7 +34375,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/golperapido-carnicero/golperapido/golpe_rapido5c (1).png",
+                      "image": "golpe-rapido",
                       "points": [
                         {
                           "name": "mano",
@@ -33934,27 +34397,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/golperapido-carnicero/golperapido/golpe_rapido5c (2).png",
+                      "image": "golpe-rapido2",
                       "points": [
                         {
                           "name": "mano",
@@ -33976,27 +34439,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/golperapido-carnicero/golperapido/golpe_rapido5c (3).png",
+                      "image": "golpe-rapido3",
                       "points": [
                         {
                           "name": "mano",
@@ -34018,27 +34481,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/golperapido-carnicero/golperapido/golpe_rapido5c (4).png",
+                      "image": "golpe-rapido4",
                       "points": [
                         {
                           "name": "mano",
@@ -34060,27 +34523,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/golperapido-carnicero/golperapido/golpe_rapido5c (5).png",
+                      "image": "golpe-rapido5",
                       "points": [
                         {
                           "name": "mano",
@@ -34102,20 +34565,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
@@ -34135,7 +34598,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/golpelargo-carniecero/golpelargo/golpelargo6c (1).png",
+                      "image": "golpe-largo",
                       "points": [
                         {
                           "name": "mano",
@@ -34157,27 +34620,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/golpelargo-carniecero/golpelargo/golpelargo6c (2).png",
+                      "image": "golpe-largo2",
                       "points": [
                         {
                           "name": "mano",
@@ -34199,27 +34662,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/golpelargo-carniecero/golpelargo/golpelargo6c (3).png",
+                      "image": "golpe-largo3",
                       "points": [
                         {
                           "name": "mano",
@@ -34241,27 +34704,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/golpelargo-carniecero/golpelargo/golpelargo6c (4).png",
+                      "image": "golpe-largo4",
                       "points": [
                         {
                           "name": "mano",
@@ -34283,27 +34746,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/golpelargo-carniecero/golpelargo/golpelargo6c (5).png",
+                      "image": "golpe-largo5",
                       "points": [
                         {
                           "name": "mano",
@@ -34325,27 +34788,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/golpelargo-carniecero/golpelargo/golpelargo6c (6).png",
+                      "image": "golpe-largo6",
                       "points": [
                         {
                           "name": "mano",
@@ -34367,20 +34830,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
@@ -34400,7 +34863,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/hurt-carnicero/hurt/hurt1.png",
+                      "image": "hurt",
                       "points": [
                         {
                           "name": "mano",
@@ -34422,27 +34885,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/hurt-carnicero/hurt/hurt2.png",
+                      "image": "hurt2",
                       "points": [
                         {
                           "name": "mano",
@@ -34464,27 +34927,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/hurt-carnicero/hurt/hurt3.png",
+                      "image": "hurt3",
                       "points": [
                         {
                           "name": "mano",
@@ -34506,20 +34969,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
@@ -34555,17 +35018,17 @@
           ],
           "animations": [
             {
-              "name": "cuchillo",
+              "name": "assets/cuchillo4",
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": true,
+                  "looping": false,
                   "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.12,
+                  "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets/cuchillo.png",
+                      "image": "assets/cuchillo4",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -34581,20 +35044,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 6,
-                            "y": 26
+                            "x": 1,
+                            "y": 5
                           },
                           {
-                            "x": 171,
-                            "y": 26
+                            "x": 31,
+                            "y": 5
                           },
                           {
-                            "x": 171,
-                            "y": 88
+                            "x": 31,
+                            "y": 16
                           },
                           {
-                            "x": 6,
-                            "y": 88
+                            "x": 1,
+                            "y": 16
                           }
                         ]
                       ]
