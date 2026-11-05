@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 287,
+    "build": 286,
     "major": 5,
     "minor": 6,
     "revision": 0
@@ -6426,6 +6426,86 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/General Items/150c96e06e2a584f4b8a894d2084c9d2aee3235fb6c2d24a50b38696d5379cba_Herb_Shadow.png",
           "name": "Herb_Shadow.png"
         }
+      },
+      {
+        "file": "assets/Key_J.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Key_J.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Key_C.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Key_C.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Key_C2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/Key_C",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Key_I.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Key_I.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Key_W.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Key_W.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Key_S.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Key_S.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ingredientes/chorizos2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/ingredientes/chorizos",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ingredientes/arroz (1)2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/ingredientes/arroz (1)",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ingredientes/lentejas2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/ingredientes/lentejas",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ingredientes/vino2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/ingredientes/vino",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -14862,7 +14942,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.7030553796722192,
+        "zoomFactor": 2.1711683209893295,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -14871,6 +14951,7 @@
       "variables": [
         {
           "name": "Bloqueo",
+          "persistentUuid": "28a03a4d-6079-487e-a160-cc7b2372a052",
           "type": "boolean",
           "value": false
         }
@@ -14888,7 +14969,7 @@
           "width": 1724,
           "x": -195,
           "y": -60,
-          "zOrder": 1,
+          "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -15002,93 +15083,8 @@
           "name": "ManualTitulo",
           "persistentUuid": "dee531be-5083-43b1-97b6-cd30feed1ac5",
           "width": 242,
-          "x": 92,
-          "y": 15,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 12,
-          "keepRatio": true,
-          "layer": "UI",
-          "name": "ManualIzquierda",
-          "persistentUuid": "435b8021-3c94-4e04-9357-04e1d417884b",
-          "width": 86,
-          "x": 122,
-          "y": 37,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 12,
-          "keepRatio": true,
-          "layer": "UI",
-          "name": "ManualDerecha",
-          "persistentUuid": "463378c9-38e6-403b-bd56-210e8e018c28",
-          "width": 80,
-          "x": 209,
-          "y": 36,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 14,
-          "keepRatio": true,
-          "layer": "UI",
-          "name": "ManualArriba",
-          "persistentUuid": "26224a48-55c4-486d-bbcc-3b1058549283",
-          "width": 82,
-          "x": 123,
-          "y": 65,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 15,
-          "keepRatio": true,
-          "layer": "UI",
-          "name": "ManualAbajo",
-          "persistentUuid": "147af201-efb8-41a4-aaa0-f921f9bd5861",
-          "width": 125,
-          "x": 54,
-          "y": 85,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 17,
-          "keepRatio": true,
-          "layer": "UI",
-          "name": "ManualEspacio",
-          "persistentUuid": "16bbf16e-0aeb-4ba1-89ab-7639b4015123",
-          "width": 131,
-          "x": 51,
-          "y": 106,
+          "x": 93,
+          "y": 3,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -15104,8 +15100,8 @@
           "name": "TeclaA",
           "persistentUuid": "06bdc60c-8c27-490c-9f76-d479da405d88",
           "width": 17,
-          "x": 28,
-          "y": 64,
+          "x": 25,
+          "y": 35,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -15121,25 +15117,8 @@
           "name": "TeclaD",
           "persistentUuid": "08f2c350-0ca0-4dc3-82fc-e35dc7d98332",
           "width": 17,
-          "x": 28,
-          "y": 40,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 15,
-          "keepRatio": true,
-          "layer": "UI",
-          "name": "TeclaW",
-          "persistentUuid": "0a4b9c44-c2fe-4f28-b428-e446254663b4",
-          "width": 17,
-          "x": 28,
-          "y": 85,
+          "x": 96,
+          "y": 36,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -15155,8 +15134,8 @@
           "name": "FlechaT_Izq",
           "persistentUuid": "cf3a71ce-c582-40f1-bd9c-8dcdafb4aecb",
           "width": 15,
-          "x": 49,
-          "y": 38,
+          "x": 48,
+          "y": 35,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -15172,8 +15151,8 @@
           "name": "FlechaT_Down",
           "persistentUuid": "6489b08d-7789-4b88-8839-0528cc9ad611",
           "width": 11,
-          "x": 75,
-          "y": 35,
+          "x": 52,
+          "y": 55,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -15189,8 +15168,8 @@
           "name": "FlechaT_Der",
           "persistentUuid": "8c3f29a5-499f-412a-8252-f11a44c49900",
           "width": 18,
-          "x": 96,
-          "y": 37,
+          "x": 74,
+          "y": 35,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -15206,25 +15185,8 @@
           "name": "FlechaT_Up",
           "persistentUuid": "bd17ef88-c8fa-46bc-ad23-42b4d855f508",
           "width": 19,
-          "x": 53,
-          "y": 56,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 14,
-          "keepRatio": true,
-          "layer": "UI",
-          "name": "BarraEsp",
-          "persistentUuid": "7a0d1192-0568-4f2c-ad99-44c5c686d494",
-          "width": 57,
-          "x": 67,
-          "y": 64,
+          "x": 76,
+          "y": 46,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -15314,22 +15276,6 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 20,
-          "keepRatio": true,
-          "layer": "Info",
-          "name": "InfoVida",
-          "persistentUuid": "ec3c2039-7d34-4f58-a171-bcb9972b6287",
-          "width": 440,
-          "x": 28,
-          "y": 126,
-          "zOrder": 5,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
           "height": 24,
           "keepRatio": true,
           "layer": "UI",
@@ -15370,26 +15316,9 @@
           "name": "Fundido",
           "persistentUuid": "78186798-5fd3-4401-8552-f2097467e8c0",
           "width": 522,
-          "x": -21,
-          "y": -25,
+          "x": -25,
+          "y": 326,
           "zOrder": 100,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 15,
-          "keepRatio": true,
-          "layer": "UI",
-          "name": "TeclaW",
-          "persistentUuid": "01b9e028-3f24-4d17-a6b3-da0f7cb601d5",
-          "width": 17,
-          "x": 28,
-          "y": 107,
-          "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -15415,7 +15344,7 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "",
+          "layer": "UI",
           "name": "White1BitPixelBar",
           "persistentUuid": "08b6c635-0d51-4fb4-b281-6c7f22dd6b24",
           "width": 0,
@@ -15473,6 +15402,286 @@
           "x": 1337,
           "y": 197,
           "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 15,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "ManualAbajo",
+          "persistentUuid": "ed1ce17e-ce7b-4839-9030-22f41ead0e1d",
+          "width": 125,
+          "x": 40,
+          "y": 90,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 17,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "ManualEspacio",
+          "persistentUuid": "4b101870-f3df-40d5-882b-19515db49815",
+          "width": 131,
+          "x": 41,
+          "y": 107,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 20,
+          "keepRatio": true,
+          "layer": "Info",
+          "name": "InfoVida",
+          "persistentUuid": "ae1a9184-1650-4834-9892-19b249e1b894",
+          "width": 295,
+          "x": 27,
+          "y": 126,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 14,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "ManualArriba",
+          "persistentUuid": "01bf8bdc-3f8c-45a9-b6aa-813bbce8990c",
+          "width": 81,
+          "x": 42,
+          "y": 73,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 14,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "BarraEsp",
+          "persistentUuid": "a3c40a41-e5e6-43f7-bd26-925c2c0044b2",
+          "width": 57,
+          "x": 113,
+          "y": 73,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "tecla_J",
+          "persistentUuid": "01404474-bf0b-48ba-8303-4d8c8934d140",
+          "width": 0,
+          "x": 23,
+          "y": 92,
+          "zOrder": 104,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 6,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "barra_espacio",
+          "persistentUuid": "c6be8da6-93ff-45b0-bbe0-c970a901bc8f",
+          "width": 25,
+          "x": 16,
+          "y": 79,
+          "zOrder": 105,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "letra_i",
+          "persistentUuid": "04caa437-2338-4fb6-bf7d-b3946bc1a63c",
+          "width": 0,
+          "x": 24,
+          "y": 109,
+          "zOrder": 106,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 15,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "letra_w",
+          "persistentUuid": "5d898f5e-5448-4bad-9b90-cdfcd05f2a17",
+          "width": 16,
+          "x": 97,
+          "y": 56,
+          "zOrder": 107,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 15,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "letra_s",
+          "persistentUuid": "4edea6a9-c4ff-4756-8a1b-9ec2413dd124",
+          "width": 16,
+          "x": 26,
+          "y": 55,
+          "zOrder": 108,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 160,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "PanelInv",
+          "persistentUuid": "05457df7-93e6-4d09-b171-c16bea2c4262",
+          "width": 160,
+          "x": 160,
+          "y": 55,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 40,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "olla",
+          "persistentUuid": "92f326e1-ad70-40bc-8cec-96e7b7918402",
+          "width": 40,
+          "x": 222,
+          "y": 160,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 20,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "InvTitulo",
+          "persistentUuid": "c7288715-646e-4095-b09b-771f75fa1f2e",
+          "width": 130,
+          "x": 176,
+          "y": 65,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 20,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "TxtMorron",
+          "persistentUuid": "7f75c109-2288-4c69-ab20-61e254383787",
+          "width": 108,
+          "x": 208,
+          "y": 104,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 20,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "TxtAjo",
+          "persistentUuid": "908b60ff-a493-4716-a05a-c15df9ffd4ad",
+          "width": 108,
+          "x": 208,
+          "y": 142,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 24,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "IconoMorron",
+          "persistentUuid": "6a97870f-3b46-4e80-a199-e3959a1cff73",
+          "width": 24,
+          "x": 178,
+          "y": 102,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 24,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "IconoAjo",
+          "persistentUuid": "2d8c3ee9-e2af-41f0-b326-864e81f54674",
+          "width": 24,
+          "x": 178,
+          "y": 140,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -15544,1795 +15753,6 @@
           "assetStoreId": "afcb166233b03c4282b6509d0771bf503ee8b3bf00c6e86b99b73ad3f82a58b6",
           "name": "TeclaD",
           "persistentUuid": "35f3d362-c681-409d-8533-20977213f573",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "0",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Key_0_1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 0,
-                            "y": 12
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "1",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Key_1_1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 0,
-                            "y": 12
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "2",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Key_2_1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 0,
-                            "y": 12
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "3",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Key_3_1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 0,
-                            "y": 12
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "4",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Key_4_1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 0,
-                            "y": 12
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "5",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Key_5_1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 0,
-                            "y": 12
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "6",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Key_6_1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 0,
-                            "y": 12
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "7",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Key_7_1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 0,
-                            "y": 12
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "8",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Key_8_1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 0,
-                            "y": 12
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "9",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Key_9_1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 0,
-                            "y": 12
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "A",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Key_A.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 0,
-                            "y": 12
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "B",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Key_B.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 0,
-                            "y": 12
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "C",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Key_C.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 0,
-                            "y": 12
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "D",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Key_D.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 0,
-                            "y": 12
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "E",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Key_E.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 0,
-                            "y": 12
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "F",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Key_F.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 0,
-                            "y": 12
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "G",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Key_G.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 0,
-                            "y": 12
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "H",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Key_H.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 0,
-                            "y": 12
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "I",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Key_I.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 0,
-                            "y": 12
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "J",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Key_J.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 0,
-                            "y": 12
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "K",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Key_K.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 0,
-                            "y": 12
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "L",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Key_L.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 0,
-                            "y": 12
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "M",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Key_M.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 0,
-                            "y": 12
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "N",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Key_N.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 0,
-                            "y": 12
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "O",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Key_O.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 0,
-                            "y": 12
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "P",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Key_P.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 0,
-                            "y": 12
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Q",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Key_Q.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 0,
-                            "y": 12
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "R",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Key_R.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 0,
-                            "y": 12
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "S",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Key_S.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 0,
-                            "y": 12
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "T",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Key_T.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 0,
-                            "y": 12
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "U",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Key_U.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 0,
-                            "y": 12
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "V",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Key_V.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 0,
-                            "y": 12
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "W",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Key_W.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 0,
-                            "y": 12
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Windows",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Key_Windows.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 0,
-                            "y": 12
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "X",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Key_X.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 0,
-                            "y": 12
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Y",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Key_Y.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 0,
-                            "y": 12
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Z",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Key_Z.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 0
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 0,
-                            "y": 12
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "afcb166233b03c4282b6509d0771bf503ee8b3bf00c6e86b99b73ad3f82a58b6",
-          "name": "TeclaW",
-          "persistentUuid": "4386f942-a033-45f8-ae7a-7c16953eeb81",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -24710,7 +23130,7 @@
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "ATACAR (ATTACK) - J / j",
+          "string": "- ATACAR (ATTACK) - J / j",
           "font": "PixelifySans-VariableFont_wght.ttf",
           "textAlignment": "left",
           "characterSize": 10,
@@ -24733,7 +23153,7 @@
             "shadowOpacity": 0,
             "smoothed": true,
             "underlined": false,
-            "text": "ATACAR (ATTACK) - J / j",
+            "text": "- ATACAR (ATTACK) - J / j",
             "font": "PixelifySans-VariableFont_wght.ttf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
@@ -24753,7 +23173,7 @@
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "Prueba de muerte (K)",
+          "string": "- Inventario ( i )",
           "font": "PixelifySans-VariableFont_wght.ttf",
           "textAlignment": "left",
           "characterSize": 10,
@@ -24776,7 +23196,7 @@
             "shadowOpacity": 0,
             "smoothed": true,
             "underlined": false,
-            "text": "Prueba de muerte (K)",
+            "text": "- Inventario ( i )",
             "font": "PixelifySans-VariableFont_wght.ttf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
@@ -25699,6 +24119,502 @@
             "lineHeight": 0,
             "color": "255;255;255"
           }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "tecla_J",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Key_J.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 12
+                          },
+                          {
+                            "x": 0,
+                            "y": 12
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "NewTiledSprite",
+          "texture": "",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "barra_espacio",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "space",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Key_C",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 35,
+                            "y": 0
+                          },
+                          {
+                            "x": 35,
+                            "y": 12
+                          },
+                          {
+                            "x": 0,
+                            "y": 12
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "letra_i",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Key_I.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 11,
+                            "y": 0
+                          },
+                          {
+                            "x": 11,
+                            "y": 12
+                          },
+                          {
+                            "x": 0,
+                            "y": 12
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "letra_w",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Key_W.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 13,
+                            "y": 0
+                          },
+                          {
+                            "x": 13,
+                            "y": 12
+                          },
+                          {
+                            "x": 0,
+                            "y": 12
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "letra_s",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Key_S.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 12
+                          },
+                          {
+                            "x": 0,
+                            "y": 12
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "olla",
+          "persistentUuid": "8691aaf3-8470-45d5-b456-137c36ce45d4",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "OLLASS 1 (1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 60,
+                            "y": 0
+                          },
+                          {
+                            "x": 60,
+                            "y": 60
+                          },
+                          {
+                            "x": 0,
+                            "y": 60
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "IconoMorron",
+          "persistentUuid": "3476abeb-d0a4-4c25-b0ba-f69c70d4e010",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "morron asset",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "morron asset.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 7
+                          },
+                          {
+                            "x": 54,
+                            "y": 7
+                          },
+                          {
+                            "x": 54,
+                            "y": 62
+                          },
+                          {
+                            "x": 11,
+                            "y": 62
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "IconoAjo",
+          "persistentUuid": "40d76603-6238-47e7-a70f-4c7aab0d0d44",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "ajos.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 0
+                          },
+                          {
+                            "x": 47,
+                            "y": 0
+                          },
+                          {
+                            "x": 47,
+                            "y": 61
+                          },
+                          {
+                            "x": 20,
+                            "y": 61
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -25708,16 +24624,28 @@
             "objectName": "fondo"
           },
           {
+            "objectName": "letra_s"
+          },
+          {
             "objectName": "TeclaD"
           },
           {
-            "objectName": "TeclaW"
+            "objectName": "letra_w"
           },
           {
             "objectName": "TeclaJ"
           },
           {
             "objectName": "TeclaK"
+          },
+          {
+            "objectName": "tecla_J"
+          },
+          {
+            "objectName": "NewTiledSprite"
+          },
+          {
+            "objectName": "barra_espacio"
           },
           {
             "objectName": "TeclaA"
@@ -25742,6 +24670,9 @@
           },
           {
             "objectName": "ManualEspacio"
+          },
+          {
+            "objectName": "letra_i"
           },
           {
             "objectName": "ManualSaltar"
@@ -25808,6 +24739,15 @@
           },
           {
             "objectName": "TxtNivel"
+          },
+          {
+            "objectName": "olla"
+          },
+          {
+            "objectName": "IconoMorron"
+          },
+          {
+            "objectName": "IconoAjo"
           }
         ]
       },
@@ -26268,80 +25208,6 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M62SG5YYJVHMTRQXQMP99CVR",
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "KeyFromTextJustPressed"
-              },
-              "parameters": [
-                "",
-                "\"k\""
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "Dylan",
-                "PlatformerObject",
-                "no"
-              ]
-            },
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-              },
-              "parameters": [
-                "Dylan",
-                "Animation",
-                "=",
-                "\"Muerte\""
-              ]
-            },
-            {
-              "type": {
-                "await": true,
-                "value": "Wait"
-              },
-              "parameters": [
-                "2"
-              ]
-            },
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "Dylan",
-                "PlatformerObject",
-                "yes"
-              ]
-            },
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-              },
-              "parameters": [
-                "Dylan",
-                "Animation",
-                "=",
-                "\"IDLE\""
-              ]
-            }
-          ]
-        },
-        {
           "aiGeneratedEventId": "01M62T32QFBT3DGZ0NQP0ZCZG0",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
@@ -26382,7 +25248,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "TeclaW",
+                "letra_w",
                 "Animation",
                 "=",
                 "\"W\""
@@ -26404,10 +25270,10 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "TeclaK",
+                "letra_s",
                 "Animation",
                 "=",
-                "\"K\""
+                "\"S\""
               ]
             }
           ]
@@ -26985,6 +25851,315 @@
               ]
             }
           ]
+        },
+        {
+          "aiGeneratedEventId": "01M6N299C25AXY77JQJTJMCHRM",
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Inventario (olla)",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Inventario oculto. Se abre con I y se cierra con I o ESC."
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SceneJustBegins"
+                  },
+                  "parameters": [
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "InvAbierto",
+                    "False",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Or"
+                  },
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "value": "KeyFromTextJustPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"i\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "KeyFromTextJustPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Tab\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "KeyFromTextJustPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"e\""
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "InvAbierto",
+                    "Toggle",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyFromTextJustPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Escape\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "InvAbierto",
+                    "False",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "InvAbierto",
+                    "True",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "PanelInv",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "olla",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "InvTitulo",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "IconoMorron",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "TxtMorron",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "IconoAjo",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "TxtAjo",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Else",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "PanelInv"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "olla"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "InvTitulo"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "IconoMorron"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "TxtMorron"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "IconoAjo"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "TxtAjo"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "InvTitulo",
+                    "Text",
+                    "=",
+                    "\"INVENTARIO\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TxtMorron",
+                    "Text",
+                    "=",
+                    "\"MORRON x\" + ToString(Morron)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TxtAjo",
+                    "Text",
+                    "=",
+                    "\"AJO x\" + ToString(Ajo)"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
         }
       ],
       "layers": [
@@ -27084,6 +26259,24 @@
           "isLightingLayer": false,
           "isLocked": false,
           "name": "Info",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "Inventario",
           "renderingType": "",
           "visibility": true,
           "cameras": [],
@@ -30073,44 +29266,6 @@
                   },
                   "parameters": [
                     "",
-                    "\"k\""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Health::Health::Hit"
-                  },
-                  "parameters": [
-                    "Dylan",
-                    "Health",
-                    "200",
-                    "no",
-                    "no",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ResetObjectTimer"
-                  },
-                  "parameters": [
-                    "Dylan",
-                    "\"Golpe\""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "KeyFromTextJustPressed"
-                  },
-                  "parameters": [
-                    "",
                     "\"r\""
                   ]
                 }
@@ -32285,6 +31440,16 @@
                       "parameters": [
                         "BarraEnemigo"
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "ActivateBehavior"
+                      },
+                      "parameters": [
+                        "ENEMIGO1",
+                        "PlatformerObject",
+                        ""
+                      ]
                     }
                   ]
                 }
@@ -33764,6 +32929,34 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "Health",
+              "type": "Health::Health",
+              "Health": 100,
+              "CurrentHealth": 0,
+              "MaxHealth": 100,
+              "DamageCooldown": 0,
+              "AllowOverHealing": false,
+              "IsHealthJustDamaged": false,
+              "DamageToBeApplied": 0,
+              "HitAtLeastOnce": false,
+              "ChanceToDodge": 0,
+              "IsJustDodged": false,
+              "HealToBeApplied": 0,
+              "HealthRegenRate": 0,
+              "HealthRegenDelay": 0,
+              "IsJustHealed": false,
+              "CurrentShieldPoints": 0,
+              "MaxShieldPoints": 0,
+              "ShieldDuration": 5,
+              "ShieldRegenRate": 0,
+              "BlockExcessDamage": false,
+              "ShieldRegenDelay": 0,
+              "IsShieldJustDamaged": false,
+              "ShieldDamageTaken": 0,
+              "FlatDamageReduction": 0,
+              "PercentDamageReduction": 0
+            },
+            {
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
               "acceleration": 1200,
@@ -34020,7 +33213,7 @@
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": true,
+                  "looping": false,
                   "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.12,
                   "sprites": [
@@ -34213,7 +33406,7 @@
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": true,
+                  "looping": false,
                   "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.12,
                   "sprites": [
@@ -34514,7 +33707,7 @@
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": true,
+                  "looping": false,
                   "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.12,
                   "sprites": [
@@ -34707,7 +33900,7 @@
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": true,
+                  "looping": false,
                   "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.12,
                   "sprites": [
@@ -36496,7 +35689,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M6D70FG4H8TBS701HJKSZJSZ",
+          "aiGeneratedEventId": "01M6N36BDAC6GHRCRWTEN6DS8R",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -36518,6 +35711,28 @@
                 "butcher",
                 "<",
                 "Dylan.X()"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "butcher",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
               ]
             }
           ],
@@ -36555,7 +35770,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M6D70FG4H8TBS701HJKSZJSZ",
+          "aiGeneratedEventId": "01M6N36BDAC6GHRCRWTEN6DS8R",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -36577,6 +35792,28 @@
                 "butcher",
                 ">",
                 "Dylan.X()"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "butcher",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
               ]
             }
           ],
@@ -36614,7 +35851,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M6FNGQ9WWFDRJ4TGNRZG5V06",
+          "aiGeneratedEventId": "01M6N37BTT385G1YR8348QP95M",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -36638,6 +35875,17 @@
                 "PatrolDir",
                 "=",
                 "1"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "butcher",
+                "Health",
+                ""
               ]
             }
           ],
@@ -36705,7 +35953,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M6FNGQ9WWFDRJ4TGNRZG5V06",
+          "aiGeneratedEventId": "01M6N37BTT385G1YR8348QP95M",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -36729,6 +35977,17 @@
                 "PatrolDir",
                 "=",
                 "-1"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "butcher",
+                "Health",
+                ""
               ]
             }
           ],
@@ -36808,7 +36067,7 @@
           "comment": "acción de daño\n"
         },
         {
-          "aiGeneratedEventId": "01M6FMQ1D82KCK4PT138GZ04KY",
+          "aiGeneratedEventId": "01M6N36BDAC6GHRCRWTEN6DS8R",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -36832,6 +36091,28 @@
                 "\"GolpeButcher\"",
                 ">=",
                 "5"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "butcher",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
               ]
             }
           ],
@@ -36904,7 +36185,7 @@
           "comment": "ataque"
         },
         {
-          "aiGeneratedEventId": "01M6D7DBSY5W0W5EDXGCG8M7MS",
+          "aiGeneratedEventId": "01M6N36BDAC6GHRCRWTEN6DS8R",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -36937,6 +36218,28 @@
                 "butcher",
                 "AtacandoCuchillo",
                 "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "butcher",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
                 ""
               ]
             }
@@ -37246,7 +36549,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M6D8YFVC71J3JVQD0YP7XRW1",
+          "aiGeneratedEventId": "01M6N34CVZRJMATWM6KJASD4NF",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -37274,6 +36577,17 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
             }
           ],
           "actions": [
@@ -37299,7 +36613,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M6D8YFVC71J3JVQD0YP7XRW1",
+          "aiGeneratedEventId": "01M6N34CVZRJMATWM6KJASD4NF",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -37327,6 +36641,17 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
             }
           ],
           "actions": [
@@ -37352,7 +36677,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M6D8YFVC71J3JVQD0YP7XRW1",
+          "aiGeneratedEventId": "01M6N34CVZRJMATWM6KJASD4NF",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -37389,6 +36714,17 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
             }
           ],
           "actions": [
@@ -37404,7 +36740,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M6D8YFVC71J3JVQD0YP7XRW1",
+          "aiGeneratedEventId": "01M6N34CVZRJMATWM6KJASD4NF",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -37431,6 +36767,17 @@
                     "\"Down\""
                   ]
                 }
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
               ]
             }
           ],
@@ -37466,7 +36813,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M6D8YFVC71J3JVQD0YP7XRW1",
+          "aiGeneratedEventId": "01M6N34CVZRJMATWM6KJASD4NF",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -37476,21 +36823,31 @@
               "parameters": [
                 "Dylan",
                 ">",
-                "400"
+                "520"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
               ]
             }
           ],
           "actions": [
             {
               "type": {
-                "value": "SetXY"
+                "value": "Health::Health::SetHealth"
               },
               "parameters": [
                 "Dylan",
-                "=",
-                "40",
-                "=",
-                "130"
+                "Health",
+                "0",
+                ""
               ]
             }
           ]
@@ -37956,6 +37313,7 @@
           "parameters": []
         },
         {
+          "aiGeneratedEventId": "01M6N383FN1R9K5BN6JDXPDP4X",
           "type": "BuiltinCommonInstructions::Comment",
           "color": {
             "b": 109,
@@ -37968,6 +37326,7 @@
           "comment": "agarrar objetos"
         },
         {
+          "aiGeneratedEventId": "01M6N383FN1R9K5BN6JDXPDP4X",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -37981,21 +37340,18 @@
                 "",
                 ""
               ]
-            }
-          ],
-          "actions": [
+            },
             {
               "type": {
-                "value": "Delete"
+                "value": "BuiltinCommonInstructions::Once"
               },
-              "parameters": [
-                "carne",
-                ""
-              ]
+              "parameters": []
             }
-          ]
+          ],
+          "actions": []
         },
         {
+          "aiGeneratedEventId": "01M6N383FN1R9K5BN6JDXPDP4X",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -38009,19 +37365,15 @@
                 "",
                 ""
               ]
-            }
-          ],
-          "actions": [
+            },
             {
               "type": {
-                "value": "Delete"
+                "value": "BuiltinCommonInstructions::Once"
               },
-              "parameters": [
-                "chorixo",
-                ""
-              ]
+              "parameters": []
             }
-          ]
+          ],
+          "actions": []
         },
         {
           "aiGeneratedEventId": "01M6MX0GTARH0CJDHZ0BZ4KH2S",
@@ -38229,6 +37581,7 @@
           ]
         },
         {
+          "aiGeneratedEventId": "01M6N3E1HGW7ZNP83N20FYS6NN",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -38243,6 +37596,22 @@
             }
           ],
           "actions": []
+        },
+        {
+          "aiGeneratedEventId": "01M6N35DQG9EVEKZ6BC2V5NRSM",
+          "type": "BuiltinCommonInstructions::Else",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"Derrota\""
+              ]
+            }
+          ]
         },
         {
           "type": "BuiltinCommonInstructions::Else",
@@ -38640,6 +38009,7 @@
               ]
             },
             {
+              "aiGeneratedEventId": "01M6N395CH11S5MQ55H7TWTWVH",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -38686,7 +38056,16 @@
                     "value": "Show"
                   },
                   "parameters": [
-                    "carne",
+                    "TxtMorron",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "TxtAjo",
                     ""
                   ]
                 },
@@ -38704,15 +38083,6 @@
                     "value": "Show"
                   },
                   "parameters": [
-                    "chorixo",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Show"
-                  },
-                  "parameters": [
                     "TxtChorizo",
                     ""
                   ]
@@ -38720,6 +38090,7 @@
               ]
             },
             {
+              "aiGeneratedEventId": "01M6N395CH11S5MQ55H7TWTWVH",
               "type": "BuiltinCommonInstructions::Else",
               "conditions": [],
               "actions": [
@@ -38752,7 +38123,15 @@
                     "value": "Hide"
                   },
                   "parameters": [
-                    "carne"
+                    "TxtMorron"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "TxtAjo"
                   ]
                 },
                 {
@@ -38768,20 +38147,13 @@
                     "value": "Hide"
                   },
                   "parameters": [
-                    "chorixo"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Hide"
-                  },
-                  "parameters": [
                     "TxtChorizo"
                   ]
                 }
               ]
             },
             {
+              "aiGeneratedEventId": "01M6N395CH11S5MQ55H7TWTWVH",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [],
               "actions": [
@@ -38804,7 +38176,7 @@
                     "TxtMorron",
                     "Text",
                     "=",
-                    "\"CARNE x\" + ToString(carne3)"
+                    "\"MORRON x\" + ToString(Morron)"
                   ]
                 },
                 {
@@ -38815,7 +38187,29 @@
                     "TxtAjo",
                     "Text",
                     "=",
-                    "\"CARNE x\" + ToString(chorizo)"
+                    "\"AJO x\" + ToString(Ajo)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TxtCarne",
+                    "Text",
+                    "=",
+                    "\"CARNE x\" + ToString(carne3)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TxtChorizo",
+                    "Text",
+                    "=",
+                    "\"CHORIZO x\" + ToString(chorizo)"
                   ]
                 }
               ]
@@ -38827,6 +38221,499 @@
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [],
           "actions": []
+        },
+        {
+          "aiGeneratedEventId": "01M6N35DQG9EVEKZ6BC2V5NRSM",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"Derrota\"",
+                ">",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "MuertesSeguidas",
+                "<",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "VidaDylan",
+                "=",
+                "100"
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Nivel 2\"",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6N35DQG9EVEKZ6BC2V5NRSM",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"Derrota\"",
+                ">",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "MuertesSeguidas",
+                ">=",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "TxtPerdiste",
+                "Text",
+                "=",
+                "\"PERDISTE!\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "TxtPerdiste",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"Perdiste\""
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6N35DQG9EVEKZ6BC2V5NRSM",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "MuertesSeguidas",
+                ">=",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"Perdiste\"",
+                ">",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "VidaDylan",
+                "=",
+                "100"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "MuertesSeguidas",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"menu\"",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6N36RV4PECHK4T291EHT5JG",
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Combate Dylan vs butcher",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "J golpea al butcher (4 golpes de 25 lo matan)."
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyFromTextJustPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"j\""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "InvAbierto",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "Health",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "butcher",
+                    "Health",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CompareObjectTimer"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "\"Ataque\"",
+                    ">",
+                    "0.45"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "\"Ataque\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CompareObjectTimer"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "\"Ataque\"",
+                    "<",
+                    "0.15"
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "InvAbierto",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Distance"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "butcher",
+                    "70",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "Health",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "butcher",
+                    "Health",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Health::Health::Hit"
+                  },
+                  "parameters": [
+                    "butcher",
+                    "Health",
+                    "25",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundOnChannel"
+                  },
+                  "parameters": [
+                    "",
+                    "assets/sonidos/golpes/sonido pegar golpe.mp3",
+                    "5",
+                    "no",
+                    "100",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "butcher",
+                    "Health",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "butcher",
+                    "Animation",
+                    "=",
+                    "\"die\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "butcher",
+                    "AtacandoCuchillo",
+                    "False",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "butcher",
+                    "PlatformerObject",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "aiGeneratedEventId": "01M6N3E1HGW7ZNP83N20FYS6NN",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "MuertesSeguidas",
+                "+",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"Derrota\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"Perdiste\""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -38894,6 +38781,60 @@
               }
             }
           ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "Inventario",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "barra_vida",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "Fin",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
         }
       ],
       "behaviorsSharedData": [
@@ -38966,7 +38907,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.7030553796722153,
+        "zoomFactor": 1.5583425095309202,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -39022,8 +38963,8 @@
           "name": "vieja_bruja",
           "persistentUuid": "0e09e695-9ff9-4a81-8e85-d0bc6a6242d0",
           "width": 0,
-          "x": 1906,
-          "y": 60,
+          "x": 1952,
+          "y": 75,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -39038,8 +38979,8 @@
           "name": "vieja_bruja",
           "persistentUuid": "ad2ce0ae-b699-468a-99da-1abd2daa8ec7",
           "width": 0,
-          "x": 1063,
-          "y": 118,
+          "x": 1035,
+          "y": 176,
           "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
@@ -39055,8 +38996,8 @@
           "name": "piso",
           "persistentUuid": "45ffa066-255c-41f0-be78-e4dd839df531",
           "width": 825,
-          "x": -140,
-          "y": 224,
+          "x": -141,
+          "y": 243,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -39073,23 +39014,7 @@
           "width": 0,
           "x": 37,
           "y": 143,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "White1BitPixelBar",
-          "persistentUuid": "63a7fb55-4063-4bbf-a720-7a9449709982",
-          "width": 0,
-          "x": 33,
-          "y": 23,
-          "zOrder": 5,
+          "zOrder": 23,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -39098,15 +39023,15 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 46,
+          "height": 12,
           "keepRatio": true,
           "layer": "",
-          "name": "salame",
-          "persistentUuid": "ff39e907-8293-4a2f-911f-7b00f65e936c",
-          "width": 46,
-          "x": 1890,
-          "y": 87,
-          "zOrder": 6,
+          "name": "White1BitPixelBar",
+          "persistentUuid": "63a7fb55-4063-4bbf-a720-7a9449709982",
+          "width": 77,
+          "x": 24,
+          "y": 18,
+          "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -39122,7 +39047,7 @@
           "persistentUuid": "ff1f8328-b617-4e58-a637-ea10bbe39177",
           "width": 42,
           "x": 3801,
-          "y": 218,
+          "y": 203,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -39137,8 +39062,8 @@
           "name": "cajon",
           "persistentUuid": "680d87e5-0ae4-4480-9350-36f10c0a20f1",
           "width": 0,
-          "x": 1121,
-          "y": 174,
+          "x": 1120,
+          "y": 188,
           "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
@@ -39153,8 +39078,8 @@
           "name": "cajon",
           "persistentUuid": "479e8d9b-49c7-4b44-9490-df76ec0dcc32",
           "width": 0,
-          "x": 1281,
-          "y": 173,
+          "x": 1278,
+          "y": 187,
           "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
@@ -39170,7 +39095,7 @@
           "persistentUuid": "750cec1a-90e3-48dc-8690-de3f137138a2",
           "width": 0,
           "x": 1370,
-          "y": 175,
+          "y": 189,
           "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
@@ -39186,8 +39111,8 @@
           "name": "auto",
           "persistentUuid": "5b100a75-fdf7-4316-86a3-b0af25e07b0e",
           "width": 167,
-          "x": 1722,
-          "y": 113,
+          "x": 1710,
+          "y": 136,
           "zOrder": 15,
           "numberProperties": [],
           "stringProperties": [],
@@ -39203,8 +39128,8 @@
           "name": "pared",
           "persistentUuid": "41244c5e-44e4-4fdc-9656-2354f6724fd2",
           "width": 213,
-          "x": 1898,
-          "y": 70,
+          "x": 1896,
+          "y": 82,
           "zOrder": 15,
           "numberProperties": [],
           "stringProperties": [],
@@ -39236,9 +39161,9 @@
           "layer": "",
           "name": "fondo_nivel_3_comtinuacion",
           "persistentUuid": "ff44d06a-3fb5-4ee7-bfe8-6f7335d5cda5",
-          "width": 2278,
-          "x": 1544,
-          "y": -31,
+          "width": 2195,
+          "x": 1627,
+          "y": -46,
           "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
@@ -39271,8 +39196,8 @@
           "name": "piso",
           "persistentUuid": "06021ed7-682f-4237-ae80-ca08246a9430",
           "width": 825,
-          "x": 1462,
-          "y": 230,
+          "x": 1457,
+          "y": 247,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -39288,8 +39213,8 @@
           "name": "piso",
           "persistentUuid": "b6f94363-e0da-4594-ae77-d9a04abc51f6",
           "width": 825,
-          "x": 2264,
-          "y": 233,
+          "x": 2216,
+          "y": 238,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -39305,8 +39230,8 @@
           "name": "piso",
           "persistentUuid": "894bebf7-43bb-44ca-aefb-60367b58d368",
           "width": 794,
-          "x": 2649,
-          "y": 230,
+          "x": 2648,
+          "y": 237,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -39321,9 +39246,9 @@
           "layer": "",
           "name": "NewSprite3",
           "persistentUuid": "6a32cbc2-8278-496b-874e-732f3513c9e2",
-          "width": 382,
-          "x": 3357,
-          "y": 232,
+          "width": 210,
+          "x": 3483,
+          "y": 234,
           "zOrder": 16,
           "numberProperties": [],
           "stringProperties": [],
@@ -39339,8 +39264,8 @@
           "name": "piso",
           "persistentUuid": "634f6120-f6f4-45bb-9cd9-71a7986002fb",
           "width": 794,
-          "x": 3523,
-          "y": 227,
+          "x": 3845,
+          "y": 241,
           "zOrder": 18,
           "numberProperties": [],
           "stringProperties": [],
@@ -39350,14 +39275,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 256,
+          "height": 322,
           "keepRatio": true,
           "layer": "",
           "name": "fondo_nivel_3_final",
           "persistentUuid": "38d6bafa-0571-4341-957d-6cb1de4859a5",
-          "width": 551,
-          "x": 3283,
-          "y": 1,
+          "width": 693,
+          "x": 3652,
+          "y": -47,
           "zOrder": 17,
           "numberProperties": [],
           "stringProperties": [],
@@ -39367,32 +39292,15 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 267,
+          "height": 312,
           "keepRatio": true,
           "layer": "",
           "name": "NewSprite5",
           "persistentUuid": "3d3b51fc-48d2-4273-985c-278ce6a073e7",
-          "width": 1308,
-          "x": 3308,
-          "y": 5,
+          "width": 1528,
+          "x": 3789,
+          "y": -48,
           "zOrder": -3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 46,
-          "keepRatio": true,
-          "layer": "",
-          "name": "piso",
-          "persistentUuid": "2d0cdf2e-5fe1-4a42-8614-4e4d50da7008",
-          "width": 406,
-          "x": 4278,
-          "y": 227,
-          "zOrder": 18,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -39457,24 +39365,8 @@
           "name": "TxtMuertes",
           "persistentUuid": "15033dd4-365e-436e-a745-8780d01f9a7e",
           "width": 0,
-          "x": 10,
-          "y": 30,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "Inventario",
-          "name": "olla",
-          "persistentUuid": "c04c072f-85bf-4e94-8cb4-233c1bd00fa3",
-          "width": 0,
-          "x": 222,
-          "y": 160,
+          "x": 30,
+          "y": 38,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -39483,14 +39375,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 160,
+          "depth": 1,
+          "height": 181,
           "keepRatio": true,
           "layer": "Inventario",
           "name": "PanelInv",
           "persistentUuid": "98f60c47-b8f2-4f0c-b89f-fc8ddc909f6d",
-          "width": 160,
-          "x": 160,
-          "y": 55,
+          "width": 181,
+          "x": 144,
+          "y": 31,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -39521,8 +39414,8 @@
           "name": "TxtMorron",
           "persistentUuid": "3bd4a6e0-a819-4d54-a11a-b3cc6fd927d9",
           "width": 0,
-          "x": 208,
-          "y": 104,
+          "x": 204,
+          "y": 98,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -39537,8 +39430,8 @@
           "name": "TxtAjo",
           "persistentUuid": "30b3af1b-5b72-44e0-bf32-b1d0e558e0c5",
           "width": 0,
-          "x": 208,
-          "y": 142,
+          "x": 205,
+          "y": 136,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -39553,8 +39446,8 @@
           "name": "chorizo",
           "persistentUuid": "afd53bc0-29b8-4705-aa7e-66143fec0253",
           "width": 24,
-          "x": 178,
-          "y": 102,
+          "x": 167,
+          "y": 99,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -39569,8 +39462,8 @@
           "name": "IconoAjo",
           "persistentUuid": "f3d1a7cb-4832-4307-9374-cb2c6350ef0d",
           "width": 24,
-          "x": 178,
-          "y": 140,
+          "x": 166,
+          "y": 134,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -39579,46 +39472,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 12,
+          "depth": 1,
+          "height": 10,
           "keepRatio": true,
           "layer": "barra_vida",
           "name": "BarraEnemigo",
           "persistentUuid": "83c4356d-b591-43a2-8752-cb562c219001",
-          "width": 120,
-          "x": 351,
-          "y": 12,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 71,
-          "keepRatio": true,
-          "layer": "Fin",
-          "name": "PanelFin",
-          "persistentUuid": "e3ec0c8a-583d-41b5-b0ed-bea3f702464e",
-          "width": 164,
-          "x": 165,
-          "y": 98,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "Fin",
-          "name": "TxtFin",
-          "persistentUuid": "67c19235-d525-47e5-b22e-443d737453d3",
-          "width": 0,
-          "x": 172,
-          "y": 114,
+          "width": 86,
+          "x": 377,
+          "y": 17,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -39634,8 +39496,8 @@
           "name": "Fundido",
           "persistentUuid": "b79ba682-96f0-477a-be3a-eb1916253cb8",
           "width": 491,
-          "x": 0,
-          "y": -21,
+          "x": -754,
+          "y": 453,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -39651,8 +39513,8 @@
           "name": "video_final",
           "persistentUuid": "5dbb7597-1989-4b50-9d20-32ad21c1e9cf",
           "width": 601,
-          "x": -40,
-          "y": -49,
+          "x": -86,
+          "y": 579,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -39667,8 +39529,8 @@
           "name": "ingrediente1",
           "persistentUuid": "8df45ddc-91a0-45fd-b3c5-f9bdb1c15e0e",
           "width": 0,
-          "x": 640,
-          "y": 157,
+          "x": 638,
+          "y": 194,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -39699,8 +39561,8 @@
           "name": "ingrediente3",
           "persistentUuid": "4d6bb8a5-3a13-4d1d-9ca1-e76fc9f5490f",
           "width": 0,
-          "x": 2097,
-          "y": 162,
+          "x": 2343,
+          "y": 206,
           "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
@@ -39717,6 +39579,73 @@
           "width": 0,
           "x": 1570,
           "y": 181,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 59,
+          "keepRatio": true,
+          "layer": "",
+          "name": "piso",
+          "persistentUuid": "3a40c084-2ac9-45cd-99ef-c395e794c299",
+          "width": 708,
+          "x": 4615,
+          "y": 234,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewSprite3",
+          "persistentUuid": "74cdcd29-01fe-4e95-a128-a233ec081a8b",
+          "width": 184,
+          "x": 3656,
+          "y": 233,
+          "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewSprite3",
+          "persistentUuid": "6b7d5c40-e0bd-41c2-80b6-d8822fa1262e",
+          "width": 210,
+          "x": 3358,
+          "y": 234,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "salame",
+          "persistentUuid": "c2ef6d82-7062-4074-9675-f719fe7b1f5a",
+          "width": 0,
+          "x": 1843,
+          "y": 163,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -42236,16 +42165,17 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "assets/ingredientes/chorizos",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets/ingredientes/chorizos.png",
+                      "image": "assets/ingredientes/chorizos",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -42261,20 +42191,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 3,
-                            "y": 3
+                            "x": 2,
+                            "y": 2
                           },
                           {
-                            "x": 52,
-                            "y": 3
+                            "x": 26,
+                            "y": 2
                           },
                           {
-                            "x": 52,
-                            "y": 61
+                            "x": 26,
+                            "y": 31
                           },
                           {
-                            "x": 3,
-                            "y": 61
+                            "x": 2,
+                            "y": 31
                           }
                         ]
                       ]
@@ -43390,16 +43320,17 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "assets/ingredientes/arroz (1)",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets/ingredientes/arroz (1).png",
+                      "image": "assets/ingredientes/arroz (1)",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -43415,20 +43346,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 10,
-                            "y": 9
+                            "x": 5,
+                            "y": 5
                           },
                           {
-                            "x": 57,
-                            "y": 9
+                            "x": 29,
+                            "y": 5
                           },
                           {
-                            "x": 57,
-                            "y": 60
+                            "x": 29,
+                            "y": 30
                           },
                           {
-                            "x": 10,
-                            "y": 60
+                            "x": 5,
+                            "y": 30
                           }
                         ]
                       ]
@@ -43450,16 +43381,17 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "assets/ingredientes/lentejas",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets/ingredientes/lentejas.png",
+                      "image": "assets/ingredientes/lentejas",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -43475,20 +43407,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 10,
-                            "y": 8
+                            "x": 5,
+                            "y": 4
                           },
                           {
-                            "x": 59,
-                            "y": 8
+                            "x": 30,
+                            "y": 4
                           },
                           {
-                            "x": 59,
-                            "y": 59
+                            "x": 30,
+                            "y": 30
                           },
                           {
-                            "x": 10,
-                            "y": 59
+                            "x": 5,
+                            "y": 30
                           }
                         ]
                       ]
@@ -43510,16 +43442,17 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "assets/ingredientes/vino",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets/ingredientes/vino.png",
+                      "image": "assets/ingredientes/vino",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -43535,20 +43468,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 23,
-                            "y": 2
+                            "x": 12,
+                            "y": 1
                           },
                           {
-                            "x": 44,
-                            "y": 2
+                            "x": 22,
+                            "y": 1
                           },
                           {
-                            "x": 44,
-                            "y": 62
+                            "x": 22,
+                            "y": 31
                           },
                           {
-                            "x": 23,
-                            "y": 62
+                            "x": 12,
+                            "y": 31
                           }
                         ]
                       ]
@@ -44238,7 +44171,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M5GYJFDQNT8SGWR74C4KFJ7S",
+          "aiGeneratedEventId": "01M6N6CTZ4P2CQMJN15K7M132N",
           "type": "BuiltinCommonInstructions::Else",
           "conditions": [
             {
@@ -44266,6 +44199,40 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsJustDamaged"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "CompareObjectTimer"
+              },
+              "parameters": [
+                "Dylan",
+                "\"Golpe\"",
+                "<",
+                "0.5"
+              ]
             }
           ],
           "actions": [
@@ -44283,7 +44250,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M5GYJFDQNT8SGWR74C4KFJ7S",
+          "aiGeneratedEventId": "01M6N6CTZ4P2CQMJN15K7M132N",
           "type": "BuiltinCommonInstructions::Else",
           "conditions": [
             {
@@ -44311,6 +44278,40 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsJustDamaged"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "CompareObjectTimer"
+              },
+              "parameters": [
+                "Dylan",
+                "\"Golpe\"",
+                "<",
+                "0.5"
+              ]
             }
           ],
           "actions": [
@@ -44328,7 +44329,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M5GYJFDQNT8SGWR74C4KFJ7S",
+          "aiGeneratedEventId": "01M6N6CTZ4P2CQMJN15K7M132N",
           "type": "BuiltinCommonInstructions::Else",
           "conditions": [
             {
@@ -44365,6 +44366,40 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsJustDamaged"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "CompareObjectTimer"
+              },
+              "parameters": [
+                "Dylan",
+                "\"Golpe\"",
+                "<",
+                "0.5"
+              ]
             }
           ],
           "actions": [
@@ -44382,7 +44417,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M5GYJFDQNT8SGWR74C4KFJ7S",
+          "aiGeneratedEventId": "01M6N6CTZ4P2CQMJN15K7M132N",
           "type": "BuiltinCommonInstructions::Else",
           "conditions": [
             {
@@ -44392,6 +44427,40 @@
               "parameters": [
                 "Dylan",
                 "PlatformerObject"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsJustDamaged"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "CompareObjectTimer"
+              },
+              "parameters": [
+                "Dylan",
+                "\"Golpe\"",
+                "<",
+                "0.5"
               ]
             }
           ],
@@ -44410,9 +44479,44 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M5GYJFDQNT8SGWR74C4KFJ7S",
+          "aiGeneratedEventId": "01M6N6CTZ4P2CQMJN15K7M132N",
           "type": "BuiltinCommonInstructions::Else",
-          "conditions": [],
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsJustDamaged"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "CompareObjectTimer"
+              },
+              "parameters": [
+                "Dylan",
+                "\"Golpe\"",
+                "<",
+                "0.5"
+              ]
+            }
+          ],
           "actions": [
             {
               "type": {
@@ -44745,7 +44849,7 @@
           "actions": []
         },
         {
-          "aiGeneratedEventId": "01M6ANJAHMVEY4KGAFYG8VMRQ9",
+          "aiGeneratedEventId": "01M6N6AF9C2G632K5B0RM7E8QJ",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -44771,12 +44875,55 @@
             },
             {
               "type": {
+                "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetMaxValue"
+              },
+              "parameters": [
+                "White1BitPixelBar",
+                "=",
+                "100",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
               },
               "parameters": [
                 "White1BitPixelBar",
                 "=",
                 "VidaDylan",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PickNearest"
+              },
+              "parameters": [
+                "vieja_bruja",
+                "Dylan.X()",
+                "Dylan.Y()"
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetMaxValue"
+              },
+              "parameters": [
+                "BarraEnemigo",
+                "=",
+                "100",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+              },
+              "parameters": [
+                "BarraEnemigo",
+                "=",
+                "vieja_bruja.Health::Health()",
                 ""
               ]
             }
@@ -45993,7 +46140,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M65F3JJ6P1E3PCBWJAD9FCQN",
+          "aiGeneratedEventId": "01M6N5B3X0DS5K3WPNZPHR5936",
           "type": "BuiltinCommonInstructions::ForEach",
           "object": "bola_del_ataque_2_de_bruja",
           "conditions": [],
@@ -46011,6 +46158,49 @@
             }
           ],
           "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PosX"
+                  },
+                  "parameters": [
+                    "bola_del_ataque_2_de_bruja",
+                    ">",
+                    "Dylan.X()"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "FlippableCapability::FlippableBehavior::FlipX"
+                  },
+                  "parameters": [
+                    "bola_del_ataque_2_de_bruja",
+                    "Flippable",
+                    "yes"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Else",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "FlippableCapability::FlippableBehavior::FlipX"
+                  },
+                  "parameters": [
+                    "bola_del_ataque_2_de_bruja",
+                    "Flippable",
+                    "no"
+                  ]
+                }
+              ]
+            },
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
@@ -46147,7 +46337,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M65FB6N5609HFC2N7Z7DZ08X",
+          "aiGeneratedEventId": "01M6N6CTZ4P2CQMJN15K7M132N",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -46159,6 +46349,29 @@
                 "Dylan",
                 "Health",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Health::Health::IsJustDamaged"
+              },
+              "parameters": [
+                "Dylan",
+                "Health",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "CompareObjectTimer"
+              },
+              "parameters": [
+                "Dylan",
+                "\"Golpe\"",
+                "<",
+                "0.5"
               ]
             },
             {
@@ -46879,7 +47092,7 @@
           ]
         },
         {
-          "aiGeneratedEventId": "01M6FY03QTJZCZ3ABBP33SSAD5",
+          "aiGeneratedEventId": "01M6N5BWT2N803TVGNYKVBZRTN",
           "colorB": 228,
           "colorG": 176,
           "colorR": 74,
@@ -47003,7 +47216,6 @@
               ]
             },
             {
-              "aiGeneratedEventId": "01M6MWZ7XDYM1G7SE35DHNMZ6B",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -47055,7 +47267,6 @@
               ]
             },
             {
-              "aiGeneratedEventId": "01M6G14TTV58J8T6S02DEJS276",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -47107,7 +47318,6 @@
               ]
             },
             {
-              "aiGeneratedEventId": "01M6G14TTV58J8T6S02DEJS276",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -47195,6 +47405,62 @@
                   },
                   "parameters": [
                     "video_final"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "PanelInv"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "olla"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "InvTitulo"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "chorizo"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "TxtMorron"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "IconoAjo"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "TxtAjo"
                   ]
                 }
               ]
@@ -47442,7 +47708,7 @@
                     "TxtMorron",
                     "Text",
                     "=",
-                    "\"MORRON x\" + ToString(Morron)"
+                    "\"MORRON x\" + ToString(Morron) + \"  ING x\" + ToString(Ingredientes)"
                   ]
                 },
                 {
@@ -47453,7 +47719,7 @@
                     "TxtAjo",
                     "Text",
                     "=",
-                    "\"AJO x\" + ToString(Ajo)"
+                    "\"AJO x\" + ToString(Ajo) + \"  ING x\" + ToString(Ingredientes)"
                   ]
                 }
               ]
@@ -47462,7 +47728,7 @@
           "parameters": []
         },
         {
-          "aiGeneratedEventId": "01M6FY03QTJZCZ3ABBP33SSAD5",
+          "aiGeneratedEventId": "01M6N5XBD9JW8YGFAREVJK19JN",
           "colorB": 228,
           "colorG": 176,
           "colorR": 74,
@@ -47481,10 +47747,9 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "Al ganar se muestra GANASTE y se reproduce video_final antes de volver al menu."
+              "comment": "Al ganar se muestra FIN, Dylan se pausa 4s y se reproduce video_final antes de volver al menu."
             },
             {
-              "aiGeneratedEventId": "01M6MX91G702FGDPZ5YN5BTPTF",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -47541,7 +47806,7 @@
                     "TxtGanaste",
                     "Text",
                     "=",
-                    "\"GANASTE!\""
+                    "\"Fin! conseguiste los ingredientes!\""
                   ]
                 },
                 {
@@ -47556,6 +47821,46 @@
                 },
                 {
                   "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "PlatformerObject",
+                    "no"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "bola_del_ataque_2_de_bruja",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "vieja_bruja",
+                    "PlatformerObject",
+                    "no"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "Animation",
+                    "=",
+                    "\"IDLE\""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "ResetTimer"
                   },
                   "parameters": [
@@ -47566,7 +47871,41 @@
               ]
             },
             {
-              "aiGeneratedEventId": "01M6MWZVWXPECVG205Q9CXJF5H",
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "Ganado",
+                    "True",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::PauseAnimation"
+                  },
+                  "parameters": [
+                    "Dylan",
+                    "Animation"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::PauseAnimation"
+                  },
+                  "parameters": [
+                    "vieja_bruja",
+                    "Animation"
+                  ]
+                }
+              ]
+            },
+            {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -47577,7 +47916,7 @@
                     "",
                     "\"Ganaste\"",
                     ">",
-                    "2.5"
+                    "4"
                   ]
                 },
                 {
@@ -47606,12 +47945,49 @@
                 },
                 {
                   "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "Fundido"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "StopMusicChannel"
+                  },
+                  "parameters": [
+                    "",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangeWidth"
+                  },
+                  "parameters": [
+                    "video_final",
+                    "=",
+                    "480"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangeHeight"
+                  },
+                  "parameters": [
+                    "video_final",
+                    "=",
+                    "270"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "SetX"
                   },
                   "parameters": [
                     "video_final",
                     "=",
-                    "CameraX() - 160"
+                    "CameraX() - 240"
                   ]
                 },
                 {
@@ -47621,7 +47997,17 @@
                   "parameters": [
                     "video_final",
                     "=",
-                    "CameraY() - 90"
+                    "CameraY() - 135"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetZOrder"
+                  },
+                  "parameters": [
+                    "video_final",
+                    "=",
+                    "100"
                   ]
                 },
                 {
@@ -52695,10 +53081,10 @@
     },
     {
       "description": "Manual UI layout and playability",
-      "lastRunAt": 1793342828471,
-      "lastRunDurationMs": 2983,
-      "lastRunFramesExecuted": 151,
-      "lastRunStatus": "passed",
+      "lastRunAt": 1793855901925,
+      "lastRunDurationMs": 644,
+      "lastRunFramesExecuted": 31,
+      "lastRunStatus": "failed",
       "name": "manual-ui-check",
       "type": "gameplay",
       "source": [
@@ -52889,10 +53275,10 @@
     },
     {
       "description": "Health bruja, J/K Dylan y bola",
-      "lastRunAt": 1793593116436,
-      "lastRunDurationMs": 1015,
-      "lastRunFramesExecuted": 152,
-      "lastRunStatus": "passed",
+      "lastRunAt": 1793859179697,
+      "lastRunDurationMs": 1646,
+      "lastRunFramesExecuted": 412,
+      "lastRunStatus": "failed",
       "name": "bruja-enemiga",
       "type": "gameplay",
       "source": [
@@ -52937,8 +53323,8 @@
     },
     {
       "description": "J golpea bruja",
-      "lastRunAt": 1793593117735,
-      "lastRunDurationMs": 654,
+      "lastRunAt": 1793860217909,
+      "lastRunDurationMs": 4143,
       "lastRunFramesExecuted": 46,
       "lastRunStatus": "passed",
       "name": "dylan-j-attack",
@@ -53141,8 +53527,8 @@
     },
     {
       "description": "El inventario está oculto, se abre con I mostrando panel + iconos + cantidades y se cierra con I y ESC",
-      "lastRunAt": 1793850539519,
-      "lastRunDurationMs": 4212,
+      "lastRunAt": 1793855918944,
+      "lastRunDurationMs": 796,
       "lastRunFramesExecuted": 53,
       "lastRunStatus": "passed",
       "name": "inventario-panel",
@@ -53596,9 +53982,9 @@
     },
     {
       "description": "Level banner, GANASTE + video_final then menu",
-      "lastRunAt": 1793850675121,
-      "lastRunDurationMs": 5071,
-      "lastRunFramesExecuted": 1074,
+      "lastRunAt": 1793860220988,
+      "lastRunDurationMs": 1964,
+      "lastRunFramesExecuted": 1164,
       "lastRunStatus": "passed",
       "name": "ganaste-nivel3",
       "type": "gameplay",
