@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 286,
+    "build": 287,
     "major": 5,
     "minor": 6,
     "revision": 0
@@ -6346,6 +6346,62 @@
         "name": "ataque 2 - bola de fuego5",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "assets/ingredientes/arroz (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/ingredientes/arroz (1).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ingredientes/lentejas.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/ingredientes/lentejas.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ingredientes/vino.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/ingredientes/vino.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "FONDI LV1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FONDI LV1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "FONDO- mulltiusos.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FONDO- mulltiusos.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "BLUR-FONDO.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BLUR-FONDO.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "fondoo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "fondoo.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -6478,9 +6534,9 @@
           "PercentDamageReduction": 0
         },
         {
-          "ignoreDefaultControls": true,
           "name": "PlatformerObject",
           "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "ignoreDefaultControls": true,
           "acceleration": 1500,
           "canGoDownFromJumpthru": true,
           "canGrabPlatforms": false,
@@ -9715,6 +9771,7 @@
   "variables": [
     {
       "name": "MuertesSeguidas",
+      "persistentUuid": "1bdb2285-0534-44f4-a213-9f6d43dc11a0",
       "type": "number",
       "value": 0
     },
@@ -9773,6 +9830,11 @@
       "value": 0
     },
     {
+      "name": "Ingredientes",
+      "type": "number",
+      "value": 0
+    },
+    {
       "name": "VidaDylan",
       "persistentUuid": "0f92731e-9c84-4364-9af6-450710f20194",
       "type": "number",
@@ -9786,6 +9848,7 @@
       "mangledName": "menu",
       "name": "menu",
       "r": 247,
+      "renderer3DWorldScale": 100,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
@@ -9802,7 +9865,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.2354964865370628,
+        "zoomFactor": 1.0467096467968613,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -9837,15 +9900,16 @@
       "instances": [
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 283,
           "keepRatio": true,
           "layer": "",
           "name": "fondo_menu",
           "persistentUuid": "4d6fd572-941f-4079-a52d-f9008e189f14",
-          "width": 0,
-          "x": -20,
-          "y": 0,
+          "width": 619,
+          "x": -45,
+          "y": -6,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -10002,7 +10066,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "fondo1u.png",
+                      "image": "BLUR-FONDO.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -10022,11 +10086,11 @@
                             "y": 0
                           },
                           {
-                            "x": 1260,
+                            "x": 600,
                             "y": 0
                           },
                           {
-                            "x": 1260,
+                            "x": 600,
                             "y": 270
                           },
                           {
@@ -11834,6 +11898,7 @@
       "mangledName": "creditos",
       "name": "creditos",
       "r": 247,
+      "renderer3DWorldScale": 100,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
@@ -11850,7 +11915,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 2.031830047252694,
+        "zoomFactor": 1.6652100870933317,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -11873,8 +11938,8 @@
           "name": "fondo_menu",
           "persistentUuid": "4d6fd572-941f-4079-a52d-f9008e189f14",
           "width": 0,
-          "x": -20,
-          "y": 0,
+          "x": 2,
+          "y": -2,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -11982,7 +12047,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "fondo1u.png",
+                      "image": "BLUR-FONDO.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -12002,11 +12067,11 @@
                             "y": 0
                           },
                           {
-                            "x": 1260,
+                            "x": 600,
                             "y": 0
                           },
                           {
-                            "x": 1260,
+                            "x": 600,
                             "y": 270
                           },
                           {
@@ -12675,6 +12740,7 @@
       "mangledName": "introduccion",
       "name": "introduccion",
       "r": 247,
+      "renderer3DWorldScale": 100,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
@@ -12788,14 +12854,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 270,
+          "depth": 1,
+          "height": 287,
           "keepRatio": true,
           "layer": "",
           "name": "FondoMenu",
           "persistentUuid": "4653fd1d-3186-4441-b5d4-ab70dd0555b9",
-          "width": 540,
-          "x": -20,
-          "y": 0,
+          "width": 553,
+          "x": -24,
+          "y": -7,
           "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
@@ -13123,7 +13190,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "fondo1u.png",
+                      "image": "fondoo.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13143,16 +13210,16 @@
                             "y": 0
                           },
                           {
-                            "x": 1260,
+                            "x": 2172,
                             "y": 0
                           },
                           {
-                            "x": 1260,
-                            "y": 270
+                            "x": 2172,
+                            "y": 442
                           },
                           {
                             "x": 0,
-                            "y": 270
+                            "y": 442
                           }
                         ]
                       ]
@@ -14296,6 +14363,7 @@
       "mangledName": "manual",
       "name": "manual",
       "r": 247,
+      "renderer3DWorldScale": 100,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
@@ -14312,7 +14380,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.195194145442772,
+        "zoomFactor": 0.7030553796722192,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -14330,14 +14398,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 319,
+          "height": 363,
           "keepRatio": true,
           "layer": "",
           "name": "fondo",
           "persistentUuid": "bb5b5e9f-46d9-40e5-9780-feb5d129a347",
-          "width": 1674,
-          "x": -198,
-          "y": -23,
+          "width": 1724,
+          "x": -195,
+          "y": -60,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -14370,8 +14438,8 @@
           "name": "piso",
           "persistentUuid": "c946108c-592a-4271-b613-57843f4d0462",
           "width": 821,
-          "x": 667,
-          "y": 179,
+          "x": 658,
+          "y": 193,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -14820,8 +14888,8 @@
           "name": "Fundido",
           "persistentUuid": "78186798-5fd3-4401-8552-f2097467e8c0",
           "width": 522,
-          "x": -18,
-          "y": -28,
+          "x": -21,
+          "y": -25,
           "zOrder": 100,
           "numberProperties": [],
           "stringProperties": [],
@@ -14897,14 +14965,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 318,
+          "height": 358,
           "keepRatio": true,
           "layer": "",
           "name": "fondo",
           "persistentUuid": "e0ab721b-1fe6-4cfb-828d-784d1d580519",
-          "width": 1831,
-          "x": 1307,
-          "y": -23,
+          "width": 1857,
+          "x": 1277,
+          "y": -53,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -14919,9 +14987,9 @@
           "layer": "",
           "name": "piso",
           "persistentUuid": "cc74a682-80d4-4a94-9723-7abbc92edff3",
-          "width": 821,
-          "x": 1438,
-          "y": 178,
+          "width": 1282,
+          "x": 1337,
+          "y": 197,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -14949,7 +15017,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "fondo1.png",
+                      "image": "FONDO- mulltiusos.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -26597,6 +26665,7 @@
       "mangledName": "Nivel_321",
       "name": "Nivel 1",
       "r": 255,
+      "renderer3DWorldScale": 100,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "Comida Legendaria",
@@ -26613,7 +26682,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.6385789179380634,
+        "zoomFactor": 0.5410025207925361,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -27259,7 +27328,7 @@
           "name": "ENEMIGO1",
           "persistentUuid": "427b2021-78ad-4a1f-9761-e1af4c6e6d72",
           "width": 73,
-          "x": 2082,
+          "x": 2586,
           "y": 162,
           "zOrder": 49,
           "numberProperties": [],
@@ -27452,7 +27521,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "hgbuyssg.png",
+                      "image": "ojij.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -27468,20 +27537,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 1
+                            "x": 98,
+                            "y": 80
                           },
                           {
-                            "x": 69,
-                            "y": 1
+                            "x": 187,
+                            "y": 80
                           },
                           {
-                            "x": 69,
-                            "y": 98
+                            "x": 187,
+                            "y": 248
                           },
                           {
-                            "x": 2,
-                            "y": 98
+                            "x": 98,
+                            "y": 248
                           }
                         ]
                       ]
@@ -27512,7 +27581,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Paisaje urbano posapocalíptico al atardecer (1).png",
+                      "image": "FONDO- mulltiusos.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -27532,16 +27601,16 @@
                             "y": 0
                           },
                           {
-                            "x": 2172,
+                            "x": 1260,
                             "y": 0
                           },
                           {
-                            "x": 2172,
-                            "y": 442
+                            "x": 1260,
+                            "y": 270
                           },
                           {
                             "x": 0,
-                            "y": 442
+                            "y": 270
                           }
                         ]
                       ]
@@ -27572,7 +27641,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "fondoooo.png",
+                      "image": "FONDI LV1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -32799,6 +32868,7 @@
       "mangledName": "Nivel_322",
       "name": "Nivel 2",
       "r": 255,
+      "renderer3DWorldScale": 100,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
@@ -32815,7 +32885,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.1951941454427706,
+        "zoomFactor": 0.5392188614293869,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -37696,6 +37766,7 @@
       "mangledName": "nivel_323",
       "name": "nivel 3",
       "r": 247,
+      "renderer3DWorldScale": 100,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
@@ -37712,7 +37783,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4135619880424799,
+        "zoomFactor": 0.4568249202997841,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -37977,8 +38048,8 @@
           "name": "fondo_nivel_3_comtinuacion",
           "persistentUuid": "ff44d06a-3fb5-4ee7-bfe8-6f7335d5cda5",
           "width": 2233,
-          "x": 1552,
-          "y": -34,
+          "x": 1589,
+          "y": 1,
           "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
@@ -38096,8 +38167,8 @@
           "name": "fondo_nivel_3_final",
           "persistentUuid": "38d6bafa-0571-4341-957d-6cb1de4859a5",
           "width": 551,
-          "x": 3305,
-          "y": -41,
+          "x": 3283,
+          "y": 1,
           "zOrder": 17,
           "numberProperties": [],
           "stringProperties": [],
@@ -38113,8 +38184,8 @@
           "name": "NewSprite5",
           "persistentUuid": "3d3b51fc-48d2-4273-985c-278ce6a073e7",
           "width": 1308,
-          "x": 3306,
-          "y": -37,
+          "x": 3308,
+          "y": 5,
           "zOrder": -3,
           "numberProperties": [],
           "stringProperties": [],
@@ -38130,8 +38201,8 @@
           "name": "piso",
           "persistentUuid": "2d0cdf2e-5fe1-4a42-8614-4e4d50da7008",
           "width": 406,
-          "x": 4440,
-          "y": 234,
+          "x": 4278,
+          "y": 227,
           "zOrder": 18,
           "numberProperties": [],
           "stringProperties": [],
@@ -38407,8 +38478,8 @@
           "name": "ingrediente1",
           "persistentUuid": "8df45ddc-91a0-45fd-b3c5-f9bdb1c15e0e",
           "width": 0,
-          "x": 632,
-          "y": 170,
+          "x": 640,
+          "y": 157,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -42139,7 +42210,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets-comid/arroz (1).png",
+                      "image": "assets/ingredientes/arroz (1).png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -42199,7 +42270,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets-comid/lentejas.png",
+                      "image": "assets/ingredientes/lentejas.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -42259,7 +42330,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets-comid/vino.png",
+                      "image": "assets/ingredientes/vino.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -42332,15 +42403,6 @@
           },
           {
             "objectName": "vieja_bruja"
-          },
-          {
-            "objectName": "bolsas_de_arena"
-          },
-          {
-            "objectName": "barril"
-          },
-          {
-            "objectName": "elemento_calle"
           },
           {
             "objectName": "BotonPixel"
@@ -45794,7 +45856,7 @@
                     "value": "SetNumberVariable"
                   },
                   "parameters": [
-                    "Ingredientes",
+                    "",
                     "+",
                     "1"
                   ]
@@ -46658,6 +46720,7 @@
       "mangledName": "personajes",
       "name": "personajes",
       "r": 255,
+      "renderer3DWorldScale": 100,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
@@ -46674,7 +46737,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.965551018131744,
+        "zoomFactor": 1.558342509530917,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -46991,7 +47054,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "fondo1u.png",
+                      "image": "BLUR-FONDO.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -47011,11 +47074,11 @@
                             "y": 0
                           },
                           {
-                            "x": 1260,
+                            "x": 600,
                             "y": 0
                           },
                           {
-                            "x": 1260,
+                            "x": 600,
                             "y": 270
                           },
                           {
@@ -47828,7 +47891,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/idleCarnicero/idle/idle1c.png",
+                      "image": "carnicero/idleCarnicero/sprite_0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -47844,27 +47907,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/idleCarnicero/idle/idle2c.png",
+                      "image": "carnicero/idleCarnicero/sprite_1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -47880,27 +47943,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/idleCarnicero/idle/idle3c.png",
+                      "image": "carnicero/idleCarnicero/sprite_2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -47916,27 +47979,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/idleCarnicero/idle/idle4c.png",
+                      "image": "carnicero/idleCarnicero/sprite_3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -47952,27 +48015,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/idleCarnicero/idle/idle5c.png",
+                      "image": "carnicero/idleCarnicero/sprite_4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -47988,20 +48051,56 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "carnicero/idleCarnicero/sprite_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 7,
+                            "y": 15
+                          },
+                          {
+                            "x": 126,
+                            "y": 15
+                          },
+                          {
+                            "x": 126,
+                            "y": 137
+                          },
+                          {
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
@@ -48842,15 +48941,16 @@
       ]
     },
     {
-      "b": 28,
+      "b": 255,
       "disableInputWhenNotFocused": true,
       "mangledName": "volumen",
       "name": "volumen",
-      "r": 16,
+      "r": 255,
+      "renderer3DWorldScale": 100,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
-      "v": 16,
+      "v": 255,
       "uiSettings": {
         "grid": false,
         "gridType": "rectangular",
@@ -48863,7 +48963,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 2.1711683209893105,
+        "zoomFactor": 1.5075088147003495,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -48885,14 +48985,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 270,
+          "depth": 1,
+          "height": 315,
           "keepRatio": true,
           "layer": "",
           "name": "FondoMenu",
           "persistentUuid": "3970ea79-f426-4c1c-b9eb-3171b56c4e03",
-          "width": 480,
-          "x": 0,
-          "y": 0,
+          "width": 560,
+          "x": -30,
+          "y": -23,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -49178,7 +49279,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "fondo1u.png",
+                      "image": "BLUR-FONDO.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -49198,11 +49299,11 @@
                             "y": 0
                           },
                           {
-                            "x": 1260,
+                            "x": 600,
                             "y": 0
                           },
                           {
-                            "x": 1260,
+                            "x": 600,
                             "y": 270
                           },
                           {
@@ -50873,6 +50974,38 @@
       ]
     }
   ],
+  "layoutsFolderStructure": {
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "itemName": "menu"
+      },
+      {
+        "itemName": "creditos"
+      },
+      {
+        "itemName": "introduccion"
+      },
+      {
+        "itemName": "manual"
+      },
+      {
+        "itemName": "Nivel 1"
+      },
+      {
+        "itemName": "Nivel 2"
+      },
+      {
+        "itemName": "nivel 3"
+      },
+      {
+        "itemName": "personajes"
+      },
+      {
+        "itemName": "volumen"
+      }
+    ]
+  },
   "externalEvents": [
     {
       "associatedLayout": "Nivel 2",
@@ -50964,6 +51097,17 @@
       ]
     }
   ],
+  "externalEventsFolderStructure": {
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "itemName": "idle"
+      },
+      {
+        "itemName": "Eventos externos sin título"
+      }
+    ]
+  },
   "tests": [
     {
       "description": "Dylan stays on floor, moves right and jumps",
@@ -52340,18 +52484,6 @@
       },
       {
         "itemName": "butcher-attack-fix"
-      },
-      {
-        "itemName": "nivel2-carnicero-e-inventario"
-      },
-      {
-        "itemName": "nivel3-manual-inventario-y-barra"
-      },
-      {
-        "itemName": "hud-barras-y-etiquetas"
-      },
-      {
-        "itemName": "barra-vida-cuatro-escenarios"
       }
     ]
   },
@@ -89329,5 +89461,8 @@
       ]
     }
   ],
-  "externalLayouts": []
+  "externalLayouts": [],
+  "externalLayoutsFolderStructure": {
+    "folderName": "__ROOT"
+  }
 }
