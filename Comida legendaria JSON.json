@@ -5538,6 +5538,270 @@
         "name": "carnicero/hurt-carnicero/hurt3.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "carnicero/idleCarnicero/sprite_0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/idleCarnicero/sprite_0.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/idleCarnicero/sprite_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/idleCarnicero/sprite_1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/idleCarnicero/sprite_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/idleCarnicero/sprite_2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/idleCarnicero/sprite_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/idleCarnicero/sprite_3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/idleCarnicero/sprite_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/idleCarnicero/sprite_4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/idleCarnicero/sprite_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/idleCarnicero/sprite_5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/die-carnicero/sprite_0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/die-carnicero/sprite_0.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/die-carnicero/sprite_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/die-carnicero/sprite_1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/die-carnicero/sprite_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/die-carnicero/sprite_2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/die-carnicero/sprite_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/die-carnicero/sprite_3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/die-carnicero/sprite_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/die-carnicero/sprite_4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/run-carnicero/sprite_0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/run-carnicero/sprite_0.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/run-carnicero/sprite_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/run-carnicero/sprite_1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/run-carnicero/sprite_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/run-carnicero/sprite_2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/run-carnicero/sprite_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/run-carnicero/sprite_3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/run-carnicero/sprite_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/run-carnicero/sprite_4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/run-carnicero/sprite_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/run-carnicero/sprite_5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/run-carnicero/sprite_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/run-carnicero/sprite_6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/run-carnicero/sprite_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/run-carnicero/sprite_7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/golperapido-carnicero/sprite_0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/golperapido-carnicero/sprite_0.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/golperapido-carnicero/sprite_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/golperapido-carnicero/sprite_1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/golperapido-carnicero/sprite_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/golperapido-carnicero/sprite_2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/golperapido-carnicero/sprite_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/golperapido-carnicero/sprite_3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/golperapido-carnicero/sprite_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/golperapido-carnicero/sprite_4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/golpelargo-carniecero/sprite_0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/golpelargo-carniecero/sprite_0.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/golpelargo-carniecero/sprite_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/golpelargo-carniecero/sprite_1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/golpelargo-carniecero/sprite_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/golpelargo-carniecero/sprite_2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/golpelargo-carniecero/sprite_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/golpelargo-carniecero/sprite_3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/golpelargo-carniecero/sprite_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/golpelargo-carniecero/sprite_4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/golpelargo-carniecero/sprite_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/golpelargo-carniecero/sprite_5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/hurt-carnicero/sprite_0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/hurt-carnicero/sprite_0.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/hurt-carnicero/sprite_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/hurt-carnicero/sprite_1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "carnicero/hurt-carnicero/sprite_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carnicero/hurt-carnicero/sprite_2.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -32071,7 +32335,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.6579356521975028,
+        "zoomFactor": 0.6364735538735447,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -32139,8 +32403,8 @@
           "name": "butcher",
           "persistentUuid": "d3d753c0-b306-4f1f-848e-fdab2a5924e4",
           "width": 73,
-          "x": 270,
-          "y": 139,
+          "x": 273,
+          "y": 159,
           "zOrder": 25,
           "numberProperties": [],
           "stringProperties": [],
@@ -32155,9 +32419,9 @@
           "name": "auto",
           "persistentUuid": "031fd615-e02e-4ab0-bb2a-340dbe7893ff",
           "width": 0,
-          "x": 350,
-          "y": 127,
-          "zOrder": 0,
+          "x": 344,
+          "y": 139,
+          "zOrder": 28,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -32420,8 +32684,8 @@
           "name": "piso",
           "persistentUuid": "897a4119-cc43-49ea-811e-d64b5521aeaf",
           "width": 666,
-          "x": -6,
-          "y": 195,
+          "x": -11,
+          "y": 209,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -32429,15 +32693,16 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 312,
           "keepRatio": true,
           "layer": "",
           "name": "fondo",
           "persistentUuid": "f579a057-be43-4a61-acff-86b745b6f4d0",
-          "width": 0,
-          "x": -4,
-          "y": -3,
+          "width": 2276,
+          "x": -17,
+          "y": -13,
           "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
@@ -32564,7 +32829,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/idleCarnicero/idle1c.png",
+                      "image": "carnicero/idleCarnicero/sprite_0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -32580,27 +32845,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/idleCarnicero/idle2c.png",
+                      "image": "carnicero/idleCarnicero/sprite_1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -32616,27 +32881,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/idleCarnicero/idle3c.png",
+                      "image": "carnicero/idleCarnicero/sprite_2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -32652,27 +32917,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/idleCarnicero/idle4c.png",
+                      "image": "carnicero/idleCarnicero/sprite_3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -32688,27 +32953,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/idleCarnicero/idle5c.png",
+                      "image": "carnicero/idleCarnicero/sprite_4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -32724,20 +32989,56 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "carnicero/idleCarnicero/sprite_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 7,
+                            "y": 15
+                          },
+                          {
+                            "x": 126,
+                            "y": 15
+                          },
+                          {
+                            "x": 126,
+                            "y": 137
+                          },
+                          {
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
@@ -32757,7 +33058,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/die-carnicero/DIEC (1).png",
+                      "image": "carnicero/die-carnicero/sprite_0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -32773,27 +33074,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/die-carnicero/DIEC (2).png",
+                      "image": "carnicero/die-carnicero/sprite_1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -32809,27 +33110,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/die-carnicero/DIEC (3).png",
+                      "image": "carnicero/die-carnicero/sprite_2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -32845,27 +33146,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/die-carnicero/DIEC (4).png",
+                      "image": "carnicero/die-carnicero/sprite_3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -32881,27 +33182,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/die-carnicero/DIEC (5).png",
+                      "image": "carnicero/die-carnicero/sprite_4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -32917,20 +33218,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
@@ -32950,7 +33251,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/run-carnicero/run8c (1).png",
+                      "image": "carnicero/run-carnicero/sprite_0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -32966,27 +33267,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/run-carnicero/run8c (2).png",
+                      "image": "carnicero/run-carnicero/sprite_1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -33002,27 +33303,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/run-carnicero/run8c (3).png",
+                      "image": "carnicero/run-carnicero/sprite_2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -33038,27 +33339,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/run-carnicero/run8c (4).png",
+                      "image": "carnicero/run-carnicero/sprite_3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -33074,27 +33375,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/run-carnicero/run8c (5).png",
+                      "image": "carnicero/run-carnicero/sprite_4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -33110,27 +33411,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/run-carnicero/run8c (6).png",
+                      "image": "carnicero/run-carnicero/sprite_5.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -33146,27 +33447,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/run-carnicero/run8c (7).png",
+                      "image": "carnicero/run-carnicero/sprite_6.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -33182,27 +33483,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/run-carnicero/run8c (8).png",
+                      "image": "carnicero/run-carnicero/sprite_7.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -33218,20 +33519,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
@@ -33251,7 +33552,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/golperapido-carnicero/golpe_rapido5c (1).png",
+                      "image": "carnicero/golperapido-carnicero/sprite_0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -33267,27 +33568,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/golperapido-carnicero/golpe_rapido5c (2).png",
+                      "image": "carnicero/golperapido-carnicero/sprite_1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -33303,27 +33604,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/golperapido-carnicero/golpe_rapido5c (3).png",
+                      "image": "carnicero/golperapido-carnicero/sprite_2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -33339,27 +33640,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/golperapido-carnicero/golpe_rapido5c (4).png",
+                      "image": "carnicero/golperapido-carnicero/sprite_3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -33375,27 +33676,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/golperapido-carnicero/golpe_rapido5c (5).png",
+                      "image": "carnicero/golperapido-carnicero/sprite_4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -33411,20 +33712,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
@@ -33444,7 +33745,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/golpelargo-carniecero/golpelargo6c (1).png",
+                      "image": "carnicero/golpelargo-carniecero/sprite_0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -33460,27 +33761,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/golpelargo-carniecero/golpelargo6c (2).png",
+                      "image": "carnicero/golpelargo-carniecero/sprite_1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -33496,27 +33797,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/golpelargo-carniecero/golpelargo6c (3).png",
+                      "image": "carnicero/golpelargo-carniecero/sprite_2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -33532,27 +33833,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/golpelargo-carniecero/golpelargo6c (4).png",
+                      "image": "carnicero/golpelargo-carniecero/sprite_3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -33568,27 +33869,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/golpelargo-carniecero/golpelargo6c (5).png",
+                      "image": "carnicero/golpelargo-carniecero/sprite_4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -33604,27 +33905,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/golpelargo-carniecero/golpelargo6c (6).png",
+                      "image": "carnicero/golpelargo-carniecero/sprite_5.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -33640,20 +33941,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
@@ -33673,7 +33974,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/hurt-carnicero/hurt1.png",
+                      "image": "carnicero/hurt-carnicero/sprite_0.png",
                       "points": [
                         {
                           "name": "mano",
@@ -33695,27 +33996,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/hurt-carnicero/hurt2.png",
+                      "image": "carnicero/hurt-carnicero/sprite_1.png",
                       "points": [
                         {
                           "name": "mano",
@@ -33737,27 +34038,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "carnicero/hurt-carnicero/hurt3.png",
+                      "image": "carnicero/hurt-carnicero/sprite_2.png",
                       "points": [
                         {
                           "name": "mano",
@@ -33779,20 +34080,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 5,
-                            "y": 13
+                            "x": 7,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 13
+                            "x": 126,
+                            "y": 15
                           },
                           {
-                            "x": 128,
-                            "y": 140
+                            "x": 126,
+                            "y": 137
                           },
                           {
-                            "x": 5,
-                            "y": 140
+                            "x": 7,
+                            "y": 137
                           }
                         ]
                       ]
