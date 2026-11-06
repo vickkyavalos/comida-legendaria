@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 286,
+    "build": 287,
     "major": 5,
     "minor": 6,
     "revision": 0
@@ -2882,7 +2882,7 @@
       {
         "file": "kioskero frames/ATAQUE/1 (1).png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"kioskero frames/ATAQUE/1 (1).png\",\"extension\":\".png\"}",
         "name": "kioskero frames/ATAQUE/1 (1).png",
         "smoothed": false,
         "userAdded": false
@@ -2890,7 +2890,7 @@
       {
         "file": "kioskero frames/ATAQUE/2.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"kioskero frames/ATAQUE/2.png\",\"extension\":\".png\"}",
         "name": "kioskero frames/ATAQUE/2.png",
         "smoothed": false,
         "userAdded": false
@@ -2898,7 +2898,7 @@
       {
         "file": "kioskero frames/ATAQUE/3.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"kioskero frames/ATAQUE/3.png\",\"extension\":\".png\"}",
         "name": "kioskero frames/ATAQUE/3.png",
         "smoothed": false,
         "userAdded": false
@@ -2906,7 +2906,7 @@
       {
         "file": "kioskero frames/ATAQUE/4.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"kioskero frames/ATAQUE/4.png\",\"extension\":\".png\"}",
         "name": "kioskero frames/ATAQUE/4.png",
         "smoothed": false,
         "userAdded": false
@@ -2914,7 +2914,7 @@
       {
         "file": "kioskero frames/ATAQUE/5.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"kioskero frames/ATAQUE/5.png\",\"extension\":\".png\"}",
         "name": "kioskero frames/ATAQUE/5.png",
         "smoothed": false,
         "userAdded": false
@@ -2922,7 +2922,7 @@
       {
         "file": "kioskero frames/ATAQUE 2/1.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"kioskero frames/ATAQUE 2/1.png\",\"extension\":\".png\"}",
         "name": "kioskero frames/ATAQUE 2/1.png",
         "smoothed": false,
         "userAdded": false
@@ -2930,7 +2930,7 @@
       {
         "file": "kioskero frames/ATAQUE 2/2.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"kioskero frames/ATAQUE 2/2.png\",\"extension\":\".png\"}",
         "name": "kioskero frames/ATAQUE 2/2.png",
         "smoothed": false,
         "userAdded": false
@@ -2938,7 +2938,7 @@
       {
         "file": "kioskero frames/ATAQUE 2/3.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"kioskero frames/ATAQUE 2/3.png\",\"extension\":\".png\"}",
         "name": "kioskero frames/ATAQUE 2/3.png",
         "smoothed": false,
         "userAdded": false
@@ -2946,7 +2946,7 @@
       {
         "file": "kioskero frames/ATAQUE 2/4.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"kioskero frames/ATAQUE 2/4.png\",\"extension\":\".png\"}",
         "name": "kioskero frames/ATAQUE 2/4.png",
         "smoothed": false,
         "userAdded": false
@@ -2954,7 +2954,7 @@
       {
         "file": "kioskero frames/ATAQUE 2/5.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"kioskero frames/ATAQUE 2/5.png\",\"extension\":\".png\"}",
         "name": "kioskero frames/ATAQUE 2/5.png",
         "smoothed": false,
         "userAdded": false
@@ -2962,7 +2962,7 @@
       {
         "file": "kioskero frames/ATAQUE 2/6.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"kioskero frames/ATAQUE 2/6.png\",\"extension\":\".png\"}",
         "name": "kioskero frames/ATAQUE 2/6.png",
         "smoothed": false,
         "userAdded": false
@@ -2970,7 +2970,7 @@
       {
         "file": "kioskero frames/ATAQUE 2/7.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"kioskero frames/ATAQUE 2/7.png\",\"extension\":\".png\"}",
         "name": "kioskero frames/ATAQUE 2/7.png",
         "smoothed": false,
         "userAdded": false
@@ -2978,7 +2978,7 @@
       {
         "file": "kioskero frames/DIE/1.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"kioskero frames/DIE/1.png\",\"extension\":\".png\"}",
         "name": "kioskero frames/DIE/1.png",
         "smoothed": false,
         "userAdded": false
@@ -2986,7 +2986,7 @@
       {
         "file": "kioskero frames/DIE/2.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"kioskero frames/DIE/2.png\",\"extension\":\".png\"}",
         "name": "kioskero frames/DIE/2.png",
         "smoothed": false,
         "userAdded": false
@@ -2994,7 +2994,7 @@
       {
         "file": "kioskero frames/DIE/3.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"kioskero frames/DIE/3.png\",\"extension\":\".png\"}",
         "name": "kioskero frames/DIE/3.png",
         "smoothed": false,
         "userAdded": false
@@ -3002,7 +3002,7 @@
       {
         "file": "kioskero frames/DIE/4.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"kioskero frames/DIE/4.png\",\"extension\":\".png\"}",
         "name": "kioskero frames/DIE/4.png",
         "smoothed": false,
         "userAdded": false
@@ -3010,7 +3010,7 @@
       {
         "file": "kioskero frames/DIE/5.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"kioskero frames/DIE/5.png\",\"extension\":\".png\"}",
         "name": "kioskero frames/DIE/5.png",
         "smoothed": false,
         "userAdded": false
@@ -3018,7 +3018,7 @@
       {
         "file": "kioskero frames/DIE/6.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"kioskero frames/DIE/6.png\",\"extension\":\".png\"}",
         "name": "kioskero frames/DIE/6.png",
         "smoothed": false,
         "userAdded": false
@@ -6506,6 +6506,153 @@
         "name": "assets/ingredientes/vino",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "assets/Blue Button_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blue Button_Hovered.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/1ffd07cb739df2a909155dd3057f6def46b833ced6ef1a09527b6ea59e88e464_Blue Button_Hovered.png",
+          "name": "Blue Button_Hovered.png"
+        }
+      },
+      {
+        "file": "assets/Blue Button_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blue Button_Idle.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/eeac55458b66fb84f756b38085fbf7d1e079c39363c942abd35ea9d0939465ce_Blue Button_Idle.png",
+          "name": "Blue Button_Idle.png"
+        }
+      },
+      {
+        "file": "assets/Blue Button_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blue Button_Pressed.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/f0ede8843d544f6e84bc09299a8aabffbce558966f25af98f7b47ab1648217ce_Blue Button_Pressed.png",
+          "name": "Blue Button_Pressed.png"
+        }
+      },
+      {
+        "file": "assets/White Sleek Button_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "White Sleek Button_Hovered.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/f6cc4ba876203745a8518ced52d0d773ff01ff8a63cdd9ac24388e5f3623cb48_White Sleek Button_Hovered.png",
+          "name": "White Sleek Button_Hovered.png"
+        }
+      },
+      {
+        "file": "assets/White Sleek Button_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "White Sleek Button_Idle.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/4d6db3c01bcade6c9060eb7bb37090777c228a29da7c5f25480b0cdedd37dc98_White Sleek Button_Idle.png",
+          "name": "White Sleek Button_Idle.png"
+        }
+      },
+      {
+        "file": "assets/White Sleek Button_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "White Sleek Button_Pressed.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/1e0387e7db58479ccb896a55b62f6db0955c926ad0f92a28d4306045c44245b2_White Sleek Button_Pressed.png",
+          "name": "White Sleek Button_Pressed.png"
+        }
+      },
+      {
+        "file": "assets/WorkSans-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "WorkSans-Regular.ttf",
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/956a1314d3eda5bdbfe43362008ef0b147053bc8fcd9fa5a38ed244af8445197_WorkSans-Regular.ttf",
+          "name": "WorkSans-Regular.ttf"
+        }
+      },
+      {
+        "file": "assets/JUMP.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "JUMP",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/JUMP2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "JUMP2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/JUMP3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "JUMP3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/JUMP4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "JUMP4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/JUMP5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "JUMP5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/HURT.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "HURT",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/HURT2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "HURT2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/HURT3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "HURT3",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -8810,11 +8957,12 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kioskero frames/JUMP/1.png",
+                  "image": "JUMP",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -8850,7 +8998,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kioskero frames/JUMP/2.png",
+                  "image": "JUMP2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -8886,7 +9034,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kioskero frames/JUMP/3.png",
+                  "image": "JUMP3",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -8922,7 +9070,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kioskero frames/JUMP/4.png",
+                  "image": "JUMP4",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -8958,43 +9106,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kioskero frames/JUMP/5.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 15,
-                        "y": 9
-                      },
-                      {
-                        "x": 55,
-                        "y": 9
-                      },
-                      {
-                        "x": 55,
-                        "y": 52
-                      },
-                      {
-                        "x": 15,
-                        "y": 52
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "kioskero frames/JUMP/6.png",
+                  "image": "JUMP5",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -9038,11 +9150,12 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kioskero frames/HURT/1.png",
+                  "image": "HURT",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -9078,7 +9191,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kioskero frames/HURT/2.png",
+                  "image": "HURT2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -9114,7 +9227,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kioskero frames/HURT/3 (1).png",
+                  "image": "HURT3",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -9158,6 +9271,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -9350,6 +9464,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -9614,6 +9729,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -10307,6 +10423,11 @@
   "objectsGroups": [],
   "variables": [
     {
+      "name": "EscenaPrevia",
+      "type": "string",
+      "value": ""
+    },
+    {
       "name": "MuertesSeguidas",
       "persistentUuid": "1bdb2285-0534-44f4-a213-9f6d43dc11a0",
       "type": "number",
@@ -10414,7 +10535,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.9475825490178638,
+        "zoomFactor": 1.01256560051945,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -14942,7 +15063,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 2.1711683209893295,
+        "zoomFactor": 1.558342509530929,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -14983,7 +15104,7 @@
           "layer": "",
           "name": "piso",
           "persistentUuid": "9fee4715-9dfa-47a5-a4a2-86d0659922a1",
-          "width": 623,
+          "width": 673,
           "x": -83,
           "y": 179,
           "zOrder": 3,
@@ -15365,8 +15486,8 @@
           "name": "piso2",
           "persistentUuid": "1aabc219-f599-4973-a5c6-1f0054bbe837",
           "width": 206,
-          "x": 460,
-          "y": 143,
+          "x": 502,
+          "y": 145,
           "zOrder": 102,
           "numberProperties": [],
           "stringProperties": [],
@@ -15682,6 +15803,22 @@
           "x": 178,
           "y": 140,
           "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 270,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "MenuPausa",
+          "persistentUuid": "8a4f7c76-25b1-4f64-9fba-3f71623ddc11",
+          "width": 480,
+          "x": 0,
+          "y": 0,
+          "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -24615,6 +24752,16 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "MenuPausa",
+          "type": "MenuPausa::MenuPausa",
+          "variant": "",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {}
         }
       ],
       "objectsFolderStructure": {
@@ -24748,6 +24895,9 @@
           },
           {
             "objectName": "IconoAjo"
+          },
+          {
+            "objectName": "MenuPausa"
           }
         ]
       },
@@ -25725,60 +25875,6 @@
                   ]
                 }
               ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "KeyFromTextJustPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Escape\""
-                  ]
-                }
-              ],
-              "actions": [],
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BooleanVariable"
-                      },
-                      "parameters": [
-                        "Bloqueo",
-                        "False",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetBooleanVariable"
-                      },
-                      "parameters": [
-                        "Bloqueo",
-                        "True",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Scene"
-                      },
-                      "parameters": [
-                        "",
-                        "\"introduccion\"",
-                        "no"
-                      ]
-                    }
-                  ]
-                }
-              ]
             }
           ],
           "parameters": []
@@ -25900,6 +25996,7 @@
               ]
             },
             {
+              "aiGeneratedEventId": "01M6QHP4WH6DB6NCKX7WHT4GQR",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -25936,6 +26033,16 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "MenuPausa::MenuPausa::IsOpen"
+                  },
+                  "parameters": [
+                    "MenuPausa",
+                    ""
+                  ]
                 }
               ],
               "actions": [
@@ -25952,8 +26059,19 @@
               ]
             },
             {
+              "aiGeneratedEventId": "01M6QHP4WH6DB6NCKX7WHT4GQR",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "InvAbierto",
+                    "True",
+                    ""
+                  ]
+                },
                 {
                   "type": {
                     "value": "KeyFromTextJustPressed"
@@ -26160,6 +26278,181 @@
             }
           ],
           "parameters": []
+        },
+        {
+          "aiGeneratedEventId": "01M6QGSEBDJ6EW7GARWJC4899V",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SceneJustBegins"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetMusicChannelVolume"
+              },
+              "parameters": [
+                "",
+                "1",
+                "=",
+                "30"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "MusicaIniciada",
+                    "False",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlayMusicOnChannel"
+                  },
+                  "parameters": [
+                    "",
+                    "comida legendaria2.mp3",
+                    "1",
+                    "yes",
+                    "30",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "MusicaIniciada",
+                    "True",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6QHP4WH6DB6NCKX7WHT4GQR",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyFromTextJustPressed"
+              },
+              "parameters": [
+                "",
+                "\"Escape\""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "InvAbierto",
+                "True",
+                ""
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "MenuPausa::MenuPausa::IsOpen"
+                  },
+                  "parameters": [
+                    "MenuPausa",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetStringVariable"
+                  },
+                  "parameters": [
+                    "EscenaPrevia",
+                    "=",
+                    "\"manual\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MenuPausa::MenuPausa::Open"
+                  },
+                  "parameters": [
+                    "MenuPausa",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6QKWKR8VSJJM8MVHGAZWFXS",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "MusicPlaying"
+              },
+              "parameters": [
+                "",
+                "1"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlayMusicOnChannel"
+              },
+              "parameters": [
+                "",
+                "comida legendaria2.mp3",
+                "1",
+                "yes",
+                "30",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "MusicaIniciada",
+                "True",
+                ""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -26357,7 +26650,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.3633813195697415,
+        "zoomFactor": 1.2813824924953578,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -26396,7 +26689,7 @@
           "layer": "",
           "name": "piso",
           "persistentUuid": "35a41c93-e6a5-4b09-9fd0-ff157d95fd20",
-          "width": 603,
+          "width": 635,
           "x": -20,
           "y": 199,
           "zOrder": 16,
@@ -26413,8 +26706,8 @@
           "layer": "",
           "name": "piso",
           "persistentUuid": "5ccc449f-5ac2-4b2e-9d07-786a44cf5823",
-          "width": 572,
-          "x": 693,
+          "width": 602,
+          "x": 663,
           "y": 196,
           "zOrder": 30,
           "numberProperties": [],
@@ -26434,23 +26727,6 @@
           "x": 658,
           "y": 212,
           "zOrder": 27,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 65,
-          "keepRatio": true,
-          "layer": "",
-          "name": "NewSprite2",
-          "persistentUuid": "c50c2a45-739e-45ed-83f4-0884fba28391",
-          "width": 45,
-          "x": 568,
-          "y": 213,
-          "zOrder": 28,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -26514,7 +26790,7 @@
           "layer": "",
           "name": "piso",
           "persistentUuid": "26b4796b-2c83-41c6-b24c-988f61353f6e",
-          "width": 570,
+          "width": 611,
           "x": 1225,
           "y": 198,
           "zOrder": 30,
@@ -26781,8 +27057,8 @@
           "name": "InvTitulo",
           "persistentUuid": "11d3541c-b999-402e-a9f3-0b064d28301b",
           "width": 130,
-          "x": 176,
-          "y": 65,
+          "x": 178,
+          "y": 71,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -26866,8 +27142,8 @@
           "name": "PanelFin",
           "persistentUuid": "af60c771-eaee-4e66-bff4-af539ed21b6b",
           "width": 164,
-          "x": 165,
-          "y": 98,
+          "x": 167,
+          "y": 93,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -26883,9 +27159,9 @@
           "layer": "Fin",
           "name": "TxtFin",
           "persistentUuid": "cec9deb6-3f76-4b8e-96a9-193a44c13e63",
-          "width": 150,
-          "x": 172,
-          "y": 114,
+          "width": 28,
+          "x": 230,
+          "y": 117,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -26901,8 +27177,8 @@
           "name": "PanelInv",
           "persistentUuid": "72d6be71-faea-4681-8a23-0e529b7daa71",
           "width": 160,
-          "x": 160,
-          "y": 55,
+          "x": 166,
+          "y": 56,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -27020,8 +27296,8 @@
           "name": "TxtPerdiste",
           "persistentUuid": "286a5b4a-fd05-438f-bac8-f82cde0b5048",
           "width": 0,
-          "x": 140,
-          "y": 110,
+          "x": 177,
+          "y": 111,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -27037,8 +27313,8 @@
           "name": "TxtNivel",
           "persistentUuid": "003893f2-b49d-4c64-a66a-c1025a90a80f",
           "width": 0,
-          "x": 240,
-          "y": 60,
+          "x": 193,
+          "y": -1,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -27053,8 +27329,8 @@
           "name": "TxtMuertes",
           "persistentUuid": "6ee8ff0f-a5cc-4e92-a677-d9c0d65943aa",
           "width": 0,
-          "x": 224,
-          "y": 4,
+          "x": 107,
+          "y": 7,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -27070,8 +27346,8 @@
           "name": "Fundido",
           "persistentUuid": "eadca035-a964-4160-9e44-f9cf349a4665",
           "width": 491,
-          "x": -4,
-          "y": -15,
+          "x": -565,
+          "y": -32,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -27107,6 +27383,23 @@
           "x": 2395,
           "y": 203,
           "zOrder": 30,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 190,
+          "keepRatio": true,
+          "layer": "Fin",
+          "name": "MenuPausa",
+          "persistentUuid": "935b80fc-4a7c-4839-bb61-82788f14562d",
+          "width": 337,
+          "x": 74,
+          "y": 42,
+          "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -27755,7 +28048,7 @@
           "effects": [],
           "behaviors": [],
           "string": "NIVEL 2",
-          "font": "",
+          "font": "PixelifySans-VariableFont_wght.ttf",
           "textAlignment": "center",
           "characterSize": 28,
           "color": {
@@ -27778,7 +28071,7 @@
             "smoothed": true,
             "underlined": false,
             "text": "NIVEL 2",
-            "font": "",
+            "font": "PixelifySans-VariableFont_wght.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
             "characterSize": 28,
@@ -27798,9 +28091,9 @@
           "effects": [],
           "behaviors": [],
           "string": "Text",
-          "font": "",
+          "font": "PixelifySans-VariableFont_wght.ttf",
           "textAlignment": "left",
-          "characterSize": 20,
+          "characterSize": 16,
           "color": {
             "b": 0,
             "g": 0,
@@ -27821,10 +28114,10 @@
             "smoothed": true,
             "underlined": false,
             "text": "Text",
-            "font": "",
+            "font": "PixelifySans-VariableFont_wght.ttf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
-            "characterSize": 20,
+            "characterSize": 16,
             "lineHeight": 0,
             "color": "0;0;0"
           }
@@ -27937,6 +28230,16 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "MenuPausa",
+          "type": "MenuPausa::MenuPausa",
+          "variant": "",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {}
         }
       ],
       "objectsFolderStructure": {
@@ -27986,6 +28289,9 @@
           },
           {
             "objectName": "laurel"
+          },
+          {
+            "objectName": "MenuPausa"
           }
         ]
       },
@@ -28937,19 +29243,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "La vida del jugador vive en la global VidaDylan y en el comportamiento Health de Dylan. La barra White1BitPixelBar está en la capa barra_vida (fija, no la mueve la cámara)."
-            },
-            {
-              "type": "BuiltinCommonInstructions::Comment",
-              "color": {
-                "b": 109,
-                "g": 230,
-                "r": 255,
-                "textB": 0,
-                "textG": 0,
-                "textR": 0
-              },
-              "comment": "Cualquier daño recibido (de un enemigo, peligro o tecla de prueba) reproduce la animación de golpe durante medio segundo."
+              "comment": "Cualquier daño recibido reproduce la animación de golpe durante medio segundo."
             },
             {
               "aiGeneratedEventId": "01M6D7N6EETX5N20DJYZWJQ95Y",
@@ -29641,6 +29935,7 @@
               ]
             },
             {
+              "aiGeneratedEventId": "01M6QHM7V1Z7RZFJV6NYWG710P",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -29677,6 +29972,16 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "MenuPausa::MenuPausa::IsOpen"
+                  },
+                  "parameters": [
+                    "MenuPausa",
+                    ""
+                  ]
                 }
               ],
               "actions": [
@@ -29693,8 +29998,19 @@
               ]
             },
             {
+              "aiGeneratedEventId": "01M6QHM7V1Z7RZFJV6NYWG710P",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "InvAbierto",
+                    "True",
+                    ""
+                  ]
+                },
                 {
                   "type": {
                     "value": "KeyFromTextJustPressed"
@@ -32130,6 +32446,112 @@
               ]
             }
           ]
+        },
+        {
+          "aiGeneratedEventId": "01M6QHM7V1Z7RZFJV6NYWG710P",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyFromTextJustPressed"
+              },
+              "parameters": [
+                "",
+                "\"Escape\""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "InvAbierto",
+                "True",
+                ""
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "MenuPausa::MenuPausa::IsOpen"
+                  },
+                  "parameters": [
+                    "MenuPausa",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetStringVariable"
+                  },
+                  "parameters": [
+                    "EscenaPrevia",
+                    "=",
+                    "\"Nivel 1\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MenuPausa::MenuPausa::Open"
+                  },
+                  "parameters": [
+                    "MenuPausa",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6QKW8NE511A8GE8Y3CM464B",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "MusicPlaying"
+              },
+              "parameters": [
+                "",
+                "1"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlayMusicOnChannel"
+              },
+              "parameters": [
+                "",
+                "comida legendaria2.mp3",
+                "1",
+                "yes",
+                "30",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "MusicaIniciada",
+                "True",
+                ""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -32399,7 +32821,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.7361613572605633,
+        "zoomFactor": 0.4783362208466839,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -32813,12 +33235,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "",
+          "layer": "barra_vida",
           "name": "White1BitPixelBar",
           "persistentUuid": "08af4bb7-bf61-4627-bb07-992204642733",
           "width": 0,
-          "x": 32,
-          "y": 15,
+          "x": 33,
+          "y": 8,
           "zOrder": 31,
           "numberProperties": [],
           "stringProperties": [],
@@ -32850,8 +33272,8 @@
           "name": "Fundido",
           "persistentUuid": "e9e587b9-8e13-4e3c-9949-344125f2e4b9",
           "width": 538,
-          "x": -17,
-          "y": -27,
+          "x": -154,
+          "y": 389,
           "zOrder": 35,
           "numberProperties": [],
           "stringProperties": [],
@@ -32869,6 +33291,242 @@
           "x": 224,
           "y": 124,
           "zOrder": -2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 371,
+          "keepRatio": true,
+          "layer": "",
+          "name": "fond2",
+          "persistentUuid": "83753166-ab80-4a88-897f-1c064088f5f6",
+          "width": 1617,
+          "x": 2739,
+          "y": -43,
+          "zOrder": -3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 74,
+          "keepRatio": true,
+          "layer": "",
+          "name": "piso",
+          "persistentUuid": "c572af41-e53f-4fe4-8e3c-a8bd305e08d9",
+          "width": 773,
+          "x": 2767,
+          "y": 239,
+          "zOrder": 36,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 160,
+          "hidden": true,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "PanelInv",
+          "persistentUuid": "c060bd4e-69df-4cae-bf86-61a36f71ffc7",
+          "width": 160,
+          "x": 166,
+          "y": 56,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "hidden": true,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "olla",
+          "persistentUuid": "9e3de44a-b25c-440c-ae2b-012623aa20f5",
+          "width": 0,
+          "x": 222,
+          "y": 160,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "hidden": true,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "InvTitulo",
+          "persistentUuid": "127df6f0-df2f-4033-8c49-e1ead203e3e6",
+          "width": 0,
+          "x": 178,
+          "y": 71,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "hidden": true,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "TxtMorron",
+          "persistentUuid": "10646d23-2256-4cc5-b625-5da4efc41309",
+          "width": 0,
+          "x": 208,
+          "y": 104,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "hidden": true,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "TxtAjo",
+          "persistentUuid": "34eebce6-0379-4354-9a5d-e2912d25cb79",
+          "width": 0,
+          "x": 208,
+          "y": 142,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "hidden": true,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "TxtCarne",
+          "persistentUuid": "1e57e10f-6f2f-497a-adc7-845f8ffd920c",
+          "width": 0,
+          "x": 208,
+          "y": 123,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "hidden": true,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "TxtChorizo",
+          "persistentUuid": "062909f3-da06-477c-8732-7e29e39eccb6",
+          "width": 0,
+          "x": 208,
+          "y": 161,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 24,
+          "hidden": true,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "IconoMorron",
+          "persistentUuid": "e9b48e11-f295-40db-9644-ee8ab14fddb3",
+          "width": 24,
+          "x": 178,
+          "y": 102,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 24,
+          "hidden": true,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "IconoAjo",
+          "persistentUuid": "5a7b2b52-0846-4c5c-b511-3ab854d51a3c",
+          "width": 24,
+          "x": 178,
+          "y": 140,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "hidden": true,
+          "keepRatio": true,
+          "layer": "Fin",
+          "name": "TxtNivel",
+          "persistentUuid": "9c9bc3ea-ae45-470b-ad44-fe9d5c086dab",
+          "width": 0,
+          "x": 193,
+          "y": -1,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "barra_vida",
+          "name": "TxtMuertes",
+          "persistentUuid": "94f1537d-94cd-473a-a9ae-ba2d809a94aa",
+          "width": 0,
+          "x": 107,
+          "y": 7,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 270,
+          "keepRatio": true,
+          "layer": "Fin",
+          "name": "MenuPausa",
+          "persistentUuid": "145f4b4e-fb0f-42cf-8d58-e1261c0cb7f7",
+          "width": 480,
+          "x": 0,
+          "y": 0,
+          "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -35580,6 +36238,330 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "TXTNivel",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 20,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "fond2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "FONDO- mulltiusos.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1260,
+                            "y": 0
+                          },
+                          {
+                            "x": 1260,
+                            "y": 270
+                          },
+                          {
+                            "x": 0,
+                            "y": 270
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "TxtMuertes",
+          "persistentUuid": "02c459f3-77d6-40b2-98a6-f9d243a3cf6c",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Text",
+          "font": "PixelifySans-VariableFont_wght.ttf",
+          "textAlignment": "left",
+          "characterSize": 16,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Text",
+            "font": "PixelifySans-VariableFont_wght.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 16,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "IconoMorron",
+          "persistentUuid": "14f973b3-2a6f-41f1-98d4-6c97cf3cd542",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "morron asset",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "morron asset.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 7
+                          },
+                          {
+                            "x": 54,
+                            "y": 7
+                          },
+                          {
+                            "x": 54,
+                            "y": 62
+                          },
+                          {
+                            "x": 11,
+                            "y": 62
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "IconoAjo",
+          "persistentUuid": "eb74477e-6164-453c-a86d-c583aa252dfb",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "ajos.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 0
+                          },
+                          {
+                            "x": 47,
+                            "y": 0
+                          },
+                          {
+                            "x": 47,
+                            "y": 61
+                          },
+                          {
+                            "x": 20,
+                            "y": 61
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "TxtNivel",
+          "persistentUuid": "67e300b7-3500-4f28-8643-652c0a3ee764",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "NIVEL 2",
+          "font": "PixelifySans-VariableFont_wght.ttf",
+          "textAlignment": "center",
+          "characterSize": 28,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "NIVEL 2",
+            "font": "PixelifySans-VariableFont_wght.ttf",
+            "textAlignment": "center",
+            "verticalTextAlignment": "top",
+            "characterSize": 28,
+            "lineHeight": 0,
+            "color": "255;255;255"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "name": "MenuPausa",
+          "type": "MenuPausa::MenuPausa",
+          "variant": "",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {}
         }
       ],
       "objectsFolderStructure": {
@@ -35650,6 +36632,27 @@
           },
           {
             "objectName": "CARTEL"
+          },
+          {
+            "objectName": "TXTNivel"
+          },
+          {
+            "objectName": "fond2"
+          },
+          {
+            "objectName": "TxtMuertes"
+          },
+          {
+            "objectName": "IconoMorron"
+          },
+          {
+            "objectName": "IconoAjo"
+          },
+          {
+            "objectName": "TxtNivel"
+          },
+          {
+            "objectName": "MenuPausa"
           }
         ]
       },
@@ -36858,7 +37861,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "name": "Dylan run y animaciones (traido de Nivel 1)",
+          "name": "Dylan y animaciones",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
@@ -37634,7 +38637,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Fin del nivel",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -37786,11 +38788,12 @@
           "parameters": []
         },
         {
-          "aiGeneratedEventId": "01M68AVC76Z20BCS26Q00X0F3K",
+          "aiGeneratedEventId": "01M6QGRVJNVH1PDJD43AA0XJKW",
           "colorB": 228,
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Inventario (olla)",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -37808,7 +38811,6 @@
               "comment": "Recoger ingredientes: al tocar un morrón o un ajo se suma una unidad en la global correspondiente y el ingrediente desaparece del escenario."
             },
             {
-              "aiGeneratedEventId": "01M6D7N6EETX5N20DJYZWJQ95Y",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -37860,7 +38862,6 @@
               ]
             },
             {
-              "aiGeneratedEventId": "01M6D7N6EETX5N20DJYZWJQ95Y",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -37921,7 +38922,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "El inventario permanece completamente oculto durante el juego. Se abre con la tecla I y se cierra con I o ESC."
+              "comment": "El inventario permanece completamente oculto durante el juego. Se abre con I, Tab o E y se cierra con I, Tab, E o ESC."
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -37949,6 +38950,7 @@
               ]
             },
             {
+              "aiGeneratedEventId": "01M6QHMDVXHYGTPFCEPHW1Q4E2",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -37965,7 +38967,35 @@
                         "",
                         "\"i\""
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "KeyFromTextJustPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Tab\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "KeyFromTextJustPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"e\""
+                      ]
                     }
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "MenuPausa::MenuPausa::IsOpen"
+                  },
+                  "parameters": [
+                    "MenuPausa",
+                    ""
                   ]
                 }
               ],
@@ -37983,8 +39013,19 @@
               ]
             },
             {
+              "aiGeneratedEventId": "01M6QHMDVXHYGTPFCEPHW1Q4E2",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "InvAbierto",
+                    "True",
+                    ""
+                  ]
+                },
                 {
                   "type": {
                     "value": "KeyFromTextJustPressed"
@@ -38009,7 +39050,6 @@
               ]
             },
             {
-              "aiGeneratedEventId": "01M6N395CH11S5MQ55H7TWTWVH",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -38056,7 +39096,25 @@
                     "value": "Show"
                   },
                   "parameters": [
+                    "IconoMorron",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
                     "TxtMorron",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "IconoAjo",
                     ""
                   ]
                 },
@@ -38090,7 +39148,6 @@
               ]
             },
             {
-              "aiGeneratedEventId": "01M6N395CH11S5MQ55H7TWTWVH",
               "type": "BuiltinCommonInstructions::Else",
               "conditions": [],
               "actions": [
@@ -38123,7 +39180,23 @@
                     "value": "Hide"
                   },
                   "parameters": [
+                    "IconoMorron"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
                     "TxtMorron"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "IconoAjo"
                   ]
                 },
                 {
@@ -38153,7 +39226,6 @@
               ]
             },
             {
-              "aiGeneratedEventId": "01M6N395CH11S5MQ55H7TWTWVH",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [],
               "actions": [
@@ -38714,6 +39786,208 @@
               ]
             }
           ]
+        },
+        {
+          "aiGeneratedEventId": "01M6QGRVJNVH1PDJD43AA0XJKW",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "TxtMuertes",
+                "Text",
+                "=",
+                "\"Muertes: \" + ToString(MuertesSeguidas)"
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6QGRVJNVH1PDJD43AA0XJKW",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SceneJustBegins"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "TxtNivel",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "TxtNivel",
+                "Text",
+                "=",
+                "\"NIVEL 2\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"Nivel\""
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6QGRVJNVH1PDJD43AA0XJKW",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"Nivel\"",
+                ">",
+                "2.5"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "TxtNivel"
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6QHMDVXHYGTPFCEPHW1Q4E2",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyFromTextJustPressed"
+              },
+              "parameters": [
+                "",
+                "\"Escape\""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "InvAbierto",
+                "True",
+                ""
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "MenuPausa::MenuPausa::IsOpen"
+                  },
+                  "parameters": [
+                    "MenuPausa",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetStringVariable"
+                  },
+                  "parameters": [
+                    "EscenaPrevia",
+                    "=",
+                    "\"Nivel 2\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MenuPausa::MenuPausa::Open"
+                  },
+                  "parameters": [
+                    "MenuPausa",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6QKWCRJSPM9VSAN3N0WA9WJ",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "MusicPlaying"
+              },
+              "parameters": [
+                "",
+                "1"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlayMusicOnChannel"
+              },
+              "parameters": [
+                "",
+                "comida legendaria2.mp3",
+                "1",
+                "yes",
+                "30",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "MusicaIniciada",
+                "True",
+                ""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -38907,7 +40181,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.5583425095309202,
+        "zoomFactor": 1.2771578358760702,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -38947,8 +40221,8 @@
           "name": "vieja_bruja",
           "persistentUuid": "02283bab-9ff2-4641-90c7-012bdd384827",
           "width": 0,
-          "x": 503,
-          "y": 80,
+          "x": 559,
+          "y": 194,
           "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
@@ -38980,7 +40254,7 @@
           "persistentUuid": "ad2ce0ae-b699-468a-99da-1abd2daa8ec7",
           "width": 0,
           "x": 1035,
-          "y": 176,
+          "y": 187,
           "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
@@ -39012,8 +40286,8 @@
           "name": "Dylan",
           "persistentUuid": "b8d03776-511e-4f0c-8084-21c3de6f0d47",
           "width": 0,
-          "x": 37,
-          "y": 143,
+          "x": 22,
+          "y": 201,
           "zOrder": 23,
           "numberProperties": [],
           "stringProperties": [],
@@ -39025,7 +40299,7 @@
           "depth": 1,
           "height": 12,
           "keepRatio": true,
-          "layer": "",
+          "layer": "barra_vida",
           "name": "White1BitPixelBar",
           "persistentUuid": "63a7fb55-4063-4bbf-a720-7a9449709982",
           "width": 77,
@@ -39063,7 +40337,7 @@
           "persistentUuid": "680d87e5-0ae4-4480-9350-36f10c0a20f1",
           "width": 0,
           "x": 1120,
-          "y": 188,
+          "y": 201,
           "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
@@ -39078,8 +40352,8 @@
           "name": "cajon",
           "persistentUuid": "479e8d9b-49c7-4b44-9490-df76ec0dcc32",
           "width": 0,
-          "x": 1278,
-          "y": 187,
+          "x": 1281,
+          "y": 206,
           "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
@@ -39094,8 +40368,8 @@
           "name": "cajon",
           "persistentUuid": "750cec1a-90e3-48dc-8690-de3f137138a2",
           "width": 0,
-          "x": 1370,
-          "y": 189,
+          "x": 1380,
+          "y": 196,
           "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
@@ -39145,8 +40419,8 @@
           "name": "pared",
           "persistentUuid": "c49105d8-39c2-4c48-bd39-d7121d21557f",
           "width": 150,
-          "x": 714,
-          "y": 117,
+          "x": 718,
+          "y": 140,
           "zOrder": 13,
           "numberProperties": [],
           "stringProperties": [],
@@ -39179,8 +40453,8 @@
           "name": "piso",
           "persistentUuid": "0612cec3-a4fd-4652-9f71-29630ad594be",
           "width": 825,
-          "x": 664,
-          "y": 233,
+          "x": 667,
+          "y": 238,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -39315,8 +40589,8 @@
           "name": "TxtPerdiste",
           "persistentUuid": "f5531c49-474f-45e3-a9d5-2576df7882eb",
           "width": 0,
-          "x": 140,
-          "y": 110,
+          "x": 153,
+          "y": 105,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -39332,8 +40606,8 @@
           "name": "TxtNivel",
           "persistentUuid": "1914e050-8dd7-434c-b3b2-3b51e8caad41",
           "width": 0,
-          "x": 349,
-          "y": 42,
+          "x": 220,
+          "y": 4,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -39349,8 +40623,8 @@
           "name": "TxtGanaste",
           "persistentUuid": "437d3a5b-157d-4fd7-bf23-25b9987fc445",
           "width": 0,
-          "x": 240,
-          "y": 120,
+          "x": 137,
+          "y": 126,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -39365,8 +40639,8 @@
           "name": "TxtMuertes",
           "persistentUuid": "15033dd4-365e-436e-a745-8780d01f9a7e",
           "width": 0,
-          "x": 30,
-          "y": 38,
+          "x": 135,
+          "y": 17,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -39382,8 +40656,8 @@
           "name": "PanelInv",
           "persistentUuid": "98f60c47-b8f2-4f0c-b89f-fc8ddc909f6d",
           "width": 181,
-          "x": 144,
-          "y": 31,
+          "x": 136,
+          "y": 52,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -39496,25 +40770,8 @@
           "name": "Fundido",
           "persistentUuid": "b79ba682-96f0-477a-be3a-eb1916253cb8",
           "width": 491,
-          "x": -754,
-          "y": 453,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 639,
-          "keepRatio": true,
-          "layer": "Fin",
-          "name": "video_final",
-          "persistentUuid": "5dbb7597-1989-4b50-9d20-32ad21c1e9cf",
-          "width": 601,
-          "x": -86,
-          "y": 579,
+          "x": -8,
+          "y": -4,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -39529,8 +40786,8 @@
           "name": "ingrediente1",
           "persistentUuid": "8df45ddc-91a0-45fd-b3c5-f9bdb1c15e0e",
           "width": 0,
-          "x": 638,
-          "y": 194,
+          "x": 648,
+          "y": 232,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -39545,8 +40802,8 @@
           "name": "ingrediente2",
           "persistentUuid": "50a66a95-54d9-4b45-b0d1-ebd378af2ce2",
           "width": 0,
-          "x": 1427,
-          "y": 172,
+          "x": 1389,
+          "y": 190,
           "zOrder": 21,
           "numberProperties": [],
           "stringProperties": [],
@@ -39561,8 +40818,8 @@
           "name": "ingrediente3",
           "persistentUuid": "4d6bb8a5-3a13-4d1d-9ca1-e76fc9f5490f",
           "width": 0,
-          "x": 2343,
-          "y": 206,
+          "x": 2364,
+          "y": 224,
           "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
@@ -39646,6 +40903,22 @@
           "width": 0,
           "x": 1843,
           "y": 163,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 270,
+          "keepRatio": true,
+          "layer": "Fin",
+          "name": "MenuPausa",
+          "persistentUuid": "fdaa2d30-bf0d-4936-9383-85bc5c99fbf4",
+          "width": 480,
+          "x": 0,
+          "y": 0,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -42759,7 +44032,7 @@
           "effects": [],
           "behaviors": [],
           "string": "NIVEL 3",
-          "font": "",
+          "font": "PixelifySans-VariableFont_wght.ttf",
           "textAlignment": "center",
           "characterSize": 28,
           "color": {
@@ -42782,7 +44055,7 @@
             "smoothed": true,
             "underlined": false,
             "text": "NIVEL 3",
-            "font": "",
+            "font": "PixelifySans-VariableFont_wght.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
             "characterSize": 28,
@@ -42845,9 +44118,9 @@
           "effects": [],
           "behaviors": [],
           "string": "Text",
-          "font": "",
+          "font": "PixelifySans-VariableFont_wght.ttf",
           "textAlignment": "left",
-          "characterSize": 20,
+          "characterSize": 16,
           "color": {
             "b": 0,
             "g": 0,
@@ -42868,26 +44141,12 @@
             "smoothed": true,
             "underlined": false,
             "text": "Text",
-            "font": "",
+            "font": "PixelifySans-VariableFont_wght.ttf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
-            "characterSize": 20,
+            "characterSize": 16,
             "lineHeight": 0,
             "color": "0;0;0"
-          }
-        },
-        {
-          "assetStoreId": "",
-          "name": "video_final",
-          "type": "Video::VideoObject",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "opacity": 255,
-            "loop": false,
-            "volume": 100,
-            "videoResource": "video/video 1.mp4"
           }
         },
         {
@@ -43491,6 +44750,16 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "MenuPausa",
+          "type": "MenuPausa::MenuPausa",
+          "variant": "",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {}
         }
       ],
       "objectsFolderStructure": {
@@ -43563,9 +44832,6 @@
             "objectName": "TxtMuertes"
           },
           {
-            "objectName": "video_final"
-          },
-          {
             "objectName": "PanelInv"
           },
           {
@@ -43603,6 +44869,9 @@
           },
           {
             "objectName": "ingrediente3"
+          },
+          {
+            "objectName": "MenuPausa"
           }
         ]
       },
@@ -46755,14 +48024,6 @@
             },
             {
               "type": {
-                "value": "Hide"
-              },
-              "parameters": [
-                "video_final"
-              ]
-            },
-            {
-              "type": {
                 "value": "Show"
               },
               "parameters": [
@@ -47404,14 +48665,6 @@
                     "value": "Hide"
                   },
                   "parameters": [
-                    "video_final"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Hide"
-                  },
-                  "parameters": [
                     "PanelInv"
                   ]
                 },
@@ -47466,6 +48719,7 @@
               ]
             },
             {
+              "aiGeneratedEventId": "01M6QHN6YMTN4BDKY3QKZ7X9NF",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -47502,6 +48756,16 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "MenuPausa::MenuPausa::IsOpen"
+                  },
+                  "parameters": [
+                    "MenuPausa",
+                    ""
+                  ]
                 }
               ],
               "actions": [
@@ -47518,8 +48782,19 @@
               ]
             },
             {
+              "aiGeneratedEventId": "01M6QHN6YMTN4BDKY3QKZ7X9NF",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "InvAbierto",
+                    "True",
+                    ""
+                  ]
+                },
                 {
                   "type": {
                     "value": "KeyFromTextJustPressed"
@@ -47962,73 +49237,6 @@
                 },
                 {
                   "type": {
-                    "value": "ChangeWidth"
-                  },
-                  "parameters": [
-                    "video_final",
-                    "=",
-                    "480"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ChangeHeight"
-                  },
-                  "parameters": [
-                    "video_final",
-                    "=",
-                    "270"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetX"
-                  },
-                  "parameters": [
-                    "video_final",
-                    "=",
-                    "CameraX() - 240"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetY"
-                  },
-                  "parameters": [
-                    "video_final",
-                    "=",
-                    "CameraY() - 135"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetZOrder"
-                  },
-                  "parameters": [
-                    "video_final",
-                    "=",
-                    "100"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Show"
-                  },
-                  "parameters": [
-                    "video_final",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Video::Play"
-                  },
-                  "parameters": [
-                    "video_final"
-                  ]
-                },
-                {
-                  "type": {
                     "value": "ResetTimer"
                   },
                   "parameters": [
@@ -48039,51 +49247,7 @@
               ]
             },
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "Video::Ended"
-                  },
-                  "parameters": [
-                    "video_final"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "VidaDylan",
-                    "=",
-                    "100"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "MuertesSeguidas",
-                    "=",
-                    "0"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Scene"
-                  },
-                  "parameters": [
-                    "",
-                    "\"menu\"",
-                    "no"
-                  ]
-                }
-              ]
-            },
-            {
+              "aiGeneratedEventId": "01M6QHN6YMTN4BDKY3QKZ7X9NF",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -48094,7 +49258,7 @@
                     "",
                     "\"VideoFin\"",
                     ">",
-                    "15"
+                    "2"
                   ]
                 },
                 {
@@ -48131,7 +49295,7 @@
                   },
                   "parameters": [
                     "",
-                    "\"menu\"",
+                    "\"video final\"",
                     "no"
                   ]
                 }
@@ -48141,7 +49305,7 @@
           "parameters": []
         },
         {
-          "aiGeneratedEventId": "01M6MWZVWXPECVG205Q9CXJF5H",
+          "aiGeneratedEventId": "01M6QGTHSQS1ZF7A6GPGGN5W8D",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -48162,12 +49326,13 @@
                 "",
                 "1",
                 "=",
-                "60"
+                "30"
               ]
             }
           ],
           "events": [
             {
+              "aiGeneratedEventId": "01M6QGTHSQS1ZF7A6GPGGN5W8D",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -48191,7 +49356,7 @@
                     "comida legendaria2.mp3",
                     "1",
                     "yes",
-                    "60",
+                    "30",
                     "1"
                   ]
                 },
@@ -48205,6 +49370,123 @@
                     ""
                   ]
                 }
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6QHN6YMTN4BDKY3QKZ7X9NF",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyFromTextJustPressed"
+              },
+              "parameters": [
+                "",
+                "\"Escape\""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "InvAbierto",
+                "True",
+                ""
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "MenuPausa::MenuPausa::IsOpen"
+                  },
+                  "parameters": [
+                    "MenuPausa",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetStringVariable"
+                  },
+                  "parameters": [
+                    "EscenaPrevia",
+                    "=",
+                    "\"nivel 3\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MenuPausa::MenuPausa::Open"
+                  },
+                  "parameters": [
+                    "MenuPausa",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6QKWFMW2N063909K8M54QFB",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "MusicPlaying"
+              },
+              "parameters": [
+                "",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "Ganado",
+                "True",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlayMusicOnChannel"
+              },
+              "parameters": [
+                "",
+                "comida legendaria2.mp3",
+                "1",
+                "yes",
+                "30",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "MusicaIniciada",
+                "True",
+                ""
               ]
             }
           ]
@@ -52436,6 +53718,7 @@
               "actions": [],
               "events": [
                 {
+                  "aiGeneratedEventId": "01M6QHPWA5GGR18HRMV418Y8ZZ",
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -52459,15 +53742,50 @@
                         "True",
                         ""
                       ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "StringVariable"
+                          },
+                          "parameters": [
+                            "EscenaPrevia",
+                            "!=",
+                            "\"\""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Scene"
+                          },
+                          "parameters": [
+                            "",
+                            "EscenaPrevia",
+                            "no"
+                          ]
+                        }
+                      ]
                     },
                     {
-                      "type": {
-                        "value": "Scene"
-                      },
-                      "parameters": [
-                        "",
-                        "\"menu\"",
-                        "no"
+                      "type": "BuiltinCommonInstructions::Else",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Scene"
+                          },
+                          "parameters": [
+                            "",
+                            "\"menu\"",
+                            "no"
+                          ]
+                        }
                       ]
                     }
                   ]
@@ -52491,6 +53809,7 @@
               "actions": [],
               "events": [
                 {
+                  "aiGeneratedEventId": "01M6QHPWA5GGR18HRMV418Y8ZZ",
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -52514,15 +53833,50 @@
                         "True",
                         ""
                       ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "StringVariable"
+                          },
+                          "parameters": [
+                            "EscenaPrevia",
+                            "!=",
+                            "\"\""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Scene"
+                          },
+                          "parameters": [
+                            "",
+                            "EscenaPrevia",
+                            "no"
+                          ]
+                        }
+                      ]
                     },
                     {
-                      "type": {
-                        "value": "Scene"
-                      },
-                      "parameters": [
-                        "",
-                        "\"menu\"",
-                        "no"
+                      "type": "BuiltinCommonInstructions::Else",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Scene"
+                          },
+                          "parameters": [
+                            "",
+                            "\"menu\"",
+                            "no"
+                          ]
+                        }
                       ]
                     }
                   ]
@@ -52652,6 +54006,369 @@
           "type": "Tween::TweenBehavior"
         }
       ]
+    },
+    {
+      "b": 255,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "video_32final",
+      "name": "video final",
+      "r": 247,
+      "renderer3DWorldScale": 100,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 249,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridDepth": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridOffsetZ": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.7512693152212156,
+        "windowMask": false,
+        "selectedLayer": "",
+        "gameEditorMode": "instances-editor"
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 329,
+          "keepRatio": true,
+          "layer": "",
+          "name": "video_final",
+          "persistentUuid": "de8f1825-c3ff-4832-934c-403fd5dc2e9e",
+          "width": 585,
+          "x": -59,
+          "y": -25,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "assetStoreId": "",
+          "name": "video_final",
+          "type": "Video::VideoObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "opacity": 255,
+            "loop": false,
+            "volume": 90,
+            "videoResource": "video/video 1.mp4"
+          }
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "video_final"
+          }
+        ]
+      },
+      "events": [
+        {
+          "aiGeneratedEventId": "01M6QHP8RQGVFEAMQ0Y10ZRR4K",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SceneJustBegins"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Video::Play"
+              },
+              "parameters": [
+                "video_final"
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6QHP8RQGVFEAMQ0Y10ZRR4K",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Video::Ended"
+              },
+              "parameters": [
+                "video_final"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"menu\"",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6QHP8RQGVFEAMQ0Y10ZRR4K",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Or"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "value": "KeyFromTextJustPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Escape\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "KeyFromTextJustPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Return\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "KeyFromTextJustPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Space\""
+                  ]
+                }
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"menu\"",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01M6QKWQYQQ87FETZCRY04W0G3",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "Video::Play"
+              },
+              "parameters": [
+                "video_final"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Or"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "value": "MouseButtonFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Left\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "KeyFromTextJustPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Space\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "KeyFromTextJustPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Return\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "HasAnyTouchOrMouseStarted"
+                  },
+                  "parameters": [
+                    ""
+                  ]
+                }
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Video::Play"
+              },
+              "parameters": [
+                "video_final"
+              ]
+            }
+          ]
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300,
+                "shadowDistance": 2000,
+                "shadowNormalBias": 1
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "shadowRenderingMode": "fittedToCameraView",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Health",
+          "type": "Health::Health"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior"
+        },
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ]
     }
   ],
   "layoutsFolderStructure": {
@@ -52683,6 +54400,9 @@
       },
       {
         "itemName": "volumen"
+      },
+      {
+        "itemName": "video final"
       }
     ]
   },
@@ -54067,6 +55787,191 @@
         "const diff = Math.abs(norm(k.angle - norm(expected)));",
         "harness.assert(diff < 15, 'cuchillo invertido 180° (angle='+k.angle.toFixed(1)+' esperado~'+norm(expected).toFixed(1)+')');"
       ]
+    },
+    {
+      "description": "Nivel 2: banner NIVEL 2, contador de muertes, inventario abre/cierra con I/Tab mostrando iconos y cantidades; manual: música de fondo",
+      "lastRunAt": 1793938323815,
+      "lastRunDurationMs": 1058,
+      "lastRunFramesExecuted": 10,
+      "lastRunStatus": "passed",
+      "name": "hud-nivel2-y-musica-manual",
+      "type": "gameplay",
+      "source": [
+        "await harness.goToScene('Nivel 2');",
+        "await harness.stepFrames(5);",
+        "harness.setKeyPressed('i', true);",
+        "await harness.stepFrames(2);",
+        "harness.setKeyPressed('i', false);",
+        "await harness.stepFrames(2);",
+        "const panel = harness.getObjects('PanelInv')[0];",
+        "harness.assert(panel && !panel.hidden, 'Inventario abierto');",
+        "harness.assert(panel.width === 160 && panel.height === 160, 'Panel 160x160');",
+        "await harness.takeScreenshot('nivel2-inventario-fix');"
+      ]
+    },
+    {
+      "description": "Menu de pausa (ESC) en Nivel 1 con Continuar/Volumen/Salir y retorno desde volumen; victoria en nivel 3 lleva al video final y de ahi al menu",
+      "lastRunAt": 1793939881616,
+      "lastRunDurationMs": 15647,
+      "lastRunFramesExecuted": 1194,
+      "lastRunStatus": "passed",
+      "name": "pausa-y-video-final",
+      "type": "gameplay",
+      "source": [
+        "// Pausa en Nivel 1: abrir con ESC, continuar, volumen (ida y vuelta), salir al menu",
+        "await harness.goToScene('Nivel 1');",
+        "await harness.stepFrames(5);",
+        "harness.setKeyPressed('Escape', true);",
+        "await harness.stepFrames(2);",
+        "harness.setKeyPressed('Escape', false);",
+        "await harness.stepFrames(2);",
+        "await harness.takeScreenshot('pausa-abierta');",
+        "harness.setMousePosition(240, 122);",
+        "harness.setMouseButtonPressed(true, 'left');",
+        "await harness.stepFrames(2);",
+        "harness.setMouseButtonPressed(false, 'left');",
+        "await harness.stepFrames(2);",
+        "let mp = harness.getObjects('MenuPausa', { childrenDepth: 1 })[0];",
+        "const panel2 = mp.children && mp.children['PanelPausa'] && mp.children['PanelPausa'][0];",
+        "harness.assert(panel2 && panel2.hidden, 'CONTINUAR cierra el menu');",
+        "// ESC -> VOLUMEN -> vuelve al nivel",
+        "harness.setKeyPressed('Escape', true);",
+        "await harness.stepFrames(2);",
+        "harness.setKeyPressed('Escape', false);",
+        "await harness.stepFrames(2);",
+        "harness.setMousePosition(240, 167);",
+        "harness.setMouseButtonPressed(true, 'left');",
+        "await harness.stepFrames(2);",
+        "harness.setMouseButtonPressed(false, 'left');",
+        "await harness.stepUntil(() => harness.getSceneName() === 'volumen', { maxFrames: 30 });",
+        "harness.assert(harness.getSceneName() === 'volumen', 'VOLUMEN lleva a la escena volumen');",
+        "await harness.stepFrames(5);",
+        "harness.setKeyPressed('Escape', true);",
+        "await harness.stepFrames(2);",
+        "harness.setKeyPressed('Escape', false);",
+        "await harness.stepUntil(() => harness.getSceneName() === 'Nivel 1', { maxFrames: 30 });",
+        "harness.assert(harness.getSceneName() === 'Nivel 1', 'Volver desde volumen regresa a Nivel 1');",
+        "// ESC -> SALIR al menu",
+        "harness.setKeyPressed('Escape', true);",
+        "await harness.stepFrames(2);",
+        "harness.setKeyPressed('Escape', false);",
+        "await harness.stepFrames(2);",
+        "harness.setMousePosition(240, 212);",
+        "harness.setMouseButtonPressed(true, 'left');",
+        "await harness.stepFrames(2);",
+        "harness.setMouseButtonPressed(false, 'left');",
+        "await harness.stepUntil(() => harness.getSceneName() === 'menu', { maxFrames: 30 });",
+        "harness.assert(harness.getSceneName() === 'menu', 'SALIR lleva al menu');",
+        "// Victoria nivel 3 -> video final -> ESC al menu (el flujo tarda ~19s)",
+        "await harness.goToScene('nivel 3');",
+        "await harness.stepFrames(5);",
+        "const dylan = harness.getObjects('Dylan')[0];",
+        "harness.setObjectPosition(dylan.id, 4700, dylan.y);",
+        "await harness.stepUntil(() => harness.getSceneName() === 'video final', { maxFrames: 1500 });",
+        "harness.assert(harness.getSceneName() === 'video final', 'Al ganar se va al video final');",
+        "await harness.stepFrames(10);",
+        "await harness.takeScreenshot('video-final');",
+        "harness.setKeyPressed('Escape', true);",
+        "await harness.stepFrames(2);",
+        "harness.setKeyPressed('Escape', false);",
+        "await harness.stepUntil(() => harness.getSceneName() === 'menu', { maxFrames: 30 });",
+        "harness.assert(harness.getSceneName() === 'menu', 'ESC en el video final vuelve al menu');"
+      ]
+    },
+    {
+      "description": "El menu de pausa usa el estilo del menu principal (panel, fuentes, selector) y sigue funcionando",
+      "lastRunAt": 1793940816861,
+      "lastRunDurationMs": 3496,
+      "lastRunFramesExecuted": 35,
+      "lastRunStatus": "passed",
+      "name": "pausa-estilo-menu",
+      "type": "gameplay",
+      "source": [
+        "// Estilo del menu de pausa + funcionalidad intacta",
+        "await harness.goToScene('Nivel 1');",
+        "await harness.stepFrames(5);",
+        "harness.setKeyPressed('Escape', true);",
+        "await harness.stepFrames(2);",
+        "harness.setKeyPressed('Escape', false);",
+        "await harness.stepFrames(2);",
+        "await harness.takeScreenshot('pausa-estilo');",
+        "harness.setMousePosition(240, 147);",
+        "await harness.stepFrames(2);",
+        "await harness.takeScreenshot('pausa-hover-volumen');",
+        "harness.setMouseButtonPressed(true, 'left');",
+        "await harness.stepFrames(2);",
+        "harness.setMouseButtonPressed(false, 'left');",
+        "await harness.stepUntil(() => harness.getSceneName() === 'volumen', { maxFrames: 30 });",
+        "harness.assert(harness.getSceneName() === 'volumen', 'VOLUMEN funciona');",
+        "await harness.stepFrames(5);",
+        "harness.setKeyPressed('Escape', true);",
+        "await harness.stepFrames(2);",
+        "harness.setKeyPressed('Escape', false);",
+        "await harness.stepUntil(() => harness.getSceneName() === 'Nivel 1', { maxFrames: 30 });",
+        "harness.assert(harness.getSceneName() === 'Nivel 1', 'Vuelve al nivel');",
+        "harness.setKeyPressed('Escape', true);",
+        "await harness.stepFrames(2);",
+        "harness.setKeyPressed('Escape', false);",
+        "await harness.stepFrames(2);",
+        "harness.setMousePosition(240, 112);",
+        "harness.setMouseButtonPressed(true, 'left');",
+        "await harness.stepFrames(2);",
+        "harness.setMouseButtonPressed(false, 'left');",
+        "await harness.stepFrames(2);",
+        "const mp = harness.getObjects('MenuPausa', { childrenDepth: 1 })[0];",
+        "const panel = mp.children && mp.children['PanelPausa'] && mp.children['PanelPausa'][0];",
+        "harness.assert(panel && panel.hidden, 'CONTINUAR cierra el menu');",
+        "// SALIR al menu",
+        "harness.setKeyPressed('Escape', true);",
+        "await harness.stepFrames(2);",
+        "harness.setKeyPressed('Escape', false);",
+        "await harness.stepFrames(2);",
+        "harness.setMousePosition(240, 182);",
+        "harness.setMouseButtonPressed(true, 'left');",
+        "await harness.stepFrames(2);",
+        "harness.setMouseButtonPressed(false, 'left');",
+        "await harness.stepUntil(() => harness.getSceneName() === 'menu', { maxFrames: 30 });",
+        "harness.assert(harness.getSceneName() === 'menu', 'SALIR lleva al menu');"
+      ]
+    },
+    {
+      "description": "Musica en niveles 2 y 3, barra de vida fija mientras Dylan camina, y video final reproduciendose",
+      "lastRunAt": 1793941524795,
+      "lastRunDurationMs": 4477,
+      "lastRunFramesExecuted": 143,
+      "lastRunStatus": "passed",
+      "name": "musica-barra-video",
+      "type": "gameplay",
+      "source": [
+        "// Musica en niveles + barra fija + video final",
+        "await harness.goToScene('Nivel 2');",
+        "await harness.stepFrames(10);",
+        "const sounds = harness.getPlayedSounds();",
+        "harness.assert(sounds.some(s => (s.sound || '').includes('comida legendaria2')), 'Musica suena en Nivel 2');",
+        "const bar0 = harness.getObjects('White1BitPixelBar')[0];",
+        "const cam0 = harness.getCameraState().x;",
+        "harness.setKeyPressed('Right', true);",
+        "await harness.stepFrames(90);",
+        "harness.setKeyPressed('Right', false);",
+        "const bar1 = harness.getObjects('White1BitPixelBar')[0];",
+        "const cam1 = harness.getCameraState().x;",
+        "harness.assert(cam1 > cam0 + 50, 'La camara se movio');",
+        "harness.assert(Math.abs(bar1.x - bar0.x) < 2 && Math.abs(bar1.y - bar0.y) < 2, 'Barra de vida fija en pantalla');",
+        "harness.assert(bar1.layer === 'barra_vida', 'Barra en capa barra_vida');",
+        "await harness.takeScreenshot('nivel2-barra');",
+        "// nivel 3 musica",
+        "await harness.goToScene('nivel 3');",
+        "await harness.stepFrames(10);",
+        "harness.assert(harness.getPlayedSounds().some(s => (s.sound || '').includes('comida legendaria2')), 'Musica suena en nivel 3');",
+        "// video final: entra y verifica que el video se reproduce",
+        "await harness.goToScene('video final');",
+        "await harness.stepFrames(10);",
+        "let vf = harness.getObjects('video_final')[0];",
+        "console.log('video state:', JSON.stringify(vf.state));",
+        "harness.assert(vf.state['Play'] === true, 'El video se reproduce solo');",
+        "await harness.stepFrames(20);",
+        "await harness.takeScreenshot('video-final-play');"
+      ]
     }
   ],
   "testsFolderStructure": {
@@ -54164,6 +56069,18 @@
       },
       {
         "itemName": "butcher-attack-fix"
+      },
+      {
+        "itemName": "hud-nivel2-y-musica-manual"
+      },
+      {
+        "itemName": "pausa-y-video-final"
+      },
+      {
+        "itemName": "pausa-estilo-menu"
+      },
+      {
+        "itemName": "musica-barra-video"
       }
     ]
   },
@@ -76049,6 +77966,680 @@
                 }
               ],
               "editionSettings": []
+            },
+            {
+              "areaMaxX": 256,
+              "areaMaxY": 106,
+              "areaMaxZ": 64,
+              "areaMinX": 0,
+              "areaMinY": 0,
+              "areaMinZ": 0,
+              "assetStoreAssetId": "90d94b6e3a23c34948e59eaaef4679740f8ab588696d59b21e0c0c2ef106b94d",
+              "assetStoreOriginalName": "Blue Button",
+              "name": "Blue Button",
+              "objects": [
+                {
+                  "assetStoreId": "",
+                  "bold": false,
+                  "italic": false,
+                  "name": "Label",
+                  "smoothed": true,
+                  "type": "TextObject::Text",
+                  "underlined": false,
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "topEdgeAnchor": 1,
+                      "useLegacyBottomAndRightAnchors": false
+                    },
+                    {
+                      "name": "TextStyleState",
+                      "type": "PanelSpriteButton::TextStyleState",
+                      "ShouldEnableOutlineOnHover": false,
+                      "HoverColor": "",
+                      "ShouldEnableShadowOnHover": false,
+                      "HoverFontSize": 0,
+                      "IsHovered": false,
+                      "IdleFontSize": 0,
+                      "IdleColor": ""
+                    }
+                  ],
+                  "string": "Button",
+                  "font": "",
+                  "textAlignment": "center",
+                  "characterSize": 60,
+                  "color": {
+                    "b": 99,
+                    "g": 69,
+                    "r": 28
+                  },
+                  "content": {
+                    "bold": false,
+                    "isOutlineEnabled": false,
+                    "isShadowEnabled": false,
+                    "italic": false,
+                    "outlineColor": "255;255;255",
+                    "outlineThickness": 2,
+                    "shadowAngle": 90,
+                    "shadowBlurRadius": 2,
+                    "shadowColor": "0;0;0",
+                    "shadowDistance": 4,
+                    "shadowOpacity": 127,
+                    "smoothed": true,
+                    "underlined": false,
+                    "text": "Button",
+                    "font": "",
+                    "textAlignment": "center",
+                    "verticalTextAlignment": "center",
+                    "characterSize": 60,
+                    "lineHeight": 0,
+                    "color": "28;69;99"
+                  }
+                },
+                {
+                  "assetStoreId": "",
+                  "bottomMargin": 32,
+                  "height": 106,
+                  "leftMargin": 16,
+                  "name": "Idle",
+                  "rightMargin": 16,
+                  "texture": "Blue Button_Idle.png",
+                  "tiled": false,
+                  "topMargin": 16,
+                  "type": "PanelSpriteObject::PanelSprite",
+                  "width": 256,
+                  "variables": [
+                    {
+                      "folded": true,
+                      "name": "State",
+                      "type": "string",
+                      "value": "Idle"
+                    }
+                  ],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "topEdgeAnchor": 1,
+                      "useLegacyBottomAndRightAnchors": false
+                    },
+                    {
+                      "name": "ButtonFSM",
+                      "type": "PanelSpriteButton::ButtonFSM",
+                      "serializedBehavior": {
+                        "name": "ButtonFSM",
+                        "type": "PanelSpriteButton::ButtonFSM",
+                        "ShouldCheckHovering": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "assetStoreId": "",
+                  "bottomMargin": 32,
+                  "height": 106,
+                  "leftMargin": 16,
+                  "name": "Hovered",
+                  "rightMargin": 16,
+                  "texture": "Blue Button_Hovered.png",
+                  "tiled": false,
+                  "topMargin": 16,
+                  "type": "PanelSpriteObject::PanelSprite",
+                  "width": 256,
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "topEdgeAnchor": 1,
+                      "useLegacyBottomAndRightAnchors": false
+                    },
+                    {
+                      "name": "Tween",
+                      "type": "Tween::TweenBehavior",
+                      "serializedBehavior": {
+                        "name": "Tween",
+                        "type": "Tween::TweenBehavior"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "assetStoreId": "",
+                  "bottomMargin": 16,
+                  "height": 106,
+                  "leftMargin": 16,
+                  "name": "Pressed",
+                  "rightMargin": 16,
+                  "texture": "Blue Button_Pressed.png",
+                  "tiled": false,
+                  "topMargin": 32,
+                  "type": "PanelSpriteObject::PanelSprite",
+                  "width": 256,
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "topEdgeAnchor": 1,
+                      "useLegacyBottomAndRightAnchors": false
+                    }
+                  ]
+                },
+                {
+                  "assetStoreId": "",
+                  "name": "BitmapLabel",
+                  "type": "BitmapText::BitmapTextObject",
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 4,
+                      "topEdgeAnchor": 4,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "useLegacyBottomAndRightAnchors": false
+                    },
+                    {
+                      "name": "BitmapTextStyleState",
+                      "type": "PanelSpriteButton::BitmapTextStyleState",
+                      "HoverColor": "",
+                      "HoverPrefix": "",
+                      "HoverSuffix": "",
+                      "IsHovered": false,
+                      "IdleText": "",
+                      "IdleColor": ""
+                    }
+                  ],
+                  "content": {
+                    "text": "Text",
+                    "opacity": 255,
+                    "scale": 1,
+                    "fontSize": 20,
+                    "tint": "255;255;255",
+                    "bitmapFontResourceName": "",
+                    "textureAtlasResourceName": "",
+                    "align": "center",
+                    "verticalTextAlignment": "center"
+                  }
+                }
+              ],
+              "objectsFolderStructure": {
+                "folderName": "__ROOT",
+                "children": [
+                  {
+                    "objectName": "Label"
+                  },
+                  {
+                    "objectName": "Idle"
+                  },
+                  {
+                    "objectName": "Hovered"
+                  },
+                  {
+                    "objectName": "Pressed"
+                  },
+                  {
+                    "objectName": "BitmapLabel"
+                  }
+                ]
+              },
+              "objectsGroups": [
+                {
+                  "name": "Background",
+                  "objects": [
+                    {
+                      "name": "Idle"
+                    },
+                    {
+                      "name": "Hovered"
+                    },
+                    {
+                      "name": "Pressed"
+                    }
+                  ]
+                },
+                {
+                  "name": "Labels",
+                  "objects": [
+                    {
+                      "name": "Label"
+                    },
+                    {
+                      "name": "BitmapLabel"
+                    }
+                  ]
+                }
+              ],
+              "layers": [
+                {
+                  "ambientLightColorB": 200,
+                  "ambientLightColorG": 200,
+                  "ambientLightColorR": 200,
+                  "camera2DPlaneMaxDrawingDistance": 5000,
+                  "camera3DFarPlaneDistance": 10000,
+                  "camera3DFieldOfView": 45,
+                  "camera3DNearPlaneDistance": 3,
+                  "cameraType": "",
+                  "followBaseLayerCamera": false,
+                  "isLightingLayer": false,
+                  "isLocked": false,
+                  "name": "",
+                  "renderingType": "",
+                  "visibility": true,
+                  "cameras": [
+                    {
+                      "defaultSize": true,
+                      "defaultViewport": true,
+                      "height": 0,
+                      "viewportBottom": 1,
+                      "viewportLeft": 0,
+                      "viewportRight": 1,
+                      "viewportTop": 0,
+                      "width": 0
+                    }
+                  ],
+                  "effects": []
+                }
+              ],
+              "instances": [
+                {
+                  "angle": 0,
+                  "customSize": false,
+                  "depth": 1,
+                  "height": 64,
+                  "layer": "",
+                  "name": "Idle",
+                  "persistentUuid": "24882334-eec8-403e-8bf1-70fc928a46e6",
+                  "width": 64,
+                  "x": 0,
+                  "y": 0,
+                  "zOrder": 1,
+                  "numberProperties": [],
+                  "stringProperties": [],
+                  "initialVariables": []
+                },
+                {
+                  "angle": 0,
+                  "customSize": true,
+                  "depth": 1,
+                  "height": 81,
+                  "keepRatio": true,
+                  "layer": "",
+                  "name": "Label",
+                  "persistentUuid": "13c57e74-5889-490a-b3fe-4856e2ee6a18",
+                  "width": 240,
+                  "x": 8,
+                  "y": 48,
+                  "zOrder": 2,
+                  "numberProperties": [],
+                  "stringProperties": [],
+                  "initialVariables": []
+                }
+              ],
+              "editionSettings": {}
+            },
+            {
+              "areaMaxX": 256,
+              "areaMaxY": 128,
+              "areaMaxZ": 64,
+              "areaMinX": 0,
+              "areaMinY": 0,
+              "areaMinZ": 0,
+              "assetStoreAssetId": "02cb22c03a7c7f9262819832f0fea819fc5021f2b7a8854eb99d6ff20f180d66",
+              "assetStoreOriginalName": "White Sleek Button",
+              "name": "White Sleek Button",
+              "objects": [
+                {
+                  "assetStoreId": "",
+                  "bold": false,
+                  "italic": false,
+                  "name": "Label",
+                  "smoothed": true,
+                  "type": "TextObject::Text",
+                  "underlined": false,
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "topEdgeAnchor": 1,
+                      "useLegacyBottomAndRightAnchors": false
+                    },
+                    {
+                      "name": "TextStyleState",
+                      "type": "PanelSpriteButton::TextStyleState",
+                      "ShouldEnableOutlineOnHover": false,
+                      "HoverColor": "",
+                      "ShouldEnableShadowOnHover": false,
+                      "HoverFontSize": 0,
+                      "IsHovered": false,
+                      "IdleFontSize": 0,
+                      "IdleColor": ""
+                    }
+                  ],
+                  "string": "Button",
+                  "font": "WorkSans-Regular.ttf",
+                  "textAlignment": "center",
+                  "characterSize": 60,
+                  "color": {
+                    "b": 95,
+                    "g": 23,
+                    "r": 6
+                  },
+                  "content": {
+                    "bold": false,
+                    "isOutlineEnabled": false,
+                    "isShadowEnabled": false,
+                    "italic": false,
+                    "outlineColor": "255;255;255",
+                    "outlineThickness": 2,
+                    "shadowAngle": 90,
+                    "shadowBlurRadius": 2,
+                    "shadowColor": "0;0;0",
+                    "shadowDistance": 4,
+                    "shadowOpacity": 127,
+                    "smoothed": true,
+                    "underlined": false,
+                    "text": "Button",
+                    "font": "WorkSans-Regular.ttf",
+                    "textAlignment": "center",
+                    "verticalTextAlignment": "center",
+                    "characterSize": 60,
+                    "lineHeight": 0,
+                    "color": "6;23;95"
+                  }
+                },
+                {
+                  "assetStoreId": "",
+                  "bottomMargin": 55,
+                  "height": 128,
+                  "leftMargin": 40,
+                  "name": "Idle",
+                  "rightMargin": 40,
+                  "texture": "White Sleek Button_Idle.png",
+                  "tiled": false,
+                  "topMargin": 37,
+                  "type": "PanelSpriteObject::PanelSprite",
+                  "width": 256,
+                  "variables": [
+                    {
+                      "folded": true,
+                      "name": "State",
+                      "type": "string",
+                      "value": "Idle"
+                    }
+                  ],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "topEdgeAnchor": 1,
+                      "useLegacyBottomAndRightAnchors": false
+                    },
+                    {
+                      "name": "ButtonFSM",
+                      "type": "PanelSpriteButton::ButtonFSM",
+                      "serializedBehavior": {
+                        "name": "ButtonFSM",
+                        "type": "PanelSpriteButton::ButtonFSM",
+                        "ShouldCheckHovering": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "assetStoreId": "",
+                  "bottomMargin": 55,
+                  "height": 128,
+                  "leftMargin": 40,
+                  "name": "Hovered",
+                  "rightMargin": 40,
+                  "texture": "White Sleek Button_Hovered.png",
+                  "tiled": false,
+                  "topMargin": 37,
+                  "type": "PanelSpriteObject::PanelSprite",
+                  "width": 256,
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "topEdgeAnchor": 1,
+                      "useLegacyBottomAndRightAnchors": false
+                    },
+                    {
+                      "name": "Tween",
+                      "type": "Tween::TweenBehavior",
+                      "serializedBehavior": {
+                        "name": "Tween",
+                        "type": "Tween::TweenBehavior"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "assetStoreId": "",
+                  "bottomMargin": 55,
+                  "height": 128,
+                  "leftMargin": 40,
+                  "name": "Pressed",
+                  "rightMargin": 40,
+                  "texture": "White Sleek Button_Pressed.png",
+                  "tiled": false,
+                  "topMargin": 37,
+                  "type": "PanelSpriteObject::PanelSprite",
+                  "width": 256,
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "topEdgeAnchor": 1,
+                      "useLegacyBottomAndRightAnchors": false
+                    }
+                  ]
+                },
+                {
+                  "assetStoreId": "",
+                  "name": "BitmapLabel",
+                  "type": "BitmapText::BitmapTextObject",
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 4,
+                      "topEdgeAnchor": 4,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "useLegacyBottomAndRightAnchors": false
+                    },
+                    {
+                      "name": "BitmapTextStyleState",
+                      "type": "PanelSpriteButton::BitmapTextStyleState",
+                      "HoverColor": "",
+                      "HoverPrefix": "",
+                      "HoverSuffix": "",
+                      "IsHovered": false,
+                      "IdleText": "",
+                      "IdleColor": ""
+                    }
+                  ],
+                  "content": {
+                    "text": "Text",
+                    "opacity": 255,
+                    "scale": 1,
+                    "fontSize": 20,
+                    "tint": "255;255;255",
+                    "bitmapFontResourceName": "",
+                    "textureAtlasResourceName": "",
+                    "align": "center",
+                    "verticalTextAlignment": "center"
+                  }
+                }
+              ],
+              "objectsFolderStructure": {
+                "folderName": "__ROOT",
+                "children": [
+                  {
+                    "objectName": "Label"
+                  },
+                  {
+                    "objectName": "Idle"
+                  },
+                  {
+                    "objectName": "Hovered"
+                  },
+                  {
+                    "objectName": "Pressed"
+                  },
+                  {
+                    "objectName": "BitmapLabel"
+                  }
+                ]
+              },
+              "objectsGroups": [
+                {
+                  "name": "Background",
+                  "objects": [
+                    {
+                      "name": "Idle"
+                    },
+                    {
+                      "name": "Hovered"
+                    },
+                    {
+                      "name": "Pressed"
+                    }
+                  ]
+                },
+                {
+                  "name": "Labels",
+                  "objects": [
+                    {
+                      "name": "Label"
+                    },
+                    {
+                      "name": "BitmapLabel"
+                    }
+                  ]
+                }
+              ],
+              "layers": [
+                {
+                  "ambientLightColorB": 200,
+                  "ambientLightColorG": 200,
+                  "ambientLightColorR": 200,
+                  "camera2DPlaneMaxDrawingDistance": 5000,
+                  "camera3DFarPlaneDistance": 10000,
+                  "camera3DFieldOfView": 45,
+                  "camera3DNearPlaneDistance": 3,
+                  "cameraType": "",
+                  "followBaseLayerCamera": false,
+                  "isLightingLayer": false,
+                  "isLocked": false,
+                  "name": "",
+                  "renderingType": "",
+                  "visibility": true,
+                  "cameras": [
+                    {
+                      "defaultSize": true,
+                      "defaultViewport": true,
+                      "height": 0,
+                      "viewportBottom": 1,
+                      "viewportLeft": 0,
+                      "viewportRight": 1,
+                      "viewportTop": 0,
+                      "width": 0
+                    }
+                  ],
+                  "effects": []
+                }
+              ],
+              "instances": [
+                {
+                  "angle": 0,
+                  "customSize": false,
+                  "depth": 1,
+                  "height": 64,
+                  "layer": "",
+                  "name": "Idle",
+                  "persistentUuid": "24882334-eec8-403e-8bf1-70fc928a46e6",
+                  "width": 64,
+                  "x": 0,
+                  "y": 0,
+                  "zOrder": 1,
+                  "numberProperties": [],
+                  "stringProperties": [],
+                  "initialVariables": []
+                },
+                {
+                  "angle": 0,
+                  "customSize": true,
+                  "depth": 1,
+                  "height": 91,
+                  "keepRatio": true,
+                  "layer": "",
+                  "name": "Label",
+                  "persistentUuid": "7df63a22-6895-44c6-8efb-68973d5a0ef1",
+                  "width": 233,
+                  "x": 12,
+                  "y": 52,
+                  "zOrder": 2,
+                  "numberProperties": [],
+                  "stringProperties": [],
+                  "initialVariables": []
+                }
+              ],
+              "editionSettings": {}
             }
           ]
         }
@@ -91133,6 +93724,1387 @@
               },
               {
                 "propertyName": "PaintData"
+              }
+            ]
+          },
+          "variants": []
+        }
+      ]
+    },
+    {
+      "author": "",
+      "category": "User interface",
+      "dimension": "",
+      "extensionNamespace": "",
+      "fullName": "Menu de pausa",
+      "gdevelopVersion": "",
+      "helpPath": "",
+      "iconUrl": "",
+      "name": "MenuPausa",
+      "previewIconUrl": "",
+      "shortDescription": "Menú de pausa con Continuar, Volumen y Salir.",
+      "version": "",
+      "description": "",
+      "tags": [],
+      "authorIds": [],
+      "dependencies": [],
+      "globalVariables": [],
+      "sceneVariables": [],
+      "eventsFunctions": [],
+      "eventsFunctionsFolderStructure": {
+        "folderName": "__ROOT"
+      },
+      "eventsBasedBehaviors": [],
+      "eventsBasedObjects": [
+        {
+          "areaMaxX": 480,
+          "areaMaxY": 270,
+          "areaMaxZ": 0,
+          "areaMinX": 0,
+          "areaMinY": 0,
+          "areaMinZ": 0,
+          "defaultName": "MenuPausa",
+          "description": "Overlay de pausa: Continuar, Volumen, Salir. Se abre con la acción Open.",
+          "fullName": "Menu de pausa",
+          "helpPath": "",
+          "iconUrl": "",
+          "isUsingLegacyInstancesRenderer": false,
+          "name": "MenuPausa",
+          "previewIconUrl": "",
+          "objects": [
+            {
+              "assetStoreId": "",
+              "bottomMargin": 16,
+              "height": 32,
+              "leftMargin": 16,
+              "name": "PanelPausa",
+              "rightMargin": 16,
+              "texture": "Default-panel (8).png",
+              "tiled": true,
+              "topMargin": 16,
+              "type": "PanelSpriteObject::PanelSprite",
+              "width": 32,
+              "variables": [],
+              "effects": [],
+              "behaviors": []
+            },
+            {
+              "assetStoreId": "",
+              "bold": true,
+              "italic": false,
+              "name": "TituloPausa",
+              "smoothed": true,
+              "type": "TextObject::Text",
+              "underlined": false,
+              "variables": [],
+              "effects": [],
+              "behaviors": [],
+              "string": "PAUSA",
+              "font": "PixelifySans-VariableFont_wght.ttf",
+              "textAlignment": "center",
+              "characterSize": 24,
+              "color": {
+                "b": 60,
+                "g": 170,
+                "r": 255
+              },
+              "content": {
+                "bold": true,
+                "isOutlineEnabled": true,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "0;0;0",
+                "outlineThickness": 1,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "PAUSA",
+                "font": "PixelifySans-VariableFont_wght.ttf",
+                "textAlignment": "center",
+                "verticalTextAlignment": "top",
+                "characterSize": 24,
+                "lineHeight": 0,
+                "color": "255;170;60"
+              }
+            },
+            {
+              "assetStoreId": "90d94b6e3a23c34948e59eaaef4679740f8ab588696d59b21e0c0c2ef106b94d",
+              "name": "BotonContinuar",
+              "persistentUuid": "04c0b93a-36e0-49fa-9c6d-ddbbccba4510",
+              "type": "PanelSpriteButton::PanelSpriteButton",
+              "variant": "Blue Button",
+              "variables": [],
+              "effects": [],
+              "behaviors": [
+                {
+                  "name": "ButtonFSM",
+                  "type": "ButtonStates::ButtonFSM",
+                  "ShouldCheckHovering": true,
+                  "State": "Idle",
+                  "TouchId": 0,
+                  "TouchIsInside": false,
+                  "MouseIsInside": false,
+                  "Index": 0
+                }
+              ],
+              "content": {
+                "LeftPadding": 16,
+                "RightPadding": 16,
+                "PressedLabelOffsetY": 10,
+                "BottomPadding": 32,
+                "TopPadding": 16,
+                "HoveredFadeOutDuration": 0.25,
+                "LabelText": "CONTINUAR"
+              }
+            },
+            {
+              "assetStoreId": "02cb22c03a7c7f9262819832f0fea819fc5021f2b7a8854eb99d6ff20f180d66",
+              "name": "BotonVolumen",
+              "persistentUuid": "701e0051-acdf-4967-8bd0-e78493d03851",
+              "type": "PanelSpriteButton::PanelSpriteButton",
+              "variant": "White Sleek Button",
+              "variables": [],
+              "effects": [],
+              "behaviors": [
+                {
+                  "name": "ButtonFSM",
+                  "type": "ButtonStates::ButtonFSM",
+                  "ShouldCheckHovering": true,
+                  "State": "Idle",
+                  "TouchId": 0,
+                  "TouchIsInside": false,
+                  "MouseIsInside": false,
+                  "Index": 0
+                }
+              ],
+              "content": {
+                "BottomPadding": 31,
+                "TopPadding": 5,
+                "LeftPadding": 12,
+                "RightPadding": 12,
+                "PressedLabelOffsetY": 6,
+                "LabelText": "VOLUMEN"
+              }
+            },
+            {
+              "assetStoreId": "0d3f4843e5ebb7af30fd80adf19a1c5a14164c1283f344991dc2aa14067a1262",
+              "name": "BotonSalir",
+              "persistentUuid": "83f9f67d-9fc7-4b6f-b3a8-4450bf3ebdb6",
+              "type": "PanelSpriteButton::PanelSpriteButton",
+              "variant": "Red Button",
+              "variables": [],
+              "effects": [],
+              "behaviors": [
+                {
+                  "name": "ButtonFSM",
+                  "type": "ButtonStates::ButtonFSM",
+                  "ShouldCheckHovering": true,
+                  "State": "Idle",
+                  "TouchId": 0,
+                  "TouchIsInside": false,
+                  "MouseIsInside": false,
+                  "Index": 0
+                }
+              ],
+              "content": {
+                "LeftPadding": 16,
+                "RightPadding": 16,
+                "PressedLabelOffsetY": 10,
+                "BottomPadding": 32,
+                "TopPadding": 16,
+                "HoveredFadeOutDuration": 0.25,
+                "LabelText": "SALIR"
+              }
+            },
+            {
+              "assetStoreId": "",
+              "bold": true,
+              "italic": false,
+              "name": "TxtContinuar",
+              "smoothed": true,
+              "type": "TextObject::Text",
+              "underlined": false,
+              "variables": [],
+              "effects": [],
+              "behaviors": [],
+              "string": "CONTINUAR",
+              "font": "PixelifySans-VariableFont_wght2.ttf",
+              "textAlignment": "center",
+              "characterSize": 16,
+              "color": {
+                "b": 215,
+                "g": 230,
+                "r": 235
+              },
+              "content": {
+                "bold": true,
+                "isOutlineEnabled": true,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "0;0;0",
+                "outlineThickness": 1,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "CONTINUAR",
+                "font": "PixelifySans-VariableFont_wght2.ttf",
+                "textAlignment": "center",
+                "verticalTextAlignment": "top",
+                "characterSize": 16,
+                "lineHeight": 0,
+                "color": "235;230;215"
+              }
+            },
+            {
+              "assetStoreId": "",
+              "bold": true,
+              "italic": false,
+              "name": "TxtVolumen",
+              "smoothed": true,
+              "type": "TextObject::Text",
+              "underlined": false,
+              "variables": [],
+              "effects": [],
+              "behaviors": [],
+              "string": "VOLUMEN",
+              "font": "PixelifySans-VariableFont_wght2.ttf",
+              "textAlignment": "center",
+              "characterSize": 16,
+              "color": {
+                "b": 215,
+                "g": 230,
+                "r": 235
+              },
+              "content": {
+                "bold": true,
+                "isOutlineEnabled": true,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "0;0;0",
+                "outlineThickness": 1,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "VOLUMEN",
+                "font": "PixelifySans-VariableFont_wght2.ttf",
+                "textAlignment": "center",
+                "verticalTextAlignment": "top",
+                "characterSize": 16,
+                "lineHeight": 0,
+                "color": "235;230;215"
+              }
+            },
+            {
+              "assetStoreId": "",
+              "bold": true,
+              "italic": false,
+              "name": "TxtSalir",
+              "smoothed": true,
+              "type": "TextObject::Text",
+              "underlined": false,
+              "variables": [],
+              "effects": [],
+              "behaviors": [],
+              "string": "SALIR",
+              "font": "PixelifySans-VariableFont_wght2.ttf",
+              "textAlignment": "center",
+              "characterSize": 16,
+              "color": {
+                "b": 215,
+                "g": 230,
+                "r": 235
+              },
+              "content": {
+                "bold": true,
+                "isOutlineEnabled": true,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "0;0;0",
+                "outlineThickness": 1,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "SALIR",
+                "font": "PixelifySans-VariableFont_wght2.ttf",
+                "textAlignment": "center",
+                "verticalTextAlignment": "top",
+                "characterSize": 16,
+                "lineHeight": 0,
+                "color": "235;230;215"
+              }
+            },
+            {
+              "assetStoreId": "",
+              "bold": false,
+              "italic": false,
+              "name": "SelectorTxt",
+              "smoothed": true,
+              "type": "TextObject::Text",
+              "underlined": false,
+              "variables": [],
+              "effects": [],
+              "behaviors": [],
+              "string": ">",
+              "font": "Kenney Pixel.ttf",
+              "textAlignment": "left",
+              "characterSize": 16,
+              "color": {
+                "b": 60,
+                "g": 170,
+                "r": 255
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": true,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "0;0;0",
+                "outlineThickness": 1,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": ">",
+                "font": "Kenney Pixel.ttf",
+                "textAlignment": "left",
+                "verticalTextAlignment": "top",
+                "characterSize": 16,
+                "lineHeight": 0,
+                "color": "255;170;60"
+              }
+            }
+          ],
+          "objectsFolderStructure": {
+            "folderName": "__ROOT",
+            "children": [
+              {
+                "objectName": "PanelPausa"
+              },
+              {
+                "objectName": "TituloPausa"
+              },
+              {
+                "objectName": "BotonContinuar"
+              },
+              {
+                "objectName": "BotonVolumen"
+              },
+              {
+                "objectName": "BotonSalir"
+              },
+              {
+                "objectName": "TxtContinuar"
+              },
+              {
+                "objectName": "TxtVolumen"
+              },
+              {
+                "objectName": "TxtSalir"
+              },
+              {
+                "objectName": "SelectorTxt"
+              }
+            ]
+          },
+          "objectsGroups": [],
+          "layers": [
+            {
+              "ambientLightColorB": 200,
+              "ambientLightColorG": 200,
+              "ambientLightColorR": 200,
+              "camera2DPlaneMaxDrawingDistance": 5000,
+              "camera3DFarPlaneDistance": 10000,
+              "camera3DFieldOfView": 45,
+              "camera3DNearPlaneDistance": 3,
+              "cameraType": "",
+              "followBaseLayerCamera": false,
+              "isLightingLayer": false,
+              "isLocked": false,
+              "name": "",
+              "renderingType": "",
+              "visibility": true,
+              "cameras": [
+                {
+                  "defaultSize": true,
+                  "defaultViewport": true,
+                  "height": 0,
+                  "viewportBottom": 1,
+                  "viewportLeft": 0,
+                  "viewportRight": 1,
+                  "viewportTop": 0,
+                  "width": 0
+                }
+              ],
+              "effects": []
+            }
+          ],
+          "instances": [
+            {
+              "angle": 0,
+              "customSize": true,
+              "height": 160,
+              "hidden": true,
+              "keepRatio": true,
+              "layer": "",
+              "name": "PanelPausa",
+              "persistentUuid": "01d8331d-cde4-44b5-b995-f4272dbf5cf9",
+              "width": 220,
+              "x": 130,
+              "y": 55,
+              "zOrder": 0,
+              "numberProperties": [],
+              "stringProperties": [],
+              "initialVariables": []
+            },
+            {
+              "angle": 0,
+              "customSize": true,
+              "height": 30,
+              "hidden": true,
+              "keepRatio": true,
+              "layer": "",
+              "name": "TituloPausa",
+              "persistentUuid": "6a2c3c6e-8f8e-405a-9327-0a5d8be16fc5",
+              "width": 140,
+              "x": 169,
+              "y": 64,
+              "zOrder": 0,
+              "numberProperties": [],
+              "stringProperties": [],
+              "initialVariables": []
+            },
+            {
+              "angle": 0,
+              "customSize": true,
+              "height": 53,
+              "hidden": true,
+              "keepRatio": true,
+              "layer": "",
+              "name": "BotonContinuar",
+              "persistentUuid": "cc075e54-c129-4ad7-86ce-793e8eed431a",
+              "width": 128,
+              "x": 175,
+              "y": 69,
+              "zOrder": 0,
+              "numberProperties": [],
+              "stringProperties": [],
+              "initialVariables": []
+            },
+            {
+              "angle": 0,
+              "customSize": true,
+              "height": 53,
+              "hidden": true,
+              "keepRatio": true,
+              "layer": "",
+              "name": "BotonVolumen",
+              "persistentUuid": "2c7fec31-0cee-4910-bfce-45099c753178",
+              "width": 128,
+              "x": 173,
+              "y": 117,
+              "zOrder": 0,
+              "numberProperties": [],
+              "stringProperties": [],
+              "initialVariables": []
+            },
+            {
+              "angle": 0,
+              "customSize": true,
+              "height": 53,
+              "hidden": true,
+              "keepRatio": true,
+              "layer": "",
+              "name": "BotonSalir",
+              "persistentUuid": "038a5d54-0107-45f8-aa0b-5f5546c235a2",
+              "width": 128,
+              "x": 173,
+              "y": 151,
+              "zOrder": 0,
+              "numberProperties": [],
+              "stringProperties": [],
+              "initialVariables": []
+            },
+            {
+              "angle": 0,
+              "customSize": true,
+              "height": 24,
+              "hidden": true,
+              "keepRatio": true,
+              "layer": "",
+              "name": "TxtContinuar",
+              "persistentUuid": "6f7ddc64-3a1c-4d8d-a93c-dfc6b7c5f197",
+              "width": 120,
+              "x": 175,
+              "y": 100,
+              "zOrder": 0,
+              "numberProperties": [],
+              "stringProperties": [],
+              "initialVariables": []
+            },
+            {
+              "angle": 0,
+              "customSize": true,
+              "height": 24,
+              "hidden": true,
+              "keepRatio": true,
+              "layer": "",
+              "name": "TxtVolumen",
+              "persistentUuid": "7d9a7f77-7942-4516-b221-89bd4d073b95",
+              "width": 120,
+              "x": 175,
+              "y": 121,
+              "zOrder": 0,
+              "numberProperties": [],
+              "stringProperties": [],
+              "initialVariables": []
+            },
+            {
+              "angle": 0,
+              "customSize": true,
+              "height": 24,
+              "hidden": true,
+              "keepRatio": true,
+              "layer": "",
+              "name": "TxtSalir",
+              "persistentUuid": "2faba3ff-1568-4a53-a442-8cb201b684a6",
+              "width": 120,
+              "x": 172,
+              "y": 145,
+              "zOrder": 0,
+              "numberProperties": [],
+              "stringProperties": [],
+              "initialVariables": []
+            },
+            {
+              "angle": 0,
+              "customSize": true,
+              "height": 20,
+              "hidden": true,
+              "keepRatio": true,
+              "layer": "",
+              "name": "SelectorTxt",
+              "persistentUuid": "b85ea530-73fe-496e-a558-1c29c7306ba8",
+              "width": 14,
+              "x": 184,
+              "y": 102,
+              "zOrder": 0,
+              "numberProperties": [],
+              "stringProperties": [],
+              "initialVariables": []
+            }
+          ],
+          "editionSettings": {
+            "grid": false,
+            "gridType": "rectangular",
+            "gridWidth": 32,
+            "gridHeight": 32,
+            "gridDepth": 32,
+            "gridOffsetX": 0,
+            "gridOffsetY": 0,
+            "gridOffsetZ": 0,
+            "gridColor": 10401023,
+            "gridAlpha": 0.8,
+            "snap": false,
+            "zoomFactor": 1.6108903333303641,
+            "windowMask": false,
+            "selectedLayer": "",
+            "gameEditorMode": "instances-editor"
+          },
+          "eventsFunctions": [
+            {
+              "description": "Check if abierto.",
+              "fullName": "Abierto",
+              "functionType": "Condition",
+              "group": "Menu de pausa configuration",
+              "name": "Abierto",
+              "sentence": "_PARAM0_ abierto",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "Abierto",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetReturnBoolean"
+                      },
+                      "parameters": [
+                        "True"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "MenuPausa::MenuPausa",
+                  "type": "object"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Change if abierto.",
+              "fullName": "Abierto",
+              "functionType": "Action",
+              "group": "Menu de pausa configuration",
+              "name": "SetAbierto",
+              "sentence": "_PARAM0_ abierto: _PARAM1_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "Value",
+                        "False",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetBooleanVariable"
+                      },
+                      "parameters": [
+                        "Abierto",
+                        "False",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "Value",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetBooleanVariable"
+                      },
+                      "parameters": [
+                        "Abierto",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "MenuPausa::MenuPausa",
+                  "type": "object"
+                },
+                {
+                  "defaultValue": "yes",
+                  "description": "Abierto",
+                  "name": "Value",
+                  "optional": true,
+                  "type": "yesorno"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "Abrir menu de pausa",
+              "functionType": "Action",
+              "name": "Open",
+              "sentence": "Abrir el menu de pausa de _PARAM0_",
+              "events": [
+                {
+                  "aiGeneratedEventId": "01M6QK36EDA8QDDBS9Q4NFE3SK",
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetBooleanVariable"
+                      },
+                      "parameters": [
+                        "Abierto",
+                        "True",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Show"
+                      },
+                      "parameters": [
+                        "PanelPausa",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Show"
+                      },
+                      "parameters": [
+                        "TituloPausa",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Show"
+                      },
+                      "parameters": [
+                        "TxtContinuar",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Show"
+                      },
+                      "parameters": [
+                        "TxtVolumen",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Show"
+                      },
+                      "parameters": [
+                        "TxtSalir",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Show"
+                      },
+                      "parameters": [
+                        "SelectorTxt",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ChangeTimeScale"
+                      },
+                      "parameters": [
+                        "",
+                        "0"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "MenuPausa::MenuPausa",
+                  "type": "object"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "Cerrar menu de pausa",
+              "functionType": "Action",
+              "name": "Close",
+              "sentence": "Cerrar el menu de pausa de _PARAM0_",
+              "events": [
+                {
+                  "aiGeneratedEventId": "01M6QK3C191JCG64PZ4D7RQD1G",
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetBooleanVariable"
+                      },
+                      "parameters": [
+                        "Abierto",
+                        "False",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Hide"
+                      },
+                      "parameters": [
+                        "PanelPausa"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Hide"
+                      },
+                      "parameters": [
+                        "TituloPausa"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Hide"
+                      },
+                      "parameters": [
+                        "TxtContinuar"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Hide"
+                      },
+                      "parameters": [
+                        "TxtVolumen"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Hide"
+                      },
+                      "parameters": [
+                        "TxtSalir"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Hide"
+                      },
+                      "parameters": [
+                        "SelectorTxt"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ChangeTimeScale"
+                      },
+                      "parameters": [
+                        "",
+                        "1"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "MenuPausa::MenuPausa",
+                  "type": "object"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "Menu abierto",
+              "functionType": "Condition",
+              "name": "IsOpen",
+              "sentence": "El menu de pausa de _PARAM0_ esta abierto",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetReturnBoolean"
+                      },
+                      "parameters": [
+                        "True"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "aiGeneratedEventId": "01M6QHJ7MD70B5WAPNNQRE6GFR",
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "Abierto",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetReturnBoolean"
+                      },
+                      "parameters": [
+                        "True"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "aiGeneratedEventId": "01M6QHJ7MD70B5WAPNNQRE6GFR",
+                  "type": "BuiltinCommonInstructions::Else",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetReturnBoolean"
+                      },
+                      "parameters": [
+                        "False"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "MenuPausa::MenuPausa",
+                  "type": "object"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "doStepPostEvents",
+              "sentence": "",
+              "events": [
+                {
+                  "aiGeneratedEventId": "01M6QK3KDRC03TVDC0ZJVRG5CZ",
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "MenuPausa::MenuPausa::IsOpen"
+                      },
+                      "parameters": [
+                        "Object",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Hide"
+                      },
+                      "parameters": [
+                        "SelectorTxt"
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "IsCursorOnObject"
+                          },
+                          "parameters": [
+                            "TxtContinuar",
+                            "",
+                            "",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetY"
+                          },
+                          "parameters": [
+                            "SelectorTxt",
+                            "=",
+                            "102"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Show"
+                          },
+                          "parameters": [
+                            "SelectorTxt",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "IsCursorOnObject"
+                          },
+                          "parameters": [
+                            "TxtVolumen",
+                            "",
+                            "",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetY"
+                          },
+                          "parameters": [
+                            "SelectorTxt",
+                            "=",
+                            "137"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Show"
+                          },
+                          "parameters": [
+                            "SelectorTxt",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "IsCursorOnObject"
+                          },
+                          "parameters": [
+                            "TxtSalir",
+                            "",
+                            "",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetY"
+                          },
+                          "parameters": [
+                            "SelectorTxt",
+                            "=",
+                            "172"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Show"
+                          },
+                          "parameters": [
+                            "SelectorTxt",
+                            ""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "aiGeneratedEventId": "01M6QHJCX2HD0XPEG2Q04K8QWY",
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "MenuPausa::MenuPausa::IsOpen"
+                      },
+                      "parameters": [
+                        "Object",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "KeyFromTextJustPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Escape\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "MenuPausa::MenuPausa::Close"
+                      },
+                      "parameters": [
+                        "Object",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "aiGeneratedEventId": "01M6QJ65R75Z72SCZ0QF5DF1MN",
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "MenuPausa::MenuPausa::IsOpen"
+                      },
+                      "parameters": [
+                        "Object",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "IsCursorOnObject"
+                      },
+                      "parameters": [
+                        "TxtContinuar",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "MouseButtonFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Left\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "MenuPausa::MenuPausa::Close"
+                      },
+                      "parameters": [
+                        "Object",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "aiGeneratedEventId": "01M6QJ65R75Z72SCZ0QF5DF1MN",
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "MenuPausa::MenuPausa::IsOpen"
+                      },
+                      "parameters": [
+                        "Object",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "IsCursorOnObject"
+                      },
+                      "parameters": [
+                        "TxtVolumen",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "MouseButtonFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Left\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "MenuPausa::MenuPausa::Close"
+                      },
+                      "parameters": [
+                        "Object",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Scene"
+                      },
+                      "parameters": [
+                        "",
+                        "\"volumen\"",
+                        "no"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "aiGeneratedEventId": "01M6QJ65R75Z72SCZ0QF5DF1MN",
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "MenuPausa::MenuPausa::IsOpen"
+                      },
+                      "parameters": [
+                        "Object",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "IsCursorOnObject"
+                      },
+                      "parameters": [
+                        "TxtSalir",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "MouseButtonFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Left\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "MenuPausa::MenuPausa::Close"
+                      },
+                      "parameters": [
+                        "Object",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Scene"
+                      },
+                      "parameters": [
+                        "",
+                        "\"menu\"",
+                        "no"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "MenuPausa::MenuPausa",
+                  "type": "object"
+                }
+              ],
+              "objectGroups": []
+            }
+          ],
+          "eventsFunctionsFolderStructure": {
+            "folderName": "__ROOT",
+            "children": [
+              {
+                "folderName": "Menu de pausa configuration",
+                "children": [
+                  {
+                    "functionName": "Abierto"
+                  },
+                  {
+                    "functionName": "SetAbierto"
+                  }
+                ]
+              },
+              {
+                "functionName": "Open"
+              },
+              {
+                "functionName": "Close"
+              },
+              {
+                "functionName": "IsOpen"
+              },
+              {
+                "functionName": "doStepPostEvents"
+              }
+            ]
+          },
+          "propertyDescriptors": [
+            {
+              "value": "false",
+              "type": "Boolean",
+              "label": "Abierto",
+              "hidden": true,
+              "name": "Abierto"
+            }
+          ],
+          "propertiesFolderStructure": {
+            "folderName": "__ROOT",
+            "children": [
+              {
+                "propertyName": "Abierto"
               }
             ]
           },
